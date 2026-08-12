@@ -28,7 +28,15 @@ from xml.etree import ElementTree
 
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "src"))
 
-from intern_engine import config, filters, paths, quality, registry, store  # noqa: E402
+from intern_engine import (  # noqa: E402
+    config,
+    filters,
+    filters_secnet,
+    paths,
+    quality,
+    registry,
+    store,
+)
 
 # Publish-gate thresholds. Set well below today's healthy numbers so normal
 # variation never blocks a run — these catch decay and collapse, not a bad
@@ -133,7 +141,7 @@ def main() -> None:
             flag(r, "out-of-region")
         if not filters.is_internship(title):
             flag(r, "not-an-internship-title")
-        if cfg.get("role_scope", "tech") == "tech" and not filters.is_tech(title):
+        if cfg.get("role_scope", "tech") == "tech" and not filters_secnet.is_relevant(title):
             flag(r, "not-a-tech-title")
         posted = (r.get("posted_at") or "")[:10]
         # Age only disqualifies a role whose cycle we INFERRED, where recency
