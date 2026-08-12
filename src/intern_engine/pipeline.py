@@ -26,6 +26,7 @@ from . import (
     config,
     enrich,
     filters,
+    filters_secnet,
     health,
     models,
     names,
@@ -494,7 +495,7 @@ def _keep_matching(results, cfg, blocklist, existing=None) -> tuple[list, set[st
         for job in jobs:
             if not filters.is_internship(job.title):
                 continue
-            if tech_only and not filters.is_tech(job.title):
+            if tech_only and not filters_secnet.is_relevant(job.title):
                 continue
             season = filters.detect_season(job.title, cycles)
             inferred = False
@@ -552,7 +553,7 @@ def _keep_matching(results, cfg, blocklist, existing=None) -> tuple[list, set[st
                 stated_all = filters.detect_seasons(job.title, cycles)
                 if len(stated_all) > 1:
                     job.seasons = stated_all
-            job.category = filters.categorize(job.title)
+            job.category = filters_secnet.categorize(job.title)
             job.company = names.display(job.company, job.company_slug)
             if job.posted_at and not job.posted_at_source:
                 job.posted_at_source = models.date_source(job.posted_at)
@@ -669,7 +670,7 @@ def _close_out_of_scope(existing: dict, cfg: dict, blocklist: dict | None = None
         )
         rejected = (
             (bool(title) and not filters.is_internship(title))
-            or (bool(title) and tech_only and not filters.is_tech(title))
+            or (bool(title) and tech_only and not filters_secnet.is_relevant(title))
             or (
                 has_cycle_evidence
                 and not assigned.intersection(cycles | {filters.NOT_STATED})

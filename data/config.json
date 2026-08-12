@@ -8,15 +8,15 @@
   ],
   "role_scope": "tech",
   "max_age_days": 270,
-  "max_per_company": 3,
+  "max_per_company": 10,
   "allowlist_only": false,
   "include_international": false,
   "section_limits": {
     "Summer 2027": 300,
     "Fall 2026": 150
   },
-  "supabase_url": "https://kvgkvgduomwuszbrygam.supabase.co",
-  "supabase_publishable_key": "sb_publishable_XWb72of7Q0F06ZJBEXZqRA_7F6vplu1",
+  "supabase_url": "",
+  "supabase_publishable_key": "",
   "infer_undated": true,
   "infer_max_age_days": 45
 }

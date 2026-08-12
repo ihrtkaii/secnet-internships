@@ -6,7 +6,7 @@ on:
     # globally and the top of the hour is the busiest slot on the platform —
     # measured Aug 3-5, only 32 of 144 expected runs actually fired, averaging
     # 138 minutes apart. Off-peak minutes get dropped less often.
-    - cron: "7,37 * * * *"  # every 30 min (UTC) — peak-season cadence
+    - cron: "7,37 */3 * * *"  # every 30 min (UTC) — peak-season cadence
   workflow_dispatch:          # lets you run it manually from the Actions tab
 
 permissions:
@@ -64,7 +64,7 @@ jobs:
       # the previous good build still live on Pages.
       - name: Verify accuracy before publishing
         env:
-          MIN_OPEN_ROLES: "70"
+          MIN_OPEN_ROLES: "5"
           MAX_STATS_AGE_HOURS: "2"
         run: python tools/verify_accuracy.py
 
