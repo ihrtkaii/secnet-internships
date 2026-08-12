@@ -17,6 +17,7 @@ from urllib.parse import quote
 from . import (
     config,
     filters,
+    filters_secnet,
     grouping,
     h1b,
     paths,
@@ -25,6 +26,16 @@ from . import (
     skills,
     sponsorship,
 )
+
+# Top-level track split: each person cares about one of these, and mixing
+# them under a shared cycle heading buried the split the two roles actually
+# care about (who reads which table) behind the split they don't (cycle).
+TRACK_ORDER = ("security", "network", "other")
+TRACK_TITLES = {
+    "security": "🔐 Security",
+    "network": "🌐 Network & Infrastructure",
+    "other": "🗂️ Other",
+}
 
 
 def _engine_metrics() -> str:
@@ -692,31 +703,47 @@ def generate(store_data: dict, data_as_of: str | None = None) -> dict:
                     shown=shown_total, stated=len(stated), inferred=len(inferred),
                     data_as_of=data_as_of)
     
-    for heading, cycle, rows in sections:
-        lines.append(f"## {heading}  ({len(rows)} employer-stated)")
-        lines.append("")
-        lines.append("| Company | Role | Category | Location | Skills | Posted | Apply |")
-        lines.append("|---|---|---|---|---|---|---|")
-        lines.extend(_row(r, cycle) for r in rows)
+    for track in TRACK_ORDER:
+        track_sections = [
+            (heading, cycle, [r for r in rows if filters_secnet.track_of(r.get("title") or "") == track])
+            for heading, cycle, rows in sections
+        ]
+        track_sections = [(h, c, r) for h, c, r in track_sections if r]
+        track_rolling = [
+            r for r in rolling_rows
+            if filters_secnet.track_of(r.get("title") or "") == track
+        ]
+        if not track_sections and not track_rolling:
+            continue
+
+        lines.append(f"## {TRACK_TITLES[track]}")
         lines.append("")
 
-    if rolling_rows:
-        lines.extend([
-            f"## Recently posted — cycle not stated  ({len(rolling_rows)} roles)",
-            "",
-            "These postings never name a cycle — not in the title, not in the "
-            "posting text — so neither do we. They're recent tech internships "
-            "(posted within the last few weeks), often exactly the early drops "
-            "worth applying to first; we just can't tell you which cycle "
-            "they're for, and we'd rather say so than guess. The moment a "
-            "posting's own text states a cycle, the role moves up into that "
-            "section automatically.",
-            "",
-            "| Company | Role | Category | Location | Skills | Posted | Apply |",
-            "|---|---|---|---|---|---|---|",
-        ])
-        lines.extend(_rolling_row(r) for r in rolling_rows)
-        lines.append("")
+        for heading, cycle, rows in track_sections:
+            lines.append(f"### {heading}  ({len(rows)} employer-stated)")
+            lines.append("")
+            lines.append("| Company | Role | Category | Location | Skills | Posted | Apply |")
+            lines.append("|---|---|---|---|---|---|---|")
+            lines.extend(_row(r, cycle) for r in rows)
+            lines.append("")
+
+        if track_rolling:
+            lines.extend([
+                f"### Recently posted — cycle not stated  ({len(track_rolling)} roles)",
+                "",
+                "These postings never name a cycle — not in the title, not in the "
+                "posting text — so neither do we. They're recent tech internships "
+                "(posted within the last few weeks), often exactly the early drops "
+                "worth applying to first; we just can't tell you which cycle "
+                "they're for, and we'd rather say so than guess. The moment a "
+                "posting's own text states a cycle, the role moves up into that "
+                "section automatically.",
+                "",
+                "| Company | Role | Category | Location | Skills | Posted | Apply |",
+                "|---|---|---|---|---|---|---|",
+            ])
+            lines.extend(_rolling_row(r) for r in track_rolling)
+            lines.append("")
 
     if not displayed and not rolling_rows:
         lines.append(
