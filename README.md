@@ -8,7 +8,7 @@
 
 ### 36 open roles · 36 new this week
 
-4,117 employers tracked · data as of Aug 12, 2026 at 08:03 UTC
+4,139 employers tracked · data as of Aug 12, 2026 at 10:33 UTC
 
 _14 have a cycle the employer stated · 22 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -40,7 +40,7 @@ Every link comes straight from the source — so it's real and current, not a st
 | 📆 **A real date on nearly every role** | Taken from the job portal itself wherever the portal states one, so newest-first actually means newest. The exact coverage figure is printed at the bottom of this page every run. |
 | 🧰 **Skill tags + pay, extracted** | Every posting's text is scanned for the stack it wants (Python, C++, PyTorch, …) and the pay it states — searchable on the [dashboard](https://ihrtkaii.github.io/secnet-internships/), and included in the CSV and API. |
 | 🔔 **Alerts your way** | [Email digests](https://ihrtkaii.github.io/secnet-internships/#subscribe) or [RSS](https://ihrtkaii.github.io/secnet-internships/feed.xml) — point any reader, or a Slack/Discord RSS integration, at it. Plus a [live dashboard](https://ihrtkaii.github.io/secnet-internships/) with search, filters, and a saved-roles list that never leaves your browser. |
-| ⚙️ **An engine, not a spreadsheet** | 4,354 job-board endpoints (4,117 distinct employers; some run more than one board) polled every 3 hours across 12 ATS platforms. Full source and tests in this repo. |
+| ⚙️ **An engine, not a spreadsheet** | 4,376 job-board endpoints (4,139 distinct employers; some run more than one board) polled every 3 hours across 12 ATS platforms. Full source and tests in this repo. |
 
 ## Scope
 
@@ -212,7 +212,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,047 of 4,354 registered boards returned successfully across 12 ATS platforms (92% of boards attempted, 92% of the full registry) · completed in 971.5s · 564 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,059 of 4,376 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 92% of the full registry) · completed in 956.5s · 550 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
