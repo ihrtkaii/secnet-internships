@@ -8,36 +8,12 @@
   <updated>2026-08-12T03:53:22Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:ameren:/job/St-Louis-MO/Cybersecurity-Co-Op_033868-1</id>
-    <title>Ameren: Cybersecurity Co-Op</title>
-    <link href="https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Cybersecurity-Co-Op_033868-1"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Security (general) · St. Louis, MO · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com:23368</id>
-    <title>Montenson: System Administrator Intern 🛂</title>
-    <link href="https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23368"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · MN, United States · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:ashby:notion:6ccbc30c-2de0-4395-af14-3641cd15961b</id>
     <title>Notion: Governance, Risk, and Compliance Intern (Fall 2026)</title>
     <link href="https://jobs.ashbyhq.com/notion/6ccbc30c-2de0-4395-af14-3641cd15961b"/>
     <updated>2026-08-12T03:53:22Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · GRC / Risk · San Francisco, California · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25016832</id>
-    <title>Texas Instruments: Network Engineer - Encore Program Internship 🛂</title>
-    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016832"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Network / Telecom · Dallas, TX, United States · Python, AWS, GCP, Azure, Terraform · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:akunacapital:8018856</id>
@@ -48,14 +24,6 @@
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Chicago, IL · AWS, Kubernetes · H-1B track record: ~40 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:pae:/job/US-CO-Colorado-Springs/Network-Engineer-Internship-IRES---SSFB_R0167863</id>
-    <title>Amentum: Network Engineer Internship IRES - SSFB 🇺🇸</title>
-    <link href="https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-CO-Colorado-Springs/Network-Engineer-Internship-IRES---SSFB_R0167863"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Network / Telecom · US-CO-Colorado Springs · $20.67/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:appian:8088496</id>
     <title>Appian: Information Security Engineer Intern 🛂</title>
     <link href="https://job-boards.greenhouse.io/appian/jobs/8088496"/>
@@ -64,12 +32,52 @@
     <summary>Summer 2027 · Security (general) · McLean, Virginia · $50/hr · LLMs · sponsorship: no-sponsorship · H-1B track record: ~44 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:bah:/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415</id>
-    <title>Booz Allen: AI RAN Telecommunications Engineer Intern 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415"/>
+    <id>urn:intern-engine:greenhouse:drweng:7993195</id>
+    <title>DRW: Leadership Rotation Network Intern 🛂</title>
+    <link href="https://job-boards.greenhouse.io/drweng/jobs/7993195"/>
     <updated>2026-08-12T03:53:22Z</updated>
     <category term="Not stated"/>
-    <summary>2 openings · Not stated · Network / Telecom · McLean, VA · $108k/yr · Python, C++, PyTorch, TensorFlow, Kubernetes · sponsorship: citizens-only</summary>
+    <summary>Not stated · Network / Telecom · Chicago, IL · Python, SQL, Pandas, Git · sponsorship: no-sponsorship · H-1B track record: ~31 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:oldmissioncapital:7828063003</id>
+    <title>Old Mission Capital: Compliance Analyst Co-Op</title>
+    <link href="https://www.oldmissioncapital.com/careers/?gh_jid=7828063003"/>
+    <updated>2026-08-12T03:53:22Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · GRC / Risk · Chicago, IL, United States · $30/hr · Python, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:pdtpartners:8083292</id>
+    <title>PDT Partners: Summer 2027 Systems Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/pdtpartners/jobs/8083292"/>
+    <updated>2026-08-12T03:53:22Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · New York, NY · Kubernetes</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:systemstechnologyresearch:4693331006</id>
+    <title>STR: Sensors Fall/Spring Co-op – RF Systems Engineer 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4693331006"/>
+    <updated>2026-08-12T03:53:22Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Network / Telecom · Woburn, MA · Python, MATLAB, Computer Vision · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25016832</id>
+    <title>Texas Instruments: Network Engineer - Encore Program Internship 🛂</title>
+    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016832"/>
+    <updated>2026-08-12T03:53:22Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Network / Telecom · Dallas, TX, United States · Python, AWS, GCP, Azure, Terraform · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com:23368</id>
+    <title>Montenson: System Administrator Intern 🛂</title>
+    <link href="https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23368"/>
+    <updated>2026-08-12T03:53:22Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · MN, United States · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000142173185</id>
@@ -80,12 +88,44 @@
     <summary>Not stated · Systems &amp; Cloud Infra · Farmington Hills, MI, United States · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:ameren:/job/St-Louis-MO/Cybersecurity-Co-Op_033868-1</id>
+    <title>Ameren: Cybersecurity Co-Op</title>
+    <link href="https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Cybersecurity-Co-Op_033868-1"/>
+    <updated>2026-08-12T03:53:22Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Security (general) · St. Louis, MO · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415</id>
+    <title>Booz Allen: AI RAN Telecommunications Engineer Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415"/>
+    <updated>2026-08-12T03:53:22Z</updated>
+    <category term="Not stated"/>
+    <summary>2 openings · Not stated · Network / Telecom · McLean, VA · $108k/yr · Python, C++, PyTorch, TensorFlow, Kubernetes · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bcbsla:/job/Remote-LA/CW-IT-Audit-Intern_R11951</id>
+    <title>Louisiana Blue: CW IT Audit Intern</title>
+    <link href="https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Remote-LA/CW-IT-Audit-Intern_R11951"/>
+    <updated>2026-08-12T03:53:22Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · GRC / Risk · Remote-LA</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:canadiansolar:/job/Walnut-Creek-CA/Intern--IT-Infrastructure-Support_10001383</id>
     <title>Canadian Solar: Intern, IT Infrastructure Support</title>
     <link href="https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Walnut-Creek-CA/Intern--IT-Infrastructure-Support_10001383"/>
     <updated>2026-08-12T03:53:22Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Systems &amp; Cloud Infra · Walnut Creek, CA · $20–$25/hr · Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cat:/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898</id>
+    <title>Solar Turbines: 2027 IT Intern 🛂</title>
+    <link href="https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898"/>
+    <updated>2026-08-12T03:53:22Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · IT Support / Ops · San Diego, California · sponsorship: no-sponsorship · H-1B track record: ~17 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:cmu:/job/Pittsburgh-PA/Security-Services-Intern---Fall-Semester_2024907-1</id>
@@ -112,14 +152,6 @@
     <summary>Not stated · Security (general) · Dallas, TX - Headquarters · Python, SQL, GraphQL · H-1B track record: ~83 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:drweng:7993195</id>
-    <title>DRW: Leadership Rotation Network Intern 🛂</title>
-    <link href="https://job-boards.greenhouse.io/drweng/jobs/7993195"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Network / Telecom · Chicago, IL · Python, SQL, Pandas, Git · sponsorship: no-sponsorship · H-1B track record: ~31 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:erickson:/job/Baltimore-MD/IT-Intern_R0101964-1</id>
     <title>Erickson Senior Living: IT Intern – Enterprise Applications</title>
     <link href="https://erickson.wd108.myworkdayjobs.com/external/job/Baltimore-MD/IT-Intern_R0101964-1"/>
@@ -136,20 +168,28 @@
     <summary>Summer 2027 · GRC / Risk · Cincinnati, OH</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineer-Intern---Summer-2027--Onsite-_01864173</id>
+    <title>RTX: Systems Engineer Intern - Summer 2027 (Onsite) 🛂</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineer-Intern---Summer-2027--Onsite-_01864173"/>
+    <updated>2026-08-12T03:53:22Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd NE ~ BLDG 112 · Python, MATLAB · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion--Systems-Engineer-I--Onsite-_01863190</id>
+    <title>RTX: Intern Conversion/ Systems Engineer I (Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion--Systems-Engineer-I--Onsite-_01863190"/>
+    <updated>2026-08-12T03:53:22Z</updated>
+    <category term="Not stated"/>
+    <summary>2 openings · Not stated · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 · Python, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:ing:/job/New-York/Summer-2027-Internship---Tech--Infrastructure-_REQ-10119621</id>
     <title>ING: Summer 2027 Internship - Tech (Infrastructure)</title>
     <link href="https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Infrastructure-_REQ-10119621"/>
     <updated>2026-08-12T03:53:22Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · New York · $35/hr · Python, Azure, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bcbsla:/job/Remote-LA/CW-IT-Audit-Intern_R11951</id>
-    <title>Louisiana Blue: CW IT Audit Intern</title>
-    <link href="https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Remote-LA/CW-IT-Audit-Intern_R11951"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · GRC / Risk · Remote-LA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:medtronic:/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1</id>
@@ -184,20 +224,12 @@
     <summary>Not stated · Systems &amp; Cloud Infra · Washington DC Remote Work, More... · SQL · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:oldmissioncapital:7828063003</id>
-    <title>Old Mission Capital: Compliance Analyst Co-Op</title>
-    <link href="https://www.oldmissioncapital.com/careers/?gh_jid=7828063003"/>
+    <id>urn:intern-engine:workday:pae:/job/US-CO-Colorado-Springs/Network-Engineer-Internship-IRES---SSFB_R0167863</id>
+    <title>Amentum: Network Engineer Internship IRES - SSFB 🇺🇸</title>
+    <link href="https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-CO-Colorado-Springs/Network-Engineer-Internship-IRES---SSFB_R0167863"/>
     <updated>2026-08-12T03:53:22Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · GRC / Risk · Chicago, IL, United States · $30/hr · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:pdtpartners:8083292</id>
-    <title>PDT Partners: Summer 2027 Systems Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/pdtpartners/jobs/8083292"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · New York, NY · Kubernetes</summary>
+    <summary>Not stated · Network / Telecom · US-CO-Colorado Springs · $20.67/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:pentair:/job/Golden-Valley-MN/IT---Cybersecurity-Leadership-Development-Internship-Program----Summer-2027_R23700</id>
@@ -224,38 +256,6 @@
     <summary>Fall 2026 · Security (general) · Detroit, MI</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion--Systems-Engineer-I--Onsite-_01863190</id>
-    <title>RTX: Intern Conversion/ Systems Engineer I (Onsite) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion--Systems-Engineer-I--Onsite-_01863190"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 · Python, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineer-Intern---Summer-2027--Onsite-_01864173</id>
-    <title>RTX: Systems Engineer Intern - Summer 2027 (Onsite) 🛂</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineer-Intern---Summer-2027--Onsite-_01864173"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd NE ~ BLDG 112 · Python, MATLAB · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cat:/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898</id>
-    <title>Solar Turbines: 2027 IT Intern 🛂</title>
-    <link href="https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · IT Support / Ops · San Diego, California · sponsorship: no-sponsorship · H-1B track record: ~17 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:systemstechnologyresearch:4693331006</id>
-    <title>STR: Sensors Fall/Spring Co-op – RF Systems Engineer 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4693331006"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Network / Telecom · Woburn, MA · Python, MATLAB, Computer Vision · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:swbc:/job/San-Antonio-TX/Security-Intern_R0015253</id>
     <title>SWBC: Security Intern</title>
     <link href="https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Security-Intern_R0015253"/>
@@ -264,20 +264,20 @@
     <summary>Not stated · Security (general) · San Antonio, TX</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:tencent:/job/US-California-Palo-Alto/IT-Operations-Intern_R107720</id>
-    <title>Tencent: IT Operations Intern</title>
-    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/IT-Operations-Intern_R107720"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Other · US-California-Palo Alto · $28.27–$60/hr · Tableau</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:tamus:/job/Laredo-TX/Intern--Information-Technology--End-User-Support--OIT-_R-095335</id>
     <title>Texas A&amp;M International University: Intern- Information Technology (End User Support- OIT)</title>
     <link href="https://tamus.wd1.myworkdayjobs.com/TAMIU_Student_Employment/job/Laredo-TX/Intern--Information-Technology--End-User-Support--OIT-_R-095335"/>
     <updated>2026-08-12T03:53:22Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · IT Support / Ops · Laredo, TX</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tencent:/job/US-California-Palo-Alto/IT-Operations-Intern_R107720</id>
+    <title>Tencent: IT Operations Intern</title>
+    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/IT-Operations-Intern_R107720"/>
+    <updated>2026-08-12T03:53:22Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Other · US-California-Palo Alto · $28.27–$60/hr · Tableau</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:thales:/job/Texas/AppSec-Product-Support-Intern_R0328978-1</id>
