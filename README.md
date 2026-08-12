@@ -27,7 +27,7 @@ Instead of refreshing a dozen career pages by hand, it reads company hiring feed
 
 ## What this is
 
-This is an engine, not a hand-kept list. It polls company career feeds every 30 minutes, finds the internships, removes duplicates, and rebuilds this page on its own.
+This is an engine, not a hand-kept list. It polls company career feeds every 3 hours, finds the internships, removes duplicates, and rebuilds this page on its own.
 
 Every link comes straight from the source — so it's real and current, not a stale list someone forgot to update. Speed matters.
 
@@ -40,31 +40,19 @@ Every link comes straight from the source — so it's real and current, not a st
 | 📆 **A real date on nearly every role** | Taken from the job portal itself wherever the portal states one, so newest-first actually means newest. The exact coverage figure is printed at the bottom of this page every run. |
 | 🧰 **Skill tags + pay, extracted** | Every posting's text is scanned for the stack it wants (Python, C++, PyTorch, …) and the pay it states — searchable on the [dashboard](https://ihrtkaii.github.io/secnet-internships/), and included in the CSV and API. |
 | 🔔 **Alerts your way** | [Email digests](https://ihrtkaii.github.io/secnet-internships/#subscribe) or [RSS](https://ihrtkaii.github.io/secnet-internships/feed.xml) — point any reader, or a Slack/Discord RSS integration, at it. Plus a [live dashboard](https://ihrtkaii.github.io/secnet-internships/) with search, filters, and a saved-roles list that never leaves your browser. |
-| ⚙️ **An engine, not a spreadsheet** | 4,354 job-board endpoints (4,117 distinct employers; some run more than one board) polled every 30 minutes across 12 ATS platforms. Full source and tests in this repo. |
+| ⚙️ **An engine, not a spreadsheet** | 4,354 job-board endpoints (4,117 distinct employers; some run more than one board) polled every 3 hours across 12 ATS platforms. Full source and tests in this repo. |
 
 ## Scope
 
 | | |
 |---|---|
-| **Roles** | Software Engineering, Data Science & Machine Learning (and closely related technical internships) |
+| **Roles** | Cybersecurity, network engineering, systems/infrastructure, and IT operations internships |
 | **Region** | United States |
 | **Cycles** | Summer 2027 and Fall 2026 |
 
 ## About
 
-I'm an international student studying in the United States, so I built this for the search I'm doing myself. The list is US roles only for now — that's where I'm searching.
-
-Use it to spot roles early and apply before they fill up. Being first genuinely helps.
-
-## Where this is going
-
-I'm building this in the open and adding to it as it grows.
-
-**Recently shipped:** email alerts · the Drop Radar · auto-detected sponsorship flags · the live dashboard
-
-**Next up:** personalized alerts (pick your categories) · per-company hiring pages · a ghost-posting detector
-
-If it helps you, a star means a lot and tells me to keep going.
+This tracks security and networking internships specifically, because the major community internship lists filter on software-engineering titles and silently discard roles like "Network Engineer Intern", "SOC Analyst Intern", and "GRC Intern". Built on zshah101's engine with a replacement classifier tuned for these titles.
 
 ## How to use
 
@@ -92,8 +80,8 @@ If it helps you, a star means a lot and tells me to keep going.
 | ING | Summer 2027 Internship - Tech (Infrastructure) 🆕 | Systems & Cloud Infra | New York | Python, Azure, Git | Aug 11, 2026 | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Infrastructure-_REQ-10119621) |
 | Montenson | System Administrator Intern 🛂 🆕 | Systems & Cloud Infra | MN, United States | No skills listed | Aug 10, 2026 | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23368) |
 | Fifth Third Bank | 2027 IT Audit Intern 🆕 | GRC / Risk | Cincinnati, OH | No skills listed | Aug 06, 2026 | [Apply](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/XMLNAME-2027-IT-Audit-Intern_R70611) |
-| Pentair | IT & Cybersecurity Leadership Development Internship Program -  Summer 2027 🛂 🆕 | Security (general) | Golden Valley, MN | No skills listed | Aug 04, 2026 | [Apply](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/IT---Cybersecurity-Leadership-Development-Internship-Program----Summer-2027_R23700) |
 | RTX | Systems Engineer Intern - Summer 2027 (Onsite) 🛂 🆕 | Systems & Cloud Infra | US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd… | Python, MATLAB | Aug 04, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineer-Intern---Summer-2027--Onsite-_01864173) |
+| Pentair | IT & Cybersecurity Leadership Development Internship Program -  Summer 2027 🛂 🆕 | Security (general) | Golden Valley, MN | No skills listed | Aug 04, 2026 | [Apply](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/IT---Cybersecurity-Leadership-Development-Internship-Program----Summer-2027_R23700) |
 | CNO Financial Group 🆁 | Enterprise Architecture IT Intern - REMOTE 🆕 | IT Support / Ops | Carmel, IN | No skills listed | Aug 03, 2026 | [Apply](https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/IT-Intern_JR170390) |
 | Medtronic ✓ | IT Intern - Summer 2027 🛂 🆕 | IT Support / Ops | Minneapolis +2 more | Python, SQL, AWS | Aug 03, 2026 | [Apply](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1) |
 | Appian ✓ | Information Security Engineer Intern 🛂 🆕 | Security (general) | McLean, Virginia | LLMs | Jul 27, 2026 | [Apply](https://job-boards.greenhouse.io/appian/jobs/8088496) |
@@ -117,13 +105,13 @@ These postings never name a cycle — not in the title, not in the posting text 
 |---|---|---|---|---|---|---|
 | Booz Allen | AI RAN Telecommunications Engineer Intern 🇺🇸 🆕 _(2 openings)_ | Network / Telecom | McLean, VA | Python, C++, PyTorch, TensorFlow | Aug 11, 2026 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415) [#2](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869) |
 | Erickson Senior Living | IT Intern – Enterprise Applications 🆕 | IT Support / Ops | Baltimore, MD | No skills listed | Aug 11, 2026 | [Apply](https://erickson.wd108.myworkdayjobs.com/external/job/Baltimore-MD/IT-Intern_R0101964-1) |
-| Amentum | Network Engineer Internship IRES - SSFB 🇺🇸 🆕 | Network / Telecom | US-CO-Colorado Springs | No skills listed | Aug 10, 2026 | [Apply](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-CO-Colorado-Springs/Network-Engineer-Internship-IRES---SSFB_R0167863) |
 | Canadian Solar | Intern, IT Infrastructure Support 🆕 | Systems & Cloud Infra | Walnut Creek, CA | Azure | Aug 10, 2026 | [Apply](https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Walnut-Creek-CA/Intern--IT-Infrastructure-Support_10001383) |
+| Amentum | Network Engineer Internship IRES - SSFB 🇺🇸 🆕 | Network / Telecom | US-CO-Colorado Springs | No skills listed | Aug 10, 2026 | [Apply](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-CO-Colorado-Springs/Network-Engineer-Internship-IRES---SSFB_R0167863) |
 | Bosch ✓ | Internship Vehicle Thermal Systems Engineering 🆕 | Systems & Cloud Infra | Farmington Hills, MI, United States | No skills listed | Aug 07, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000142173185) |
 | Copart ✓ | Vulnerability Management Engineering Intern 🆕 | Security (general) | Dallas, TX - Headquarters | Python, SQL, GraphQL | Aug 07, 2026 | [Apply](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Vulnerability-Management-Engineering-Intern-_JR109639) |
 | RTX | Intern Conversion/ Systems Engineer I (Onsite) 🇺🇸 🆕 _(2 openings)_ | Systems & Cloud Infra | US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE… | Python, Linux | Aug 07, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion--Systems-Engineer-I--Onsite-_01863190) [#2](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion--Systems-Engineer-I--Onsite-_01863596) |
-| Motorola 🆁 | CAD/RMS System Administrator - Internship 🛂 🆕 | Systems & Cloud Infra | Washington DC Remote Work, More... | SQL | Aug 05, 2026 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Washington-DC-Remote-Work/CAD-RMS-Technical-Co-op-Program_R64127) |
 | Old Mission Capital | Compliance Analyst Co-Op 🆕 | GRC / Risk | Chicago, IL, United States | Python, SQL | Aug 05, 2026 | [Apply](https://www.oldmissioncapital.com/careers/?gh_jid=7828063003) |
+| Motorola 🆁 | CAD/RMS System Administrator - Internship 🛂 🆕 | Systems & Cloud Infra | Washington DC Remote Work, More... | SQL | Aug 05, 2026 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Washington-DC-Remote-Work/CAD-RMS-Technical-Co-op-Program_R64127) |
 | Thales | AppSec Product Support Intern 🆕 | AppSec / Product Sec | Texas | No skills listed | Aug 04, 2026 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/Texas/AppSec-Product-Support-Intern_R0328978-1) |
 | Monolithic Power Systems ✓ | Security Analyst Intern 🆕 | Security (general) | San Jose, CA | Python, Bash, Kubernetes, Docker | Aug 03, 2026 | [Apply](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Security-Analyst-Intern_R-982-1) |
 | Texas Instruments ✓ | Network Engineer - Encore Program Internship 🛂 🆕 | Network / Telecom | Dallas, TX, United States | Python, AWS, GCP, Azure | Jul 29, 2026 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016832) |
@@ -213,3 +201,7 @@ Built by one student with AI assistance, in the open. The part that matters isn'
 The **Posted** column shows when a role was published, with the newest at the top. I pull the posting date straight from each job portal, but a lot of them don't expose one publicly, so those rows show a dash (—) for now instead of a guessed date. The ones that do publish a date are dated. Know the real date for a dashed role? Open a PR and I'll merge it.
 
 Roles can close at any time, so always confirm on the company's own site before applying.
+
+---
+
+Derived from [zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships) (MIT), with a replacement filter module for security and networking titles.

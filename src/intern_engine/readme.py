@@ -313,7 +313,7 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         "## What this is",
         "",
         "This is an engine, not a hand-kept list. It polls company career feeds "
-        "every 30 minutes, finds the internships, removes duplicates, and "
+        "every 3 hours, finds the internships, removes duplicates, and "
         "rebuilds this page on its own.",
         "",
         "Every link comes straight from the source — so it's real and current, "
@@ -350,15 +350,15 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         "filters, and a saved-roles list that never leaves your browser. |",
         f"| ⚙️ **An engine, not a spreadsheet** | {companies:,} job-board "
         f"endpoints ({(employers or companies):,} distinct employers; some run "
-        "more than one board) polled every 30 minutes across 12 ATS platforms. "
+        "more than one board) polled every 3 hours across 12 ATS platforms. "
         "Full source and tests in this repo. |",
         "",
         "## Scope",
         "",
         "| | |",
         "|---|---|",
-        "| **Roles** | Software Engineering, Data Science & Machine Learning "
-        "(and closely related technical internships) |",
+        "| **Roles** | Cybersecurity, network engineering, systems/infrastructure, "
+        "and IT operations internships |",
         f"| **Region** | {region}"
         + (" (primary), with a separate International section"
            if config.include_international(cfg) else "")
@@ -367,24 +367,11 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         "",
         "## About",
         "",
-        "I'm an international student studying in the United States, so I built "
-        "this for the search I'm doing myself. The list is US roles only for "
-        "now — that's where I'm searching.",
-        "",
-        "Use it to spot roles early and apply before they fill up. Being first "
-        "genuinely helps.",
-        "",
-        "## Where this is going",
-        "",
-        "I'm building this in the open and adding to it as it grows.",
-        "",
-        "**Recently shipped:** email alerts · the Drop Radar · auto-detected "
-        "sponsorship flags · the live dashboard",
-        "",
-        "**Next up:** personalized alerts (pick your categories) · per-company "
-        "hiring pages · a ghost-posting detector",
-        "",
-        "If it helps you, a star means a lot and tells me to keep going.",
+        "This tracks security and networking internships specifically, because "
+        "the major community internship lists filter on software-engineering "
+        "titles and silently discard roles like \"Network Engineer Intern\", "
+        "\"SOC Analyst Intern\", and \"GRC Intern\". Built on zshah101's engine "
+        "with a replacement classifier tuned for these titles.",
         "",
         "## How to use",
         "",
@@ -494,6 +481,13 @@ def _footer() -> list[str]:
         "",
         "Roles can close at any time, so always confirm on the company's own site before "
         "applying.",
+        "",
+        "---",
+        "",
+        "Derived from [zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-"
+        "Internships](https://github.com/zshah101/Automated-List-Of-Summer-2027-"
+        "and-Fall-2026-Tech-Internships) (MIT), with a replacement filter module "
+        "for security and networking titles.",
         "",
     ]
 
