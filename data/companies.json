@@ -138,6 +138,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "9to9 Software Solutions",
+    "slug": "9to9SoftwareSolutionsLLC",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "A Thinking Ape",
     "slug": "athinkingape",
     "ats": "greenhouse"
@@ -440,6 +445,11 @@
   {
     "name": "Adept Solutions",
     "slug": "AdeptSolutionsInc",
+    "ats": "smartrecruiters"
+  },
+  {
+    "name": "ADGA Group Consultants",
+    "slug": "ADGAGroupConsultantsInc1",
     "ats": "smartrecruiters"
   },
   {
@@ -863,6 +873,11 @@
     "name": "Alertus Technologies",
     "slug": "alertus",
     "ats": "lever"
+  },
+  {
+    "name": "Alexander Dennis",
+    "slug": "alexander-dennis",
+    "ats": "workable"
   },
   {
     "name": "Alexion",
@@ -1363,6 +1378,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "amn_careers"
+  },
+  {
+    "name": "AmNet Services",
+    "slug": "AmNetServicesInc",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Amp Robotics",
@@ -5566,6 +5586,11 @@
     "site": "cme_careers"
   },
   {
+    "name": "CMiC",
+    "slug": "cmic",
+    "ats": "workable"
+  },
+  {
     "name": "CNA Insurance",
     "slug": "cna",
     "ats": "workday",
@@ -8213,6 +8238,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "ERPA",
+    "slug": "ERPAnalysts1",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "ESAB Corporation",
     "slug": "esab",
     "ats": "workday",
@@ -8654,6 +8684,11 @@
     "name": "Felicity",
     "slug": "felicity",
     "ats": "ashby"
+  },
+  {
+    "name": "Felix Magazine",
+    "slug": "LuxeMediaLLC",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Fenwick & West",
@@ -9248,6 +9283,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "Fortrea"
+  },
+  {
+    "name": "Fortuna Health",
+    "slug": "fortuna-health",
+    "ats": "ashby"
   },
   {
     "name": "Forus",
@@ -11696,6 +11736,11 @@
     "site": "external"
   },
   {
+    "name": "Indiana University Foundation",
+    "slug": "IndianaUniversityFoundation",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Indra Group UK & Ireland",
     "slug": "indra-uk",
     "ats": "workable"
@@ -11792,6 +11837,13 @@
     "name": "Insitro",
     "slug": "insitro",
     "ats": "ashby"
+  },
+  {
+    "name": "Insitu",
+    "slug": "insitu",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "careers"
   },
   {
     "name": "Insmed",
@@ -13937,6 +13989,11 @@
     "site": "Lytx"
   },
   {
+    "name": "Léger",
+    "slug": "Leger2",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "M&G",
     "slug": "mgpru",
     "ats": "workday",
@@ -14990,6 +15047,11 @@
     "site": "Mimecast-Careers"
   },
   {
+    "name": "Mind Robotics",
+    "slug": "mindrobotics",
+    "ats": "ashby"
+  },
+  {
     "name": "Mindlance",
     "slug": "Mindlance2",
     "ats": "smartrecruiters"
@@ -15030,6 +15092,11 @@
     "name": "Miro",
     "slug": "miro",
     "ats": "ashby"
+  },
+  {
+    "name": "Mission Critical Group",
+    "slug": "MissionCriticalGroup",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Mistral AI",
@@ -17170,6 +17237,11 @@
     "site": "papajohnscareers"
   },
   {
+    "name": "PaperCut",
+    "slug": "PaperCutSoftware",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "PAR Tech",
     "slug": "par",
     "ats": "ashby"
@@ -19008,6 +19080,11 @@
     "ats": "workable"
   },
   {
+    "name": "Retail Information Systems",
+    "slug": "RetailInformationSystems",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Retell AI",
     "slug": "retell-ai",
     "ats": "ashby"
@@ -20743,6 +20820,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "SOCOTEC UK & Ireland",
+    "slug": "SOCOTECUKIreland",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Socure",
     "slug": "socure",
     "ats": "ashby"
@@ -20915,6 +20997,11 @@
   {
     "name": "Sopra Steria",
     "slug": "SopraSteria1",
+    "ats": "smartrecruiters"
+  },
+  {
+    "name": "SOSi",
+    "slug": "SOSi1",
     "ats": "smartrecruiters"
   },
   {
@@ -21701,6 +21788,11 @@
     "ats": "lever"
   },
   {
+    "name": "Symphony",
+    "slug": "SymphonyCorp1",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Synchrony Financial",
     "slug": "synchronyfinancial",
     "ats": "workday",
@@ -22140,6 +22232,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "Lightspeed"
+  },
+  {
+    "name": "Tenergy",
+    "slug": "Tenergy",
+    "ats": "smartrecruiters"
   },
   {
     "name": "TENEX.AI",
@@ -22844,6 +22941,11 @@
     "ats": "ashby"
   },
   {
+    "name": "TOMRA",
+    "slug": "Tomra",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Tonal",
     "slug": "tonal",
     "ats": "ashby"
@@ -23396,6 +23498,13 @@
     "ats": "rippling"
   },
   {
+    "name": "UHY",
+    "slug": "uhyus",
+    "ats": "workday",
+    "wd": "wd12",
+    "site": "uhy"
+  },
+  {
     "name": "UiPath",
     "slug": "uipath",
     "ats": "ashby"
@@ -23868,6 +23977,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "valeo_jobs"
+  },
+  {
+    "name": "Valeo Foods",
+    "slug": "ValeoFoods",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Valinor",
