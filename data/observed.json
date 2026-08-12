@@ -1,0 +1,173 @@
+{
+ "companies": {
+  "akuna capital": {
+   "name": "Akuna Capital",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-07-13",
+     "role_ids": [
+      "greenhouse:akunacapital:8018856"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "appian": {
+   "name": "Appian",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-07-27",
+     "role_ids": [
+      "greenhouse:appian:8088496"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "cno financial group": {
+   "name": "CNO Financial Group",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-03",
+     "role_ids": [
+      "workday:cnoinc:/job/Carmel-IN/IT-Intern_JR170390"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "fifth third bank": {
+   "name": "Fifth Third Bank",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-06",
+     "role_ids": [
+      "workday:fifththird:/job/Cincinnati-OH/XMLNAME-2027-IT-Audit-Intern_R70611"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "ing": {
+   "name": "ING",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-11",
+     "role_ids": [
+      "workday:ing:/job/New-York/Summer-2027-Internship---Tech--Infrastructure-_REQ-10119621"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "medtronic": {
+   "name": "Medtronic",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-03",
+     "role_ids": [
+      "workday:medtronic:/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "montenson": {
+   "name": "Montenson",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-10",
+     "role_ids": [
+      "oracle:fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com:23368"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "motorola": {
+   "name": "Motorola",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-03-30",
+     "role_ids": [
+      "workday:motorolasolutions:/job/Los-Angeles-CA/R-D-Intern---Wireless-Systems-Engineer---2026_R62376"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "notion": {
+   "name": "Notion",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-07-15",
+     "role_ids": [
+      "ashby:notion:6ccbc30c-2de0-4395-af14-3641cd15961b"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "pdt partners": {
+   "name": "PDT Partners",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-07-24",
+     "role_ids": [
+      "greenhouse:pdtpartners:8083292"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "pentair": {
+   "name": "Pentair",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-04",
+     "role_ids": [
+      "workday:pentair:/job/Golden-Valley-MN/IT---Cybersecurity-Leadership-Development-Internship-Program----Summer-2027_R23700"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "rocket companies": {
+   "name": "Rocket Companies",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-07-30",
+     "role_ids": [
+      "workday:quickenloans:/job/Detroit-MI/Security-Services-Intern---Fall-2026_R-082242"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "rtx": {
+   "name": "RTX",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-04",
+     "role_ids": [
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineer-Intern---Summer-2027--Onsite-_01864173"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "solar turbines": {
+   "name": "Solar Turbines",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-07-23",
+     "role_ids": [
+      "workday:cat:/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898"
+     ],
+     "count": 1
+    }
+   }
+  }
+ },
+ "updated_at": "2026-08-12T03:53:22Z"
+}
