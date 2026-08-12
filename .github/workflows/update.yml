@@ -76,8 +76,8 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md data/jobs.json data/internships.csv data/stats.json \
-                  data/health.json data/history.jsonl data/mail_state.json \
-                  data/observed.json data/known_windows.json data/outbox.json \
+                  data/health.json data/history.jsonl \
+                  data/observed.json data/known_windows.json \
                   docs/index.html docs/feed.xml docs/unsubscribe.html \
                   docs/confirm.html \
                   docs/internships.csv \
@@ -176,40 +176,3 @@ jobs:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
         run: python run.py notify
-
-      # The alert state the previous step just advanced (which roles have been
-      # announced, where the send cursor is) has to persist, or the next run
-      # re-announces everything.
-      - name: Commit alert state
-        run: |
-          git add data/mail_state.json data/outbox.json
-          if git diff --staged --quiet; then
-            echo "No alert state change."
-            exit 0
-          fi
-          ALERT_BASE="$(git rev-parse HEAD)"
-          git commit -m "chore: alert state ($(date -u +'%Y-%m-%d %H:%M UTC'))"
-          # Pages waiting and provider calls create a legitimate window for an
-          # unrelated direct main push. Rebase this ledger-only commit when â€”
-          # and only when â€” the remote ledgers themselves are unchanged. That
-          # preserves successful delivery settlement instead of replaying it
-          # next run, without ever overwriting another notifier's state.
-          for _attempt in 1 2 3; do
-            git fetch --no-tags origin main
-            REMOTE="$(git rev-parse origin/main)"
-            if ! git diff --quiet "$ALERT_BASE" "$REMOTE" -- \
-                    data/mail_state.json data/outbox.json; then
-              echo "::error::alert ledgers changed remotely; refusing an unsafe merge"
-              exit 1
-            fi
-            PARENT="$(git rev-parse HEAD^)"
-            if [ "$PARENT" != "$REMOTE" ]; then
-              git rebase --onto "$REMOTE" "$PARENT"
-            fi
-            if git push origin HEAD:main; then
-              exit 0
-            fi
-            echo "::warning::main advanced during ledger push; retrying safely"
-          done
-          echo "::error::could not persist alert state after three safe retries"
-          exit 1
