@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-13T02:58:51Z",
- "data_as_of": "2026-08-13T02:58:51Z",
- "rendered_at": "2026-08-13T02:58:51Z",
+ "generated_at": "2026-08-13T05:16:24Z",
+ "data_as_of": "2026-08-13T05:16:24Z",
+ "rendered_at": "2026-08-13T05:16:24Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -193,6 +193,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-08-11"
+   }
+  },
+  {
+   "company": "Gartner",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-13",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-13",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Summer-2027-IT-Intern--May-2028-Graduates-_113095",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-13"
    }
   },
   {
@@ -3027,5 +3046,5 @@
    }
   }
  ],
- "count": 159
+ "count": 160
 }

@@ -48,6 +48,18 @@
     }
    }
   },
+  "gartner": {
+   "name": "Gartner",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-13",
+     "role_ids": [
+      "workday:gartner:/job/Stamford-CT/Summer-2027-IT-Intern--May-2028-Graduates-_113095"
+     ],
+     "count": 1
+    }
+   }
+  },
   "ing": {
    "name": "ING",
    "cycles": {
@@ -170,5 +182,5 @@
    }
   }
  },
- "updated_at": "2026-08-13T02:58:51Z"
+ "updated_at": "2026-08-13T05:16:24Z"
 }
