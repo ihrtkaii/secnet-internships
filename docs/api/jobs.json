@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-08-13T05:16:24Z",
- "data_as_of": "2026-08-13T05:16:24Z",
- "rendered_at": "2026-08-13T05:16:24Z",
+ "generated_at": "2026-08-13T08:03:11Z",
+ "data_as_of": "2026-08-13T08:03:11Z",
+ "rendered_at": "2026-08-13T08:03:11Z",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "h1b_window": "FY2022–2023",
- "count": 37,
+ "count": 36,
  "jobs": [
   {
    "id": "workday:gartner:/job/Stamford-CT/Summer-2027-IT-Intern--May-2028-Graduates-_113095",
@@ -746,29 +746,6 @@
     "Python"
    ],
    "source": "ashby",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:tencent:/job/US-California-Palo-Alto/IT-Operations-Intern_R107720",
-   "company": "Tencent",
-   "title": "IT Operations Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Other",
-   "location": "US-California-Palo Alto",
-   "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/IT-Operations-Intern_R107720",
-   "posted_at": "2026-07-14T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-12T03:53:22Z",
-   "sponsorship": "unknown",
-   "salary": "$28.27–$60/hr",
-   "skills": [
-    "Tableau"
-   ],
-   "source": "workday",
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false
