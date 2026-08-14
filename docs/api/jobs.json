@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-08-14T08:04:31Z",
- "data_as_of": "2026-08-14T08:04:31Z",
- "rendered_at": "2026-08-14T08:04:31Z",
+ "generated_at": "2026-08-14T10:30:28Z",
+ "data_as_of": "2026-08-14T10:30:28Z",
+ "rendered_at": "2026-08-14T10:30:29Z",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "h1b_window": "FY2022–2023",
- "count": 36,
+ "count": 37,
  "jobs": [
   {
    "id": "workday:gartner:/job/Stamford-CT/Summer-2027-IT-Intern--May-2028-Graduates-_113095",
@@ -34,6 +34,36 @@
    "source": "workday",
    "h1b_approvals": 90,
    "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workable:securityriskadvisors:3B23FB7BEB",
+   "company": "Securityriskadvisors",
+   "title": "DevOps Engineering Generalist Co-op",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Systems & Cloud Infra",
+   "location": "Rochester, New York, United States",
+   "url": "https://apply.workable.com/securityriskadvisors/j/3B23FB7BEB/",
+   "posted_at": "2026-08-12T00:00:00.000Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-14T10:30:28Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "C++",
+    "C#",
+    "TypeScript",
+    "JavaScript",
+    "Bash",
+    "AWS"
+   ],
+   "source": "workable",
+   "h1b_approvals": null,
+   "program": "Co-op",
    "remote": false
   },
   {

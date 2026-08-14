@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-08-14T08:04:31Z</updated>
+  <updated>2026-08-14T10:30:28Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workable:securityriskadvisors:3B23FB7BEB</id>
+    <title>Securityriskadvisors: DevOps Engineering Generalist Co-op</title>
+    <link href="https://apply.workable.com/securityriskadvisors/j/3B23FB7BEB/"/>
+    <updated>2026-08-14T10:30:28Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Rochester, New York, United States · Python, Java, C++, C#, TypeScript</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:gartner:/job/Stamford-CT/Summer-2027-IT-Intern--May-2028-Graduates-_113095</id>
     <title>Gartner: Summer 2027 IT Intern (May 2028 Graduates)</title>
