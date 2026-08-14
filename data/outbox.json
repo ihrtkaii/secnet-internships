@@ -1,10 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workable:securityriskadvisors:3B23FB7BEB"
-    ],
-    "telegram": [
-      "workable:securityriskadvisors:3B23FB7BEB"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
