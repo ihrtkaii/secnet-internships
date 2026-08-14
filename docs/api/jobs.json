@@ -1,11 +1,36 @@
 {
- "generated_at": "2026-08-14T16:18:27Z",
- "data_as_of": "2026-08-14T16:18:27Z",
- "rendered_at": "2026-08-14T16:18:27Z",
+ "generated_at": "2026-08-14T19:26:47Z",
+ "data_as_of": "2026-08-14T19:26:47Z",
+ "rendered_at": "2026-08-14T19:26:47Z",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "h1b_window": "FY2022–2023",
- "count": 37,
+ "count": 38,
  "jobs": [
+  {
+   "id": "workday:crowe:/job/Sarasota-FL-USA/Incident-Response-Intern_R-71609",
+   "company": "Crowe",
+   "title": "Incident Response Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "SOC / Detection",
+   "location": "Sarasota FL USA",
+   "url": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Sarasota-FL-USA/Incident-Response-Intern_R-71609",
+   "posted_at": "2026-08-14T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-14T19:26:47Z",
+   "sponsorship": "unknown",
+   "salary": "$27–$42/hr",
+   "skills": [
+    "Python",
+    "Bash",
+    "AWS"
+   ],
+   "source": "workday",
+   "h1b_approvals": 37,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:gartner:/job/Stamford-CT/Summer-2027-IT-Intern--May-2028-Graduates-_113095",
    "company": "Gartner",

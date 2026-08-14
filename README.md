@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/ihrtkaii/secnet-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/ihrtkaii/secnet-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fihrtkaii.github.io%2Fsecnet-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://ihrtkaii.github.io/secnet-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://ihrtkaii.github.io/secnet-internships/feed.xml)
 
-### 37 open roles · 37 new this week
+### 38 open roles · 38 new this week
 
-4,170 employers tracked · data as of Aug 14, 2026 at 16:18 UTC
+4,170 employers tracked · data as of Aug 14, 2026 at 19:26 UTC
 
-_15 have a cycle the employer stated · 22 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_15 have a cycle the employer stated · 23 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://ihrtkaii.github.io/secnet-internships/)** · **[📡 RSS](https://ihrtkaii.github.io/secnet-internships/feed.xml)** · **[⚙️ JSON API](https://ihrtkaii.github.io/secnet-internships/api/jobs.json)** · **[✉️ Email alerts](https://ihrtkaii.github.io/secnet-internships/#subscribe)**
 
@@ -90,12 +90,13 @@ This tracks security and networking internships specifically, because the major 
 | Rocket Companies | Security Services Intern - Fall 2026 | Security (general) | Detroit, MI | No skills listed | Jul 30, 2026 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Security-Services-Intern---Fall-2026_R-082242) |
 | Notion | Governance, Risk, and Compliance Intern (Fall 2026) | GRC / Risk | San Francisco, California | Python | Jul 15, 2026 | [Apply](https://jobs.ashbyhq.com/notion/6ccbc30c-2de0-4395-af14-3641cd15961b) |
 
-### Recently posted — cycle not stated  (7 roles)
+### Recently posted — cycle not stated  (8 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent tech internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Crowe ✓ | Incident Response Intern 🆕 | SOC / Detection | Sarasota FL USA | Python, Bash, AWS | Aug 14, 2026 | [Apply](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Sarasota-FL-USA/Incident-Response-Intern_R-71609) |
 | Copart ✓ | Vulnerability Management Engineering Intern | Security (general) | Dallas, TX - Headquarters | Python, SQL, GraphQL | Aug 07, 2026 | [Apply](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Vulnerability-Management-Engineering-Intern-_JR109639) |
 | Old Mission Capital | Compliance Analyst Co-Op | GRC / Risk | Chicago, IL, United States | Python, SQL | Aug 05, 2026 | [Apply](https://www.oldmissioncapital.com/careers/?gh_jid=7828063003) |
 | Thales | AppSec Product Support Intern | AppSec / Product Sec | Texas | No skills listed | Aug 04, 2026 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/Texas/AppSec-Product-Support-Intern_R0328978-1) |
@@ -215,7 +216,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,153 of 4,408 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 94% of the full registry) · completed in 935.6s · 599 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,098 of 4,408 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 93% of the full registry) · completed in 1027.8s · 569 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

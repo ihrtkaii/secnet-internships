@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-08-14T16:18:27Z</updated>
+  <updated>2026-08-14T19:26:47Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:crowe:/job/Sarasota-FL-USA/Incident-Response-Intern_R-71609</id>
+    <title>Crowe: Incident Response Intern</title>
+    <link href="https://crowe.wd12.myworkdayjobs.com/external_careers/job/Sarasota-FL-USA/Incident-Response-Intern_R-71609"/>
+    <updated>2026-08-14T19:26:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · SOC / Detection · Sarasota FL USA · $27–$42/hr · Python, Bash, AWS · H-1B track record: ~37 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workable:securityriskadvisors:3B23FB7BEB</id>
     <title>Securityriskadvisors: DevOps Engineering Generalist Co-op</title>
