@@ -6870,6 +6870,11 @@
     "site": "Deckers"
   },
   {
+    "name": "Dedalus Labs",
+    "slug": "dedalus-labs",
+    "ats": "ashby"
+  },
+  {
     "name": "Deegit",
     "slug": "DeegitInc3",
     "ats": "smartrecruiters"
@@ -7505,6 +7510,13 @@
     "ats": "lever"
   },
   {
+    "name": "Dutch Bros",
+    "slug": "dutchbros",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "DBShops"
+  },
+  {
     "name": "DV Trading",
     "slug": "dvtrading",
     "ats": "greenhouse"
@@ -8134,6 +8146,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "eos"
+  },
+  {
+    "name": "Epia Neuro",
+    "slug": "epianeuro",
+    "ats": "ashby"
   },
   {
     "name": "Epic Games",
@@ -9140,6 +9157,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "FloridaTechCareers"
+  },
+  {
+    "name": "Flow Engineering",
+    "slug": "flowengineering",
+    "ats": "ashby"
   },
   {
     "name": "Flow Traders",
@@ -11458,6 +11480,11 @@
     "site": "beautyhealthcareer"
   },
   {
+    "name": "Hypercubic",
+    "slug": "hypercubic",
+    "ats": "ashby"
+  },
+  {
     "name": "hyperexponential",
     "slug": "hyperexponential",
     "ats": "ashby"
@@ -11835,6 +11862,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "IngramMicro"
+  },
+  {
+    "name": "Inherent",
+    "slug": "inherent",
+    "ats": "ashby"
   },
   {
     "name": "Inizio",
@@ -13421,6 +13453,11 @@
     "ats": "lever"
   },
   {
+    "name": "Level99 Entertainment",
+    "slug": "level99",
+    "ats": "lever"
+  },
+  {
     "name": "Levels Technologies",
     "slug": "levels",
     "ats": "ashby"
@@ -13649,6 +13686,11 @@
   {
     "name": "Liquid",
     "slug": "liquid",
+    "ats": "ashby"
+  },
+  {
+    "name": "LiteLLM",
+    "slug": "litellm",
     "ats": "ashby"
   },
   {
@@ -16787,6 +16829,13 @@
     "site": "ONEOK"
   },
   {
+    "name": "ONEOK",
+    "slug": "oneok",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "ONEOK_Early_Careers"
+  },
+  {
     "name": "OneOncology",
     "slug": "oneoncology",
     "ats": "workday",
@@ -17554,6 +17603,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "PSU_Academic"
+  },
+  {
+    "name": "Penta Group",
+    "slug": "pentagrp",
+    "ats": "lever"
   },
   {
     "name": "Pentair",
@@ -22475,6 +22529,13 @@
     "site": "TAMIU_Student_Employment"
   },
   {
+    "name": "Texas A&M Transportation Institute",
+    "slug": "tamus",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "TTI_External"
+  },
+  {
     "name": "Texas A&M University - College Station",
     "slug": "tamus",
     "ats": "workday",
@@ -23722,6 +23783,11 @@
     "site": "ulricareers"
   },
   {
+    "name": "Unify",
+    "slug": "unify",
+    "ats": "ashby"
+  },
+  {
     "name": "Unilever",
     "slug": "unilever",
     "ats": "workday",
@@ -24130,6 +24196,11 @@
     "name": "Valeo Foods",
     "slug": "ValeoFoods",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Validus Risk Management",
+    "slug": "validus-risk-management",
+    "ats": "workable"
   },
   {
     "name": "Valinor",
@@ -24884,6 +24955,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "external"
+  },
+  {
+    "name": "Wavestone",
+    "slug": "Wavestone1",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Wavetronix",
