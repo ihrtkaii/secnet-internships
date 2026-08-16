@@ -230,16 +230,6 @@ def _company_count() -> tuple[int, int]:
     return len(companies), len({(c.get("name") or "").strip().lower() for c in companies})
 
 
-def _raw_feed_url() -> str:
-    """The feed served straight from the repo (no Pages dependency)."""
-    return f"https://raw.githubusercontent.com/{config.repo_slug()}/main/docs/feed.xml"
-
-
-def _email_subscribe_url() -> str:
-    """One-click feed-to-email signup, prefilled with our feed."""
-    return f"https://feedrabbit.com/subscriptions/new?url={quote(_raw_feed_url(), safe='')}"
-
-
 def _header(cfg: dict, total_open: int, companies: int, new_week: int,
             employers: int | None = None,
             shown: int | None = None, stated: int | None = None,
@@ -272,10 +262,10 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
     return [
         '<div align="center">',
         "",
-        "# 🎓 Summer 2027 Tech Internships",
+        "# 🔐 Summer 2027 Security & Networking Internships",
         "",
-        "**A self-updating engine that tracks tech internships so you don't have "
-        "to.**",
+        "**A self-updating engine that tracks security, networking, and "
+        "infrastructure internships so you don't have to.**",
         "",
         f"[![CI](https://img.shields.io/github/actions/workflow/status/{repo}/ci.yml"
         f"?branch=main&label=tests&style=flat-square&color=3fb950)]"
@@ -298,26 +288,13 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         "",
         f"**[🖥️ Live dashboard]({pages}/)** · "
         f"**[📡 RSS]({pages}/feed.xml)** · "
-        f"**[⚙️ JSON API]({pages}/api/jobs.json)** · "
-        f"**[✉️ Email alerts]({pages}/#subscribe)**",
+        f"**[⚙️ JSON API]({pages}/api/jobs.json)**",
         "",
         "</div>",
-        "",
-        "> [!TIP]",
-        "> **⭐ Star this repo** to save it and get updates when new roles are added.",
         "",
         "Instead of refreshing a dozen career pages by hand, it reads company "
         "hiring feeds directly and keeps one live list — newest roles on top, "
         "refreshed automatically throughout the day.",
-        "",
-        # Native signup posts into our own Supabase list (RLS: insert-only).
-        # The Feedrabbit link is the zero-account fallback via the raw feed URL,
-        # which works even when GitHub Pages is off.
-        f"**🔔 New roles in your inbox:** [subscribe by email]({pages}/#subscribe) "
-        "- one email a day, only when new internships actually appeared, "
-        f"unsubscribe from any email in two clicks. (Prefer RSS-to-email? "
-        "[Feedrabbit works too]"
-        f"({_email_subscribe_url()}).)",
         "",
         "---",
         "",
@@ -355,10 +332,6 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         "for the stack it wants (Python, C++, PyTorch, …) and the pay it "
         f"states — searchable on the [dashboard]({pages}/), and included in the "
         "CSV and API. |",
-        f"| 🔔 **Alerts your way** | [Email digests]({pages}/#subscribe) or "
-        f"[RSS]({pages}/feed.xml) — point any reader, or a Slack/Discord RSS "
-        f"integration, at it. Plus a [live dashboard]({pages}/) with search, "
-        "filters, and a saved-roles list that never leaves your browser. |",
         f"| ⚙️ **An engine, not a spreadsheet** | {companies:,} job-board "
         f"endpoints ({(employers or companies):,} distinct employers; some run "
         "more than one board) polled every 3 hours across 12 ATS platforms. "
@@ -474,8 +447,7 @@ def _footer() -> list[str]:
         "wrong country, wrong cycle, closed role, bad sponsorship flag. Those "
         "reports usually fix a rule, which fixes every other role too.",
         "",
-        "Also here: [PRIVACY.md](PRIVACY.md) (what the email list stores — an "
-        "address and nothing else) · [SECURITY.md](SECURITY.md) · "
+        "Also here: [SECURITY.md](SECURITY.md) · "
         "[ARCHITECTURE.md](ARCHITECTURE.md) · [MIT licensed](LICENSE).",
         "",
         "Built by one student with AI assistance, in the open. The part that "
@@ -550,6 +522,13 @@ def _radar_section(store_data: dict, cycle: str, cap: int = 30,
     waiting = [r for r in rows if r["status"] == "waiting" and radar.is_actionable(r)]
     opened = [r for r in rows if r["status"] == "open"]
     dropped = [r for r in rows if r["status"] == "dropped"]
+    # Nothing waiting and nothing dropped means there is no forecast to give —
+    # every row would be an "open now" echo of the tables above. That's the
+    # state with no hand-seeded windows and no observed drop date to project
+    # from, and an empty promise reads worse than no section. The radar comes
+    # back on its own once the engine records a real drop date for a company.
+    if not waiting and not dropped:
+        return []
     # Forecast first (what to watch for), then a handful of recent drops as proof.
     ordered = waiting + opened[:8] + dropped[:4]
 

@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🎓 Summer 2027 Tech Internships
+# 🔐 Summer 2027 Security & Networking Internships
 
-**A self-updating engine that tracks tech internships so you don't have to.**
+**A self-updating engine that tracks security, networking, and infrastructure internships so you don't have to.**
 
 [![CI](https://img.shields.io/github/actions/workflow/status/ihrtkaii/secnet-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/ihrtkaii/secnet-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fihrtkaii.github.io%2Fsecnet-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://ihrtkaii.github.io/secnet-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://ihrtkaii.github.io/secnet-internships/feed.xml)
 
@@ -12,16 +12,11 @@
 
 _14 have a cycle the employer stated · 22 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
-**[🖥️ Live dashboard](https://ihrtkaii.github.io/secnet-internships/)** · **[📡 RSS](https://ihrtkaii.github.io/secnet-internships/feed.xml)** · **[⚙️ JSON API](https://ihrtkaii.github.io/secnet-internships/api/jobs.json)** · **[✉️ Email alerts](https://ihrtkaii.github.io/secnet-internships/#subscribe)**
+**[🖥️ Live dashboard](https://ihrtkaii.github.io/secnet-internships/)** · **[📡 RSS](https://ihrtkaii.github.io/secnet-internships/feed.xml)** · **[⚙️ JSON API](https://ihrtkaii.github.io/secnet-internships/api/jobs.json)**
 
 </div>
 
-> [!TIP]
-> **⭐ Star this repo** to save it and get updates when new roles are added.
-
 Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list — newest roles on top, refreshed automatically throughout the day.
-
-**🔔 New roles in your inbox:** [subscribe by email](https://ihrtkaii.github.io/secnet-internships/#subscribe) - one email a day, only when new internships actually appeared, unsubscribe from any email in two clicks. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2Fihrtkaii%2Fsecnet-internships%2Fmain%2Fdocs%2Ffeed.xml).)
 
 ---
 
@@ -39,7 +34,6 @@ Every link comes straight from the source — so it's real and current, not a st
 | 🛂 **Visa intel, computed** | 🇺🇸 / 🛂 flags detected automatically from every job description, plus ✓ for employers with a real H-1B track record (USCIS data, FY2022-23 — a history, not a promise). The big lists crowdsource this by hand; here it's code. Most postings say nothing either way, and those show as unknown rather than guessed. |
 | 📆 **A real date on nearly every role** | Taken from the job portal itself wherever the portal states one, so newest-first actually means newest. The exact coverage figure is printed at the bottom of this page every run. |
 | 🧰 **Skill tags + pay, extracted** | Every posting's text is scanned for the stack it wants (Python, C++, PyTorch, …) and the pay it states — searchable on the [dashboard](https://ihrtkaii.github.io/secnet-internships/), and included in the CSV and API. |
-| 🔔 **Alerts your way** | [Email digests](https://ihrtkaii.github.io/secnet-internships/#subscribe) or [RSS](https://ihrtkaii.github.io/secnet-internships/feed.xml) — point any reader, or a Slack/Discord RSS integration, at it. Plus a [live dashboard](https://ihrtkaii.github.io/secnet-internships/) with search, filters, and a saved-roles list that never leaves your browser. |
 | ⚙️ **An engine, not a spreadsheet** | 4,354 job-board endpoints (4,117 distinct employers; some run more than one board) polled every 3 hours across 12 ATS platforms. Full source and tests in this repo. |
 
 ## Scope
@@ -154,49 +148,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 |---|---|---|---|---|---|---|
 | Tencent | IT Operations Intern | Other | US-California-Palo Alto | Tableau | Jul 14, 2026 | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/IT-Operations-Intern_R107720) |
 
-<a id="drop-radar"></a>
-
-## 📅 Drop Radar — when companies usually post for Summer 2027
-
-Stop refreshing career pages. 🎯 = the employer's **own posted date**, read from their careers API. (We may have discovered the role after it went live — the date is the employer's, not our discovery time.) The rest are typical opening **months**, hand-checked against each company's careers page and public recruiting guides. ✅ = already live in the list above.
-
-> **Heads up:** companies trend *earlier* every cycle, and "~Aug" is a month, not a day. Treat "expected" as when to **start watching**, and "rolling" companies as worth checking year-round.
-
-| Company | Typical opening | Expected this cycle | Status |
-|---|---|---|---|
-| Amazon | ~Jul | ~Jul · any day now | ⏳ waiting |
-| American Express | ~Jul | ~Jul · any day now | ⏳ waiting |
-| Balyasny Asset Management | ~Jul | ~Jul · any day now | ⏳ waiting |
-| Belvedere Trading | ~Jul | ~Jul · any day now | ⏳ waiting |
-| Citadel Securities | ~Jul | ~Jul · any day now | ⏳ waiting |
-| Deloitte | ~Jul | ~Jul · any day now | ⏳ waiting |
-| EY | ~Jul | ~Jul · any day now | ⏳ waiting |
-| Headlands Technologies | ~Jul | ~Jul · any day now | ⏳ waiting |
-| KPMG | ~Jul | ~Jul · any day now | ⏳ waiting |
-| Old Mission Capital | ~Jul | ~Jul · any day now | ⏳ waiting |
-| Peak6 | ~Jul | ~Jul · any day now | ⏳ waiting |
-| PwC | ~Jul | ~Jul · any day now | ⏳ waiting |
-| Quantlab | ~Jul | ~Jul · any day now | ⏳ waiting |
-| Squarepoint Capital | ~Jul | ~Jul · any day now | ⏳ waiting |
-| Virtu Financial | ~Jul | ~Jul · any day now | ⏳ waiting |
-| Voloridge Investment Management | ~Jul | ~Jul · any day now | ⏳ waiting |
-| Wolverine Trading | ~Jul | ~Jul · any day now | ⏳ waiting |
-| XTX Markets | ~Jul | ~Jul · any day now | ⏳ waiting |
-| Accenture | ~Aug | ~Aug · any day now | ⏳ waiting |
-| AQR Capital Management | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Atlassian | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Bridgewater Associates | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Cisco | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Citadel | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Databricks | ~Aug | ~Aug · any day now | ⏳ waiting |
-| DoorDash | ~Aug | ~Aug · any day now | ⏳ waiting |
-| DRW | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Figma | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Five Rings | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Google | ~Aug | ~Aug · any day now | ⏳ waiting |
-
-_159 companies on the [full radar](https://ihrtkaii.github.io/secnet-internships/#radar). **11** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
-
 ---
 
 ## Hiring timeline
@@ -222,7 +173,7 @@ _Engine (last run): 4,155 of 4,354 registered boards returned successfully acros
 
 Adding a company takes one line, see [CONTRIBUTING.md](CONTRIBUTING.md), or just [open a request](../../issues/new?template=add-company.yml) with the board URL. **Spotted something wrong?** [Report the exact field](../../issues/new?template=wrong-data.yml) — wrong country, wrong cycle, closed role, bad sponsorship flag. Those reports usually fix a rule, which fixes every other role too.
 
-Also here: [PRIVACY.md](PRIVACY.md) (what the email list stores — an address and nothing else) · [SECURITY.md](SECURITY.md) · [ARCHITECTURE.md](ARCHITECTURE.md) · [MIT licensed](LICENSE).
+Also here: [SECURITY.md](SECURITY.md) · [ARCHITECTURE.md](ARCHITECTURE.md) · [MIT licensed](LICENSE).
 
 Built by one student with AI assistance, in the open. The part that matters isn't who typed it — it's that the rules, the tests, and every run's output are all public and checkable.
 
