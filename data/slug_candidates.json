@@ -1,0 +1,3392 @@
+{
+  "Charter Communications (Spectrum)": [
+    {
+      "rank": 0,
+      "status": "confirmed",
+      "why": "already verified",
+      "ats": "icims",
+      "slug": "careers-charter",
+      "host": "careers-charter.icims.com",
+      "verify": "python tools/verify_slug.py \"Charter Communications (Spectrum)\" icims careers-charter --host careers-charter.icims.com"
+    }
+  ],
+  "Verizon": [
+    {
+      "ats": "icims",
+      "slug": "careers-verizon",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-verizon.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"Verizon\" icims careers-verizon --host careers-verizon.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "verizon",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "verizon.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"Verizon\" icims verizon --host verizon.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "verizon",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"Verizon\" greenhouse verizon",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "verizon",
+      "why": "Lever slug is usually the bare name",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"Verizon\" lever verizon",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "verizon",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"Verizon\" ashby verizon",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "verizon",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"Verizon\" workday verizon --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "verizon",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"Verizon\" workday verizon --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "verizon",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "verizoncareers",
+      "wd": "wd1",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"Verizon\" workday verizon --site verizoncareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "verizon",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Verizon_Careers",
+      "wd": "wd1",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"Verizon\" workday verizon --site Verizon_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "AT&T": [
+    {
+      "ats": "icims",
+      "slug": "careers-att",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-att.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"AT&T\" icims careers-att --host careers-att.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "careers-atandt",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-atandt.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"AT&T\" icims careers-atandt --host careers-atandt.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "careers-at-t",
+      "why": "iCIMS pattern, hyphenated name",
+      "host": "careers-at-t.icims.com",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"AT&T\" icims careers-at-t --host careers-at-t.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "att",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "att.icims.com",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"AT&T\" icims att --host att.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "att",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"AT&T\" greenhouse att",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "atandt",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"AT&T\" greenhouse atandt",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "at-t",
+      "why": "Greenhouse slug, hyphenated name",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"AT&T\" greenhouse at-t",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "att",
+      "why": "Lever slug is usually the bare name",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"AT&T\" lever att",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "atandt",
+      "why": "Lever slug is usually the bare name",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"AT&T\" lever atandt",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "att",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 10,
+      "verify": "python tools/verify_slug.py \"AT&T\" ashby att",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "att",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 11,
+      "verify": "python tools/verify_slug.py \"AT&T\" workday att --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "att",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 12,
+      "verify": "python tools/verify_slug.py \"AT&T\" workday att --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "att",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "attcareers",
+      "wd": "wd1",
+      "rank": 13,
+      "verify": "python tools/verify_slug.py \"AT&T\" workday att --site attcareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "att",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Att_Careers",
+      "wd": "wd1",
+      "rank": 14,
+      "verify": "python tools/verify_slug.py \"AT&T\" workday att --site Att_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "T-Mobile": [
+    {
+      "ats": "icims",
+      "slug": "careers-tmobile",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-tmobile.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"T-Mobile\" icims careers-tmobile --host careers-tmobile.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "careers-t-mobile",
+      "why": "iCIMS pattern, hyphenated name",
+      "host": "careers-t-mobile.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"T-Mobile\" icims careers-t-mobile --host careers-t-mobile.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "tmobile",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "tmobile.icims.com",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"T-Mobile\" icims tmobile --host tmobile.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "tmobile",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"T-Mobile\" greenhouse tmobile",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "t-mobile",
+      "why": "Greenhouse slug, hyphenated name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"T-Mobile\" greenhouse t-mobile",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "tmobile",
+      "why": "Lever slug is usually the bare name",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"T-Mobile\" lever tmobile",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "tmobile",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"T-Mobile\" ashby tmobile",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "tmobile",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"T-Mobile\" workday tmobile --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "tmobile",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"T-Mobile\" workday tmobile --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "tmobile",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "tmobilecareers",
+      "wd": "wd1",
+      "rank": 10,
+      "verify": "python tools/verify_slug.py \"T-Mobile\" workday tmobile --site tmobilecareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "tmobile",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Tmobile_Careers",
+      "wd": "wd1",
+      "rank": 11,
+      "verify": "python tools/verify_slug.py \"T-Mobile\" workday tmobile --site Tmobile_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "Lumen Technologies": [
+    {
+      "ats": "icims",
+      "slug": "careers-lumentechnologies",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-lumentechnologies.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"Lumen Technologies\" icims careers-lumentechnologies --host careers-lumentechnologies.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "careers-lumen",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-lumen.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"Lumen Technologies\" icims careers-lumen --host careers-lumen.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "careers-lumen-technologies",
+      "why": "iCIMS pattern, hyphenated name",
+      "host": "careers-lumen-technologies.icims.com",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"Lumen Technologies\" icims careers-lumen-technologies --host careers-lumen-technologies.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "lumentechnologies",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "lumentechnologies.icims.com",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"Lumen Technologies\" icims lumentechnologies --host lumentechnologies.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "lumentechnologies",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"Lumen Technologies\" greenhouse lumentechnologies",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "lumen",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"Lumen Technologies\" greenhouse lumen",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "lumen-technologies",
+      "why": "Greenhouse slug, hyphenated name",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"Lumen Technologies\" greenhouse lumen-technologies",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "lumentechnologies",
+      "why": "Lever slug is usually the bare name",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"Lumen Technologies\" lever lumentechnologies",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "lumen",
+      "why": "Lever slug is usually the bare name",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"Lumen Technologies\" lever lumen",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "lumentechnologies",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 10,
+      "verify": "python tools/verify_slug.py \"Lumen Technologies\" ashby lumentechnologies",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "lumentechnologies",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 11,
+      "verify": "python tools/verify_slug.py \"Lumen Technologies\" workday lumentechnologies --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "lumentechnologies",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 12,
+      "verify": "python tools/verify_slug.py \"Lumen Technologies\" workday lumentechnologies --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "lumentechnologies",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "lumentechnologiescareers",
+      "wd": "wd1",
+      "rank": 13,
+      "verify": "python tools/verify_slug.py \"Lumen Technologies\" workday lumentechnologies --site lumentechnologiescareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "lumentechnologies",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Lumentechnologies_Careers",
+      "wd": "wd1",
+      "rank": 14,
+      "verify": "python tools/verify_slug.py \"Lumen Technologies\" workday lumentechnologies --site Lumentechnologies_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "Comcast": [
+    {
+      "ats": "icims",
+      "slug": "careers-comcast",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-comcast.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"Comcast\" icims careers-comcast --host careers-comcast.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "comcast",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "comcast.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"Comcast\" icims comcast --host comcast.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "comcast",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"Comcast\" greenhouse comcast",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "comcast",
+      "why": "Lever slug is usually the bare name",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"Comcast\" lever comcast",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "comcast",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"Comcast\" ashby comcast",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "comcast",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"Comcast\" workday comcast --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "comcast",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"Comcast\" workday comcast --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "comcast",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "comcastcareers",
+      "wd": "wd1",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"Comcast\" workday comcast --site comcastcareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "comcast",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Comcast_Careers",
+      "wd": "wd1",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"Comcast\" workday comcast --site Comcast_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "Frontier Communications": [
+    {
+      "ats": "icims",
+      "slug": "careers-frontiercommunications",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-frontiercommunications.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"Frontier Communications\" icims careers-frontiercommunications --host careers-frontiercommunications.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "careers-frontier",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-frontier.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"Frontier Communications\" icims careers-frontier --host careers-frontier.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "careers-frontier-communications",
+      "why": "iCIMS pattern, hyphenated name",
+      "host": "careers-frontier-communications.icims.com",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"Frontier Communications\" icims careers-frontier-communications --host careers-frontier-communications.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "frontiercommunications",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "frontiercommunications.icims.com",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"Frontier Communications\" icims frontiercommunications --host frontiercommunications.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "frontiercommunications",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"Frontier Communications\" greenhouse frontiercommunications",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "frontier",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"Frontier Communications\" greenhouse frontier",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "frontier-communications",
+      "why": "Greenhouse slug, hyphenated name",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"Frontier Communications\" greenhouse frontier-communications",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "frontiercommunications",
+      "why": "Lever slug is usually the bare name",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"Frontier Communications\" lever frontiercommunications",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "frontier",
+      "why": "Lever slug is usually the bare name",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"Frontier Communications\" lever frontier",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "frontiercommunications",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 10,
+      "verify": "python tools/verify_slug.py \"Frontier Communications\" ashby frontiercommunications",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "frontiercommunications",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 11,
+      "verify": "python tools/verify_slug.py \"Frontier Communications\" workday frontiercommunications --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "frontiercommunications",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 12,
+      "verify": "python tools/verify_slug.py \"Frontier Communications\" workday frontiercommunications --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "frontiercommunications",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "frontiercommunicationscareers",
+      "wd": "wd1",
+      "rank": 13,
+      "verify": "python tools/verify_slug.py \"Frontier Communications\" workday frontiercommunications --site frontiercommunicationscareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "frontiercommunications",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Frontiercommunications_Careers",
+      "wd": "wd1",
+      "rank": 14,
+      "verify": "python tools/verify_slug.py \"Frontier Communications\" workday frontiercommunications --site Frontiercommunications_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "Cox Communications": [
+    {
+      "ats": "icims",
+      "slug": "careers-coxcommunications",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-coxcommunications.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"Cox Communications\" icims careers-coxcommunications --host careers-coxcommunications.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "careers-cox",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-cox.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"Cox Communications\" icims careers-cox --host careers-cox.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "careers-cox-communications",
+      "why": "iCIMS pattern, hyphenated name",
+      "host": "careers-cox-communications.icims.com",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"Cox Communications\" icims careers-cox-communications --host careers-cox-communications.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "coxcommunications",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "coxcommunications.icims.com",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"Cox Communications\" icims coxcommunications --host coxcommunications.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "coxcommunications",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"Cox Communications\" greenhouse coxcommunications",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "cox",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"Cox Communications\" greenhouse cox",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "cox-communications",
+      "why": "Greenhouse slug, hyphenated name",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"Cox Communications\" greenhouse cox-communications",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "coxcommunications",
+      "why": "Lever slug is usually the bare name",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"Cox Communications\" lever coxcommunications",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "cox",
+      "why": "Lever slug is usually the bare name",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"Cox Communications\" lever cox",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "coxcommunications",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 10,
+      "verify": "python tools/verify_slug.py \"Cox Communications\" ashby coxcommunications",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "coxcommunications",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 11,
+      "verify": "python tools/verify_slug.py \"Cox Communications\" workday coxcommunications --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "coxcommunications",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 12,
+      "verify": "python tools/verify_slug.py \"Cox Communications\" workday coxcommunications --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "coxcommunications",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "coxcommunicationscareers",
+      "wd": "wd1",
+      "rank": 13,
+      "verify": "python tools/verify_slug.py \"Cox Communications\" workday coxcommunications --site coxcommunicationscareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "coxcommunications",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Coxcommunications_Careers",
+      "wd": "wd1",
+      "rank": 14,
+      "verify": "python tools/verify_slug.py \"Cox Communications\" workday coxcommunications --site Coxcommunications_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "CrowdStrike": [
+    {
+      "rank": 0,
+      "status": "confirmed",
+      "why": "already verified",
+      "ats": "workday",
+      "slug": "crowdstrike",
+      "wd": "wd5",
+      "site": "crowdstrikecareers",
+      "verify": "python tools/verify_slug.py \"CrowdStrike\" workday crowdstrike --site crowdstrikecareers --wd wd5"
+    }
+  ],
+  "Palo Alto Networks": [
+    {
+      "ats": "icims",
+      "slug": "careers-paloaltonetworks",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-paloaltonetworks.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"Palo Alto Networks\" icims careers-paloaltonetworks --host careers-paloaltonetworks.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "careers-pan",
+      "why": "acronym, common for public sector",
+      "host": "careers-pan.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"Palo Alto Networks\" icims careers-pan --host careers-pan.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "careers-palo-alto-networks",
+      "why": "iCIMS pattern, hyphenated name",
+      "host": "careers-palo-alto-networks.icims.com",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"Palo Alto Networks\" icims careers-palo-alto-networks --host careers-palo-alto-networks.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "paloaltonetworks",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "paloaltonetworks.icims.com",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"Palo Alto Networks\" icims paloaltonetworks --host paloaltonetworks.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "paloaltonetworks",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"Palo Alto Networks\" greenhouse paloaltonetworks",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "pan",
+      "why": "acronym, common for public sector",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"Palo Alto Networks\" greenhouse pan",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "palo-alto-networks",
+      "why": "Greenhouse slug, hyphenated name",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"Palo Alto Networks\" greenhouse palo-alto-networks",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "paloaltonetworks",
+      "why": "Lever slug is usually the bare name",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"Palo Alto Networks\" lever paloaltonetworks",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "paloaltonetworks",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"Palo Alto Networks\" ashby paloaltonetworks",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "paloaltonetworks",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 10,
+      "verify": "python tools/verify_slug.py \"Palo Alto Networks\" workday paloaltonetworks --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "paloaltonetworks",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 11,
+      "verify": "python tools/verify_slug.py \"Palo Alto Networks\" workday paloaltonetworks --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "paloaltonetworks",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "paloaltonetworkscareers",
+      "wd": "wd1",
+      "rank": 12,
+      "verify": "python tools/verify_slug.py \"Palo Alto Networks\" workday paloaltonetworks --site paloaltonetworkscareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "paloaltonetworks",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Paloaltonetworks_Careers",
+      "wd": "wd1",
+      "rank": 13,
+      "verify": "python tools/verify_slug.py \"Palo Alto Networks\" workday paloaltonetworks --site Paloaltonetworks_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "Fortinet": [
+    {
+      "ats": "icims",
+      "slug": "careers-fortinet",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-fortinet.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"Fortinet\" icims careers-fortinet --host careers-fortinet.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "fortinet",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "fortinet.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"Fortinet\" icims fortinet --host fortinet.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "fortinet",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"Fortinet\" greenhouse fortinet",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "fortinet",
+      "why": "Lever slug is usually the bare name",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"Fortinet\" lever fortinet",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "fortinet",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"Fortinet\" ashby fortinet",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "fortinet",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"Fortinet\" workday fortinet --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "fortinet",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"Fortinet\" workday fortinet --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "fortinet",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "fortinetcareers",
+      "wd": "wd1",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"Fortinet\" workday fortinet --site fortinetcareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "fortinet",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Fortinet_Careers",
+      "wd": "wd1",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"Fortinet\" workday fortinet --site Fortinet_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "Optiv": [
+    {
+      "ats": "icims",
+      "slug": "careers-optiv",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-optiv.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"Optiv\" icims careers-optiv --host careers-optiv.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "optiv",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "optiv.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"Optiv\" icims optiv --host optiv.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "optiv",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"Optiv\" greenhouse optiv",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "optiv",
+      "why": "Lever slug is usually the bare name",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"Optiv\" lever optiv",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "optiv",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"Optiv\" ashby optiv",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "optiv",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"Optiv\" workday optiv --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "optiv",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"Optiv\" workday optiv --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "optiv",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "optivcareers",
+      "wd": "wd1",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"Optiv\" workday optiv --site optivcareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "optiv",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Optiv_Careers",
+      "wd": "wd1",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"Optiv\" workday optiv --site Optiv_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "Arista Networks": [
+    {
+      "ats": "icims",
+      "slug": "careers-aristanetworks",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-aristanetworks.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"Arista Networks\" icims careers-aristanetworks --host careers-aristanetworks.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "careers-arista-networks",
+      "why": "iCIMS pattern, hyphenated name",
+      "host": "careers-arista-networks.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"Arista Networks\" icims careers-arista-networks --host careers-arista-networks.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "aristanetworks",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "aristanetworks.icims.com",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"Arista Networks\" icims aristanetworks --host aristanetworks.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "aristanetworks",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"Arista Networks\" greenhouse aristanetworks",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "arista-networks",
+      "why": "Greenhouse slug, hyphenated name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"Arista Networks\" greenhouse arista-networks",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "aristanetworks",
+      "why": "Lever slug is usually the bare name",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"Arista Networks\" lever aristanetworks",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "aristanetworks",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"Arista Networks\" ashby aristanetworks",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "aristanetworks",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"Arista Networks\" workday aristanetworks --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "aristanetworks",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"Arista Networks\" workday aristanetworks --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "aristanetworks",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "aristanetworkscareers",
+      "wd": "wd1",
+      "rank": 10,
+      "verify": "python tools/verify_slug.py \"Arista Networks\" workday aristanetworks --site aristanetworkscareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "aristanetworks",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Aristanetworks_Careers",
+      "wd": "wd1",
+      "rank": 11,
+      "verify": "python tools/verify_slug.py \"Arista Networks\" workday aristanetworks --site Aristanetworks_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "Juniper Networks": [
+    {
+      "ats": "icims",
+      "slug": "careers-junipernetworks",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-junipernetworks.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"Juniper Networks\" icims careers-junipernetworks --host careers-junipernetworks.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "careers-juniper-networks",
+      "why": "iCIMS pattern, hyphenated name",
+      "host": "careers-juniper-networks.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"Juniper Networks\" icims careers-juniper-networks --host careers-juniper-networks.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "junipernetworks",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "junipernetworks.icims.com",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"Juniper Networks\" icims junipernetworks --host junipernetworks.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "junipernetworks",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"Juniper Networks\" greenhouse junipernetworks",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "juniper-networks",
+      "why": "Greenhouse slug, hyphenated name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"Juniper Networks\" greenhouse juniper-networks",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "junipernetworks",
+      "why": "Lever slug is usually the bare name",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"Juniper Networks\" lever junipernetworks",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "junipernetworks",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"Juniper Networks\" ashby junipernetworks",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "junipernetworks",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"Juniper Networks\" workday junipernetworks --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "junipernetworks",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"Juniper Networks\" workday junipernetworks --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "junipernetworks",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "junipernetworkscareers",
+      "wd": "wd1",
+      "rank": 10,
+      "verify": "python tools/verify_slug.py \"Juniper Networks\" workday junipernetworks --site junipernetworkscareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "junipernetworks",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Junipernetworks_Careers",
+      "wd": "wd1",
+      "rank": 11,
+      "verify": "python tools/verify_slug.py \"Juniper Networks\" workday junipernetworks --site Junipernetworks_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "F5": [
+    {
+      "ats": "icims",
+      "slug": "careers-f5",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-f5.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"F5\" icims careers-f5 --host careers-f5.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "f5",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "f5.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"F5\" icims f5 --host f5.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "f5",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"F5\" greenhouse f5",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "f5",
+      "why": "Lever slug is usually the bare name",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"F5\" lever f5",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "f5",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"F5\" ashby f5",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "f5",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"F5\" workday f5 --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "f5",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"F5\" workday f5 --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "f5",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "f5careers",
+      "wd": "wd1",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"F5\" workday f5 --site f5careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "f5",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "F5_Careers",
+      "wd": "wd1",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"F5\" workday f5 --site F5_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "Akamai": [
+    {
+      "ats": "icims",
+      "slug": "careers-akamai",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-akamai.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"Akamai\" icims careers-akamai --host careers-akamai.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "akamai",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "akamai.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"Akamai\" icims akamai --host akamai.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "akamai",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"Akamai\" greenhouse akamai",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "akamai",
+      "why": "Lever slug is usually the bare name",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"Akamai\" lever akamai",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "akamai",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"Akamai\" ashby akamai",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "akamai",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"Akamai\" workday akamai --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "akamai",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"Akamai\" workday akamai --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "akamai",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "akamaicareers",
+      "wd": "wd1",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"Akamai\" workday akamai --site akamaicareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "akamai",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Akamai_Careers",
+      "wd": "wd1",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"Akamai\" workday akamai --site Akamai_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "Rapid7": [
+    {
+      "ats": "icims",
+      "slug": "careers-rapid7",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-rapid7.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"Rapid7\" icims careers-rapid7 --host careers-rapid7.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "rapid7",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "rapid7.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"Rapid7\" icims rapid7 --host rapid7.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "rapid7",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"Rapid7\" greenhouse rapid7",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "rapid7",
+      "why": "Lever slug is usually the bare name",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"Rapid7\" lever rapid7",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "rapid7",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"Rapid7\" ashby rapid7",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "rapid7",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"Rapid7\" workday rapid7 --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "rapid7",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"Rapid7\" workday rapid7 --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "rapid7",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "rapid7careers",
+      "wd": "wd1",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"Rapid7\" workday rapid7 --site rapid7careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "rapid7",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Rapid7_Careers",
+      "wd": "wd1",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"Rapid7\" workday rapid7 --site Rapid7_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "Tenable": [
+    {
+      "ats": "icims",
+      "slug": "careers-tenable",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-tenable.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"Tenable\" icims careers-tenable --host careers-tenable.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "tenable",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "tenable.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"Tenable\" icims tenable --host tenable.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "tenable",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"Tenable\" greenhouse tenable",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "tenable",
+      "why": "Lever slug is usually the bare name",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"Tenable\" lever tenable",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "tenable",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"Tenable\" ashby tenable",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "tenable",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"Tenable\" workday tenable --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "tenable",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"Tenable\" workday tenable --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "tenable",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "tenablecareers",
+      "wd": "wd1",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"Tenable\" workday tenable --site tenablecareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "tenable",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Tenable_Careers",
+      "wd": "wd1",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"Tenable\" workday tenable --site Tenable_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "CACI": [
+    {
+      "rank": 0,
+      "status": "confirmed",
+      "why": "already verified",
+      "ats": "workday",
+      "slug": "caci",
+      "wd": "wd1",
+      "site": "External",
+      "verify": "python tools/verify_slug.py \"CACI\" workday caci --site External --wd wd1"
+    }
+  ],
+  "SAIC": [
+    {
+      "ats": "icims",
+      "slug": "careers-saic",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-saic.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"SAIC\" icims careers-saic --host careers-saic.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "saic",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "saic.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"SAIC\" icims saic --host saic.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "saic",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"SAIC\" greenhouse saic",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "saic",
+      "why": "Lever slug is usually the bare name",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"SAIC\" lever saic",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "saic",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"SAIC\" ashby saic",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "saic",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"SAIC\" workday saic --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "saic",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"SAIC\" workday saic --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "saic",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "saiccareers",
+      "wd": "wd1",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"SAIC\" workday saic --site saiccareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "saic",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Saic_Careers",
+      "wd": "wd1",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"SAIC\" workday saic --site Saic_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "Peraton": [
+    {
+      "ats": "icims",
+      "slug": "careers-peraton",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-peraton.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"Peraton\" icims careers-peraton --host careers-peraton.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "peraton",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "peraton.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"Peraton\" icims peraton --host peraton.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "peraton",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"Peraton\" greenhouse peraton",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "peraton",
+      "why": "Lever slug is usually the bare name",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"Peraton\" lever peraton",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "peraton",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"Peraton\" ashby peraton",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "peraton",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"Peraton\" workday peraton --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "peraton",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"Peraton\" workday peraton --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "peraton",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "peratoncareers",
+      "wd": "wd1",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"Peraton\" workday peraton --site peratoncareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "peraton",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Peraton_Careers",
+      "wd": "wd1",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"Peraton\" workday peraton --site Peraton_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "Parsons": [
+    {
+      "ats": "icims",
+      "slug": "careers-parsons",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-parsons.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"Parsons\" icims careers-parsons --host careers-parsons.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "parsons",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "parsons.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"Parsons\" icims parsons --host parsons.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "parsons",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"Parsons\" greenhouse parsons",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "parsons",
+      "why": "Lever slug is usually the bare name",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"Parsons\" lever parsons",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "parsons",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"Parsons\" ashby parsons",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "parsons",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"Parsons\" workday parsons --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "parsons",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"Parsons\" workday parsons --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "parsons",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "parsonscareers",
+      "wd": "wd1",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"Parsons\" workday parsons --site parsonscareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "parsons",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Parsons_Careers",
+      "wd": "wd1",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"Parsons\" workday parsons --site Parsons_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "MITRE": [
+    {
+      "ats": "icims",
+      "slug": "careers-mitre",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-mitre.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"MITRE\" icims careers-mitre --host careers-mitre.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "mitre",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "mitre.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"MITRE\" icims mitre --host mitre.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "mitre",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"MITRE\" greenhouse mitre",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "mitre",
+      "why": "Lever slug is usually the bare name",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"MITRE\" lever mitre",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "mitre",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"MITRE\" ashby mitre",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "mitre",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"MITRE\" workday mitre --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "mitre",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"MITRE\" workday mitre --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "mitre",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "mitrecareers",
+      "wd": "wd1",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"MITRE\" workday mitre --site mitrecareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "mitre",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Mitre_Careers",
+      "wd": "wd1",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"MITRE\" workday mitre --site Mitre_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "Leidos": [
+    {
+      "ats": "icims",
+      "slug": "careers-leidos",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-leidos.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"Leidos\" icims careers-leidos --host careers-leidos.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "leidos",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "leidos.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"Leidos\" icims leidos --host leidos.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "leidos",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"Leidos\" greenhouse leidos",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "leidos",
+      "why": "Lever slug is usually the bare name",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"Leidos\" lever leidos",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "leidos",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"Leidos\" ashby leidos",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "leidos",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"Leidos\" workday leidos --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "leidos",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"Leidos\" workday leidos --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "leidos",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "leidoscareers",
+      "wd": "wd1",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"Leidos\" workday leidos --site leidoscareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "leidos",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Leidos_Careers",
+      "wd": "wd1",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"Leidos\" workday leidos --site Leidos_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "ManTech": [
+    {
+      "ats": "icims",
+      "slug": "careers-mantech",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-mantech.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"ManTech\" icims careers-mantech --host careers-mantech.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "mantech",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "mantech.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"ManTech\" icims mantech --host mantech.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "mantech",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"ManTech\" greenhouse mantech",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "mantech",
+      "why": "Lever slug is usually the bare name",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"ManTech\" lever mantech",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "mantech",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"ManTech\" ashby mantech",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "mantech",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"ManTech\" workday mantech --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "mantech",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"ManTech\" workday mantech --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "mantech",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "mantechcareers",
+      "wd": "wd1",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"ManTech\" workday mantech --site mantechcareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "mantech",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Mantech_Careers",
+      "wd": "wd1",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"ManTech\" workday mantech --site Mantech_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "Deloitte": [
+    {
+      "ats": "icims",
+      "slug": "careers-deloitte",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-deloitte.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"Deloitte\" icims careers-deloitte --host careers-deloitte.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "deloitte",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "deloitte.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"Deloitte\" icims deloitte --host deloitte.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "deloitte",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"Deloitte\" greenhouse deloitte",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "deloitte",
+      "why": "Lever slug is usually the bare name",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"Deloitte\" lever deloitte",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "deloitte",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"Deloitte\" ashby deloitte",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "deloitte",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"Deloitte\" workday deloitte --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "deloitte",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"Deloitte\" workday deloitte --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "deloitte",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "deloittecareers",
+      "wd": "wd1",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"Deloitte\" workday deloitte --site deloittecareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "deloitte",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Deloitte_Careers",
+      "wd": "wd1",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"Deloitte\" workday deloitte --site Deloitte_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "KPMG": [
+    {
+      "ats": "icims",
+      "slug": "careers-kpmg",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-kpmg.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"KPMG\" icims careers-kpmg --host careers-kpmg.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "kpmg",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "kpmg.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"KPMG\" icims kpmg --host kpmg.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "kpmg",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"KPMG\" greenhouse kpmg",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "kpmg",
+      "why": "Lever slug is usually the bare name",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"KPMG\" lever kpmg",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "kpmg",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"KPMG\" ashby kpmg",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "kpmg",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"KPMG\" workday kpmg --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "kpmg",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"KPMG\" workday kpmg --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "kpmg",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "kpmgcareers",
+      "wd": "wd1",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"KPMG\" workday kpmg --site kpmgcareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "kpmg",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Kpmg_Careers",
+      "wd": "wd1",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"KPMG\" workday kpmg --site Kpmg_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "EY": [
+    {
+      "ats": "icims",
+      "slug": "careers-ey",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-ey.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"EY\" icims careers-ey --host careers-ey.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "ey",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "ey.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"EY\" icims ey --host ey.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "ey",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"EY\" greenhouse ey",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "ey",
+      "why": "Lever slug is usually the bare name",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"EY\" lever ey",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "ey",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"EY\" ashby ey",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "ey",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"EY\" workday ey --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "ey",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"EY\" workday ey --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "ey",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "eycareers",
+      "wd": "wd1",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"EY\" workday ey --site eycareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "ey",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Ey_Careers",
+      "wd": "wd1",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"EY\" workday ey --site Ey_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "PwC": [
+    {
+      "ats": "icims",
+      "slug": "careers-pwc",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-pwc.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"PwC\" icims careers-pwc --host careers-pwc.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "pwc",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "pwc.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"PwC\" icims pwc --host pwc.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "pwc",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"PwC\" greenhouse pwc",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "pwc",
+      "why": "Lever slug is usually the bare name",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"PwC\" lever pwc",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "pwc",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"PwC\" ashby pwc",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "pwc",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"PwC\" workday pwc --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "pwc",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"PwC\" workday pwc --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "pwc",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "pwccareers",
+      "wd": "wd1",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"PwC\" workday pwc --site pwccareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "pwc",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Pwc_Careers",
+      "wd": "wd1",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"PwC\" workday pwc --site Pwc_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "Accenture Federal Services": [
+    {
+      "ats": "icims",
+      "slug": "careers-accenturefederalservices",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-accenturefederalservices.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"Accenture Federal Services\" icims careers-accenturefederalservices --host careers-accenturefederalservices.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "careers-afs",
+      "why": "acronym, common for public sector",
+      "host": "careers-afs.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"Accenture Federal Services\" icims careers-afs --host careers-afs.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "careers-accenture-federal-services",
+      "why": "iCIMS pattern, hyphenated name",
+      "host": "careers-accenture-federal-services.icims.com",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"Accenture Federal Services\" icims careers-accenture-federal-services --host careers-accenture-federal-services.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "accenturefederalservices",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "accenturefederalservices.icims.com",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"Accenture Federal Services\" icims accenturefederalservices --host accenturefederalservices.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "accenturefederalservices",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"Accenture Federal Services\" greenhouse accenturefederalservices",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "afs",
+      "why": "acronym, common for public sector",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"Accenture Federal Services\" greenhouse afs",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "accenture-federal-services",
+      "why": "Greenhouse slug, hyphenated name",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"Accenture Federal Services\" greenhouse accenture-federal-services",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "accenturefederalservices",
+      "why": "Lever slug is usually the bare name",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"Accenture Federal Services\" lever accenturefederalservices",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "accenturefederalservices",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"Accenture Federal Services\" ashby accenturefederalservices",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "accenturefederalservices",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 10,
+      "verify": "python tools/verify_slug.py \"Accenture Federal Services\" workday accenturefederalservices --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "accenturefederalservices",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 11,
+      "verify": "python tools/verify_slug.py \"Accenture Federal Services\" workday accenturefederalservices --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "accenturefederalservices",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "accenturefederalservicescareers",
+      "wd": "wd1",
+      "rank": 12,
+      "verify": "python tools/verify_slug.py \"Accenture Federal Services\" workday accenturefederalservices --site accenturefederalservicescareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "accenturefederalservices",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Accenturefederalservices_Careers",
+      "wd": "wd1",
+      "rank": 13,
+      "verify": "python tools/verify_slug.py \"Accenture Federal Services\" workday accenturefederalservices --site Accenturefederalservices_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "AdventHealth": [
+    {
+      "ats": "icims",
+      "slug": "careers-adventhealth",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-adventhealth.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"AdventHealth\" icims careers-adventhealth --host careers-adventhealth.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "adventhealth",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "adventhealth.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"AdventHealth\" icims adventhealth --host adventhealth.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "adventhealth",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"AdventHealth\" greenhouse adventhealth",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "adventhealth",
+      "why": "Lever slug is usually the bare name",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"AdventHealth\" lever adventhealth",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "adventhealth",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"AdventHealth\" ashby adventhealth",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "adventhealth",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"AdventHealth\" workday adventhealth --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "adventhealth",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"AdventHealth\" workday adventhealth --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "adventhealth",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "adventhealthcareers",
+      "wd": "wd1",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"AdventHealth\" workday adventhealth --site adventhealthcareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "adventhealth",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Adventhealth_Careers",
+      "wd": "wd1",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"AdventHealth\" workday adventhealth --site Adventhealth_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "Orlando Health": [
+    {
+      "ats": "icims",
+      "slug": "careers-orlandohealth",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-orlandohealth.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"Orlando Health\" icims careers-orlandohealth --host careers-orlandohealth.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "careers-orlando-health",
+      "why": "iCIMS pattern, hyphenated name",
+      "host": "careers-orlando-health.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"Orlando Health\" icims careers-orlando-health --host careers-orlando-health.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "orlandohealth",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "orlandohealth.icims.com",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"Orlando Health\" icims orlandohealth --host orlandohealth.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "orlandohealth",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"Orlando Health\" greenhouse orlandohealth",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "orlando-health",
+      "why": "Greenhouse slug, hyphenated name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"Orlando Health\" greenhouse orlando-health",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "orlandohealth",
+      "why": "Lever slug is usually the bare name",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"Orlando Health\" lever orlandohealth",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "orlandohealth",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"Orlando Health\" ashby orlandohealth",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "orlandohealth",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"Orlando Health\" workday orlandohealth --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "orlandohealth",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"Orlando Health\" workday orlandohealth --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "orlandohealth",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "orlandohealthcareers",
+      "wd": "wd1",
+      "rank": 10,
+      "verify": "python tools/verify_slug.py \"Orlando Health\" workday orlandohealth --site orlandohealthcareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "orlandohealth",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Orlandohealth_Careers",
+      "wd": "wd1",
+      "rank": 11,
+      "verify": "python tools/verify_slug.py \"Orlando Health\" workday orlandohealth --site Orlandohealth_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "Orange County Public Schools": [
+    {
+      "ats": "icims",
+      "slug": "careers-orangecountypublicschools",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-orangecountypublicschools.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"Orange County Public Schools\" icims careers-orangecountypublicschools --host careers-orangecountypublicschools.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "careers-ocps",
+      "why": "acronym, common for public sector",
+      "host": "careers-ocps.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"Orange County Public Schools\" icims careers-ocps --host careers-ocps.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "careers-orange-county-public-schools",
+      "why": "iCIMS pattern, hyphenated name",
+      "host": "careers-orange-county-public-schools.icims.com",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"Orange County Public Schools\" icims careers-orange-county-public-schools --host careers-orange-county-public-schools.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "orangecountypublicschools",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "orangecountypublicschools.icims.com",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"Orange County Public Schools\" icims orangecountypublicschools --host orangecountypublicschools.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "orangecountypublicschools",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"Orange County Public Schools\" greenhouse orangecountypublicschools",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "ocps",
+      "why": "acronym, common for public sector",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"Orange County Public Schools\" greenhouse ocps",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "orange-county-public-schools",
+      "why": "Greenhouse slug, hyphenated name",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"Orange County Public Schools\" greenhouse orange-county-public-schools",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "orangecountypublicschools",
+      "why": "Lever slug is usually the bare name",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"Orange County Public Schools\" lever orangecountypublicschools",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "orangecountypublicschools",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"Orange County Public Schools\" ashby orangecountypublicschools",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "orangecountypublicschools",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 10,
+      "verify": "python tools/verify_slug.py \"Orange County Public Schools\" workday orangecountypublicschools --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "orangecountypublicschools",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 11,
+      "verify": "python tools/verify_slug.py \"Orange County Public Schools\" workday orangecountypublicschools --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "orangecountypublicschools",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "orangecountypublicschoolscareers",
+      "wd": "wd1",
+      "rank": 12,
+      "verify": "python tools/verify_slug.py \"Orange County Public Schools\" workday orangecountypublicschools --site orangecountypublicschoolscareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "orangecountypublicschools",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Orangecountypublicschools_Careers",
+      "wd": "wd1",
+      "rank": 13,
+      "verify": "python tools/verify_slug.py \"Orange County Public Schools\" workday orangecountypublicschools --site Orangecountypublicschools_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "Osceola County School District": [
+    {
+      "ats": "icims",
+      "slug": "careers-osceolacountyschooldistrict",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-osceolacountyschooldistrict.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"Osceola County School District\" icims careers-osceolacountyschooldistrict --host careers-osceolacountyschooldistrict.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "careers-ocsd",
+      "why": "acronym, common for public sector",
+      "host": "careers-ocsd.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"Osceola County School District\" icims careers-ocsd --host careers-ocsd.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "careers-osceola-county-school-district",
+      "why": "iCIMS pattern, hyphenated name",
+      "host": "careers-osceola-county-school-district.icims.com",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"Osceola County School District\" icims careers-osceola-county-school-district --host careers-osceola-county-school-district.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "osceolacountyschooldistrict",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "osceolacountyschooldistrict.icims.com",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"Osceola County School District\" icims osceolacountyschooldistrict --host osceolacountyschooldistrict.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "osceolacountyschooldistrict",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"Osceola County School District\" greenhouse osceolacountyschooldistrict",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "ocsd",
+      "why": "acronym, common for public sector",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"Osceola County School District\" greenhouse ocsd",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "osceola-county-school-district",
+      "why": "Greenhouse slug, hyphenated name",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"Osceola County School District\" greenhouse osceola-county-school-district",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "osceolacountyschooldistrict",
+      "why": "Lever slug is usually the bare name",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"Osceola County School District\" lever osceolacountyschooldistrict",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "osceolacountyschooldistrict",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"Osceola County School District\" ashby osceolacountyschooldistrict",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "osceolacountyschooldistrict",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 10,
+      "verify": "python tools/verify_slug.py \"Osceola County School District\" workday osceolacountyschooldistrict --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "osceolacountyschooldistrict",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 11,
+      "verify": "python tools/verify_slug.py \"Osceola County School District\" workday osceolacountyschooldistrict --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "osceolacountyschooldistrict",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "osceolacountyschooldistrictcareers",
+      "wd": "wd1",
+      "rank": 12,
+      "verify": "python tools/verify_slug.py \"Osceola County School District\" workday osceolacountyschooldistrict --site osceolacountyschooldistrictcareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "osceolacountyschooldistrict",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Osceolacountyschooldistrict_Careers",
+      "wd": "wd1",
+      "rank": 13,
+      "verify": "python tools/verify_slug.py \"Osceola County School District\" workday osceolacountyschooldistrict --site Osceolacountyschooldistrict_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "Orange County Government": [
+    {
+      "ats": "icims",
+      "slug": "careers-orangecountygovernment",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-orangecountygovernment.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"Orange County Government\" icims careers-orangecountygovernment --host careers-orangecountygovernment.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "careers-ocg",
+      "why": "acronym, common for public sector",
+      "host": "careers-ocg.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"Orange County Government\" icims careers-ocg --host careers-ocg.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "careers-orange-county-government",
+      "why": "iCIMS pattern, hyphenated name",
+      "host": "careers-orange-county-government.icims.com",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"Orange County Government\" icims careers-orange-county-government --host careers-orange-county-government.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "orangecountygovernment",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "orangecountygovernment.icims.com",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"Orange County Government\" icims orangecountygovernment --host orangecountygovernment.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "orangecountygovernment",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"Orange County Government\" greenhouse orangecountygovernment",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "ocg",
+      "why": "acronym, common for public sector",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"Orange County Government\" greenhouse ocg",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "orange-county-government",
+      "why": "Greenhouse slug, hyphenated name",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"Orange County Government\" greenhouse orange-county-government",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "orangecountygovernment",
+      "why": "Lever slug is usually the bare name",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"Orange County Government\" lever orangecountygovernment",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "orangecountygovernment",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"Orange County Government\" ashby orangecountygovernment",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "orangecountygovernment",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 10,
+      "verify": "python tools/verify_slug.py \"Orange County Government\" workday orangecountygovernment --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "orangecountygovernment",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 11,
+      "verify": "python tools/verify_slug.py \"Orange County Government\" workday orangecountygovernment --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "orangecountygovernment",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "orangecountygovernmentcareers",
+      "wd": "wd1",
+      "rank": 12,
+      "verify": "python tools/verify_slug.py \"Orange County Government\" workday orangecountygovernment --site orangecountygovernmentcareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "orangecountygovernment",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Orangecountygovernment_Careers",
+      "wd": "wd1",
+      "rank": 13,
+      "verify": "python tools/verify_slug.py \"Orange County Government\" workday orangecountygovernment --site Orangecountygovernment_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "Duke Energy Florida": [
+    {
+      "ats": "icims",
+      "slug": "careers-dukeenergyflorida",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-dukeenergyflorida.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"Duke Energy Florida\" icims careers-dukeenergyflorida --host careers-dukeenergyflorida.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "careers-def",
+      "why": "acronym, common for public sector",
+      "host": "careers-def.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"Duke Energy Florida\" icims careers-def --host careers-def.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "careers-duke-energy-florida",
+      "why": "iCIMS pattern, hyphenated name",
+      "host": "careers-duke-energy-florida.icims.com",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"Duke Energy Florida\" icims careers-duke-energy-florida --host careers-duke-energy-florida.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "dukeenergyflorida",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "dukeenergyflorida.icims.com",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"Duke Energy Florida\" icims dukeenergyflorida --host dukeenergyflorida.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "dukeenergyflorida",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"Duke Energy Florida\" greenhouse dukeenergyflorida",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "def",
+      "why": "acronym, common for public sector",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"Duke Energy Florida\" greenhouse def",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "duke-energy-florida",
+      "why": "Greenhouse slug, hyphenated name",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"Duke Energy Florida\" greenhouse duke-energy-florida",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "dukeenergyflorida",
+      "why": "Lever slug is usually the bare name",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"Duke Energy Florida\" lever dukeenergyflorida",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "dukeenergyflorida",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"Duke Energy Florida\" ashby dukeenergyflorida",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "dukeenergyflorida",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 10,
+      "verify": "python tools/verify_slug.py \"Duke Energy Florida\" workday dukeenergyflorida --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "dukeenergyflorida",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 11,
+      "verify": "python tools/verify_slug.py \"Duke Energy Florida\" workday dukeenergyflorida --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "dukeenergyflorida",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "dukeenergyfloridacareers",
+      "wd": "wd1",
+      "rank": 12,
+      "verify": "python tools/verify_slug.py \"Duke Energy Florida\" workday dukeenergyflorida --site dukeenergyfloridacareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "dukeenergyflorida",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Dukeenergyflorida_Careers",
+      "wd": "wd1",
+      "rank": 13,
+      "verify": "python tools/verify_slug.py \"Duke Energy Florida\" workday dukeenergyflorida --site Dukeenergyflorida_Careers --wd wd1",
+      "status": "guess"
+    }
+  ],
+  "Florida Power & Light": [
+    {
+      "ats": "icims",
+      "slug": "careers-floridapowerlight",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-floridapowerlight.icims.com",
+      "rank": 1,
+      "verify": "python tools/verify_slug.py \"Florida Power & Light\" icims careers-floridapowerlight --host careers-floridapowerlight.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "careers-floridapowerandlight",
+      "why": "confirmed iCIMS portal pattern",
+      "host": "careers-floridapowerandlight.icims.com",
+      "rank": 2,
+      "verify": "python tools/verify_slug.py \"Florida Power & Light\" icims careers-floridapowerandlight --host careers-floridapowerandlight.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "careers-fpl",
+      "why": "acronym, common for public sector",
+      "host": "careers-fpl.icims.com",
+      "rank": 3,
+      "verify": "python tools/verify_slug.py \"Florida Power & Light\" icims careers-fpl --host careers-fpl.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "careers-florida-power-light",
+      "why": "iCIMS pattern, hyphenated name",
+      "host": "careers-florida-power-light.icims.com",
+      "rank": 4,
+      "verify": "python tools/verify_slug.py \"Florida Power & Light\" icims careers-florida-power-light --host careers-florida-power-light.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "icims",
+      "slug": "floridapowerlight",
+      "why": "iCIMS portal without the careers- prefix",
+      "host": "floridapowerlight.icims.com",
+      "rank": 5,
+      "verify": "python tools/verify_slug.py \"Florida Power & Light\" icims floridapowerlight --host floridapowerlight.icims.com",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "floridapowerlight",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 6,
+      "verify": "python tools/verify_slug.py \"Florida Power & Light\" greenhouse floridapowerlight",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "floridapowerandlight",
+      "why": "Greenhouse slug is usually the bare name",
+      "rank": 7,
+      "verify": "python tools/verify_slug.py \"Florida Power & Light\" greenhouse floridapowerandlight",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "fpl",
+      "why": "acronym, common for public sector",
+      "rank": 8,
+      "verify": "python tools/verify_slug.py \"Florida Power & Light\" greenhouse fpl",
+      "status": "guess"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "florida-power-light",
+      "why": "Greenhouse slug, hyphenated name",
+      "rank": 9,
+      "verify": "python tools/verify_slug.py \"Florida Power & Light\" greenhouse florida-power-light",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "floridapowerlight",
+      "why": "Lever slug is usually the bare name",
+      "rank": 10,
+      "verify": "python tools/verify_slug.py \"Florida Power & Light\" lever floridapowerlight",
+      "status": "guess"
+    },
+    {
+      "ats": "lever",
+      "slug": "floridapowerandlight",
+      "why": "Lever slug is usually the bare name",
+      "rank": 11,
+      "verify": "python tools/verify_slug.py \"Florida Power & Light\" lever floridapowerandlight",
+      "status": "guess"
+    },
+    {
+      "ats": "ashby",
+      "slug": "floridapowerlight",
+      "why": "Ashby slug is usually the bare name",
+      "rank": 12,
+      "verify": "python tools/verify_slug.py \"Florida Power & Light\" ashby floridapowerlight",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "floridapowerlight",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "External",
+      "wd": "wd1",
+      "rank": 13,
+      "verify": "python tools/verify_slug.py \"Florida Power & Light\" workday floridapowerlight --site External --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "floridapowerlight",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Careers",
+      "wd": "wd1",
+      "rank": 14,
+      "verify": "python tools/verify_slug.py \"Florida Power & Light\" workday floridapowerlight --site Careers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "floridapowerlight",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "floridapowerlightcareers",
+      "wd": "wd1",
+      "rank": 15,
+      "verify": "python tools/verify_slug.py \"Florida Power & Light\" workday floridapowerlight --site floridapowerlightcareers --wd wd1",
+      "status": "guess"
+    },
+    {
+      "ats": "workday",
+      "slug": "floridapowerlight",
+      "why": "Workday tenant + common site; try clusters wd1/wd5/wd3/wd12",
+      "site": "Floridapowerlight_Careers",
+      "wd": "wd1",
+      "rank": 16,
+      "verify": "python tools/verify_slug.py \"Florida Power & Light\" workday floridapowerlight --site Floridapowerlight_Careers --wd wd1",
+      "status": "guess"
+    }
+  ]
+}

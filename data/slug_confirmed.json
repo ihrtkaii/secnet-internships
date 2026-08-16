@@ -1,0 +1,13 @@
+{
+  "Charter Communications (Spectrum)": {
+    "ats": "icims", "slug": "careers-charter",
+    "host": "careers-charter.icims.com"
+  },
+  "CrowdStrike": {
+    "ats": "workday", "slug": "crowdstrike", "wd": "wd5",
+    "site": "crowdstrikecareers"
+  },
+  "CACI": {
+    "ats": "workday", "slug": "caci", "wd": "wd1", "site": "External"
+  }
+}

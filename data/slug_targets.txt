@@ -1,0 +1,50 @@
+# Companies to resolve to an (ats, slug) board, for tools/slug_candidates.py.
+# Confirmed entries live in data/slug_confirmed.json and are emitted as-is.
+# Everything else gets ranked guesses that still need verify_slug.py.
+
+# --- Carriers / ISPs ---
+Charter Communications (Spectrum)
+Verizon
+AT&T
+T-Mobile
+Lumen Technologies
+Comcast
+Frontier Communications
+Cox Communications
+
+# --- Security vendors ---
+CrowdStrike
+Palo Alto Networks
+Fortinet
+Optiv
+Arista Networks
+Juniper Networks
+F5
+Akamai
+Rapid7
+Tenable
+
+# --- Defense / government services ---
+CACI
+SAIC
+Peraton
+Parsons
+MITRE
+Leidos
+ManTech
+
+# --- Consulting ---
+Deloitte
+KPMG
+EY
+PwC
+Accenture Federal Services
+
+# --- Florida-local (Orlando network-technician search) ---
+AdventHealth
+Orlando Health
+Orange County Public Schools
+Osceola County School District
+Orange County Government
+Duke Energy Florida
+Florida Power & Light

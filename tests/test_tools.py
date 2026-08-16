@@ -208,3 +208,84 @@ class TestVerifySlug:
 
 async def _boom(company):
     raise RuntimeError("connection reset")
+
+
+class TestSlugCandidates:
+    """Ranked guesses only — nothing here may reach companies.json unverified."""
+
+    def _tool(self):
+        import importlib.util
+        import os
+        path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+                            "tools", "slug_candidates.py")
+        spec = importlib.util.spec_from_file_location("slug_candidates", path)
+        module = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(module)
+        return module
+
+    def _slugs(self, name, ats=None):
+        rows = self._tool().candidates(name)
+        return [r["slug"] for r in rows if ats is None or r["ats"] == ats]
+
+    def test_the_confirmed_icims_pattern_leads(self):
+        # careers-<name> is the one pattern with real evidence behind it.
+        rows = self._tool().candidates("Fortinet")
+        assert rows[0]["ats"] == "icims"
+        assert rows[0]["slug"] == "careers-fortinet"
+        assert rows[0]["host"] == "careers-fortinet.icims.com"
+
+    def test_charter_reproduces_its_known_slug(self):
+        assert "careers-charter" in self._slugs("Charter Communications", "icims")
+
+    def test_noise_suffixes_are_stripped_into_a_second_candidate(self):
+        slugs = self._slugs("Cox Communications", "icims")
+        assert "careers-coxcommunications" in slugs
+        assert "careers-cox" in slugs
+
+    def test_a_name_kept_whole_when_the_suffix_is_part_of_it(self):
+        # "Networks" is how the company is actually registered, so it must not
+        # be stripped away from the leading candidate.
+        assert self._slugs("Palo Alto Networks", "icims")[0] == \
+            "careers-paloaltonetworks"
+
+    def test_an_ampersand_prefers_the_dropped_form(self):
+        slugs = self._slugs("AT&T", "icims")
+        assert slugs.index("careers-att") < slugs.index("careers-atandt")
+
+    def test_a_long_public_sector_name_gets_a_high_ranked_acronym(self):
+        rows = [r for r in self._tool().candidates("Orange County Public Schools")
+                if r["ats"] == "icims"]
+        slugs = [r["slug"] for r in rows]
+        assert "careers-ocps" in slugs
+        # It must outrank the spelling variants, or it falls off a short list.
+        assert slugs.index("careers-ocps") <= 2
+
+    def test_a_short_name_gets_no_acronym(self):
+        assert not any(len(s.replace("careers-", "")) <= 2
+                       for s in self._slugs("Fortinet", "icims"))
+
+    def test_every_ats_we_can_fetch_is_covered(self):
+        kinds = {r["ats"] for r in self._tool().candidates("Verizon")}
+        assert {"icims", "greenhouse", "lever", "ashby", "workday"} <= kinds
+
+    def test_workday_candidates_carry_a_site_and_a_cluster(self):
+        # A Workday board is unaddressable without both.
+        rows = [r for r in self._tool().candidates("Verizon") if r["ats"] == "workday"]
+        assert rows
+        for row in rows:
+            assert row["site"] and row["wd"]
+
+    def test_every_candidate_ships_a_runnable_verify_command(self):
+        for row in self._tool().candidates("Cox Communications"):
+            assert row["verify"].startswith("python tools/verify_slug.py")
+            assert row["ats"] in row["verify"]
+            assert row["slug"] in row["verify"]
+
+    def test_ranks_are_dense_and_ordered(self):
+        rows = self._tool().candidates("Juniper Networks")
+        assert [r["rank"] for r in rows] == list(range(1, len(rows) + 1))
+
+    def test_no_duplicate_board_is_offered_twice(self):
+        rows = self._tool().candidates("Frontier Communications")
+        keys = [(r["ats"], r["slug"], r.get("site")) for r in rows]
+        assert len(keys) == len(set(keys))
