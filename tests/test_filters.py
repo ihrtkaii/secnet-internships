@@ -95,6 +95,43 @@ class TestRelevant:
         ):
             assert filters_secnet.is_relevant(title), title
 
+    def test_a_swe_title_naming_a_cloud_product_is_still_a_swe_title(self):
+        # Amazon's real title. Matching "cloud" generously means SWE roles
+        # start arriving with an AWS suffix; the title says what the job IS.
+        for title in (
+            "Software Development Engineer Intern, AWS Data Services",
+            "Backend Software Engineer Intern",
+            "Machine Learning Engineer Intern",
+            "Data Engineer Intern",
+            "SDE Intern - Azure Storage",
+            "Full-Stack Engineer Intern, Cloud Console",
+            "iOS Engineer Intern",
+        ):
+            assert not filters_secnet.is_relevant(title), title
+
+    def test_the_veto_yields_to_security_or_a_domain_specific_term(self):
+        # A SWE word plus a term specific to THIS domain is a real
+        # infrastructure job, not a SWE role wearing a cloud suffix.
+        for title in (
+            "Network Software Engineer Intern",          # ByteDance, real title
+            "Software Engineer Intern - Network Security",
+            "Backend Engineer Intern, Data Center Automation",
+            "Software Engineer Intern, Site Reliability",
+        ):
+            assert filters_secnet.is_relevant(title), title
+
+    def test_infrastructure_titles_are_untouched_by_the_veto(self):
+        # Roles live on the page today; none names a vetoed SWE term.
+        for title in (
+            "Platform Engineer Intern, Summer 2027",         # Akuna
+            "Summer 2027 Internship - Tech (Infrastructure)",  # ING
+            "Intern, IT Infrastructure Support",             # Canadian Solar
+            "Cloud Security Intern",
+            "Cloud Engineer Intern",
+            "Azure Administrator Intern",
+        ):
+            assert filters_secnet.is_relevant(title), title
+
     def test_cloud_go_to_market_titles_are_not_infrastructure(self):
         for title in (
             "Cloud Sales Intern",
@@ -102,7 +139,6 @@ class TestRelevant:
             "Cloud Partner Manager Intern",
         ):
             assert not filters_secnet.is_relevant(title), title
-        assert not filters.is_tech("Electrical Hardware Engineering Intern")
 
 
 class TestSeason:

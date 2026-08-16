@@ -121,6 +121,39 @@ HARD_HARDWARE_RE = re.compile(
     re.IGNORECASE,
 )
 
+# --------------------------------------------------------------------------
+# 3b. SOFTWARE-ENGINEERING VETO — the cost of matching "cloud" generously.
+#     Amazon's "Software Development Engineer Intern, AWS Data Services" is a
+#     SWE role that happens to name a cloud product, and it was being kept and
+#     labelled Cloud Platform. A veto is the right shape here rather than
+#     narrowing the cloud pattern again: the title says what the job IS.
+# --------------------------------------------------------------------------
+SWE_VETO_RE = re.compile(
+    r"\b("
+    r"software\s+engineer(?:ing)?|software\s+develop(?:er|ment)|sde\b|"
+    r"back\s?end|front[\s-]?end|full[\s-]?stack|"
+    r"application\s+(?:developer|engineer)|"
+    r"machine\s+learning|ml\s+engineer|research\s+engineer|"
+    r"data\s+scientist|data\s+engineer|"
+    r"mobile\s+engineer|ios\b|android"
+    r")\b",
+    re.IGNORECASE,
+)
+
+# What overrides the veto: terms that are specific to THIS domain. Deliberately
+# narrower than NETWORK_RE — "cloud", "platform" and "systems" are exactly the
+# words a SWE title borrows, so they must not rescue one. "Network Software
+# Engineer Intern" is a networking job; "SDE, AWS Data Services" is not.
+NET_DOMAIN_RE = re.compile(
+    r"\b("
+    r"network\w*|noc\b|telecom\w*|wireless|rf\b|fiber|optical\s+network|"
+    r"routing|switching|bgp|ospf|"
+    r"sysadmin|systems?\s+admin\w*|data\s?cent(?:er|re)|"
+    r"infrastructure|devops|devsecops|sre\b|site\s+reliability"
+    r")\b",
+    re.IGNORECASE,
+)
+
 INTERN_RE = re.compile(
     r"\b(intern|interns|internship|co[\s-]?op|cooperative\s+education|"
     r"apprentice(?:ship)?|summer analyst|campus)\b",
@@ -143,6 +176,12 @@ def is_relevant(title: str) -> bool:
     hit_sec = bool(SECURITY_RE.search(title))
     hit_net = bool(NETWORK_RE.search(title))
     if not (hit_sec or hit_net):
+        return False
+    # A software-engineering title stays out even when it names a cloud
+    # product, unless it also names security or a term specific to this
+    # domain — that combination is a real infrastructure job, not a SWE role
+    # wearing an "AWS" suffix.
+    if SWE_VETO_RE.search(title) and not (hit_sec or NET_DOMAIN_RE.search(title)):
         return False
     # Hardware terms only veto when the role isn't clearly sec/net anyway.
     if HARD_HARDWARE_RE.search(title) and not (hit_sec or hit_net):
