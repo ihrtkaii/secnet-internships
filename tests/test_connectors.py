@@ -12,6 +12,7 @@ from intern_engine.connectors import (
     breezy,
     eightfold,
     greenhouse,
+    icims,
     lever,
     oracle,
     recruitee,
@@ -849,3 +850,185 @@ class TestWorkdayRequisitionIdentity:
             FakeNet({"jobPostings": [posting]}),
         ))[0]
         assert mine.canonical_id != theirs.canonical_id
+
+
+class IcimsPagingNet:
+    """A portal that pages on `pr` and matches the keyword literally."""
+
+    def __init__(self, intern_total=3, coop_total=0, page_size=50, overlap=False):
+        self.intern_total = intern_total
+        self.coop_total = coop_total
+        self.page_size = page_size
+        # Whether the two searches return the SAME postings (a keyword hitting
+        # both) or disjoint ones. Both happen on real portals.
+        self.overlap = overlap
+        self.calls = []
+
+    def _count(self, term):
+        return {"intern": self.intern_total, "co-op": self.coop_total}.get(term, 0)
+
+    async def get_json(self, url, **kwargs):
+        params = kwargs["params"]
+        term, page = params["searchKeyword"], params["pr"]
+        self.calls.append((term, page))
+        total = self._count(term)
+        start = page * self.page_size
+        count = min(self.page_size, max(0, total - start))
+        base = 0 if (term == "intern" or self.overlap) else 1000
+        return {"jobs": [
+            {
+                "jobId": base + start + i,
+                "jobTitle": f"Network Technician Intern {base + start + i}",
+                "jobLocation": "Orlando, FL",
+                "jobUrl": f"/jobs/{base + start + i}/network-technician-intern/job",
+                "postedDate": "2026-08-01",
+            }
+            for i in range(count)
+        ]}
+
+
+class TestIcims:
+    company = {"name": "Orange County Public Schools", "slug": "ocps"}
+
+    def test_maps_a_posting_onto_the_job_contract(self):
+        job = _run(icims.fetch(self.company, IcimsPagingNet(1)))[0]
+        assert job.id == "icims:ocps:0"
+        assert job.source == "icims"
+        assert job.company == "Orange County Public Schools"
+        assert job.company_slug == "ocps"
+        assert job.title == "Network Technician Intern 0"
+        assert job.location == "Orlando, FL"
+        assert job.url == "https://ocps.icims.com/jobs/0/network-technician-intern/job"
+        assert job.posted_at == "2026-08-01T00:00:00Z"
+        assert job.board_key == "icims:ocps"
+
+    def test_a_complete_read_is_trusted_for_closing(self):
+        result = _fetch(icims.fetch(self.company, IcimsPagingNet(3)))
+        assert result.complete is True
+        assert result.incomplete_reason is None
+        assert len(result.jobs) == 3
+
+    def test_both_search_terms_are_asked_for(self):
+        # "intern" alone misses "Co-Op Technician", which is exactly the title
+        # shape these employers use.
+        net = IcimsPagingNet(1, coop_total=1)
+        result = _fetch(icims.fetch(self.company, net))
+        assert {term for term, _page in net.calls} == {"intern", "co-op"}
+        assert len(result.jobs) == 2
+
+    def test_overlapping_terms_do_not_duplicate_a_posting(self):
+        net = IcimsPagingNet(2, coop_total=2, overlap=True)  # one keyword, both hits
+        result = _fetch(icims.fetch(self.company, net))
+        assert len(result.jobs) == 2
+
+    def test_pagination_walks_past_the_first_page(self):
+        net = IcimsPagingNet(120, page_size=50)
+        result = _fetch(icims.fetch(self.company, net))
+        assert len(result.jobs) == 120
+        assert ("intern", 2) in net.calls
+        assert result.complete is True
+
+    def test_a_truncated_listing_is_not_a_complete_snapshot(self):
+        # More results than we are willing to page through: the snapshot is
+        # partial, so the pipeline must not close this employer's roles.
+        result = _fetch(icims.fetch(self.company, IcimsPagingNet(10_000)))
+        assert result.complete is False
+        assert result.incomplete_reason == INCOMPLETE_CAPPED
+
+    def test_a_portal_that_repeats_page_one_is_reported_as_stalled(self):
+        postings = [
+            {"jobId": i, "jobTitle": f"IT Intern {i}", "jobLocation": "Tampa, FL",
+             "jobUrl": f"/jobs/{i}/job"}
+            for i in range(50)
+        ]
+        result = _fetch(icims.fetch(self.company, FakeNet({"jobs": postings})))
+        assert result.complete is False
+        assert result.incomplete_reason == INCOMPLETE_STALLED
+
+    def test_a_malformed_payload_never_reads_as_an_empty_board(self):
+        # An error envelope parses fine and yields zero jobs, which looks
+        # exactly like an employer with no openings — and would close them all.
+        result = _fetch(icims.fetch(self.company, FakeNet({"error": "rate limited",
+                                                          "jobs": []})))
+        assert result.jobs == []
+        assert result.complete is False
+        assert result.incomplete_reason == INCOMPLETE_MALFORMED
+
+    def test_an_html_response_shape_is_malformed_not_empty(self):
+        result = _fetch(icims.fetch(self.company, FakeNet({"results": []})))
+        assert result.complete is False
+        assert result.incomplete_reason == INCOMPLETE_MALFORMED
+
+    def test_an_explicit_host_overrides_the_default_portal(self):
+        company = {"name": "AdventHealth", "slug": "adventhealth",
+                   "host": "careers-adventhealth.icims.com"}
+        job = _run(icims.fetch(company, IcimsPagingNet(1)))[0]
+        assert job.url.startswith("https://careers-adventhealth.icims.com/")
+
+
+class TestIcimsFieldTolerance:
+    """Portal versions spell the same field differently; the container is what
+    must be strict."""
+
+    company = {"name": "Acme Utility", "slug": "acme"}
+
+    def _job(self, posting):
+        return _run(icims.fetch(self.company, FakeNet({"jobs": [posting]})))[0]
+
+    def test_alternate_key_spellings_are_read(self):
+        job = self._job({"id": 77, "title": "NOC Intern", "location": "Miami, FL",
+                         "url": "https://acme.icims.com/jobs/77/job"})
+        assert job.id == "icims:acme:77"
+        assert job.title == "NOC Intern"
+        assert job.location == "Miami, FL"
+
+    def test_a_structured_location_is_flattened(self):
+        job = self._job({"jobId": 1, "jobTitle": "IT Intern",
+                         "jobLocation": {"city": "Orlando", "state": "FL",
+                                         "country": "US"}})
+        assert job.location == "Orlando, FL, US"
+
+    def test_a_missing_location_does_not_produce_a_blank_field(self):
+        job = self._job({"jobId": 1, "jobTitle": "IT Intern"})
+        assert job.location == "—"
+
+    def test_a_relative_url_is_resolved_against_the_portal(self):
+        job = self._job({"jobId": 5, "jobTitle": "IT Intern",
+                         "jobUrl": "/jobs/5/it-intern/job"})
+        assert job.url == "https://acme.icims.com/jobs/5/it-intern/job"
+
+    def test_a_posting_with_no_url_still_gets_a_real_link(self):
+        job = self._job({"jobId": 9, "jobTitle": "IT Intern"})
+        assert job.url == "https://acme.icims.com/jobs/9/job"
+
+    def test_the_requisition_number_is_kept_when_the_portal_sends_one(self):
+        job = self._job({"jobId": 3, "jobTitle": "IT Intern", "jobReqId": "2026-1234"})
+        assert job.requisition_id == "2026-1234"
+        # No cross-portal evidence, so no canonical merge is claimed.
+        assert job.canonical_id is None
+
+
+class TestIcimsDates:
+    company = {"name": "Acme Utility", "slug": "acme"}
+
+    def _job(self, **extra):
+        posting = {"jobId": 1, "jobTitle": "IT Intern", "jobLocation": "Tampa, FL"}
+        posting.update(extra)
+        return _run(icims.fetch(self.company, FakeNet({"jobs": [posting]})))[0]
+
+    def test_an_iso_day_becomes_a_real_posted_date(self):
+        assert self._job(postedDate="2026-07-04").posted_at == "2026-07-04T00:00:00Z"
+
+    def test_an_iso_timestamp_keeps_its_day(self):
+        assert self._job(postedDate="2026-07-04T13:22:01Z").posted_at == \
+            "2026-07-04T00:00:00Z"
+
+    def test_a_human_date_is_left_unknown_rather_than_guessed(self):
+        for raw in ("August 1, 2026", "Posted 3 weeks ago", "yesterday", ""):
+            assert self._job(postedDate=raw).posted_at is None, raw
+
+    def test_an_impossible_date_is_refused(self):
+        assert self._job(postedDate="2026-02-31").posted_at is None
+
+    def test_a_missing_date_is_none_not_today(self):
+        assert self._job().posted_at is None
