@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-16T09:51:54Z",
-  "fetched_at": "2026-08-16T09:51:54Z",
-  "duration_seconds": 849.9,
+  "generated_at": "2026-08-16T13:37:10Z",
+  "fetched_at": "2026-08-16T13:37:10Z",
+  "duration_seconds": 1054.3,
   "companies_total": 4422,
   "companies_by_source": {
     "greenhouse": 1021,
@@ -17,27 +17,25 @@
     "breezy": 12,
     "eightfold": 1
   },
-  "quarantined": 83,
-  "fetched_ok": 4026,
-  "fetch_errors": 313,
+  "quarantined": 216,
+  "fetched_ok": 4104,
+  "fetch_errors": 102,
   "errors_by_source": {
-    "workday": 178,
-    "lever": 29,
-    "ashby": 48,
-    "greenhouse": 39,
-    "workable": 19
+    "greenhouse": 1,
+    "workday": 97,
+    "workable": 4
   },
-  "fetch_success_rate": 0.928,
-  "fetch_success_rate_registry": 0.91,
-  "snapshots_complete": 3503,
-  "snapshots_partial": 523,
+  "fetch_success_rate": 0.976,
+  "fetch_success_rate_registry": 0.928,
+  "snapshots_complete": 3546,
+  "snapshots_partial": 558,
   "partial_by_reason": {
-    "result-cap": 521,
-    "malformed-response": 2
+    "result-cap": 557,
+    "malformed-response": 1
   },
-  "degraded_fetches": 2,
+  "degraded_fetches": 1,
   "roles_matched": 33,
-  "dropped_no_year_in_title": 93,
+  "dropped_no_year_in_title": 97,
   "dropped_offcycle_by_text": 7,
   "roles_cycle_inferred": 24,
   "roles_by_source": {
@@ -46,27 +44,28 @@
     "oracle": 2,
     "smartrecruiters": 1,
     "workable": 1,
-    "workday": 28
+    "workday": 28,
+    "amazon": 1
   },
   "roles_by_cycle": {
-    "Fall 2026": 3,
+    "Fall 2026": 4,
     "Summer 2027": 12,
     "Not stated": 24
   },
   "roles_by_region": {
-    "US": 39
+    "US": 40
   },
   "sponsorship_counts": {
-    "unknown": 21,
+    "unknown": 22,
     "no-sponsorship": 10,
     "citizens-only": 8
   },
   "posted_date_coverage": 1.0,
-  "enriched_this_run": 1,
+  "enriched_this_run": 2,
   "enrichment_detail_fetches": 0,
   "purged_this_run": 0,
-  "new_this_run": 0,
-  "open_total": 39,
+  "new_this_run": 1,
+  "open_total": 40,
   "detection_latency": {
     "median_minutes": null,
     "p95_minutes": null,
@@ -78,6 +77,5 @@
     "median_days": 10,
     "sample_size": 1
   },
-  "rendered_at": "2026-08-16T13:01:44Z",
-  "stats_basis": "counts recomputed from the store; fetch metrics from the last run"
+  "rendered_at": "2026-08-16T13:37:10Z"
 }

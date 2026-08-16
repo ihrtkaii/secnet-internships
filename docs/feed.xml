@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-08-16T09:51:54Z</updated>
+  <updated>2026-08-16T13:37:10Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10412530</id>
+    <title>Amazon: Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)</title>
+    <link href="https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us"/>
+    <updated>2026-08-16T13:37:10Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Cloud Platform · Seattle, Washington, USA · AWS, Python, Java, C++, C# · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:oneok:/job/Tulsa-OK/Cyber-Security-Intern---Tulsa--OK_R8449</id>
     <title>ONEOK: Cyber Security Intern - Tulsa, OK</title>
