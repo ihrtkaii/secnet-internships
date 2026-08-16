@@ -1,6 +1,6 @@
 from datetime import UTC, datetime
 
-from intern_engine import filters, sponsorship
+from intern_engine import filters, filters_secnet, sponsorship
 
 CYCLES = ["Summer 2027", "Fall 2026"]
 
@@ -22,52 +22,86 @@ class TestInternship:
         assert filters.is_internship("Cooperative Education Software Developer")
 
 
-class TestTech:
-    def test_keeps_software_and_ml(self):
-        assert filters.is_tech("Software Engineer Intern")
-        assert filters.is_tech("Machine Learning Intern")
-        assert filters.is_tech("Backend Developer Intern")
+class TestRelevant:
+    """The role gate the pipeline actually runs.
 
-    def test_drops_non_tech_and_hardware(self):
-        assert not filters.is_tech("Mechanical Engineering Intern")
-        assert not filters.is_tech("Technical Recruiting Intern")
-        assert not filters.is_tech("FPGA Hardware Intern")
+    filters.is_tech() is upstream's software-shaped gate and no longer calls
+    any production path — pipeline and tools/verify_accuracy.py both go through
+    filters_secnet.is_relevant(). These assert the replacement, because the
+    whole point of this fork is that a security/networking title survives a
+    filter that was written to find software engineers.
+    """
 
-    def test_drops_phd(self):
-        assert not filters.is_tech("PhD Machine Learning Intern")
-
-    def test_overloaded_mobile_and_programming_words_are_not_tech(self):
-        assert not filters.is_tech(
-            "2027 ETP Intern - Corporate Banking Group, Commercial Credit "
-            "Products, Mobile, AL"
-        )
-        assert not filters.is_tech(
-            "Current Programming Intern, Sony Pictures Television - Fall 2026"
-        )
-
-    def test_mobile_and_programming_keep_explicit_software_context(self):
+    def test_keeps_the_titles_upstream_silently_dropped(self):
         for title in (
-            "Mobile Application Engineer Intern",
-            "iOS Mobile Developer Intern",
-            "Computer Programming Intern",
-            "Software Programming Intern",
+            "Network Engineer Intern",
+            "SOC Analyst Intern",
+            "GRC Intern",
+            "Cloud Security Intern",
+            "NOC Intern",
         ):
-            assert filters.is_tech(title), title
+            assert filters_secnet.is_relevant(title), title
 
-    def test_verified_technical_role_families_are_kept(self):
+    def test_rejects_out_of_scope_roles(self):
         for title in (
-            "Quantitative Research Intern",
-            "Quant Research Intern",
-            "Quantitative Trading Intern",
-            "Cloud Engineer Intern",
-            "Database Engineer Intern",
+            "Software Engineer Intern",
+            "Quantitative Trader Intern",
+            "Marketing Intern",
+            "Provider Network Analyst",
+        ):
+            assert not filters_secnet.is_relevant(title), title
+
+    def test_keeps_the_wider_security_and_infra_families(self):
+        for title in (
+            "Threat Intelligence Intern",
+            "Penetration Testing Intern",
+            "IT Audit Intern",
+            "Systems Administrator Intern",
             "DevSecOps Intern",
+            "Help Desk Intern",
+            "Wireless Network Co-op",
         ):
-            assert filters.is_tech(title), title
+            assert filters_secnet.is_relevant(title), title
 
-    def test_software_first_hardware_titles_are_kept(self):
-        assert filters.is_tech("Embedded Software / Hardware Intern")
-        assert filters.is_tech("Firmware Engineering Intern - Electrical Systems")
+    def test_hardware_and_non_tech_are_still_out(self):
+        for title in (
+            "Mechanical Engineering Intern",
+            "Technical Recruiting Intern",
+            "Machine Learning Intern",
+            "Backend Developer Intern",
+        ):
+            assert not filters_secnet.is_relevant(title), title
+
+    def test_people_networks_are_not_computer_networks(self):
+        # "network" is the fork's highest-value keyword and its most overloaded
+        # one; these are the senses that must never reach the list.
+        for title in (
+            "Networking Event Coordinator Intern",
+            "Provider Network Intern",
+            "Broadcast Network Intern",
+            "Network Development Representative Intern",
+        ):
+            assert not filters_secnet.is_relevant(title), title
+
+    def test_cloud_titles_survive_without_a_blessed_suffix(self):
+        # These were dropped outright while "cloud" only matched ahead of five
+        # fixed words — the reason no cloud role ever reached the page.
+        for title in (
+            "Cloud Solutions Intern",
+            "Cloud Architect Intern",
+            "Public Cloud Intern",
+            "Azure Intern",
+            "AWS Intern",
+        ):
+            assert filters_secnet.is_relevant(title), title
+
+    def test_cloud_go_to_market_titles_are_not_infrastructure(self):
+        for title in (
+            "Cloud Sales Intern",
+            "Cloud Marketing Intern",
+            "Cloud Partner Manager Intern",
+        ):
+            assert not filters_secnet.is_relevant(title), title
         assert not filters.is_tech("Electrical Hardware Engineering Intern")
 
 
@@ -324,10 +358,73 @@ class TestRemote:
 
 
 class TestCategory:
-    def test_categories(self):
-        assert filters.categorize("Software Engineer Intern") == "Software"
-        assert filters.categorize("Machine Learning Intern") == "Data & ML/AI"
-        assert filters.categorize("Cybersecurity Intern") == "Security"
+    """Subcategories as the pipeline stamps them (filters_secnet.categorize)."""
+
+    def test_security_subcategories(self):
+        cases = {
+            "SOC Analyst Intern": "SOC / Detection",
+            "Threat Hunting Intern": "SOC / Detection",
+            "Application Security Intern": "AppSec / Product Sec",
+            "Penetration Testing Intern": "AppSec / Product Sec",
+            "GRC Intern": "GRC / Risk",
+            "IT Audit Intern": "GRC / Risk",
+            "Cloud Security Intern": "Cloud & Infra Sec",
+            "Network Security Intern": "Cloud & Infra Sec",
+            "Cybersecurity Intern": "Security (general)",
+        }
+        for title, expected in cases.items():
+            assert filters_secnet.categorize(title) == expected, title
+
+    def test_network_and_infra_subcategories(self):
+        cases = {
+            "Network Engineer Intern": "Network / Telecom",
+            "Wireless Network Co-op": "Network / Telecom",
+            "Azure Intern": "Cloud Platform",
+            "Cloud Solutions Intern": "Cloud Platform",
+            "Systems Administrator Intern": "Systems & Cloud Infra",
+            "Linux Engineering Intern": "Systems & Cloud Infra",
+            "Help Desk Intern": "IT Support / Ops",
+        }
+        for title, expected in cases.items():
+            assert filters_secnet.categorize(title) == expected, title
+
+    def test_cloud_platform_outranks_the_generic_infra_bucket(self):
+        # "Cloud Platform" sits above "Systems & Cloud Infra" in _SUBCATS, so a
+        # title naming a cloud platform is labelled as one instead of vanishing
+        # into the sysadmin bucket.
+        assert filters_secnet.categorize("Cloud Engineer Intern") == "Cloud Platform"
+
+    def test_unmatched_titles_fall_back_to_other(self):
+        assert filters_secnet.categorize("") == "Other"
+
+
+class TestTracks:
+    """Which reader's table a role lands in."""
+
+    def test_security_titles_go_to_the_security_track(self):
+        for title in ("SOC Analyst Intern", "GRC Intern", "Cybersecurity Intern"):
+            assert filters_secnet.tracks_of(title) == ("security",), title
+
+    def test_network_and_infra_titles_go_to_the_network_track(self):
+        for title in ("Network Engineer Intern", "Help Desk Intern",
+                      "Azure Intern", "Systems Administrator Intern"):
+            assert filters_secnet.tracks_of(title) == ("network",), title
+
+    def test_a_title_naming_both_lands_in_both_tracks(self):
+        # The dual-track rule: "Cloud Security Intern" is genuinely both
+        # readers' job, and filing it under security alone meant the networking
+        # reader never saw a role written for them.
+        for title in ("Cloud Security Intern", "Network Security Intern",
+                      "Infrastructure Security Intern"):
+            assert filters_secnet.tracks_of(title) == ("security", "network"), title
+
+    def test_track_of_reports_the_primary_track_of_a_dual_role(self):
+        assert filters_secnet.track_of("Cloud Security Intern") == "security"
+        assert filters_secnet.track_of("Network Engineer Intern") == "network"
+
+    def test_unclassifiable_titles_get_their_own_track(self):
+        assert filters_secnet.tracks_of("") == ("other",)
+        assert filters_secnet.track_of("IT Operations Intern") == "other"
 
 
 class TestCycleUnstatedOk:
@@ -380,15 +477,15 @@ class TestCycleUnstatedOk:
         assert filters.NOT_STATED not in CYCLES
 
 
-class TestTechScopeExclusions:
+class TestScopeExclusions:
     def test_non_tech_roles_with_ai_bait_excluded(self):
-        assert not filters.is_tech("Digital Marketer Intern-Align AI")
-        assert not filters.is_tech("Account Management AI Intern")
-        assert not filters.is_tech("Unpaid Programming Intern")
+        assert not filters_secnet.is_relevant("Digital Marketer Intern-Align AI")
+        assert not filters_secnet.is_relevant("Account Management AI Intern")
 
-    def test_real_tech_titles_still_pass(self):
-        assert filters.is_tech("Programming Intern")
-        assert filters.is_tech("AI Software Engineer Intern")
+    def test_seniority_is_not_an_internship(self):
+        assert not filters_secnet.is_internship("Senior Network Engineer")
+        assert not filters_secnet.is_internship("Lead SOC Analyst")
+        assert filters_secnet.is_internship("Network Engineer Intern")
 
 
 class TestSeasonFromText:

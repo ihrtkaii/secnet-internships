@@ -1,32 +1,49 @@
-"""Static dashboard contracts for freshness, saves, and double opt-in."""
+"""Static dashboard contracts for freshness and saved roles."""
 
 from intern_engine import dashboard, paths
 
 
-def test_dashboard_uses_fetch_time_and_prunes_ghost_saves():
-    store = {
+def _store():
+    return {
         "a": {
-            "id": "a", "company": "Acme", "title": "SWE Intern",
+            "id": "a", "company": "Acme", "title": "SOC Analyst Intern",
             "season": "Summer 2027", "seasons": ["Summer 2027"],
-            "season_inferred": False, "category": "Software",
+            "season_inferred": False, "category": "SOC / Detection",
             "location": "Austin, TX", "url": "https://x/1", "is_open": True,
             "posted_at": "2026-08-05T00:00:00Z",
             "first_seen_at": "2026-08-05T01:00:00Z",
             "sponsorship": "unknown", "skills": [], "source": "greenhouse",
         }
     }
-    stats = {
+
+
+def _stats():
+    return {
         "generated_at": "2026-08-06T14:08:27Z", "companies_total": 1,
         "companies_by_source": {"greenhouse": 1}, "open_total": 1,
     }
-    dashboard.generate(store, stats)
+
+
+def test_dashboard_uses_fetch_time_and_prunes_ghost_saves():
+    dashboard.generate(_store(), _stats())
     html = open(paths.DASHBOARD_PATH, encoding="utf-8").read()
     assert "Data as of Aug 06, 2026 at 14:08 UTC" in html
     assert "if (!currentIds[id]) delete saved[id]" in html
-    assert "/rest/v1/rpc/request_email_subscription" in html
-    confirm = open(f"{paths.DOCS_DIR}/confirm.html", encoding="utf-8").read()
-    assert "/rest/v1/rpc/confirm_email_subscription" in confirm
-    assert "go.addEventListener('click'" in confirm
+
+
+def test_no_signup_form_when_no_mailer_is_configured():
+    """This fork runs no mailer.
+
+    data/config.json leaves supabase_url/supabase_publishable_key empty, so
+    config.signup_endpoint() returns None and _signup_section() renders
+    nothing. Asserting the absence is the real contract: a subscribe box that
+    POSTs into an unconfigured endpoint would collect addresses and silently
+    drop them.
+    """
+    dashboard.generate(_store(), _stats())
+    html = open(paths.DASHBOARD_PATH, encoding="utf-8").read()
+    assert "/rest/v1/rpc/request_email_subscription" not in html
+    assert 'id="subscribe"' not in html
 
 
 def _opening(jid, **extra):

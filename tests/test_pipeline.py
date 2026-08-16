@@ -85,7 +85,7 @@ def test_partial_out_of_scope_alias_closes_the_stored_owner():
             "source": "greenhouse",
             "company": "Acme",
             "company_slug": "old",
-            "title": "Software Engineer Intern",
+            "title": "Network Engineer Intern",
             "location": "Austin, TX",
             "url": "https://example.com/old",
             "season": "Summer 2027",
@@ -98,7 +98,7 @@ def test_partial_out_of_scope_alias_closes_the_stored_owner():
     }
     alias = models.Job(
         id="greenhouse:new:2", source="greenhouse", company="Acme",
-        company_slug="new", title="Software Engineer Intern",
+        company_slug="new", title="Network Engineer Intern",
         location="Paris, France", url="https://example.com/new",
         canonical_id="canonical-1",
     )
@@ -130,7 +130,7 @@ def test_alias_change_reuses_the_stored_verified_cycle():
             "source": "greenhouse",
             "company": "Acme",
             "company_slug": "old",
-            "title": "Software Engineer Intern",
+            "title": "Network Engineer Intern",
             "location": "Austin, TX",
             "url": "https://example.com/old",
             "season": "Summer 2027",
@@ -144,7 +144,7 @@ def test_alias_change_reuses_the_stored_verified_cycle():
     }
     alias = models.Job(
         id="greenhouse:new:2", source="greenhouse", company="Acme",
-        company_slug="new", title="Software Engineer Intern",
+        company_slug="new", title="Network Engineer Intern",
         location="Austin, TX", url="https://example.com/new",
         canonical_id="canonical-1",
     )
@@ -257,7 +257,7 @@ class TestStickySeasons:
         from intern_engine.models import Job
         posted = (datetime.now(UTC) - timedelta(days=posted_days_ago)).strftime("%Y-%m-%d")
         job = Job(id="greenhouse:acme:1", source="greenhouse", company="Acme",
-                  company_slug="acme", title="Software Engineer Intern",
+                  company_slug="acme", title="Network Engineer Intern",
                   location="New York, NY", url="https://x",
                   posted_at=f"{posted}T00:00:00Z")
         return [({"ats": "greenhouse", "slug": "acme", "name": "Acme"},
@@ -347,15 +347,15 @@ class TestAgeCutoff:
         # Amazon's "Fall 2026 (US)" internship was posted early and is still
         # open and still for Fall 2026. Closing it for age was us overriding
         # what the company wrote.
-        kept = self._keep("Software Development Engineer Internship - Fall 2026 (US)", 300)
+        kept = self._keep("Network Engineer Internship - Fall 2026 (US)", 300)
         assert [j.season for j in kept] == ["Fall 2026"]
 
     def test_old_and_only_inferred_is_dropped(self):
         # No stated cycle: recency was the ONLY evidence, and it's gone.
-        assert self._keep("Software Engineer Intern", 300) == []
+        assert self._keep("Network Engineer Intern", 300) == []
 
     def test_recent_unstated_is_kept_without_a_cycle(self):
-        kept = self._keep("Software Engineer Intern", 3)
+        kept = self._keep("Network Engineer Intern", 3)
         assert [(j.season, j.season_inferred) for j in kept] == [
             (filters.NOT_STATED, True)]
 
@@ -369,7 +369,7 @@ class TestRegionConfig:
         from intern_engine.models import Job
         posted = (datetime.now(UTC) - timedelta(days=3)).strftime("%Y-%m-%d")
         job = Job(id="greenhouse:acme:1", source="greenhouse", company="Acme",
-                  company_slug="acme", title="Software Engineer Intern, Summer 2027",
+                  company_slug="acme", title="Network Engineer Intern, Summer 2027",
                   location=location, url="https://x",
                   posted_at=f"{posted}T00:00:00Z")
         return [({"ats": "greenhouse", "slug": "acme", "name": "Acme"},
