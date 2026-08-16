@@ -292,6 +292,14 @@ def _radar_section(store_data: dict, cfg: dict, data_as_of: datetime | None = No
     rows = radar.rows(store_data, cycle, today=data_as_of.date() if data_as_of else None)
     if not rows:
         return ""
+    # Same guard as the README's radar section: nothing waiting and nothing
+    # dropped means there is no forecast here, only "open now" rows echoing the
+    # table above. The section returns on its own once the engine observes a
+    # real drop date to project from.
+    has_waiting = any(r["status"] == "waiting" and radar.is_actionable(r) for r in rows)
+    has_dropped = any(r["status"] == "dropped" for r in rows)
+    if not has_waiting and not has_dropped:
+        return ""
     return f"""
   <h2 id="radar">📅 Drop Radar — when companies usually post
     (<span id="rcount">{len(rows)}</span>)</h2>

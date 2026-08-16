@@ -1,6 +1,17 @@
 """Static dashboard contracts for freshness and saved roles."""
 
-from intern_engine import dashboard, paths
+from intern_engine import dashboard, paths, radar
+
+
+def _radar_row(status, **extra):
+    row = {
+        "company": "Acme", "last_cycle_posted": "", "posted_on": "",
+        "precision": "day", "rolling": False, "confidence": "verified",
+        "source": "engine", "expected": "", "days_until": None,
+        "status": status, "url": "https://x/1", "note": "", "provenance": {},
+    }
+    row.update(extra)
+    return row
 
 
 def _store():
@@ -44,6 +55,44 @@ def test_no_signup_form_when_no_mailer_is_configured():
     html = open(paths.DASHBOARD_PATH, encoding="utf-8").read()
     assert "/rest/v1/rpc/request_email_subscription" not in html
     assert 'id="subscribe"' not in html
+
+
+class TestRadarGuard:
+    """The radar is a forecast. With nothing waiting and nothing dropped it is
+    only repeating the table above it, so the section is dropped entirely."""
+
+    def _html(self, monkeypatch, rows):
+        monkeypatch.setattr(radar, "rows", lambda *a, **k: rows)
+        dashboard.generate(_store(), _stats())
+        return open(paths.DASHBOARD_PATH, encoding="utf-8").read()
+
+    def test_absent_when_every_row_is_an_open_now_echo(self, monkeypatch):
+        html = self._html(monkeypatch, [_radar_row("open"), _radar_row("open")])
+        assert 'id="radar"' not in html
+        assert "Drop Radar" not in html
+
+    def test_present_when_a_company_is_still_waiting(self, monkeypatch):
+        html = self._html(monkeypatch, [
+            _radar_row("open"),
+            _radar_row("waiting", company="Beta", expected="2026-09-01", days_until=16),
+        ])
+        assert 'id="radar"' in html
+
+    def test_present_when_a_company_already_dropped(self, monkeypatch):
+        html = self._html(monkeypatch, [
+            _radar_row("dropped", posted_on="2026-07-13", expected="2026-07-13"),
+        ])
+        assert 'id="radar"' in html
+
+    def test_an_elapsed_window_does_not_count_as_a_forecast(self, monkeypatch):
+        # A "waiting" row whose window is long past is not actionable, so it
+        # cannot hold the section open on its own.
+        html = self._html(monkeypatch, [
+            _radar_row("open"),
+            _radar_row("waiting", company="Beta", expected="2026-01-01",
+                       days_until=-200),
+        ])
+        assert 'id="radar"' not in html
 
 
 def _opening(jid, **extra):

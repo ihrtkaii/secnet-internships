@@ -4,19 +4,38 @@ import csv
 
 import pytest
 
-from intern_engine import paths, readme
+from intern_engine import paths, radar, readme
 
 
 def _rec(jid, **extra):
     rec = {
-        "id": jid, "company": "Acme", "title": "Software Engineer Intern",
-        "season": "Summer 2027", "season_inferred": False, "category": "Software",
+        "id": jid, "company": "Acme", "title": "Network Engineer Intern",
+        "season": "Summer 2027", "season_inferred": False,
+        "category": "Network / Telecom",
         "location": "Austin, TX", "url": f"https://x/{jid}", "is_open": True,
         "posted_at": "2026-07-01T00:00:00Z", "first_seen_at": "2026-07-01T00:00:00Z",
         "sponsorship": "unknown", "skills": [],
     }
     rec.update(extra)
     return rec
+
+
+SECURITY = "## 🔐 Security"
+NETWORK = "## 🌐 Network & Infrastructure"
+
+
+def _track(text: str, heading: str) -> str:
+    """The body of one top-level track section.
+
+    Cycle headings are `###` nested inside a `##` track heading, so a bare
+    `"## Summer 2027" in text` check passes on the `###` heading by pure
+    substring luck and proves nothing about where the section actually sits.
+    Slicing the track out first makes the nesting the thing under test.
+    """
+    assert heading in text, f"no {heading!r} section in:\n{text}"
+    body = text.split(heading, 1)[1]
+    rest = [i for i in (body.find("\n## "),) if i != -1]
+    return body[: rest[0]] if rest else body
 
 
 @pytest.fixture
@@ -32,12 +51,13 @@ class TestEvidenceSplit:
     def test_inferred_roles_get_their_own_section(self, outputs):
         store = {
             "a": _rec("a"),
-            "b": _rec("b", season_inferred=True, title="Backend Intern"),
+            "b": _rec("b", season_inferred=True, title="Systems Administrator Intern"),
         }
         readme.generate(store)
         text = (outputs / "README.md").read_text(encoding="utf-8")
-        assert "## Summer 2027  (1 employer-stated)" in text
-        assert "Recently posted — cycle not stated  (1 roles)" in text
+        network = _track(text, NETWORK)
+        assert "### Summer 2027  (1 employer-stated)" in network
+        assert "### Recently posted — cycle not stated  (1 roles)" in network
         # No guessed cycle anywhere: the lane states the absence, not a value.
         assert "~Summer 2027" not in text
         assert "Likely cycle" not in text
@@ -56,7 +76,9 @@ class TestEvidenceSplit:
     def test_no_rolling_section_when_everything_is_stated(self, outputs):
         readme.generate({"a": _rec("a")})
         text = (outputs / "README.md").read_text(encoding="utf-8")
-        assert "## Recently posted" not in text
+        # The heading, not the phrase — the legend up top names the lane in
+        # prose whether or not any role is in it.
+        assert "### Recently posted" not in text
 
     def test_role_rows_render_skill_tags(self, outputs):
         readme.generate({"a": _rec("a", skills=["Python", "React", "SQL"])})
@@ -70,15 +92,66 @@ class TestEvidenceSplit:
         assert "| No skills listed |" in text
 
 
+class TestTrackSplit:
+    """Two readers, two tables. The cycle split lives inside the track split."""
+
+    def test_each_track_is_a_top_level_section_with_cycles_nested_under_it(
+            self, outputs):
+        store = {
+            "a": _rec("a", title="SOC Analyst Intern"),
+            "b": _rec("b", title="Network Engineer Intern"),
+        }
+        readme.generate(store)
+        text = (outputs / "README.md").read_text(encoding="utf-8")
+        # The track headings are top-level, and each one owns its own cycle
+        # subsection — not one shared cycle heading with both roles under it.
+        assert f"\n{SECURITY}\n" in text
+        assert f"\n{NETWORK}\n" in text
+        assert "\n## Summer 2027" not in text
+        for track in (SECURITY, NETWORK):
+            body = _track(text, track)
+            assert "### Summer 2027  (1 employer-stated)" in body
+        assert "SOC Analyst Intern" in _track(text, SECURITY)
+        assert "SOC Analyst Intern" not in _track(text, NETWORK)
+
+    def test_a_security_role_does_not_leak_into_the_network_table(self, outputs):
+        readme.generate({"a": _rec("a", title="SOC Analyst Intern")})
+        text = (outputs / "README.md").read_text(encoding="utf-8")
+        assert NETWORK not in text
+
+    def test_a_dual_track_role_is_rendered_in_both_tables(self, outputs):
+        # "Cloud Security Intern" names both a security and a cloud term, so
+        # it belongs to both readers — filing it under security alone hid it
+        # from the networking table.
+        readme.generate({"a": _rec("a", title="Cloud Security Intern")})
+        text = (outputs / "README.md").read_text(encoding="utf-8")
+        assert "Cloud Security Intern" in _track(text, SECURITY)
+        assert "Cloud Security Intern" in _track(text, NETWORK)
+
+    def test_a_dual_track_role_is_still_counted_once(self, outputs):
+        # Rendering it twice is a layout decision, not a claim that the
+        # employer opened two jobs.
+        out = readme.generate({"a": _rec("a", title="Cloud Security Intern")})
+        assert out["open"] == 1
+
+    def test_off_track_roles_get_the_third_section(self, outputs):
+        readme.generate({"a": _rec("a", title="IT Operations Intern")})
+        text = (outputs / "README.md").read_text(encoding="utf-8")
+        assert "## 🗂️ Other" in text
+        assert SECURITY not in text
+        assert NETWORK not in text
+
+
 class TestMultiCycleRendering:
     def test_role_appears_under_every_cycle_it_states(self, outputs):
-        store = {"a": _rec("a", title="SWE Internship (Fall 2026/Summer 2027)",
+        store = {"a": _rec("a", title="Network Engineer Intern (Fall 2026/Summer 2027)",
                            season="Summer 2027",
                            seasons=["Summer 2027", "Fall 2026"])}
         readme.generate(store)
         text = (outputs / "README.md").read_text(encoding="utf-8")
-        assert "## Summer 2027  (1 employer-stated)" in text
-        assert "## Fall 2026  (1 employer-stated)" in text
+        network = _track(text, NETWORK)
+        assert "### Summer 2027  (1 employer-stated)" in network
+        assert "### Fall 2026  (1 employer-stated)" in network
 
     def test_it_is_counted_once_not_twice(self, outputs):
         store = {"a": _rec("a", seasons=["Summer 2027", "Fall 2026"])}
@@ -183,7 +256,7 @@ class TestIdenticalOpenings:
     def test_the_table_shows_one_row(self, outputs):
         readme.generate(self._store())
         text = (outputs / "README.md").read_text(encoding="utf-8")
-        assert text.count("| Acme | Software Engineer Intern") == 1
+        assert text.count("| Acme | Network Engineer Intern") == 1
 
     def test_the_row_says_how_many_openings(self, outputs):
         readme.generate(self._store())
@@ -216,7 +289,39 @@ class TestIdenticalOpenings:
         store["1"]["location"] = "Seattle, WA"
         readme.generate(store)
         text = (outputs / "README.md").read_text(encoding="utf-8")
-        assert text.count("| Acme | Software Engineer Intern") == 2
+        assert text.count("| Acme | Network Engineer Intern") == 2
         # No row claims a count (the legend explaining the marker is not a row).
         rows = [ln for ln in text.splitlines() if ln.startswith("| Acme |")]
         assert rows and not any("openings)" in ln for ln in rows)
+
+
+class TestRadarGuard:
+    """Same rule as the dashboard: no forecast, no section."""
+
+    def _radar_row(self, status, **extra):
+        row = {
+            "company": "Acme", "last_cycle_posted": "", "posted_on": "",
+            "precision": "day", "rolling": False, "confidence": "verified",
+            "source": "engine", "expected": "", "days_until": None,
+            "status": status, "url": "https://x/1", "note": "", "provenance": {},
+        }
+        row.update(extra)
+        return row
+
+    def test_absent_when_every_row_is_an_open_now_echo(self, outputs, monkeypatch):
+        monkeypatch.setattr(radar, "rows",
+                            lambda *a, **k: [self._radar_row("open")])
+        readme.generate({"a": _rec("a")})
+        text = (outputs / "README.md").read_text(encoding="utf-8")
+        assert "Drop Radar" not in text
+        assert 'id="drop-radar"' not in text
+
+    def test_present_when_a_company_is_still_waiting(self, outputs, monkeypatch):
+        monkeypatch.setattr(radar, "rows", lambda *a, **k: [
+            self._radar_row("open"),
+            self._radar_row("waiting", company="Beta", expected="2026-09-01",
+                            days_until=16),
+        ])
+        readme.generate({"a": _rec("a")})
+        text = (outputs / "README.md").read_text(encoding="utf-8")
+        assert "Drop Radar" in text

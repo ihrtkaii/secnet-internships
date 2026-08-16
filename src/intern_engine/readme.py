@@ -234,7 +234,8 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
             employers: int | None = None,
             shown: int | None = None, stated: int | None = None,
             inferred: int | None = None,
-            data_as_of: str | None = None) -> list[str]:
+            data_as_of: str | None = None,
+            has_radar: bool = True) -> list[str]:
     """The README's opening block.
 
     `total_open` is every open role (what the API and dashboard report); `shown`
@@ -245,6 +246,10 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
     `stated` / `inferred` split the total by cycle EVIDENCE. Leading with that
     split is the whole pitch: a smaller number you can trust beats a bigger one
     that quietly includes 46% guesses.
+
+    `has_radar` says whether the Drop Radar section will actually be rendered
+    below. The pitch table links to its anchor, so advertising it when the
+    section is absent leaves a link that scrolls nowhere.
     """
     count_phrase = f"{total_open} open roles"
     if shown is not None and shown != total_open:
@@ -314,11 +319,11 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         # lines each and the distinguishing word was buried mid-sentence.
         "| | |",
         "|---|---|",
-        "| 📅 **[Drop Radar](#drop-radar)** | A forecast of **what's coming**. "
-        "Each marquee company's typical opening window, replaced by the real "
-        "drop date the moment the engine catches it live. Windows are estimates "
-        "and labelled as such; only dates the engine saw itself are marked "
-        "verified. |",
+        *(["| 📅 **[Drop Radar](#drop-radar)** | A forecast of **what's coming**. "
+           "Each marquee company's typical opening window, replaced by the real "
+           "drop date the moment the engine catches it live. Windows are estimates "
+           "and labelled as such; only dates the engine saw itself are marked "
+           "verified. |"] if has_radar else []),
         "| 🛂 **Visa intel, computed** | 🇺🇸 / 🛂 flags detected automatically from "
         "every job description, plus ✓ for employers with a real H-1B track "
         "record (USCIS data, FY2022-23 — a history, not a promise). The big "
@@ -677,10 +682,13 @@ def generate(store_data: dict, data_as_of: str | None = None) -> dict:
     )
 
     endpoints, employers = _company_count()
+    # Built before the header so the pitch table only advertises the radar when
+    # the radar is actually going to be there to link to.
+    radar_lines = _radar_section(store_data, cycles[0], data_as_of=data_as_of)
     lines = _header(cfg, len(open_jobs), endpoints,
                     _new_this_week(open_jobs, data_as_of), employers=employers,
                     shown=shown_total, stated=len(stated), inferred=len(inferred),
-                    data_as_of=data_as_of)
+                    data_as_of=data_as_of, has_radar=bool(radar_lines))
     
     for track in TRACK_ORDER:
         track_sections = [
@@ -733,7 +741,7 @@ def generate(store_data: dict, data_as_of: str | None = None) -> dict:
         )
         lines.append("")
 
-    lines.extend(_radar_section(store_data, cycles[0], data_as_of=data_as_of))
+    lines.extend(radar_lines)
     lines.extend(_closed_section(store_data, cycles, data_as_of=data_as_of))
     lines.extend(_footer())
 
