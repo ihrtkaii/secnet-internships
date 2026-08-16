@@ -300,6 +300,25 @@ def states_explicit_year(title: str) -> bool:
     return bool(_YEAR_RE.search(scannable) or _SHORT_YEAR_RE.search(scannable))
 
 
+def states_offcycle_year(title: str, cycles=("Summer 2027", "Fall 2026")) -> bool:
+    """True when the title names a year and none of it resolves to a tracked cycle.
+
+    The ONE definition of "off-cycle", because the two places that decide it
+    drifted apart. `detect_seasons` reports TERM+YEAR evidence only, so it
+    returns [] for a bare-year title like "2027 IT Intern" — while
+    `detect_season` resolves exactly that to Summer 2027. A caller that asked
+    the plural form therefore read every bare-year title as off-cycle, and the
+    store sweep closed valid roles (Solar Turbines' "2027 IT Intern", Fifth
+    Third's "2027 IT Audit Intern", Motorola's "R&D Intern - Wireless Systems
+    Engineer - 2026") that the intake path had just accepted.
+
+    Resolution goes through `detect_season`, which is what intake uses.
+    """
+    if not title:
+        return False
+    return states_explicit_year(title) and detect_season(title, cycles) is None
+
+
 def detect_season(title: str, cycles=("Summer 2027", "Fall 2026"), *_ignored) -> str | None:
     """Bucket a title into a cycle ONLY if the year is explicit in the title.
 

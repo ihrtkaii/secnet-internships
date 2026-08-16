@@ -662,11 +662,11 @@ def _close_out_of_scope(existing: dict, cfg: dict, blocklist: dict | None = None
         }
         has_cycle_evidence = "season" in record or "seasons" in record
         posted = _parse_iso(record.get("posted_at"))
-        explicit_offcycle = bool(
-            title
-            and filters.states_explicit_year(title)
-            and not filters.detect_seasons(title, tuple(cycles))
-        )
+        # Must ask the same question intake asked. This used to test
+        # detect_seasons(), which reports term+year evidence only and returns
+        # [] for a bare year — so "2027 IT Intern", accepted by _keep_matching
+        # as Summer 2027, was closed here as off-cycle on the next run.
+        explicit_offcycle = filters.states_offcycle_year(title, tuple(cycles))
         expired_unstated = bool(
             record.get("season_inferred") and posted and posted.date() < infer_cutoff
         )

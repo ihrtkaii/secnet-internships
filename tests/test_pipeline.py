@@ -479,3 +479,93 @@ class TestRetireGuessedCycles:
                                   "seasons": ["Summer 2027", "Fall 2026"]}})
         assert n == 1
         assert "seasons" not in out["a"]
+
+
+class TestOffCycleAgreement:
+    """Intake and the store sweep must answer "is this off-cycle?" identically.
+
+    They didn't: _keep_matching resolves a title with detect_season(), which
+    maps a bare "2027" to Summer 2027, while _close_out_of_scope tested
+    detect_seasons(), which reports term+year evidence only and returns [] for
+    the same title. Every bare-year role was therefore accepted on fetch and
+    closed as off-cycle on the very next run.
+    """
+
+    CYCLES = ("Summer 2027", "Fall 2026")
+
+    # The three roles the live store carried when this was found, plus the
+    # genuinely off-cycle title that must still close.
+    IN_CYCLE = (
+        "2027 IT Intern",                                # Solar Turbines
+        "2027 IT Audit Intern",                          # Fifth Third Bank
+        "R&D Intern - Wireless Systems Engineer - 2026",  # Motorola
+    )
+    OFF_CYCLE = (
+        "Summer 2026 Network Intern",
+        "Fall 2027 IT Intern",
+        "2025 Network Technician Intern",
+    )
+
+    def test_a_bare_year_is_not_off_cycle(self):
+        for title in self.IN_CYCLE:
+            assert filters.detect_season(title, self.CYCLES) is not None, title
+            assert not filters.states_offcycle_year(title, self.CYCLES), title
+
+    def test_a_genuinely_untracked_year_still_is(self):
+        for title in self.OFF_CYCLE:
+            assert filters.detect_season(title, self.CYCLES) is None, title
+            assert filters.states_offcycle_year(title, self.CYCLES), title
+
+    def test_a_yearless_title_is_not_off_cycle(self):
+        # No year stated at all is "unknown", not "wrong year" — those roles
+        # go to the cycle-not-stated lane instead of being closed.
+        for title in ("Network Engineer Intern", "SOC Analyst Co-op", ""):
+            assert not filters.states_offcycle_year(title, self.CYCLES), title
+
+    def test_the_verdict_matches_what_intake_would_decide(self):
+        # The anti-drift guard: intake's rule is "detect_season found nothing
+        # AND the title names a year". Any future edit to either side that
+        # breaks this equality reopens the bug.
+        for title in self.IN_CYCLE + self.OFF_CYCLE + ("Network Intern",):
+            intake = (filters.detect_season(title, self.CYCLES) is None
+                      and filters.states_explicit_year(title))
+            assert filters.states_offcycle_year(title, self.CYCLES) is intake, title
+
+
+class TestBareYearRolesSurviveTheStoreSweep:
+    """End-to-end: the sweep must not close roles intake just accepted."""
+
+    CFG = {"cycles": ["Summer 2027", "Fall 2026"], "regions": ["US"],
+           "role_scope": "tech", "infer_undated": True, "infer_max_age_days": 120}
+
+    def _record(self, title, season, **extra):
+        rec = {
+            "id": f"greenhouse:acme:{abs(hash(title)) % 9999}",
+            "company": "Acme", "title": title, "season": season,
+            "season_inferred": False, "location": "Orlando, FL",
+            "url": "https://x/1", "is_open": True,
+            "posted_at": "2026-08-01T00:00:00Z",
+            "first_seen_at": "2026-08-01T00:00:00Z",
+        }
+        rec.update(extra)
+        return rec
+
+    def _sweep(self, records):
+        existing = {r["id"]: r for r in records}
+        pipeline._close_out_of_scope(existing, self.CFG, {})
+        return {r["title"] for r in existing.values() if r.get("is_open")}
+
+    def test_the_three_live_roles_stay_open(self):
+        open_titles = self._sweep([
+            self._record("2027 IT Intern", "Summer 2027"),
+            self._record("2027 IT Audit Intern", "Summer 2027"),
+            self._record("R&D Intern - Wireless Systems Engineer - 2026", "Fall 2026"),
+        ])
+        assert len(open_titles) == 3
+
+    def test_a_real_off_cycle_role_is_still_closed(self):
+        open_titles = self._sweep([
+            self._record("2027 IT Intern", "Summer 2027"),
+            self._record("Summer 2026 Network Intern", "Summer 2027"),
+        ])
+        assert open_titles == {"2027 IT Intern"}
