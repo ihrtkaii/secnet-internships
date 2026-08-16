@@ -395,6 +395,34 @@ something it doesn't.
 """
 
 
+def cycle_unstated_reason(title: str, posted_at: str | None,
+                          max_age_days: int = 45,
+                          now: datetime | None = None) -> str | None:
+    """Why a cycle-unstated role cannot be kept, or None when it can.
+
+    Same decision as `cycle_unstated_ok` — that function is defined in terms of
+    this one, so the verdict and its explanation can never disagree. The reason
+    strings are telemetry: they size each discarded pool separately, because
+    "posted four months ago" is recoverable by widening the window and "the ATS
+    published no date at all" is not, and one lumped counter hid that.
+    """
+    if states_explicit_year(title):
+        return "off-cycle-year"
+    if not posted_at:
+        return "undated"
+    try:
+        posted = datetime.strptime(posted_at[:10], "%Y-%m-%d").replace(tzinfo=UTC)
+    except ValueError:
+        return "unparsable-date"
+    now = now or datetime.now(UTC)
+    age_days = (now - posted).days
+    if age_days < -1:            # -1 tolerates feed timezone skew
+        return "dated-in-future"
+    if age_days > max_age_days:
+        return "dated-too-old"
+    return None
+
+
 def cycle_unstated_ok(title: str, posted_at: str | None,
                       max_age_days: int = 45,
                       now: datetime | None = None) -> bool:
@@ -413,19 +441,7 @@ def cycle_unstated_ok(title: str, posted_at: str | None,
     shown as `NOT_STATED` instead of wearing a fabricated one. Stale evergreen
     listings still fall off.
     """
-    if states_explicit_year(title):
-        # The title names a year and detect_season refused it — an explicit
-        # OFF-cycle role ("Summer 2026 Intern"). It doesn't belong here.
-        return False
-    if not posted_at:
-        return False  # no date -> can't establish recency
-    try:
-        posted = datetime.strptime(posted_at[:10], "%Y-%m-%d").replace(tzinfo=UTC)
-    except ValueError:
-        return False
-    now = now or datetime.now(UTC)
-    age_days = (now - posted).days
-    return -1 <= age_days <= max_age_days  # -1 tolerates feed timezone skew
+    return cycle_unstated_reason(title, posted_at, max_age_days, now) is None
 
 
 # --- season stated in posting TEXT (verifies date-inferred cycles) ------------

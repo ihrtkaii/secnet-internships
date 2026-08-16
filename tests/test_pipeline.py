@@ -1,4 +1,5 @@
 import asyncio
+import json
 from datetime import UTC, datetime
 
 import pytest
@@ -569,3 +570,126 @@ class TestBareYearRolesSurviveTheStoreSweep:
             self._record("Summer 2026 Network Intern", "Summer 2027"),
         ])
         assert open_titles == {"2027 IT Intern"}
+
+
+class TestDroppedNoYearReasons:
+    """The discarded pool, sized by sub-reason.
+
+    93 in-scope roles were dropped against 33 published, behind a single
+    counter — so there was no way to tell the recoverable half ("posted four
+    months ago") from the unrecoverable one ("the ATS published no date").
+    """
+
+    CFG = {"cycles": ["Summer 2027", "Fall 2026"], "regions": ["US"],
+           "role_scope": "tech", "infer_undated": True, "infer_max_age_days": 45}
+
+    def _results(self, *jobs):
+        from intern_engine.models import Fetch as _Fetch
+        return [({"ats": "greenhouse", "slug": "acme", "name": "Acme"},
+                 _Fetch(list(jobs)), None)]
+
+    def _job(self, title, posted_at, jid="1"):
+        from intern_engine.models import Job
+        return Job(id=f"greenhouse:acme:{jid}", source="greenhouse", company="Acme",
+                   company_slug="acme", title=title, location="Orlando, FL",
+                   url=f"https://x/{jid}", posted_at=posted_at)
+
+    def _run(self, *jobs, cfg=None):
+        kept, _s, _c, _seen, _e, _ea, no_year, _off, rejected = \
+            pipeline._keep_matching(self._results(*jobs), cfg or self.CFG, {}, {})
+        return kept, no_year, rejected
+
+    def _ago(self, days):
+        from datetime import UTC, datetime, timedelta
+        return (datetime.now(UTC) - timedelta(days=days)).strftime("%Y-%m-%dT00:00:00Z")
+
+    def test_an_undated_role_is_counted_as_undated(self):
+        _kept, counts, _r = self._run(self._job("Network Engineer Intern", None))
+        assert counts["undated"] == 1
+
+    def test_an_old_dated_role_is_counted_separately(self):
+        _kept, counts, _r = self._run(
+            self._job("Network Engineer Intern", self._ago(200)))
+        assert counts["dated-too-old"] == 1
+        assert counts["undated"] == 0
+
+    def test_a_future_dated_role_has_its_own_reason(self):
+        _kept, counts, _r = self._run(
+            self._job("Network Engineer Intern", self._ago(-30)))
+        assert counts["dated-in-future"] == 1
+
+    def test_an_unparsable_date_has_its_own_reason(self):
+        _kept, counts, _r = self._run(
+            self._job("Network Engineer Intern", "not-a-date"))
+        assert counts["unparsable-date"] == 1
+
+    def test_disabled_inference_is_distinguishable_from_a_bad_date(self):
+        cfg = {**self.CFG, "infer_undated": False}
+        _kept, counts, _r = self._run(
+            self._job("Network Engineer Intern", self._ago(1)), cfg=cfg)
+        assert counts["inference-disabled"] == 1
+
+    def test_a_recent_dated_role_is_kept_and_counted_nowhere(self):
+        kept, counts, rejected = self._run(
+            self._job("Network Engineer Intern", self._ago(3)))
+        assert len(kept) == 1
+        assert sum(counts.values()) == 0
+        assert rejected == []
+
+    def test_every_drop_is_logged_with_its_reason_and_identity(self):
+        _kept, _counts, rejected = self._run(
+            self._job("Network Engineer Intern", None, jid="1"),
+            self._job("NOC Technician Intern", self._ago(300), jid="2"),
+        )
+        by_title = {r["title"]: r for r in rejected}
+        assert by_title["Network Engineer Intern"]["reason"] == "undated"
+        assert by_title["NOC Technician Intern"]["reason"] == "dated-too-old"
+        for row in rejected:
+            assert row["company"] == "Acme"
+            assert row["source"] == "greenhouse"
+            assert row["url"].startswith("https://")
+
+    def test_the_reason_never_disagrees_with_the_keep_decision(self):
+        # cycle_unstated_ok is defined in terms of cycle_unstated_reason, so a
+        # role is kept if and only if there is no reason to drop it.
+        for posted in (None, "not-a-date", self._ago(3), self._ago(300)):
+            ok = filters.cycle_unstated_ok("Network Engineer Intern", posted, 45)
+            reason = filters.cycle_unstated_reason("Network Engineer Intern", posted, 45)
+            assert ok is (reason is None), posted
+
+
+class TestRejectedTitlesLog:
+    def test_it_appends_and_keeps_only_the_newest(self, tmp_path, monkeypatch):
+        monkeypatch.setattr(paths, "REJECTED_TITLES_PATH",
+                            str(tmp_path / "rejected_titles.jsonl"))
+        monkeypatch.setattr(pipeline, "_REJECTED_KEEP", 5)
+        for batch in range(4):
+            pipeline._append_rejected_titles([
+                {"reason": "undated", "title": f"Role {batch}-{i}",
+                 "company": "Acme", "source": "greenhouse",
+                 "posted_at": None, "url": "https://x/1"}
+                for i in range(2)
+            ])
+        lines = (tmp_path / "rejected_titles.jsonl").read_text(
+            encoding="utf-8").splitlines()
+        assert len(lines) == 5                       # capped
+        assert json.loads(lines[-1])["title"] == "Role 3-1"   # newest survives
+        assert json.loads(lines[0])["title"] == "Role 1-1"    # oldest evicted
+
+    def test_it_writes_nothing_when_nothing_was_dropped(self, tmp_path, monkeypatch):
+        target = tmp_path / "rejected_titles.jsonl"
+        monkeypatch.setattr(paths, "REJECTED_TITLES_PATH", str(target))
+        pipeline._append_rejected_titles([])
+        assert not target.exists()
+
+    def test_each_line_carries_a_timestamp(self, tmp_path, monkeypatch):
+        monkeypatch.setattr(paths, "REJECTED_TITLES_PATH",
+                            str(tmp_path / "rejected_titles.jsonl"))
+        pipeline._append_rejected_titles([
+            {"reason": "undated", "title": "Network Intern", "company": "Acme",
+             "source": "greenhouse", "posted_at": None, "url": "https://x/1"},
+        ])
+        row = json.loads((tmp_path / "rejected_titles.jsonl").read_text(
+            encoding="utf-8").strip())
+        assert row["ts"].endswith("Z")
+        assert row["reason"] == "undated"

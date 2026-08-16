@@ -444,7 +444,10 @@ def _keep_matching(results, cfg, blocklist, existing=None) -> tuple[list, set[st
     seen_ids: set[str] = set()
     errors = 0
     errors_by_ats: Counter = Counter()
-    dropped_no_year = 0  # tech internships we skip only because the title has no year
+    # In-scope internships we skip only because the title has no year, counted
+    # by sub-reason, plus one record per drop for data/rejected_titles.jsonl.
+    dropped_no_year: Counter = Counter()
+    rejected: list[dict] = []
     dropped_offcycle = 0  # roles whose recorded season is a verified off-cycle label
 
     # A board alias may return presentation id B for the stored survivor A.
@@ -501,6 +504,7 @@ def _keep_matching(results, cfg, blocklist, existing=None) -> tuple[list, set[st
                 continue
             season = filters.detect_season(job.title, cycles)
             inferred = False
+            unstated_reason: str | None = None
             if season is None:
                 if filters.states_explicit_year(job.title):
                     # The title names a year we don't track ("Summer 2026
@@ -520,17 +524,33 @@ def _keep_matching(results, cfg, blocklist, existing=None) -> tuple[list, set[st
                     # is never re-inferred or re-enriched.
                     dropped_offcycle += 1
                     continue
-                elif infer and filters.cycle_unstated_ok(
-                        job.title, job.posted_at, infer_age):
+                elif infer:
                     # Nobody stated a cycle. We used to guess one from the
                     # posting month; that guess was measured wrong (see
-                    # filters.cycle_unstated_ok). The role is recent and real,
-                    # so it stays — under a label that claims nothing. If its
-                    # posting text names a cycle, enrichment promotes it.
-                    season = filters.NOT_STATED
-                    inferred = True
+                    # filters.cycle_unstated_reason). The role is recent and
+                    # real, so it stays — under a label that claims nothing. If
+                    # its posting text names a cycle, enrichment promotes it.
+                    unstated_reason = filters.cycle_unstated_reason(
+                        job.title, job.posted_at, infer_age)
+                    if unstated_reason is None:
+                        season = filters.NOT_STATED
+                        inferred = True
+                else:
+                    unstated_reason = "inference-disabled"
             if season is None:
-                dropped_no_year += 1
+                # Counted by WHY, because the pools are not equally
+                # recoverable: "dated-too-old" comes back if the window widens,
+                # "undated" never does. One lumped number hid that split.
+                reason = unstated_reason or "unknown"
+                dropped_no_year[reason] += 1
+                rejected.append({
+                    "reason": reason,
+                    "title": job.title,
+                    "company": job.company,
+                    "source": job.source,
+                    "posted_at": job.posted_at,
+                    "url": job.url,
+                })
                 continue
             in_region = filters.region_ok(job.location, wants_us, wants_canada)
             if restrict and not in_region and not include_intl:
@@ -561,7 +581,7 @@ def _keep_matching(results, cfg, blocklist, existing=None) -> tuple[list, set[st
                 job.posted_at_source = models.date_source(job.posted_at)
             kept.append(job)
     return (kept, succeeded, complete, seen_ids, errors, errors_by_ats,
-            dropped_no_year, dropped_offcycle)
+            dropped_no_year, dropped_offcycle, rejected)
 
 
 def _migrate_date_sources(existing: dict) -> None:
@@ -722,7 +742,8 @@ def run_update() -> tuple[dict, dict, list[str]]:
         """Filter first (cheap, sync), then enrich only the keepers."""
         nonlocal kept
         (kept, succeeded, complete, seen_ids, errors, errors_by_ats, no_year,
-         offcycle_sticky) = _keep_matching(results, cfg, blocklist, existing)
+         offcycle_sticky, rejected_rows) = _keep_matching(
+            results, cfg, blocklist, existing)
         kept = _dedup(kept, existing)
         # Workday/Oracle enrichment goes through the same proxied client as fetch.
         wd_jobs = [j for j in kept if j.source in ("workday", "oracle")]
@@ -763,12 +784,14 @@ def run_update() -> tuple[dict, dict, list[str]]:
             record["enriched_at"] = ts  # settled: never fetch this posting again
         kept = still
         return (succeeded, complete, seen_ids, errors, errors_by_ats,
-                ids_a | ids_b, n_a + n_b, no_year, offcycle)
+                ids_a | ids_b, n_a + n_b, no_year, offcycle, rejected_rows)
 
     results, (succeeded, complete_keys, seen_ids, errors, errors_by_ats,
-              enriched_ids, detail_fetches, no_year, offcycle) = asyncio.run(
+              enriched_ids, detail_fetches, no_year, offcycle,
+              rejected_rows) = asyncio.run(
         _fetch_all(active, _enrich_stage)
     )
+    _append_rejected_titles(rejected_rows)
 
     for company, result, error in results:
         health.record(health_data, company, _fetch_health_error(result, error))
@@ -877,12 +900,17 @@ def _detection_latency(existing: dict, window_days: int = 7,
 
 def _build_stats(companies, benched, succeeded, complete_keys, errors, errors_by_ats,
                  kept, existing, new_ids, enriched, detail_fetches, purged, duration,
-                 dropped_no_year=0, dropped_offcycle=0,
+                 dropped_no_year=None, dropped_offcycle=0,
                  partial_by_reason: Counter | None = None) -> dict:
     open_records = [r for r in existing.values() if r.get("is_open")]
     attempted = len(companies) - len(benched)
     dated = sum(1 for r in open_records if r.get("posted_at"))
     partial_by_reason = partial_by_reason or Counter()
+    # Accept a bare int from older callers; the split is what we publish now.
+    no_year_by_reason = (
+        Counter(dropped_no_year) if isinstance(dropped_no_year, dict)
+        else Counter({"unknown": int(dropped_no_year or 0)})
+    )
     fetched_at = datetime.now(UTC).strftime("%Y-%m-%dT%H:%M:%SZ")
     return {
         "generated_at": fetched_at,
@@ -917,7 +945,17 @@ def _build_stats(companies, benched, succeeded, complete_keys, errors, errors_by
         # didn't re-see, so they must not be mixed: breaking down `open_total`
         # by a fetch-time count made Summer read 77 against a published 78.
         "roles_matched": len(kept),
-        "dropped_no_year_in_title": dropped_no_year,
+        # The total, then the same total split by WHY. "dated-too-old" comes
+        # back if infer_max_age_days widens; "undated" cannot be recovered by
+        # any window at all, because the ATS published no date to age.
+        "dropped_no_year_in_title": sum(no_year_by_reason.values()),
+        "dropped_no_year_undated": no_year_by_reason.get("undated", 0),
+        "dropped_no_year_dated_too_old": no_year_by_reason.get("dated-too-old", 0),
+        "dropped_no_year_dated_in_future": no_year_by_reason.get("dated-in-future", 0),
+        "dropped_no_year_unparsable_date": no_year_by_reason.get("unparsable-date", 0),
+        "dropped_no_year_inference_disabled":
+            no_year_by_reason.get("inference-disabled", 0),
+        "dropped_no_year_by_reason": dict(sorted(no_year_by_reason.items())),
         "dropped_offcycle_by_text": dropped_offcycle,
         "roles_cycle_inferred": sum(1 for r in open_records if r.get("season_inferred")),
         "roles_by_source": dict(Counter(r.get("source") for r in open_records)),
@@ -1040,6 +1078,33 @@ def write_stats(stats: dict) -> None:
 
 
 _HISTORY_KEEP = 2000  # ~6 weeks at the 30-minute cadence
+_REJECTED_KEEP = 5000  # newest kept; enough to size each pool without bloating the repo
+
+
+def _append_rejected_titles(rows: list[dict]) -> None:
+    """Log every in-scope role dropped for having no stated cycle.
+
+    These roles pass the title filter and then vanish, leaving only a counter —
+    so there was no way to look at what we were throwing away or to judge
+    whether widening the window would recover anything worth having. One line
+    per drop, newest kept, so the file stays a fixed size in the repo.
+    """
+    if not rows:
+        return
+    ts = store.now_iso()
+    lines = []
+    try:
+        with open(paths.REJECTED_TITLES_PATH, encoding="utf-8") as f:
+            lines = f.read().splitlines()
+    except OSError:
+        pass
+    lines.extend(
+        json.dumps({"ts": ts, **row}, ensure_ascii=False) for row in rows
+    )
+    _atomic_write(
+        paths.REJECTED_TITLES_PATH,
+        "\n".join(lines[-_REJECTED_KEEP:]) + "\n",
+    )
 
 
 def _append_history(stats: dict) -> None:
