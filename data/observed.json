@@ -12,6 +12,18 @@
     }
    }
   },
+  "amazon": {
+   "name": "Amazon",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-05-06",
+     "role_ids": [
+      "amazon:amazon:10412530"
+     ],
+     "count": 1
+    }
+   }
+  },
   "appian": {
    "name": "Appian",
    "cycles": {
@@ -182,5 +194,5 @@
    }
   }
  },
- "updated_at": "2026-08-16T09:51:54Z"
+ "updated_at": "2026-08-16T13:37:10Z"
 }
