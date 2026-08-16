@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-12T03:53:22Z",
- "data_as_of": "2026-08-12T03:53:22Z",
- "rendered_at": "2026-08-16T13:00:45Z",
+ "generated_at": "2026-08-16T09:51:54Z",
+ "data_as_of": "2026-08-16T09:51:54Z",
+ "rendered_at": "2026-08-16T13:01:44Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -14,7 +14,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-07-13",
-   "days_until": -30,
+   "days_until": -34,
    "status": "open",
    "url": "https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856",
    "note": "",
@@ -33,7 +33,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-07-23",
-   "days_until": -20,
+   "days_until": -24,
    "status": "open",
    "url": "https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898",
    "note": "",
@@ -52,7 +52,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-07-24",
-   "days_until": -19,
+   "days_until": -23,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8083292",
    "note": "",
@@ -71,7 +71,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-07-27",
-   "days_until": -16,
+   "days_until": -20,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/appian/jobs/8088496",
    "note": "",
@@ -79,25 +79,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-07-27"
-   }
-  },
-  {
-   "company": "CNO Financial Group",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-03",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-03",
-   "days_until": -9,
-   "status": "open",
-   "url": "https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/IT-Intern_JR170390",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-03"
    }
   },
   {
@@ -109,7 +90,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-03",
-   "days_until": -9,
+   "days_until": -13,
    "status": "open",
    "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1",
    "note": "",
@@ -128,7 +109,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-04",
-   "days_until": -8,
+   "days_until": -12,
    "status": "open",
    "url": "https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/IT---Cybersecurity-Leadership-Development-Internship-Program----Summer-2027_R23700",
    "note": "",
@@ -147,7 +128,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-04",
-   "days_until": -8,
+   "days_until": -12,
    "status": "open",
    "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineer-Intern---Summer-2027--Onsite-_01864173",
    "note": "",
@@ -166,7 +147,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-06",
-   "days_until": -6,
+   "days_until": -10,
    "status": "open",
    "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/XMLNAME-2027-IT-Audit-Intern_R70611",
    "note": "",
@@ -185,7 +166,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-10",
-   "days_until": -2,
+   "days_until": -6,
    "status": "open",
    "url": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23368",
    "note": "",
@@ -204,7 +185,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-11",
-   "days_until": -1,
+   "days_until": -5,
    "status": "open",
    "url": "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Infrastructure-_REQ-10119621",
    "note": "",
@@ -213,7 +194,45 @@
     "cycle": "Summer 2027",
     "observed_on": "2026-08-11"
    }
+  },
+  {
+   "company": "Gartner",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-13",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-13",
+   "days_until": -3,
+   "status": "open",
+   "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Summer-2027-IT-Intern--May-2028-Graduates-_113095",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-13"
+   }
+  },
+  {
+   "company": "CNO Financial Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-03",
+   "days_until": -13,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-03"
+   }
   }
  ],
- "count": 11
+ "count": 12
 }

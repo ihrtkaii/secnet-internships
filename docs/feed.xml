@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-08-12T03:53:22Z</updated>
+  <updated>2026-08-16T09:51:54Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:oneok:/job/Tulsa-OK/Cyber-Security-Intern---Tulsa--OK_R8449</id>
+    <title>ONEOK: Cyber Security Intern - Tulsa, OK</title>
+    <link href="https://oneok.wd1.myworkdayjobs.com/ONEOK_Early_Careers/job/Tulsa-OK/Cyber-Security-Intern---Tulsa--OK_R8449"/>
+    <updated>2026-08-15T09:54:23Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Tulsa, OK</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:crowe:/job/Sarasota-FL-USA/Incident-Response-Intern_R-71609</id>
+    <title>Crowe: Incident Response Intern</title>
+    <link href="https://crowe.wd12.myworkdayjobs.com/external_careers/job/Sarasota-FL-USA/Incident-Response-Intern_R-71609"/>
+    <updated>2026-08-14T19:26:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · SOC / Detection · Sarasota FL USA · $27–$42/hr · Python, Bash, AWS · H-1B track record: ~37 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:securityriskadvisors:3B23FB7BEB</id>
+    <title>Securityriskadvisors: DevOps Engineering Generalist Co-op</title>
+    <link href="https://apply.workable.com/securityriskadvisors/j/3B23FB7BEB/"/>
+    <updated>2026-08-14T10:30:28Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Rochester, New York, United States · Python, Java, C++, C#, TypeScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gartner:/job/Stamford-CT/Summer-2027-IT-Intern--May-2028-Graduates-_113095</id>
+    <title>Gartner: Summer 2027 IT Intern (May 2028 Graduates)</title>
+    <link href="https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Summer-2027-IT-Intern--May-2028-Graduates-_113095"/>
+    <updated>2026-08-13T05:16:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · IT Support / Ops · Stamford, CT · Python, Java, C#, JavaScript, SQL · H-1B track record: ~90 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Summer-2027--Intern-Air-Combat-Training--Systems-Engineering--Onsite-_01865658</id>
+    <title>RTX: Summer 2027: Intern Air Combat Training: Systems Engineering (Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Summer-2027--Intern-Air-Combat-Training--Systems-Engineering--Onsite-_01865658"/>
+    <updated>2026-08-12T22:18:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:notion:6ccbc30c-2de0-4395-af14-3641cd15961b</id>
     <title>Notion: Governance, Risk, and Compliance Intern (Fall 2026)</title>
@@ -139,9 +179,9 @@
     <id>urn:intern-engine:workday:cnoinc:/job/Carmel-IN/IT-Intern_JR170390</id>
     <title>CNO Financial Group: Enterprise Architecture IT Intern - REMOTE</title>
     <link href="https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/IT-Intern_JR170390"/>
-    <updated>2026-08-12T03:53:22Z</updated>
+    <updated>2026-08-13T02:58:51Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · IT Support / Ops · Carmel, IN</summary>
+    <summary>Summer 2027 · IT Support / Ops · Carmel, IN · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:copart:/job/Dallas-TX---Headquarters/Vulnerability-Management-Engineering-Intern-_JR109639</id>
@@ -275,9 +315,9 @@
     <id>urn:intern-engine:workday:tencent:/job/US-California-Palo-Alto/IT-Operations-Intern_R107720</id>
     <title>Tencent: IT Operations Intern</title>
     <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/IT-Operations-Intern_R107720"/>
-    <updated>2026-08-12T03:53:22Z</updated>
+    <updated>2026-08-13T08:03:11Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Other · US-California-Palo Alto · $28.27–$60/hr · Tableau</summary>
+    <summary>Not stated · Other · US-California-Palo Alto · $28.27–$60/hr · Tableau · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:thales:/job/Texas/AppSec-Product-Support-Intern_R0328978-1</id>
