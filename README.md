@@ -8,7 +8,7 @@
 
 ### 42 open roles · 42 new this week
 
-4,183 employers tracked · data as of Aug 16, 2026 at 18:58 UTC
+4,183 employers tracked · data as of Aug 16, 2026 at 21:44 UTC
 
 _15 have a cycle the employer stated · 27 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -91,7 +91,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
 | ONEOK | Cyber Security Intern - Tulsa, OK 🆕 | Security (general) | Tulsa, OK | No skills listed | Aug 14, 2026 | [Apply](https://oneok.wd1.myworkdayjobs.com/ONEOK_Early_Careers/job/Tulsa-OK/Cyber-Security-Intern---Tulsa--OK_R8449) |
-| Crowe ✓ | Incident Response Intern 🆕 | SOC / Detection | Sarasota FL USA | Python, Bash, AWS | Aug 14, 2026 | [Apply](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Sarasota-FL-USA/Incident-Response-Intern_R-71609) |
+| Crowe ✓ | Incident Response Intern | SOC / Detection | Sarasota FL USA | Python, Bash, AWS | Aug 14, 2026 | [Apply](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Sarasota-FL-USA/Incident-Response-Intern_R-71609) |
 | Copart ✓ | Vulnerability Management Engineering Intern | Security (general) | Dallas, TX - Headquarters | Python, SQL, GraphQL | Aug 07, 2026 | [Apply](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Vulnerability-Management-Engineering-Intern-_JR109639) |
 | Old Mission Capital | Compliance Analyst Co-Op | GRC / Risk | Chicago, IL, United States | Python, SQL | Aug 05, 2026 | [Apply](https://www.oldmissioncapital.com/careers/?gh_jid=7828063003) |
 | Thales | AppSec Product Support Intern | AppSec / Product Sec | Texas | No skills listed | Aug 04, 2026 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/Texas/AppSec-Product-Support-Intern_R0328978-1) |
@@ -194,7 +194,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,136 of 4,422 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 893.7s · 572 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,065 of 4,422 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 775.0s · 539 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
