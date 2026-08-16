@@ -1,6 +1,14 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "greenhouse:neuralink:7736276003",
+      "greenhouse:transmarketgroup:5151577007",
+      "greenhouse:zscaler:5114254007"
+    ],
+    "telegram": [
+      "greenhouse:neuralink:7736276003",
+      "greenhouse:transmarketgroup:5151577007",
+      "greenhouse:zscaler:5114254007"
+    ]
   }
 }

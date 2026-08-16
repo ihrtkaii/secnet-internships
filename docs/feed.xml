@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-08-16T13:37:10Z</updated>
+  <updated>2026-08-16T15:47:21Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:neuralink:7736276003</id>
+    <title>Neuralink: IT Systems Administrator Intern</title>
+    <link href="https://boards.greenhouse.io/neuralink/jobs/7736276003?gh_jid=7736276003"/>
+    <updated>2026-08-16T15:47:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Austin, Texas, United States; South San Francisco, California, United States · $25/hr · Python, Bash, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:transmarketgroup:5151577007</id>
+    <title>TransMarket Group: DevOps/SRE Intern</title>
+    <link href="https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007"/>
+    <updated>2026-08-16T15:47:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Chicago, Illinois, United States · Python, Docker, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:zscaler:5114254007</id>
+    <title>Zscaler: Detection Engineer- SkillBridge Intern</title>
+    <link href="https://job-boards.greenhouse.io/zscaler/jobs/5114254007"/>
+    <updated>2026-08-16T15:47:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · SOC / Detection · Remote - USA · H-1B track record: ~162 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10412530</id>
     <title>Amazon: Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)</title>
