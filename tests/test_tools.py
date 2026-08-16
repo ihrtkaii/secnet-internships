@@ -139,3 +139,72 @@ class TestDatePrecisionContract:
         assert models.date_source("2026-07-01T00:00:00Z") == "date_only"
         assert models.date_source("2026-07-01T09:31:00Z") == "exact"
         assert models.date_source(None) is None
+
+
+class TestVerifySlug:
+    """tools/verify_slug.py gates registry additions, so its verdicts have to
+    be right offline — nothing may enter companies.json unverified."""
+
+    def _tool(self):
+        import importlib.util
+        import os
+        path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+                            "tools", "verify_slug.py")
+        spec = importlib.util.spec_from_file_location("verify_slug", path)
+        module = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(module)
+        return module
+
+    def test_a_malformed_registry_record_fails_before_any_request(self):
+        # A Workday row with no site would raise deep inside the connector;
+        # catching it here is what keeps the error message useful.
+        report = self._tool().check({"name": "Acme", "ats": "workday", "slug": "acme"})
+        assert report["ok"] is False
+        assert "site" in report["error"]
+
+    def test_an_unreachable_board_is_reported_not_raised(self, monkeypatch):
+        tool = self._tool()
+        monkeypatch.setattr(tool, "_fetch", _boom)
+        report = tool.check({"name": "Acme", "ats": "greenhouse", "slug": "acme"})
+        assert report["ok"] is False
+        assert "RuntimeError" in report["error"]
+
+    def test_it_counts_intern_and_in_scope_postings_separately(self, monkeypatch):
+        tool = self._tool()
+        jobs = [
+            Job(id="greenhouse:acme:1", source="greenhouse", company="Acme",
+                company_slug="acme", title="Network Engineer Intern",
+                location="Orlando, FL", url="https://x/1"),
+            Job(id="greenhouse:acme:2", source="greenhouse", company="Acme",
+                company_slug="acme", title="Software Engineer Intern",
+                location="Austin, TX", url="https://x/2"),
+            Job(id="greenhouse:acme:3", source="greenhouse", company="Acme",
+                company_slug="acme", title="Senior Network Engineer",
+                location="Austin, TX", url="https://x/3"),
+        ]
+
+        async def _ok(company):
+            return Fetch(jobs, complete=True)
+
+        monkeypatch.setattr(tool, "_fetch", _ok)
+        report = tool.check({"name": "Acme", "ats": "greenhouse", "slug": "acme"})
+        assert report["ok"] is True
+        assert report["total"] == 3
+        assert report["intern"] == 2      # the senior role is not an internship
+        assert report["relevant"] == 1    # and the SWE role is out of scope
+        assert report["complete"] is True
+
+    def test_a_capped_read_is_reported_as_partial(self, monkeypatch):
+        tool = self._tool()
+
+        async def _capped(company):
+            return Fetch([], complete=False, incomplete_reason=models.INCOMPLETE_CAPPED)
+
+        monkeypatch.setattr(tool, "_fetch", _capped)
+        report = tool.check({"name": "Acme", "ats": "greenhouse", "slug": "acme"})
+        assert report["complete"] is False
+        assert report["incomplete_reason"] == models.INCOMPLETE_CAPPED
+
+
+async def _boom(company):
+    raise RuntimeError("connection reset")
