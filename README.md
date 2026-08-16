@@ -8,7 +8,7 @@
 
 ### 39 open roles · 39 new this week
 
-4,183 employers tracked · data as of Aug 15, 2026 at 22:11 UTC
+4,183 employers tracked · data as of Aug 16, 2026 at 02:08 UTC
 
 _15 have a cycle the employer stated · 24 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -158,24 +158,6 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 
 | Company | Typical opening | Expected this cycle | Status |
 |---|---|---|---|
-| Amazon | ~Jul | ~Jul · any day now | ⏳ waiting |
-| American Express | ~Jul | ~Jul · any day now | ⏳ waiting |
-| Balyasny Asset Management | ~Jul | ~Jul · any day now | ⏳ waiting |
-| Belvedere Trading | ~Jul | ~Jul · any day now | ⏳ waiting |
-| Citadel Securities | ~Jul | ~Jul · any day now | ⏳ waiting |
-| Deloitte | ~Jul | ~Jul · any day now | ⏳ waiting |
-| EY | ~Jul | ~Jul · any day now | ⏳ waiting |
-| Headlands Technologies | ~Jul | ~Jul · any day now | ⏳ waiting |
-| KPMG | ~Jul | ~Jul · any day now | ⏳ waiting |
-| Old Mission Capital | ~Jul | ~Jul · any day now | ⏳ waiting |
-| Peak6 | ~Jul | ~Jul · any day now | ⏳ waiting |
-| PwC | ~Jul | ~Jul · any day now | ⏳ waiting |
-| Quantlab | ~Jul | ~Jul · any day now | ⏳ waiting |
-| Squarepoint Capital | ~Jul | ~Jul · any day now | ⏳ waiting |
-| Virtu Financial | ~Jul | ~Jul · any day now | ⏳ waiting |
-| Voloridge Investment Management | ~Jul | ~Jul · any day now | ⏳ waiting |
-| Wolverine Trading | ~Jul | ~Jul · any day now | ⏳ waiting |
-| XTX Markets | ~Jul | ~Jul · any day now | ⏳ waiting |
 | Accenture | ~Aug | ~Aug · any day now | ⏳ waiting |
 | AQR Capital Management | ~Aug | ~Aug · any day now | ⏳ waiting |
 | Atlassian | ~Aug | ~Aug · any day now | ⏳ waiting |
@@ -188,6 +170,24 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 | Figma | ~Aug | ~Aug · any day now | ⏳ waiting |
 | Five Rings | ~Aug | ~Aug · any day now | ⏳ waiting |
 | Google | ~Aug | ~Aug · any day now | ⏳ waiting |
+| Intuit | ~Aug | ~Aug · any day now | ⏳ waiting |
+| Jane Street | ~Aug | ~Aug · any day now | ⏳ waiting |
+| John Deere | ~Aug | ~Aug · any day now | ⏳ waiting |
+| Mastercard | ~Aug | ~Aug · any day now | ⏳ waiting |
+| Meta | ~Aug | ~Aug · any day now | ⏳ waiting |
+| Optiver | ~Aug | ~Aug · any day now | ⏳ waiting |
+| Pinterest | ~Aug | ~Aug · any day now | ⏳ waiting |
+| Salesforce | ~Aug | ~Aug · any day now | ⏳ waiting |
+| SIG | ~Aug | ~Aug · any day now | ⏳ waiting |
+| Snowflake | ~Aug | ~Aug · any day now | ⏳ waiting |
+| Target | ~Aug | ~Aug · any day now | ⏳ waiting |
+| Tesla | ~Aug | ~Aug · any day now | ⏳ waiting |
+| Tower Research Capital | ~Aug | ~Aug · any day now | ⏳ waiting |
+| Uber | ~Aug | ~Aug · any day now | ⏳ waiting |
+| Visa | ~Aug | ~Aug · any day now | ⏳ waiting |
+| Walmart | ~Aug | ~Aug · any day now | ⏳ waiting |
+| 3M | ~Sep | ~Sep · in ~16d | ⏳ waiting |
+| Adobe | ~Sep | ~Sep · in ~16d | ⏳ waiting |
 
 _160 companies on the [full radar](https://ihrtkaii.github.io/secnet-internships/#radar). **12** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
@@ -217,7 +217,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,082 of 4,422 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 92% of the full registry) · completed in 1046.5s · 544 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,016 of 4,422 registered boards returned successfully across 12 ATS platforms (95% of boards attempted, 90% of the full registry) · completed in 831.5s · 526 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
