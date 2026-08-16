@@ -705,13 +705,15 @@ def generate(store_data: dict, data_as_of: str | None = None) -> dict:
     
     for track in TRACK_ORDER:
         track_sections = [
-            (heading, cycle, [r for r in rows if filters_secnet.track_of(r.get("title") or "") == track])
+            (heading, cycle,
+             [r for r in rows
+              if track in filters_secnet.tracks_of(r.get("title") or "")])
             for heading, cycle, rows in sections
         ]
         track_sections = [(h, c, r) for h, c, r in track_sections if r]
         track_rolling = [
             r for r in rolling_rows
-            if filters_secnet.track_of(r.get("title") or "") == track
+            if track in filters_secnet.tracks_of(r.get("title") or "")
         ]
         if not track_sections and not track_rolling:
             continue

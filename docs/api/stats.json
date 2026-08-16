@@ -67,9 +67,9 @@
  "new_this_run": 36,
  "open_total": 36,
  "detection_latency": {
-  "median_minutes": 7876.5,
-  "p95_minutes": 9268.8,
-  "sample_size": 2,
+  "median_minutes": null,
+  "p95_minutes": null,
+  "sample_size": 0,
   "window_days": 7,
   "basis": "roles published in the window with an exact source timestamp"
  },
@@ -77,6 +77,6 @@
   "median_days": null,
   "sample_size": 0
  },
- "rendered_at": "2026-08-12T04:17:16Z",
+ "rendered_at": "2026-08-16T06:18:57Z",
  "stats_basis": "counts recomputed from the store; fetch metrics from the last run"
 }

@@ -56,7 +56,12 @@ NETWORK_RE = re.compile(
     r"analyst|operations)|"
     r"sysadmin|server (?:admin|engineer)|"
     r"data\s?cent(?:er|re)|"
-    r"cloud\s+(?:engineer|engineering|operations|infrastructure|ops)|"
+    # "cloud" + any following word, not a fixed list of five suffixes. The old
+    # list dropped "Cloud Solutions Intern", "Public Cloud Intern" and
+    # "Cloud Architect Intern" outright; the provider names catch the titles
+    # that never say "cloud" at all. Sales/marketing "cloud" titles are still
+    # rejected upstream by NON_TECH_RE and FALSE_NETWORK_RE.
+    r"cloud\s+\w+|azure|aws|gcp|google\s+cloud|kubernetes|"
     r"devops|devsecops|sre\b|site reliability|platform engineer(?:ing)?|"
     r"linux|windows engineer|active directory|virtualization|vmware|"
     r"technical support engineer|desktop support|help\s?desk|service desk|"
@@ -98,7 +103,11 @@ FALSE_NETWORK_RE = re.compile(
     r"professional network(?:ing)?|networking event|"
     r"social network(?:ing)? (?:marketing|strategy)|"
     r"network development (?:representative|manager)|"  # healthcare provider networks
-    r"provider network|payer network"
+    r"provider network|payer network|"
+    # Broadening "cloud" to any following word puts go-to-market titles in
+    # range. NON_TECH_RE already stops sales/marketing/account wording; these
+    # cover the partner/channel variants it has no word for.
+    r"cloud\s+(?:sales|marketing|account|partner|partnerships|channel)"
     r")\b",
     re.IGNORECASE,
 )
@@ -161,6 +170,11 @@ _SUBCATS = [
     ("Network / Telecom", re.compile(
         r"\b(network|networking|noc|telecom\w*|wireless|rf|5g|ran|fiber|"
         r"optical|routing|switching|voip|voice)", re.IGNORECASE)),
+    # Above "Systems & Cloud Infra" on purpose: a title that names a cloud
+    # platform is a cloud role first, and grouping it with sysadmin/server work
+    # hid the fastest-growing slice of the list inside a generic bucket.
+    ("Cloud Platform", re.compile(
+        r"\b(cloud|azure|aws|gcp|google cloud|kubernetes)\b", re.IGNORECASE)),
     ("Systems & Cloud Infra", re.compile(
         r"\b(infrastructure|systems?|sysadmin|server|data\s?cent\w*|cloud|"
         r"devops|sre|site reliability|platform|linux|windows|"
@@ -187,16 +201,32 @@ TRACKS = {
         "Cloud & Infra Sec", "Security (general)",
     },
     "network": {
-        "Network / Telecom", "Systems & Cloud Infra", "IT Support / Ops",
+        "Network / Telecom", "Cloud Platform", "Systems & Cloud Infra",
+        "IT Support / Ops",
     },
 }
 
 
-def track_of(title: str) -> str:
-    """Which person's table this role belongs in. Security wins ties —
-    'Network Security Intern' is a security role that mentions networks."""
+def tracks_of(title: str) -> tuple[str, ...]:
+    """Which table(s) this role belongs in — possibly both.
+
+    A title naming a security term AND a cloud/network term ("Cloud Security
+    Intern", "Network Security Intern") is genuinely both people's job. Filing
+    it under security alone meant the networking reader never saw a role
+    written for them, so it renders in both tables instead.
+    """
+    if not title:
+        return ("other",)
+    if SECURITY_RE.search(title) and NETWORK_RE.search(title):
+        return ("security", "network")
     cat = categorize(title)
     for track, cats in TRACKS.items():
         if cat in cats:
-            return track
-    return "other"
+            return (track,)
+    return ("other",)
+
+
+def track_of(title: str) -> str:
+    """The single primary track, security first. tracks_of() is what the
+    renderer uses — a role can legitimately belong to both."""
+    return tracks_of(title)[0]
