@@ -18,5 +18,5 @@
   "supabase_url": "",
   "supabase_publishable_key": "",
   "infer_undated": true,
-  "infer_max_age_days": 45
+  "infer_max_age_days": 120
 }
