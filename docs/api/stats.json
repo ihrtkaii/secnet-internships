@@ -44,19 +44,18 @@
   "oracle": 2,
   "smartrecruiters": 1,
   "workable": 1,
-  "workday": 28,
-  "amazon": 1
+  "workday": 28
  },
  "roles_by_cycle": {
-  "Fall 2026": 4,
+  "Fall 2026": 3,
   "Summer 2027": 12,
   "Not stated": 24
  },
  "roles_by_region": {
-  "US": 40
+  "US": 39
  },
  "sponsorship_counts": {
-  "unknown": 22,
+  "unknown": 21,
   "no-sponsorship": 10,
   "citizens-only": 8
  },
@@ -65,7 +64,7 @@
  "enrichment_detail_fetches": 0,
  "purged_this_run": 0,
  "new_this_run": 1,
- "open_total": 40,
+ "open_total": 39,
  "detection_latency": {
   "median_minutes": null,
   "p95_minutes": null,
@@ -77,5 +76,6 @@
   "median_days": 10,
   "sample_size": 1
  },
- "rendered_at": "2026-08-16T13:37:10Z"
+ "rendered_at": "2026-08-16T14:10:02Z",
+ "stats_basis": "counts recomputed from the store; fetch metrics from the last run"
 }

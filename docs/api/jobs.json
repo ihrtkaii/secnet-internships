@@ -1,10 +1,10 @@
 {
  "generated_at": "2026-08-16T13:37:10Z",
  "data_as_of": "2026-08-16T13:37:10Z",
- "rendered_at": "2026-08-16T13:37:10Z",
+ "rendered_at": "2026-08-16T14:10:02Z",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "h1b_window": "FY2022–2023",
- "count": 40,
+ "count": 39,
  "jobs": [
   {
    "id": "workday:oneok:/job/Tulsa-OK/Cyber-Security-Intern---Tulsa--OK_R8449",
@@ -899,36 +899,6 @@
    "source": "greenhouse",
    "h1b_approvals": null,
    "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "amazon:amazon:10412530",
-   "company": "Amazon",
-   "title": "Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)",
-   "season": "Fall 2026",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Cloud Platform",
-   "location": "Seattle, Washington, USA",
-   "url": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
-   "posted_at": "2026-05-06T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-16T13:37:10Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "AWS",
-    "Python",
-    "Java",
-    "C++",
-    "C#",
-    "Rust",
-    "TypeScript",
-    "SQL"
-   ],
-   "source": "amazon",
-   "h1b_approvals": 23139,
-   "program": "Internship",
    "remote": false
   },
   {

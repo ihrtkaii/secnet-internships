@@ -10,7 +10,7 @@
     "enriched_at": "2026-08-16T13:37:10Z",
     "first_seen_at": "2026-08-16T13:37:10Z",
     "id": "amazon:amazon:10412530",
-    "is_open": true,
+    "is_open": false,
     "last_seen_at": "2026-08-16T13:37:10Z",
     "location": "Seattle, Washington, USA",
     "posted_at": "2026-05-06T00:00:00Z",
@@ -33,7 +33,9 @@
     "source": "amazon",
     "sponsorship": "unknown",
     "title": "Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)",
-    "url": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us"
+    "url": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
+    "closed_at": "2026-08-16T14:10:02Z",
+    "closed_reason": "out-of-scope"
   },
   "ashby:notion:6ccbc30c-2de0-4395-af14-3641cd15961b": {
     "aliases": null,
