@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-16T15:47:21Z",
-  "fetched_at": "2026-08-16T15:47:21Z",
-  "duration_seconds": 862.7,
+  "generated_at": "2026-08-16T16:09:49Z",
+  "fetched_at": "2026-08-16T16:09:49Z",
+  "duration_seconds": 912.8,
   "companies_total": 4422,
   "companies_by_source": {
     "greenhouse": 1021,
@@ -17,32 +17,31 @@
     "breezy": 12,
     "eightfold": 1
   },
-  "quarantined": 259,
-  "fetched_ok": 3998,
-  "fetch_errors": 165,
+  "quarantined": 260,
+  "fetched_ok": 4079,
+  "fetch_errors": 83,
   "errors_by_source": {
-    "workday": 162,
-    "workable": 3
+    "workday": 83
   },
-  "fetch_success_rate": 0.96,
-  "fetch_success_rate_registry": 0.904,
-  "snapshots_complete": 3474,
-  "snapshots_partial": 524,
+  "fetch_success_rate": 0.98,
+  "fetch_success_rate_registry": 0.922,
+  "snapshots_complete": 3540,
+  "snapshots_partial": 539,
   "partial_by_reason": {
-    "result-cap": 521,
-    "malformed-response": 3
+    "result-cap": 537,
+    "malformed-response": 2
   },
-  "degraded_fetches": 3,
-  "roles_matched": 33,
-  "dropped_no_year_in_title": 80,
-  "dropped_no_year_undated": 49,
+  "degraded_fetches": 2,
+  "roles_matched": 35,
+  "dropped_no_year_in_title": 82,
+  "dropped_no_year_undated": 51,
   "dropped_no_year_dated_too_old": 31,
   "dropped_no_year_dated_in_future": 0,
   "dropped_no_year_unparsable_date": 0,
   "dropped_no_year_inference_disabled": 0,
   "dropped_no_year_by_reason": {
     "dated-too-old": 31,
-    "undated": 49
+    "undated": 51
   },
   "dropped_offcycle_by_text": 7,
   "roles_cycle_inferred": 27,
@@ -68,10 +67,10 @@
     "citizens-only": 8
   },
   "posted_date_coverage": 1.0,
-  "enriched_this_run": 4,
-  "enrichment_detail_fetches": 3,
+  "enriched_this_run": 1,
+  "enrichment_detail_fetches": 0,
   "purged_this_run": 0,
-  "new_this_run": 3,
+  "new_this_run": 0,
   "open_total": 42,
   "detection_latency": {
     "median_minutes": null,
@@ -84,5 +83,5 @@
     "median_days": 10,
     "sample_size": 1
   },
-  "rendered_at": "2026-08-16T15:47:21Z"
+  "rendered_at": "2026-08-16T16:09:49Z"
 }
