@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Technology-Operations--NC-_177674-1",
-      "workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Engineer---NC-_177688-1",
-      "workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1"
-    ],
-    "telegram": [
-      "workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Technology-Operations--NC-_177674-1",
-      "workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Engineer---NC-_177688-1",
-      "workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
