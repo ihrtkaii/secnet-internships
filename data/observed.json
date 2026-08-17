@@ -96,6 +96,19 @@
     }
    }
   },
+  "keybank": {
+   "name": "KeyBank",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-17",
+     "role_ids": [
+      "workday:keybank:/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384",
+      "workday:keybank:/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Security--Business---Strategy-Track-Internship--Cleveland_R-41390"
+     ],
+     "count": 2
+    }
+   }
+  },
   "medtronic": {
    "name": "Medtronic",
    "cycles": {
@@ -206,5 +219,5 @@
    }
   }
  },
- "updated_at": "2026-08-17T16:16:29Z"
+ "updated_at": "2026-08-17T19:08:31Z"
 }
