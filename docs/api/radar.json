@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-17T19:08:31Z",
- "data_as_of": "2026-08-17T19:08:31Z",
- "rendered_at": "2026-08-17T19:08:32Z",
+ "generated_at": "2026-08-17T21:53:44Z",
+ "data_as_of": "2026-08-17T21:53:44Z",
+ "rendered_at": "2026-08-17T21:53:44Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -244,7 +244,26 @@
    "expected": "2026-08-17",
    "days_until": 0,
    "status": "open",
-   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Security--Business---Strategy-Track-Internship--Cleveland_R-41390",
+   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-17"
+   }
+  },
+  {
+   "company": "Vanguard",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_177682-1",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -272,5 +291,5 @@
    }
   }
  ],
- "count": 14
+ "count": 15
 }

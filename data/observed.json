@@ -217,7 +217,27 @@
      "count": 1
     }
    }
+  },
+  "vanguard": {
+   "name": "Vanguard",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-17",
+     "role_ids": [
+      "workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Application-Development--NC-_177681-1",
+      "workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_177677-1",
+      "workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_177682-1",
+      "workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Analyst---NC-_177689-1",
+      "workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Analysis--PA-_177679-1",
+      "workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_177680-1",
+      "workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Investment-Systems--PA-_177685-1",
+      "workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Analyst---PA-_177690-1",
+      "workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Technology-Operations--PA-_177670-1"
+     ],
+     "count": 9
+    }
+   }
   }
  },
- "updated_at": "2026-08-17T19:08:31Z"
+ "updated_at": "2026-08-17T21:53:44Z"
 }
