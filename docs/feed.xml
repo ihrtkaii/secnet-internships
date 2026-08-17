@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-08-17T02:08:01Z</updated>
+  <updated>2026-08-17T04:13:54Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:hdsupply:/job/Atlanta-GA-US/IT-Intern---Summer-2027_R26004267</id>
+    <title>HD Supply: IT Intern - Summer 2027</title>
+    <link href="https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/IT-Intern---Summer-2027_R26004267"/>
+    <updated>2026-08-17T04:13:54Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · IT Support / Ops · Atlanta-GA-US · Python, Java, JavaScript, SQL, React · H-1B track record: ~27 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:neuralink:7736276003</id>
     <title>Neuralink: IT Systems Administrator Intern</title>

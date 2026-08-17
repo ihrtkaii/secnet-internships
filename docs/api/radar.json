@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-17T02:08:01Z",
- "data_as_of": "2026-08-17T02:08:01Z",
- "rendered_at": "2026-08-17T02:08:01Z",
+ "generated_at": "2026-08-17T04:13:54Z",
+ "data_as_of": "2026-08-17T04:13:54Z",
+ "rendered_at": "2026-08-17T04:13:54Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -215,6 +215,25 @@
    }
   },
   {
+   "company": "HD Supply",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/IT-Intern---Summer-2027_R26004267",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-17"
+   }
+  },
+  {
    "company": "CNO Financial Group",
    "last_cycle_posted": "",
    "posted_on": "2026-08-03",
@@ -234,5 +253,5 @@
    }
   }
  ],
- "count": 12
+ "count": 13
 }
