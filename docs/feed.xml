@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-08-17T21:53:44Z</updated>
+  <updated>2026-08-17T22:13:06Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Technology-Operations--NC-_177674-1</id>
+    <title>Vanguard: College to Corporate IT Internship - Technology Operations (NC)</title>
+    <link href="https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Technology-Operations--NC-_177674-1"/>
+    <updated>2026-08-17T22:13:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Other · Charlotte, NC</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Engineer---NC-_177688-1</id>
+    <title>Vanguard: College to Corporate IT Internship - Risk &amp; Security - Engineer  (NC)</title>
+    <link href="https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Engineer---NC-_177688-1"/>
+    <updated>2026-08-17T22:13:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Charlotte, NC</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1</id>
+    <title>Vanguard: College to Corporate IT Internship - Risk &amp; Security - Engineer  (PA)</title>
+    <link href="https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1"/>
+    <updated>2026-08-17T22:13:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Malvern, PA</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:americanfidelity:/job/Oklahoma-City-Oklahoma/Cyber-Security-Intern--OKC-Local-Only-_JR1023</id>
     <title>American Fidelity: Cyber Security Intern (OKC Local Only)</title>
@@ -14,6 +38,22 @@
     <updated>2026-08-17T21:53:44Z</updated>
     <category term="Winter 2027"/>
     <summary>Winter 2027 · Security (general) · Oklahoma City, Oklahoma · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Application-Development--NC-_177681-1</id>
+    <title>Vanguard: College to Corporate IT Internship - Application Development (NC)</title>
+    <link href="https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Application-Development--NC-_177681-1"/>
+    <updated>2026-08-17T21:53:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Other · Charlotte, NC</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_177677-1</id>
+    <title>Vanguard: College to Corporate IT Internship - Data Analyst (NC)</title>
+    <link href="https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_177677-1"/>
+    <updated>2026-08-17T21:53:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Other · Charlotte, NC</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_177682-1</id>
@@ -24,12 +64,12 @@
     <summary>Summer 2027 · Other · Charlotte, NC</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Application-Development--NC-_177681-1</id>
-    <title>Vanguard: College to Corporate IT Internship - Application Development (NC)</title>
-    <link href="https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Application-Development--NC-_177681-1"/>
+    <id>urn:intern-engine:workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Analyst---NC-_177689-1</id>
+    <title>Vanguard: College to Corporate IT Internship - Risk &amp; Security - Analyst  (NC)</title>
+    <link href="https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Analyst---NC-_177689-1"/>
     <updated>2026-08-17T21:53:44Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Other · Charlotte, NC</summary>
+    <summary>Summer 2027 · Security (general) · Charlotte, NC</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Analysis--PA-_177679-1</id>
@@ -48,14 +88,6 @@
     <summary>Summer 2027 · Other · Malvern, PA</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Technology-Operations--PA-_177670-1</id>
-    <title>Vanguard: College to Corporate IT Internship - Technology Operations (PA)</title>
-    <link href="https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Technology-Operations--PA-_177670-1"/>
-    <updated>2026-08-17T21:53:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Other · Malvern, PA</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Investment-Systems--PA-_177685-1</id>
     <title>Vanguard: College to Corporate IT Internship - Investment Systems (PA)</title>
     <link href="https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Investment-Systems--PA-_177685-1"/>
@@ -64,28 +96,20 @@
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Malvern, PA</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_177677-1</id>
-    <title>Vanguard: College to Corporate IT Internship - Data Analyst (NC)</title>
-    <link href="https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_177677-1"/>
-    <updated>2026-08-17T21:53:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Other · Charlotte, NC</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Analyst---NC-_177689-1</id>
-    <title>Vanguard: College to Corporate IT Internship - Risk &amp; Security - Analyst  (NC)</title>
-    <link href="https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Analyst---NC-_177689-1"/>
-    <updated>2026-08-17T21:53:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Charlotte, NC</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Analyst---PA-_177690-1</id>
     <title>Vanguard: College to Corporate IT Internship - Risk &amp; Security - Analyst  (PA)</title>
     <link href="https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Analyst---PA-_177690-1"/>
     <updated>2026-08-17T21:53:44Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · Malvern, PA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Technology-Operations--PA-_177670-1</id>
+    <title>Vanguard: College to Corporate IT Internship - Technology Operations (PA)</title>
+    <link href="https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Technology-Operations--PA-_177670-1"/>
+    <updated>2026-08-17T21:53:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Other · Malvern, PA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:keybank:/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384</id>
