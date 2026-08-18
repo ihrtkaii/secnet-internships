@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-08-18T04:10:34Z</updated>
+  <updated>2026-08-18T07:15:34Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineering-Intern-2027--Onsite-_01865648</id>
+    <title>RTX: Systems Engineering Intern 2027 (Onsite)</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineering-Intern-2027--Onsite-_01865648"/>
+    <updated>2026-08-18T07:15:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:conagrabrands:/job/Omaha-Nebraska/IT-Infrastructure-Internship---Summer-2027_Req-039788</id>
     <title>Conagra Brands: IT Infrastructure Internship - Summer 2027</title>
@@ -21,7 +29,7 @@
     <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/RSE---Systems-Engineering-Intern-2027--Onsite-_01867325"/>
     <updated>2026-08-18T04:10:34Z</updated>
     <category term="Summer 2027"/>
-    <summary>2 openings · Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 · sponsorship: citizens-only</summary>
+    <summary>3 openings · Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011878</id>
@@ -485,7 +493,7 @@
     <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion--Systems-Engineer-I--Onsite-_01863190"/>
     <updated>2026-08-12T03:53:22Z</updated>
     <category term="Not stated"/>
-    <summary>2 openings · Not stated · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 · Python, Linux · sponsorship: citizens-only</summary>
+    <summary>4 openings · Not stated · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 · Python, Linux · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ing:/job/New-York/Summer-2027-Internship---Tech--Infrastructure-_REQ-10119621</id>
