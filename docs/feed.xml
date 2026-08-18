@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-08-18T07:15:34Z</updated>
+  <updated>2026-08-18T10:02:40Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:efet.fa.us2.oraclecloud.com:218257</id>
+    <title>Hilton Worldwide: 2027 Corporate Summer Internship - Technology (Software Engineering and Cyber)</title>
+    <link href="https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/218257"/>
+    <updated>2026-08-18T10:02:40Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Memphis, TN, United States; McLean, VA, United States; Dallas, TX, United States · $25/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:KOSTALGroup:744000138137225</id>
+    <title>KOSTAL Group: Systems Engineering Intern</title>
+    <link href="https://jobs.smartrecruiters.com/KOSTALGroup/744000138137225"/>
+    <updated>2026-08-18T10:02:40Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Troy, MI, United States</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineering-Intern-2027--Onsite-_01865648</id>
     <title>RTX: Systems Engineering Intern 2027 (Onsite)</title>

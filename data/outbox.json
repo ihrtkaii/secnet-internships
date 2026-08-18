@@ -1,6 +1,12 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:efet.fa.us2.oraclecloud.com:218257",
+      "smartrecruiters:KOSTALGroup:744000138137225"
+    ],
+    "telegram": [
+      "oracle:efet.fa.us2.oraclecloud.com:218257",
+      "smartrecruiters:KOSTALGroup:744000138137225"
+    ]
   }
 }

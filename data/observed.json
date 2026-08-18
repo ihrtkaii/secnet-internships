@@ -127,6 +127,18 @@
     }
    }
   },
+  "hilton worldwide": {
+   "name": "Hilton Worldwide",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-17",
+     "role_ids": [
+      "oracle:efet.fa.us2.oraclecloud.com:218257"
+     ],
+     "count": 1
+    }
+   }
+  },
   "ing": {
    "name": "ING",
    "cycles": {
@@ -288,5 +300,5 @@
    }
   }
  },
- "updated_at": "2026-08-18T07:15:34Z"
+ "updated_at": "2026-08-18T10:02:40Z"
 }
