@@ -1,26 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:egug.fa.us2.oraclecloud.com:26012460",
-      "oracle:egug.fa.us2.oraclecloud.com:26012462",
-      "oracle:egug.fa.us2.oraclecloud.com:26011908",
-      "oracle:egug.fa.us2.oraclecloud.com:26011914",
-      "oracle:egug.fa.us2.oraclecloud.com:26011878",
-      "oracle:egug.fa.us2.oraclecloud.com:26011913",
-      "oracle:egug.fa.us2.oraclecloud.com:26012444",
-      "oracle:egug.fa.us2.oraclecloud.com:26011893",
-      "workday:abbott:/job/United-States---Illinois---Waukegan/XMLNAME-2027-IT-Intern_31159432"
-    ],
-    "telegram": [
-      "oracle:egug.fa.us2.oraclecloud.com:26012460",
-      "oracle:egug.fa.us2.oraclecloud.com:26012462",
-      "oracle:egug.fa.us2.oraclecloud.com:26011908",
-      "oracle:egug.fa.us2.oraclecloud.com:26011914",
-      "oracle:egug.fa.us2.oraclecloud.com:26011878",
-      "oracle:egug.fa.us2.oraclecloud.com:26011913",
-      "oracle:egug.fa.us2.oraclecloud.com:26012444",
-      "oracle:egug.fa.us2.oraclecloud.com:26011893",
-      "workday:abbott:/job/United-States---Illinois---Waukegan/XMLNAME-2027-IT-Intern_31159432"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
