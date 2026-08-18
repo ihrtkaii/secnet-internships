@@ -1,5 +1,17 @@
 {
  "companies": {
+  "abbott": {
+   "name": "Abbott",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-17",
+     "role_ids": [
+      "workday:abbott:/job/United-States---Illinois---Waukegan/XMLNAME-2027-IT-Intern_31159432"
+     ],
+     "count": 1
+    }
+   }
+  },
   "akuna capital": {
    "name": "Akuna Capital",
    "cycles": {
@@ -21,6 +33,25 @@
       "amazon:amazon:10412530"
      ],
      "count": 1
+    }
+   }
+  },
+  "american express": {
+   "name": "American Express",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-17",
+     "role_ids": [
+      "oracle:egug.fa.us2.oraclecloud.com:26011878",
+      "oracle:egug.fa.us2.oraclecloud.com:26011893",
+      "oracle:egug.fa.us2.oraclecloud.com:26011908",
+      "oracle:egug.fa.us2.oraclecloud.com:26011913",
+      "oracle:egug.fa.us2.oraclecloud.com:26011914",
+      "oracle:egug.fa.us2.oraclecloud.com:26012444",
+      "oracle:egug.fa.us2.oraclecloud.com:26012460",
+      "oracle:egug.fa.us2.oraclecloud.com:26012462"
+     ],
+     "count": 8
     }
    }
   },
@@ -241,5 +272,5 @@
    }
   }
  },
- "updated_at": "2026-08-17T22:13:06Z"
+ "updated_at": "2026-08-18T02:03:06Z"
 }

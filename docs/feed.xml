@@ -5,15 +5,79 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-08-17T22:13:06Z</updated>
+  <updated>2026-08-18T02:03:06Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Technology-Operations--NC-_177674-1</id>
-    <title>Vanguard: College to Corporate IT Internship - Technology Operations (NC)</title>
-    <link href="https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Technology-Operations--NC-_177674-1"/>
-    <updated>2026-08-17T22:13:06Z</updated>
+    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012460</id>
+    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Phoenix, AZ</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012460"/>
+    <updated>2026-08-18T02:03:06Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Other · Charlotte, NC</summary>
+    <summary>Summer 2027 · Security (general) · Phoenix, AZ, United States · Python, Bash · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012462</id>
+    <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Phoenix, AZ</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012462"/>
+    <updated>2026-08-18T02:03:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Phoenix, AZ, United States · Python, Bash · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011908</id>
+    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Atlanta, GA</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011908"/>
+    <updated>2026-08-18T02:03:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Atlanta, GA, United States · Python, Bash · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011914</id>
+    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Sunrise, FL</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011914"/>
+    <updated>2026-08-18T02:03:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Sunrise, FL, United States · Python, Bash · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011878</id>
+    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011878"/>
+    <updated>2026-08-18T02:03:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · New York, NY, United States · Python, Bash · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011913</id>
+    <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Atlanta, GA</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011913"/>
+    <updated>2026-08-18T02:03:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Atlanta, GA, United States · Python, Bash · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012444</id>
+    <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Sunrise, FL</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012444"/>
+    <updated>2026-08-18T02:03:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Sunrise, FL, United States · Python, Bash · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011893</id>
+    <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011893"/>
+    <updated>2026-08-18T02:03:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · New York, NY, United States · Python, Bash · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:abbott:/job/United-States---Illinois---Waukegan/XMLNAME-2027-IT-Intern_31159432</id>
+    <title>Abbott: 2027 IT Intern 🛂</title>
+    <link href="https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Waukegan/XMLNAME-2027-IT-Intern_31159432"/>
+    <updated>2026-08-18T02:03:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · IT Support / Ops · United States - Illinois - Waukegan · $33.59/hr · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Engineer---NC-_177688-1</id>
@@ -22,6 +86,14 @@
     <updated>2026-08-17T22:13:06Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · Charlotte, NC</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Technology-Operations--NC-_177674-1</id>
+    <title>Vanguard: College to Corporate IT Internship - Technology Operations (NC)</title>
+    <link href="https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Technology-Operations--NC-_177674-1"/>
+    <updated>2026-08-17T22:13:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Other · Charlotte, NC</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1</id>
