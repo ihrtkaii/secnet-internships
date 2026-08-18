@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-18T02:03:06Z",
- "data_as_of": "2026-08-18T02:03:06Z",
- "rendered_at": "2026-08-18T02:03:07Z",
+ "generated_at": "2026-08-18T04:10:34Z",
+ "data_as_of": "2026-08-18T04:10:34Z",
+ "rendered_at": "2026-08-18T04:10:34Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -244,7 +244,26 @@
    "expected": "2026-08-17",
    "days_until": -1,
    "status": "open",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012460",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011878",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-17"
+   }
+  },
+  {
+   "company": "Conagra Brands",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/IT-Infrastructure-Internship---Summer-2027_Req-039788",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -329,5 +348,5 @@
    }
   }
  ],
- "count": 17
+ "count": 18
 }
