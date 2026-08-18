@@ -8,7 +8,7 @@
 
 ### 76 open roles (75 listed below) · 76 new this week
 
-4,225 employers tracked · data as of Aug 18, 2026 at 13:21 UTC
+4,225 employers tracked · data as of Aug 18, 2026 at 16:00 UTC
 
 _44 have a cycle the employer stated · 32 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -115,7 +115,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Louisiana Blue 🆁 | CW IT Audit Intern | GRC / Risk | Remote-LA | No skills listed | Jul 29, 2026 | [Apply](https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Remote-LA/CW-IT-Audit-Intern_R11951) |
 | Carnegie Mellon University ✓ | Security Services Intern - Fall Semester 🛂 | Security (general) | Pittsburgh, PA | No skills listed | Jul 24, 2026 | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Security-Services-Intern---Fall-Semester_2024907-1) |
 | SWBC | Security Intern | Security (general) | San Antonio, TX | No skills listed | Jul 21, 2026 | [Apply](https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Security-Intern_R0015253) |
-| Zscaler ✓ 🆁 | Detection Engineer- SkillBridge Intern 🆕 | SOC / Detection | Remote - USA | No skills listed | Apr 20, 2026 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5114254007) |
+| Zscaler ✓ 🆁 | Detection Engineer- SkillBridge Intern | SOC / Detection | Remote - USA | No skills listed | Apr 20, 2026 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5114254007) |
 
 ## 🌐 Network & Infrastructure
 
@@ -169,8 +169,8 @@ These postings never name a cycle — not in the title, not in the posting text 
 | KOSTAL Group | Systems Engineering Intern 🆕 | Systems & Cloud Infra | Troy, MI, United States | No skills listed | Jul 16, 2026 | [Apply](https://jobs.smartrecruiters.com/KOSTALGroup/744000138137225) |
 | DRW ✓ | Leadership Rotation Network Intern 🛂 | Network / Telecom | Chicago, IL | Python, SQL, Pandas, Git | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7993195) |
 | STR | Sensors Fall/Spring Co-op – RF Systems Engineer 🇺🇸 | Network / Telecom | Woburn, MA | Python, MATLAB, Computer Vision | Jul 07, 2026 | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4693331006) |
-| TransMarket Group | DevOps/SRE Intern 🆕 | Systems & Cloud Infra | Chicago, Illinois, United States | Python, Docker, Git | Jun 02, 2026 | [Apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007) |
-| Neuralink | IT Systems Administrator Intern 🆕 | Systems & Cloud Infra | Austin +5 more | Python, Bash, Linux | May 15, 2026 | [Apply](https://boards.greenhouse.io/neuralink/jobs/7736276003?gh_jid=7736276003) |
+| TransMarket Group | DevOps/SRE Intern | Systems & Cloud Infra | Chicago, Illinois, United States | Python, Docker, Git | Jun 02, 2026 | [Apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007) |
+| Neuralink | IT Systems Administrator Intern | Systems & Cloud Infra | Austin +5 more | Python, Bash, Linux | May 15, 2026 | [Apply](https://boards.greenhouse.io/neuralink/jobs/7736276003?gh_jid=7736276003) |
 
 ## 🗂️ Other
 
@@ -234,7 +234,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,143 of 4,468 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 997.0s · 569 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,150 of 4,468 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 1000.2s · 580 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
