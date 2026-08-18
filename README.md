@@ -8,9 +8,9 @@
 
 ### 76 open roles (75 listed below) · 76 new this week
 
-4,225 employers tracked · data as of Aug 18, 2026 at 16:00 UTC
+4,225 employers tracked · data as of Aug 18, 2026 at 19:10 UTC
 
-_44 have a cycle the employer stated · 32 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_45 have a cycle the employer stated · 31 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://ihrtkaii.github.io/secnet-internships/)** · **[📡 RSS](https://ihrtkaii.github.io/secnet-internships/feed.xml)** · **[⚙️ JSON API](https://ihrtkaii.github.io/secnet-internships/api/jobs.json)**
 
@@ -119,10 +119,11 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 ## 🌐 Network & Infrastructure
 
-### Summer 2027  (18 employer-stated)
+### Summer 2027  (19 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| RTX | Systems Engineering Intern 2027 (Onsite) 🇺🇸 🆕 | Systems & Cloud Infra | US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE… | No skills listed | Aug 18, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern-2027--Onsite-_01867044) |
 | RTX | Systems Engineering Intern 2027 (Onsite) 🆕 | Systems & Cloud Infra | US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE… | No skills listed | Aug 18, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineering-Intern-2027--Onsite-_01865648) |
 | Conagra Brands ✓ | IT Infrastructure Internship - Summer 2027 🆕 | Systems & Cloud Infra | Omaha, Nebraska | No skills listed | Aug 17, 2026 | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/IT-Infrastructure-Internship---Summer-2027_Req-039788) |
 | RTX | RSE - Systems Engineering Intern 2027 (Onsite) 🇺🇸 🆕 _(3 openings)_ | Systems & Cloud Infra | US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE… | No skills listed | Aug 17, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/RSE---Systems-Engineering-Intern-2027--Onsite-_01867325) [#2](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/RSE---Systems-Engineering-Intern-2027--Onsite-_01867566) [#3](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/RSE----Systems-Engineering-Intern-2027--Onsite-_01866779) |
@@ -137,7 +138,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | ING | Summer 2027 Internship - Tech (Infrastructure) | Systems & Cloud Infra | New York | Python, Azure, Git | Aug 11, 2026 | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Infrastructure-_REQ-10119621) |
 | Montenson | System Administrator Intern 🛂 | Systems & Cloud Infra | MN, United States | No skills listed | Aug 10, 2026 | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23368) |
 | RTX | Systems Engineer Intern - Summer 2027 (Onsite) 🛂 | Systems & Cloud Infra | US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd… | Python, MATLAB | Aug 04, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineer-Intern---Summer-2027--Onsite-_01864173) |
-| Medtronic ✓ | IT Intern - Summer 2027 🛂 | IT Support / Ops | Minneapolis +2 more | Python, SQL, AWS | Aug 03, 2026 | [Apply](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1) |
+| Medtronic ✓ | IT Intern - Summer 2027 🛂 | IT Support / Ops | Minneapolis +2 more | Python, SQL, AWS | Aug 03, 2026 | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625) |
 | PDT Partners | Summer 2027 Systems Engineering Intern | Systems & Cloud Infra | New York, NY | Kubernetes | Jul 24, 2026 | [Apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) |
 | Solar Turbines ✓ | 2027 IT Intern 🛂 | IT Support / Ops | San Diego, California | No skills listed | Jul 23, 2026 | [Apply](https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898) |
 | Akuna Capital ✓ | Platform Engineer Intern, Summer 2027 | Systems & Cloud Infra | Chicago, IL | AWS, Kubernetes | Jul 13, 2026 | [Apply](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) |
@@ -148,7 +149,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 |---|---|---|---|---|---|---|
 | Motorola | R&D Intern - Wireless Systems Engineer - 2026 🇺🇸 | Network / Telecom | Los Angeles, CA | MATLAB | Mar 30, 2026 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/R-D-Intern---Wireless-Systems-Engineer---2026_R62376) |
 
-### Recently posted — cycle not stated  (17 roles)
+### Recently posted — cycle not stated  (16 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent tech internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
@@ -168,7 +169,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Prysmian Cables & Systems | IT Intern | IT Support / Ops | Highland Heights, KY | Python, JavaScript, LLMs | Jul 21, 2026 | [Apply](https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Highland-Heights-KY/IT-Intern_R-34910) |
 | KOSTAL Group | Systems Engineering Intern 🆕 | Systems & Cloud Infra | Troy, MI, United States | No skills listed | Jul 16, 2026 | [Apply](https://jobs.smartrecruiters.com/KOSTALGroup/744000138137225) |
 | DRW ✓ | Leadership Rotation Network Intern 🛂 | Network / Telecom | Chicago, IL | Python, SQL, Pandas, Git | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7993195) |
-| STR | Sensors Fall/Spring Co-op – RF Systems Engineer 🇺🇸 | Network / Telecom | Woburn, MA | Python, MATLAB, Computer Vision | Jul 07, 2026 | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4693331006) |
 | TransMarket Group | DevOps/SRE Intern | Systems & Cloud Infra | Chicago, Illinois, United States | Python, Docker, Git | Jun 02, 2026 | [Apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007) |
 | Neuralink | IT Systems Administrator Intern | Systems & Cloud Infra | Austin +5 more | Python, Bash, Linux | May 15, 2026 | [Apply](https://boards.greenhouse.io/neuralink/jobs/7736276003?gh_jid=7736276003) |
 
@@ -199,7 +199,7 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 | 🎯 Solar Turbines | Jul 23 | dropped Jul 23 | ✅ [open now](https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898) |
 | 🎯 PDT Partners | Jul 24 | dropped Jul 24 | ✅ [open now](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) |
 | 🎯 Appian | Jul 27 | dropped Jul 27 | ✅ [open now](https://job-boards.greenhouse.io/appian/jobs/8088496) |
-| 🎯 Medtronic | Aug 03 | dropped Aug 03 | ✅ [open now](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1) |
+| 🎯 Medtronic | Aug 03 | dropped Aug 03 | ✅ [open now](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625) |
 | 🎯 Pentair | Aug 04 | dropped Aug 04 | ✅ [open now](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/IT---Cybersecurity-Leadership-Development-Internship-Program----Summer-2027_R23700) |
 | 🎯 RTX | Aug 04 | dropped Aug 04 | ✅ [open now](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineer-Intern---Summer-2027--Onsite-_01864173) |
 | 🎯 Fifth Third Bank | Aug 06 | dropped Aug 06 | ✅ [open now](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/XMLNAME-2027-IT-Audit-Intern_R70611) |
@@ -234,7 +234,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,150 of 4,468 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 1000.2s · 580 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,141 of 4,468 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 990.5s · 562 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

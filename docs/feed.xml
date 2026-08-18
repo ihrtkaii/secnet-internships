@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-08-18T16:00:01Z</updated>
+  <updated>2026-08-18T19:10:14Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern-2027--Onsite-_01867044</id>
+    <title>RTX: Systems Engineering Intern 2027 (Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern-2027--Onsite-_01867044"/>
+    <updated>2026-08-18T19:10:14Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:efet.fa.us2.oraclecloud.com:218257</id>
     <title>Hilton Worldwide: 2027 Corporate Summer Internship - Technology (Software Engineering and Cyber)</title>
@@ -387,9 +395,9 @@
     <id>urn:intern-engine:greenhouse:systemstechnologyresearch:4693331006</id>
     <title>STR: Sensors Fall/Spring Co-op – RF Systems Engineer 🇺🇸</title>
     <link href="https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4693331006"/>
-    <updated>2026-08-12T03:53:22Z</updated>
+    <updated>2026-08-18T19:10:14Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Network / Telecom · Woburn, MA · Python, MATLAB, Computer Vision · sponsorship: citizens-only</summary>
+    <summary>Not stated · Network / Telecom · Woburn, MA · Python, MATLAB, Computer Vision · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25016832</id>
@@ -522,7 +530,7 @@
   <entry>
     <id>urn:intern-engine:workday:medtronic:/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1</id>
     <title>Medtronic: IT Intern - Summer 2027 🛂</title>
-    <link href="https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1"/>
+    <link href="https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625"/>
     <updated>2026-08-12T03:53:22Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · IT Support / Ops · Minneapolis, Minnesota, United States of America · $23.25–$33.25/hr · Python, SQL, AWS · sponsorship: no-sponsorship · H-1B track record: ~424 approvals (FY2022–2023)</summary>
