@@ -139,6 +139,18 @@
     }
    }
   },
+  "hitachi energy": {
+   "name": "Hitachi Energy",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-08-18",
+     "role_ids": [
+      "workday:hitachi:/job/Santa-Clara-California-United-States/Intern---Data-Center-Optimization_R0142174"
+     ],
+     "count": 1
+    }
+   }
+  },
   "ing": {
    "name": "ING",
    "cycles": {
@@ -301,5 +313,5 @@
    }
   }
  },
- "updated_at": "2026-08-18T19:10:14Z"
+ "updated_at": "2026-08-18T21:48:43Z"
 }

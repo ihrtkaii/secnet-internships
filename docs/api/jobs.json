@@ -1,11 +1,41 @@
 {
- "generated_at": "2026-08-18T19:10:14Z",
- "data_as_of": "2026-08-18T19:10:14Z",
- "rendered_at": "2026-08-18T19:10:14Z",
+ "generated_at": "2026-08-18T21:48:43Z",
+ "data_as_of": "2026-08-18T21:48:43Z",
+ "rendered_at": "2026-08-18T21:48:43Z",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "h1b_window": "FY2022–2023",
- "count": 76,
+ "count": 77,
  "jobs": [
+  {
+   "id": "workday:hitachi:/job/Santa-Clara-California-United-States/Intern---Data-Center-Optimization_R0142174",
+   "company": "Hitachi Energy",
+   "title": "Intern - Data Center Optimization",
+   "season": "Fall 2026",
+   "seasons": [
+    "Fall 2026",
+    "Winter 2027"
+   ],
+   "season_inferred": false,
+   "category": "Systems & Cloud Infra",
+   "location": "Santa Clara, California, United States",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Intern---Data-Center-Optimization_R0142174",
+   "posted_at": "2026-08-18T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-18T21:48:43Z",
+   "sponsorship": "unknown",
+   "salary": "$50–$55/hr",
+   "skills": [
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "scikit-learn",
+    "Pandas"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern-2027--Onsite-_01867044",
    "company": "RTX",
@@ -1302,7 +1332,7 @@
    "season_inferred": false,
    "category": "IT Support / Ops",
    "location": "Minneapolis, Minnesota, United States of America",
-   "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625",
+   "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1",
    "posted_at": "2026-08-03T00:00:00Z",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-08-12T03:53:22Z",

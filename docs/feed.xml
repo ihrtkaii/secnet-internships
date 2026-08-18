@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-08-18T19:10:14Z</updated>
+  <updated>2026-08-18T21:48:43Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:hitachi:/job/Santa-Clara-California-United-States/Intern---Data-Center-Optimization_R0142174</id>
+    <title>Hitachi Energy: Intern - Data Center Optimization</title>
+    <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Intern---Data-Center-Optimization_R0142174"/>
+    <updated>2026-08-18T21:48:43Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Systems &amp; Cloud Infra · Santa Clara, California, United States · $50–$55/hr · Python, PyTorch, TensorFlow, scikit-learn, Pandas</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern-2027--Onsite-_01867044</id>
     <title>RTX: Systems Engineering Intern 2027 (Onsite) 🇺🇸</title>
@@ -530,7 +538,7 @@
   <entry>
     <id>urn:intern-engine:workday:medtronic:/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1</id>
     <title>Medtronic: IT Intern - Summer 2027 🛂</title>
-    <link href="https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625"/>
+    <link href="https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1"/>
     <updated>2026-08-12T03:53:22Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · IT Support / Ops · Minneapolis, Minnesota, United States of America · $23.25–$33.25/hr · Python, SQL, AWS · sponsorship: no-sponsorship · H-1B track record: ~424 approvals (FY2022–2023)</summary>
