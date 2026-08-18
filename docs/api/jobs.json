@@ -1,20 +1,17 @@
 {
- "generated_at": "2026-08-18T21:48:43Z",
- "data_as_of": "2026-08-18T21:48:43Z",
- "rendered_at": "2026-08-18T21:48:43Z",
+ "generated_at": "2026-08-18T22:14:16Z",
+ "data_as_of": "2026-08-18T22:14:16Z",
+ "rendered_at": "2026-08-18T22:14:16Z",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "h1b_window": "FY2022–2023",
- "count": 77,
+ "count": 76,
  "jobs": [
   {
    "id": "workday:hitachi:/job/Santa-Clara-California-United-States/Intern---Data-Center-Optimization_R0142174",
    "company": "Hitachi Energy",
    "title": "Intern - Data Center Optimization",
    "season": "Fall 2026",
-   "seasons": [
-    "Fall 2026",
-    "Winter 2027"
-   ],
+   "seasons": null,
    "season_inferred": false,
    "category": "Systems & Cloud Infra",
    "location": "Santa Clara, California, United States",
@@ -1423,27 +1420,6 @@
    "h1b_approvals": 234,
    "program": "Internship",
    "remote": false
-  },
-  {
-   "id": "workday:bcbsla:/job/Remote-LA/CW-IT-Audit-Intern_R11951",
-   "company": "Louisiana Blue",
-   "title": "CW IT Audit Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "GRC / Risk",
-   "location": "Remote-LA",
-   "url": "https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Remote-LA/CW-IT-Audit-Intern_R11951",
-   "posted_at": "2026-07-29T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-12T03:53:22Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": true
   },
   {
    "id": "workday:tamus:/job/Laredo-TX/Intern--Information-Technology--End-User-Support--OIT-_R-095335",
