@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/ihrtkaii/secnet-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/ihrtkaii/secnet-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fihrtkaii.github.io%2Fsecnet-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://ihrtkaii.github.io/secnet-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://ihrtkaii.github.io/secnet-internships/feed.xml)
 
-### 76 open roles (75 listed below) · 44 new this week
+### 77 open roles (76 listed below) · 45 new this week
 
-4,239 employers tracked · data as of Aug 19, 2026 at 15:58 UTC
+4,239 employers tracked · data as of Aug 19, 2026 at 19:07 UTC
 
-_47 have a cycle the employer stated · 29 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_48 have a cycle the employer stated · 29 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://ihrtkaii.github.io/secnet-internships/)** · **[📡 RSS](https://ihrtkaii.github.io/secnet-internships/feed.xml)** · **[⚙️ JSON API](https://ihrtkaii.github.io/secnet-internships/api/jobs.json)**
 
@@ -142,10 +142,11 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Solar Turbines ✓ | 2027 IT Intern 🛂 | IT Support / Ops | San Diego, California | No skills listed | Jul 23, 2026 | [Apply](https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898) |
 | Akuna Capital ✓ | Platform Engineer Intern, Summer 2027 | Systems & Cloud Infra | Chicago, IL | AWS, Kubernetes | Jul 13, 2026 | [Apply](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) |
 
-### Fall 2026  (2 employer-stated)
+### Fall 2026  (3 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| The Aerospace Corporation | 2026 AFRL System Engineer Graduate Intern 🇺🇸 🆕 | Systems & Cloud Infra | Kirtland AFB, NM | No skills listed | Aug 19, 2026 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/Kirtland-AFB-NM/XMLNAME-2026-AFRL-System-Engineer-Graduate-Intern_R016128) |
 | Hitachi Energy | Intern - Data Center Optimization 🆕 | Systems & Cloud Infra | Santa Clara, California, United States | Python, PyTorch, TensorFlow, scikit-learn | Aug 18, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Intern---Data-Center-Optimization_R0142174) |
 | Motorola | R&D Intern - Wireless Systems Engineer - 2026 🇺🇸 | Network / Telecom | Los Angeles, CA | MATLAB | Mar 30, 2026 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/R-D-Intern---Wireless-Systems-Engineer---2026_R62376) |
 
@@ -234,7 +235,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,230 of 4,482 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 94% of the full registry) · completed in 958.1s · 614 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,161 of 4,482 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 982.1s · 580 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

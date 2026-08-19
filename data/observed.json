@@ -12,6 +12,18 @@
     }
    }
   },
+  "aerospace": {
+   "name": "The Aerospace Corporation",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-08-19",
+     "role_ids": [
+      "workday:aero:/job/Kirtland-AFB-NM/XMLNAME-2026-AFRL-System-Engineer-Graduate-Intern_R016128"
+     ],
+     "count": 1
+    }
+   }
+  },
   "akuna capital": {
    "name": "Akuna Capital",
    "cycles": {
@@ -325,5 +337,5 @@
    }
   }
  },
- "updated_at": "2026-08-19T15:58:46Z"
+ "updated_at": "2026-08-19T19:07:11Z"
 }

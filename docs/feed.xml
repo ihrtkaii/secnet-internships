@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-08-19T15:58:46Z</updated>
+  <updated>2026-08-19T19:07:11Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:aero:/job/Kirtland-AFB-NM/XMLNAME-2026-AFRL-System-Engineer-Graduate-Intern_R016128</id>
+    <title>The Aerospace Corporation: 2026 AFRL System Engineer Graduate Intern 🇺🇸</title>
+    <link href="https://aero.wd5.myworkdayjobs.com/external/job/Kirtland-AFB-NM/XMLNAME-2026-AFRL-System-Engineer-Graduate-Intern_R016128"/>
+    <updated>2026-08-19T19:07:11Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Systems &amp; Cloud Infra · Kirtland AFB, NM · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:clr:/job/Oklahoma-City-OK/IT-Intern--Summer-2027-_R02593-1</id>
     <title>Continental Resources: IT Intern (Summer 2027)</title>
