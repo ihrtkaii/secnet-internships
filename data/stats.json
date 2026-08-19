@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-19T04:10:56Z",
-  "fetched_at": "2026-08-19T04:10:56Z",
-  "duration_seconds": 933.6,
+  "generated_at": "2026-08-19T07:16:34Z",
+  "fetched_at": "2026-08-19T07:16:34Z",
+  "duration_seconds": 894.9,
   "companies_total": 4468,
   "companies_by_source": {
     "greenhouse": 1025,
@@ -17,33 +17,36 @@
     "breezy": 12,
     "eightfold": 1
   },
-  "quarantined": 249,
-  "fetched_ok": 4153,
-  "fetch_errors": 66,
+  "quarantined": 247,
+  "fetched_ok": 4211,
+  "fetch_errors": 10,
   "errors_by_source": {
-    "workday": 66
+    "workday": 4,
+    "greenhouse": 2,
+    "lever": 1,
+    "workable": 3
   },
-  "fetch_success_rate": 0.984,
-  "fetch_success_rate_registry": 0.929,
-  "snapshots_complete": 3602,
-  "snapshots_partial": 551,
+  "fetch_success_rate": 0.998,
+  "fetch_success_rate_registry": 0.942,
+  "snapshots_complete": 3627,
+  "snapshots_partial": 584,
   "partial_by_reason": {
-    "result-cap": 541,
-    "malformed-response": 10
+    "result-cap": 557,
+    "malformed-response": 27
   },
-  "degraded_fetches": 10,
-  "roles_matched": 65,
-  "dropped_no_year_in_title": 81,
-  "dropped_no_year_undated": 48,
+  "degraded_fetches": 27,
+  "roles_matched": 70,
+  "dropped_no_year_in_title": 86,
+  "dropped_no_year_undated": 53,
   "dropped_no_year_dated_too_old": 33,
   "dropped_no_year_dated_in_future": 0,
   "dropped_no_year_unparsable_date": 0,
   "dropped_no_year_inference_disabled": 0,
   "dropped_no_year_by_reason": {
     "dated-too-old": 33,
-    "undated": 48
+    "undated": 53
   },
-  "dropped_offcycle_by_text": 16,
+  "dropped_offcycle_by_text": 15,
   "roles_cycle_inferred": 29,
   "roles_by_source": {
     "ashby": 1,
@@ -67,10 +70,10 @@
     "citizens-only": 13
   },
   "posted_date_coverage": 1.0,
-  "enriched_this_run": 2,
-  "enrichment_detail_fetches": 1,
+  "enriched_this_run": 1,
+  "enrichment_detail_fetches": 0,
   "purged_this_run": 0,
-  "new_this_run": 1,
+  "new_this_run": 0,
   "open_total": 76,
   "detection_latency": {
     "median_minutes": null,
@@ -83,5 +86,5 @@
     "median_days": 20,
     "sample_size": 3
   },
-  "rendered_at": "2026-08-19T04:10:56Z"
+  "rendered_at": "2026-08-19T07:16:34Z"
 }
