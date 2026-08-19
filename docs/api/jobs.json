@@ -1,11 +1,38 @@
 {
- "generated_at": "2026-08-19T21:52:43Z",
- "data_as_of": "2026-08-19T21:52:43Z",
- "rendered_at": "2026-08-19T21:52:43Z",
+ "generated_at": "2026-08-19T22:15:06Z",
+ "data_as_of": "2026-08-19T22:15:06Z",
+ "rendered_at": "2026-08-19T22:15:06Z",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "h1b_window": "FY2022–2023",
- "count": 78,
+ "count": 79,
  "jobs": [
+  {
+   "id": "workday:copart:/job/Dallas-TX---Headquarters/Site-Reliability-Engineer-Intern_JR110631",
+   "company": "Copart",
+   "title": "Site Reliability Engineer Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Systems & Cloud Infra",
+   "location": "Dallas, TX - Headquarters",
+   "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Site-Reliability-Engineer-Intern_JR110631",
+   "posted_at": "2026-08-19T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-19T22:15:06Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "AWS",
+    "GCP",
+    "Kubernetes",
+    "Linux"
+   ],
+   "source": "workday",
+   "h1b_approvals": 83,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:armaninollp:/job/Austin-Texas/Summer-2027---IT-Audit-Intern--Austin-_JR104221",
    "company": "Armanino",
