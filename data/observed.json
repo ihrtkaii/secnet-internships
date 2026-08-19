@@ -79,6 +79,18 @@
     }
    }
   },
+  "armanino": {
+   "name": "Armanino",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-19",
+     "role_ids": [
+      "workday:armaninollp:/job/Austin-Texas/Summer-2027---IT-Audit-Intern--Austin-_JR104221"
+     ],
+     "count": 1
+    }
+   }
+  },
   "cno financial group": {
    "name": "CNO Financial Group",
    "cycles": {
@@ -337,5 +349,5 @@
    }
   }
  },
- "updated_at": "2026-08-19T19:07:11Z"
+ "updated_at": "2026-08-19T21:52:43Z"
 }

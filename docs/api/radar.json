@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-19T19:07:11Z",
- "data_as_of": "2026-08-19T19:07:11Z",
- "rendered_at": "2026-08-19T19:07:11Z",
+ "generated_at": "2026-08-19T21:52:43Z",
+ "data_as_of": "2026-08-19T21:52:43Z",
+ "rendered_at": "2026-08-19T21:52:43Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -367,6 +367,25 @@
    }
   },
   {
+   "company": "Armanino",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-19",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-19",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/Austin-Texas/Summer-2027---IT-Audit-Intern--Austin-_JR104221",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-19"
+   }
+  },
+  {
    "company": "CNO Financial Group",
    "last_cycle_posted": "",
    "posted_on": "2026-08-03",
@@ -386,5 +405,5 @@
    }
   }
  ],
- "count": 20
+ "count": 21
 }
