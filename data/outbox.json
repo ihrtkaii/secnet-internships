@@ -1,10 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:copart:/job/Dallas-TX---Headquarters/Site-Reliability-Engineer-Intern_JR110631"
-    ],
-    "telegram": [
-      "workday:copart:/job/Dallas-TX---Headquarters/Site-Reliability-Engineer-Intern_JR110631"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
