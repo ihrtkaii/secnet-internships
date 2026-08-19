@@ -6990,6 +6990,11 @@
     "site": "deervalleyresort"
   },
   {
+    "name": "Deeter Analytics",
+    "slug": "deeter-analytics",
+    "ats": "ashby"
+  },
+  {
     "name": "Defense Unicorns",
     "slug": "defenseunicorns",
     "ats": "greenhouse"
@@ -8051,6 +8056,13 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "confidential"
+  },
+  {
+    "name": "Encova",
+    "slug": "encova",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "Search"
   },
   {
     "name": "Endeavor",
@@ -9383,6 +9395,13 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Foresters Financial",
+    "slug": "foresters",
+    "ats": "workday",
+    "wd": "wd3",
+    "site": "ForestersFinancialCareers"
+  },
+  {
     "name": "FormFactor",
     "slug": "formfactor",
     "ats": "workday",
@@ -10293,6 +10312,11 @@
     "name": "Go Fish Digital",
     "slug": "gofishdigital",
     "ats": "rippling"
+  },
+  {
+    "name": "GO Media",
+    "slug": "go-media",
+    "ats": "workable"
   },
   {
     "name": "GOAT",
@@ -11923,6 +11947,13 @@
     "ats": "ashby"
   },
   {
+    "name": "Incora",
+    "slug": "incora",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "Incora"
+  },
+  {
     "name": "Indian River State College",
     "slug": "irsc",
     "ats": "workday",
@@ -13152,6 +13183,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Koah",
+    "slug": "koahlabs",
+    "ats": "ashby"
+  },
+  {
     "name": "Koalafi",
     "slug": "koalafi",
     "ats": "greenhouse"
@@ -13562,6 +13598,13 @@
     "name": "Lendbuzz",
     "slug": "lendbuzz",
     "ats": "lever"
+  },
+  {
+    "name": "LendingClub",
+    "slug": "lendingclub",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "external"
   },
   {
     "name": "Lennar Corporation",
@@ -16452,6 +16495,11 @@
     "site": "nordstrom_careers"
   },
   {
+    "name": "Normal Computing",
+    "slug": "normalcomputing",
+    "ats": "ashby"
+  },
+  {
     "name": "North Cloud",
     "slug": "north-cloud",
     "ats": "rippling"
@@ -16869,6 +16917,11 @@
   {
     "name": "Okta",
     "slug": "okta",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "OKX",
+    "slug": "okx",
     "ats": "greenhouse"
   },
   {
@@ -20419,6 +20472,11 @@
     "site": "SEL"
   },
   {
+    "name": "Sciemo",
+    "slug": "sciemo",
+    "ats": "ashby"
+  },
+  {
     "name": "Scientific Games",
     "slug": "sglottery",
     "ats": "workday",
@@ -20538,6 +20596,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "Sedgwick"
+  },
+  {
+    "name": "Seeq",
+    "slug": "seeq",
+    "ats": "workable"
   },
   {
     "name": "Seer Interactive",
@@ -23213,6 +23276,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Thrive Causemetics",
+    "slug": "thrivecausemetics",
+    "ats": "lever"
+  },
+  {
     "name": "Thrive Global",
     "slug": "thriveglobal",
     "ats": "rippling"
@@ -24994,6 +25062,11 @@
     "ats": "rippling"
   },
   {
+    "name": "Vortexa",
+    "slug": "vortexa",
+    "ats": "workable"
+  },
+  {
     "name": "Voxel",
     "slug": "voxel",
     "ats": "ashby"
@@ -26087,6 +26160,11 @@
     "name": "Zscaler",
     "slug": "zscaler",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Zuckerman Investment Group",
+    "slug": "zuckerman-investment-group",
+    "ats": "rippling"
   },
   {
     "name": "Zurn Elkay Water Solutions",
