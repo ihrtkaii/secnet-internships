@@ -91,6 +91,18 @@
     }
    }
   },
+  "continental resources": {
+   "name": "Continental Resources",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-18",
+     "role_ids": [
+      "workday:clr:/job/Oklahoma-City-OK/IT-Intern--Summer-2027-_R02593-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "fifth third bank": {
    "name": "Fifth Third Bank",
    "cycles": {
@@ -313,5 +325,5 @@
    }
   }
  },
- "updated_at": "2026-08-19T02:07:20Z"
+ "updated_at": "2026-08-19T04:10:56Z"
 }

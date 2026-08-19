@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-19T02:07:20Z",
- "data_as_of": "2026-08-19T02:07:20Z",
- "rendered_at": "2026-08-19T02:07:20Z",
+ "generated_at": "2026-08-19T04:10:56Z",
+ "data_as_of": "2026-08-19T04:10:56Z",
+ "rendered_at": "2026-08-19T04:10:56Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -348,6 +348,25 @@
    }
   },
   {
+   "company": "Continental Resources",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-18",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-18",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/IT-Intern--Summer-2027-_R02593-1",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-18"
+   }
+  },
+  {
    "company": "CNO Financial Group",
    "last_cycle_posted": "",
    "posted_on": "2026-08-03",
@@ -367,5 +386,5 @@
    }
   }
  ],
- "count": 19
+ "count": 20
 }
