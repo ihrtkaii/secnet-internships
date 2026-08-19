@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/ihrtkaii/secnet-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/ihrtkaii/secnet-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fihrtkaii.github.io%2Fsecnet-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://ihrtkaii.github.io/secnet-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://ihrtkaii.github.io/secnet-internships/feed.xml)
 
-### 76 open roles (75 listed below) · 76 new this week
+### 75 open roles (74 listed below) · 75 new this week
 
-4,225 employers tracked · data as of Aug 18, 2026 at 22:14 UTC
+4,225 employers tracked · data as of Aug 19, 2026 at 02:07 UTC
 
-_46 have a cycle the employer stated · 30 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_46 have a cycle the employer stated · 29 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://ihrtkaii.github.io/secnet-internships/)** · **[📡 RSS](https://ihrtkaii.github.io/secnet-internships/feed.xml)** · **[⚙️ JSON API](https://ihrtkaii.github.io/secnet-internships/api/jobs.json)**
 
@@ -98,7 +98,7 @@ This tracks security and networking internships specifically, because the major 
 | Rocket Companies | Security Services Intern - Fall 2026 | Security (general) | Detroit, MI | No skills listed | Jul 30, 2026 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Security-Services-Intern---Fall-2026_R-082242) |
 | Notion | Governance, Risk, and Compliance Intern (Fall 2026) | GRC / Risk | San Francisco, California | Python | Jul 15, 2026 | [Apply](https://jobs.ashbyhq.com/notion/6ccbc30c-2de0-4395-af14-3641cd15961b) |
 
-### Recently posted — cycle not stated  (11 roles)
+### Recently posted — cycle not stated  (10 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent tech internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
@@ -114,7 +114,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Monolithic Power Systems ✓ | Security Analyst Intern | Security (general) | San Jose, CA | Python, Bash, Kubernetes, Docker | Aug 03, 2026 | [Apply](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Security-Analyst-Intern_R-982-1) |
 | Carnegie Mellon University ✓ | Security Services Intern - Fall Semester 🛂 | Security (general) | Pittsburgh, PA | No skills listed | Jul 24, 2026 | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Security-Services-Intern---Fall-Semester_2024907-1) |
 | SWBC | Security Intern | Security (general) | San Antonio, TX | No skills listed | Jul 21, 2026 | [Apply](https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Security-Intern_R0015253) |
-| Zscaler ✓ 🆁 | Detection Engineer- SkillBridge Intern | SOC / Detection | Remote - USA | No skills listed | Apr 20, 2026 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5114254007) |
 
 ## 🌐 Network & Infrastructure
 
@@ -234,7 +233,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,164 of 4,468 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 1068.3s · 566 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,126 of 4,468 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 92% of the full registry) · completed in 1051.4s · 544 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
