@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-08-20T04:10:33Z</updated>
+  <updated>2026-08-20T07:17:34Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
     <id>urn:intern-engine:workday:tencent:/job/US-Washington-Bellevue/IT-Operations-Intern_R107720</id>
@@ -627,9 +627,9 @@
     <id>urn:intern-engine:workday:prysmiangroup:/job/Highland-Heights-KY/IT-Intern_R-34910</id>
     <title>Prysmian Cables &amp; Systems: IT Intern</title>
     <link href="https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Highland-Heights-KY/IT-Intern_R-34910"/>
-    <updated>2026-08-12T03:53:22Z</updated>
+    <updated>2026-08-20T07:17:34Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · IT Support / Ops · Highland Heights, KY · Python, JavaScript, LLMs</summary>
+    <summary>Not stated · IT Support / Ops · Highland Heights, KY · Python, JavaScript, LLMs · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:quickenloans:/job/Detroit-MI/Security-Services-Intern---Fall-2026_R-082242</id>
@@ -643,9 +643,9 @@
     <id>urn:intern-engine:workday:swbc:/job/San-Antonio-TX/Security-Intern_R0015253</id>
     <title>SWBC: Security Intern</title>
     <link href="https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Security-Intern_R0015253"/>
-    <updated>2026-08-12T03:53:22Z</updated>
+    <updated>2026-08-20T07:17:34Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Security (general) · San Antonio, TX</summary>
+    <summary>Not stated · Security (general) · San Antonio, TX · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:tamus:/job/Laredo-TX/Intern--Information-Technology--End-User-Support--OIT-_R-095335</id>
