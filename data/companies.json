@@ -261,6 +261,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Abundant",
+    "slug": "abundant",
+    "ats": "ashby"
+  },
+  {
     "name": "Academy Sports + Outdoors",
     "slug": "academy",
     "ats": "workday",
@@ -3754,6 +3759,11 @@
     "site": "Boston_Dynamics"
   },
   {
+    "name": "Boston Engineering",
+    "slug": "BostonEngineeringCorporation",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Boston Medical Center",
     "slug": "bmc",
     "ats": "workday",
@@ -6951,6 +6961,13 @@
     "site": "Deckers"
   },
   {
+    "name": "Dedalus",
+    "slug": "dedalus",
+    "ats": "workday",
+    "wd": "wd3",
+    "site": "External"
+  },
+  {
     "name": "Dedalus Labs",
     "slug": "dedalus-labs",
     "ats": "ashby"
@@ -7554,6 +7571,11 @@
     "site": "CX_1"
   },
   {
+    "name": "Duetto Research",
+    "slug": "duettoresearch",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Duke Energy",
     "slug": "dukeenergy",
     "ats": "workday",
@@ -7652,6 +7674,11 @@
     "name": "e-Careers",
     "slug": "ecareers",
     "ats": "workable"
+  },
+  {
+    "name": "E-Space",
+    "slug": "espace",
+    "ats": "lever"
   },
   {
     "name": "E.ON Next",
@@ -10953,6 +10980,14 @@
     "ats": "ashby"
   },
   {
+    "name": "HCA Healthcare UK",
+    "slug": "hcahealthcare",
+    "ats": "workday",
+    "wd": "wd3",
+    "site": "hcacareers",
+    "host": "wd3.myworkdaysite.com"
+  },
+  {
     "name": "HCompany",
     "slug": "hcompany",
     "ats": "ashby"
@@ -11392,6 +11427,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "HKEXCareerPage"
+  },
+  {
+    "name": "Hooglee",
+    "slug": "hooglee",
+    "ats": "ashby"
   },
   {
     "name": "Horace Mann",
@@ -16029,6 +16069,11 @@
     "ats": "breezy"
   },
   {
+    "name": "Navi AI",
+    "slug": "navi",
+    "ats": "ashby"
+  },
+  {
     "name": "NAXO",
     "slug": "naxo",
     "ats": "rippling"
@@ -16901,6 +16946,13 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "OSUCareers"
+  },
+  {
+    "name": "Ohiohealth",
+    "slug": "ohiohealth",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "ohiohealthjobs"
   },
   {
     "name": "Oklahoma State Government",
@@ -25474,6 +25526,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "External"
+  },
+  {
+    "name": "Western Magnetics",
+    "slug": "western-magnetics",
+    "ats": "workable"
   },
   {
     "name": "Western Union",
