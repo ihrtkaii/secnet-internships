@@ -1,12 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:fifththird:/job/Cincinnati-OH/Information-Security-Co-op---Identity---Access-Management---Summer-2027_R71591",
-      "workday:fifththird:/job/Cincinnati-OH/Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582"
-    ],
-    "telegram": [
-      "workday:fifththird:/job/Cincinnati-OH/Information-Security-Co-op---Identity---Access-Management---Summer-2027_R71591",
-      "workday:fifththird:/job/Cincinnati-OH/Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
