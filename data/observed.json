@@ -133,9 +133,11 @@
     "Summer 2027": {
      "first_posted": "2026-08-06",
      "role_ids": [
+      "workday:fifththird:/job/Cincinnati-OH/Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582",
+      "workday:fifththird:/job/Cincinnati-OH/Information-Security-Co-op---Identity---Access-Management---Summer-2027_R71591",
       "workday:fifththird:/job/Cincinnati-OH/XMLNAME-2027-IT-Audit-Intern_R70611"
      ],
-     "count": 1
+     "count": 3
     }
    }
   },
@@ -349,5 +351,5 @@
    }
   }
  },
- "updated_at": "2026-08-20T13:26:35Z"
+ "updated_at": "2026-08-20T16:03:05Z"
 }
