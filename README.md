@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/ihrtkaii/secnet-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/ihrtkaii/secnet-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fihrtkaii.github.io%2Fsecnet-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://ihrtkaii.github.io/secnet-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://ihrtkaii.github.io/secnet-internships/feed.xml)
 
-### 79 open roles (78 listed below) · 47 new this week
+### 80 open roles (79 listed below) · 47 new this week
 
-4,239 employers tracked · data as of Aug 19, 2026 at 22:15 UTC
+4,239 employers tracked · data as of Aug 20, 2026 at 02:00 UTC
 
-_49 have a cycle the employer stated · 30 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_49 have a cycle the employer stated · 31 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://ihrtkaii.github.io/secnet-internships/)** · **[📡 RSS](https://ihrtkaii.github.io/secnet-internships/feed.xml)** · **[⚙️ JSON API](https://ihrtkaii.github.io/secnet-internships/api/jobs.json)**
 
@@ -188,6 +188,14 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Vanguard | College to Corporate IT Internship - Data Analysis (PA) | Other | Malvern, PA | No skills listed | Aug 17, 2026 | [Apply](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Analysis--PA-_177679-1) |
 | Vanguard | College to Corporate IT Internship - Data Science (PA) | Other | Malvern, PA | No skills listed | Aug 17, 2026 | [Apply](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_177680-1) |
 
+### Recently posted — cycle not stated  (1 roles)
+
+These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent tech internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
+
+| Company | Role | Category | Location | Skills | Posted | Apply |
+|---|---|---|---|---|---|---|
+| Tencent | IT Operations Intern 🆕 | Other | US-Washington-Bellevue | Tableau | Aug 19, 2026 | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/IT-Operations-Intern_R107720) |
+
 <a id="drop-radar"></a>
 
 ## 📅 Drop Radar — when companies usually post for Summer 2027
@@ -237,7 +245,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,123 of 4,482 registered boards returned successfully across 12 ATS platforms (96% of boards attempted, 92% of the full registry) · completed in 923.3s · 553 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,223 of 4,482 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 94% of the full registry) · completed in 737.6s · 591 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

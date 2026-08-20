@@ -1,6 +1,10 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:tencent:/job/US-Washington-Bellevue/IT-Operations-Intern_R107720"
+    ],
+    "telegram": [
+      "workday:tencent:/job/US-Washington-Bellevue/IT-Operations-Intern_R107720"
+    ]
   }
 }

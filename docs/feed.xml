@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-08-19T22:15:06Z</updated>
+  <updated>2026-08-20T02:00:41Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:tencent:/job/US-Washington-Bellevue/IT-Operations-Intern_R107720</id>
+    <title>Tencent: IT Operations Intern</title>
+    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/IT-Operations-Intern_R107720"/>
+    <updated>2026-08-20T02:00:41Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Other · US-Washington-Bellevue · $28.27–$60/hr · Tableau</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:copart:/job/Dallas-TX---Headquarters/Site-Reliability-Engineer-Intern_JR110631</id>
     <title>Copart: Site Reliability Engineer Intern</title>
