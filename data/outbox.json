@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "smartrecruiters:LLNL:3743990014731696",
-      "smartrecruiters:LLNL:3743990014731646",
-      "smartrecruiters:LLNL:3743990014731656"
-    ],
-    "telegram": [
-      "smartrecruiters:LLNL:3743990014731696",
-      "smartrecruiters:LLNL:3743990014731646",
-      "smartrecruiters:LLNL:3743990014731656"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
