@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-08-21T21:52:17Z",
- "data_as_of": "2026-08-21T21:52:17Z",
- "rendered_at": "2026-08-21T21:52:17Z",
+ "generated_at": "2026-08-21T22:15:15Z",
+ "data_as_of": "2026-08-21T22:15:15Z",
+ "rendered_at": "2026-08-21T22:15:16Z",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "h1b_window": "FY2022–2023",
- "count": 92,
+ "count": 91,
  "jobs": [
   {
    "id": "workday:heidelbergmaterials:/job/Irving-TX/IT-Intern_JR10018243",
@@ -1957,29 +1957,6 @@
    "salary": null,
    "skills": [],
    "source": "smartrecruiters",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "ashby:notion:6ccbc30c-2de0-4395-af14-3641cd15961b",
-   "company": "Notion",
-   "title": "Governance, Risk, and Compliance Intern (Fall 2026)",
-   "season": "Fall 2026",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "GRC / Risk",
-   "location": "San Francisco, California",
-   "url": "https://jobs.ashbyhq.com/notion/6ccbc30c-2de0-4395-af14-3641cd15961b",
-   "posted_at": "2026-07-15T23:18:57.929+00:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-08-12T03:53:22Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python"
-   ],
-   "source": "ashby",
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false
