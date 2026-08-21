@@ -5157,6 +5157,13 @@
     "site": "CX_2001"
   },
   {
+    "name": "Chuck E. Cheese",
+    "slug": "cecentertainment",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "CEC_Careers"
+  },
+  {
     "name": "CIBC",
     "slug": "cibc",
     "ats": "workday",
@@ -9405,6 +9412,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Fooji",
+    "slug": "fooji",
+    "ats": "workable"
+  },
+  {
     "name": "Forbes",
     "slug": "forbes",
     "ats": "greenhouse"
@@ -10418,6 +10430,13 @@
     "name": "Goodway Group",
     "slug": "goodwaygroup",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Goodwill Industries International",
+    "slug": "goodwillaz",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "GoodwillAZ"
   },
   {
     "name": "Goodwin",
@@ -11610,6 +11629,11 @@
     "ats": "oracle",
     "host": "fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com",
     "site": "CX_1"
+  },
+  {
+    "name": "Hunter Strategy",
+    "slug": "hunterstrategy",
+    "ats": "rippling"
   },
   {
     "name": "Huntington Bancshares",
@@ -13560,6 +13584,13 @@
     "ats": "lever"
   },
   {
+    "name": "Le Moyne College",
+    "slug": "agilitas",
+    "ats": "workday",
+    "wd": "wd503",
+    "site": "LMC"
+  },
+  {
     "name": "League",
     "slug": "leagueinc",
     "ats": "greenhouse"
@@ -14918,6 +14949,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "McWane",
+    "slug": "McWaneInc",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Mealsuite",
     "slug": "mealsuite",
     "ats": "workable"
@@ -15866,6 +15902,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Mulligan Funding",
+    "slug": "mulliganfunding",
+    "ats": "lever"
+  },
+  {
     "name": "MultiCare Health System",
     "slug": "multicare",
     "ats": "workday",
@@ -16753,6 +16794,11 @@
     "name": "Nuclear Promise X",
     "slug": "npx",
     "ats": "ashby"
+  },
+  {
+    "name": "Nucleus Biologics",
+    "slug": "nucleus-biologics-careers",
+    "ats": "rippling"
   },
   {
     "name": "NucleusTeq",
@@ -18071,6 +18117,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Phoebe",
+    "slug": "phoebe-work",
+    "ats": "ashby"
+  },
+  {
     "name": "Phoenix Contact",
     "slug": "phoenixcontact",
     "ats": "greenhouse"
@@ -18208,6 +18259,11 @@
     "name": "Pivot Energy",
     "slug": "pivotenergy",
     "ats": "lever"
+  },
+  {
+    "name": "Pivot Robotics",
+    "slug": "pivotrobotics",
+    "ats": "ashby"
   },
   {
     "name": "Pivotal Software",
