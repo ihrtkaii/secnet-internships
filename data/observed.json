@@ -214,6 +214,26 @@
     }
    }
   },
+  "lawrence livermore national laboratory llnl": {
+   "name": "Lawrence Livermore National Laboratory (LLNL)",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-08-21",
+     "role_ids": [
+      "smartrecruiters:LLNL:3743990014731696"
+     ],
+     "count": 1
+    },
+    "Summer 2027": {
+     "first_posted": "2026-08-21",
+     "role_ids": [
+      "smartrecruiters:LLNL:3743990014731646",
+      "smartrecruiters:LLNL:3743990014731656"
+     ],
+     "count": 2
+    }
+   }
+  },
   "medtronic": {
    "name": "Medtronic",
    "cycles": {
@@ -356,5 +376,5 @@
    }
   }
  },
- "updated_at": "2026-08-20T21:55:05Z"
+ "updated_at": "2026-08-21T02:10:32Z"
 }
