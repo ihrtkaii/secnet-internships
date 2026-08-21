@@ -8,7 +8,7 @@
 
 ### 89 open roles (88 listed below) · 57 new this week
 
-4,249 employers tracked · data as of Aug 21, 2026 at 02:10 UTC
+4,249 employers tracked · data as of Aug 21, 2026 at 04:14 UTC
 
 _59 have a cycle the employer stated · 30 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -126,7 +126,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Continental Resources | IT Intern (Summer 2027) 🆕 | IT Support / Ops | Oklahoma City, OK | No skills listed | Aug 18, 2026 | [Apply](https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/IT-Intern--Summer-2027-_R02593-1) |
+| Continental Resources | IT Intern (Summer 2027) | IT Support / Ops | Oklahoma City, OK | No skills listed | Aug 18, 2026 | [Apply](https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/IT-Intern--Summer-2027-_R02593-1) |
 | RTX | Systems Engineering Intern 2027 (Onsite) 🇺🇸 | Systems & Cloud Infra | US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE… | No skills listed | Aug 18, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern-2027--Onsite-_01867044) |
 | RTX | Systems Engineering Intern 2027 (Onsite) | Systems & Cloud Infra | US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE… | No skills listed | Aug 18, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineering-Intern-2027--Onsite-_01865648) |
 | Conagra Brands ✓ | IT Infrastructure Internship - Summer 2027 | Systems & Cloud Infra | Omaha, Nebraska | No skills listed | Aug 17, 2026 | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/IT-Infrastructure-Internship---Summer-2027_Req-039788) |
@@ -249,7 +249,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,161 of 4,492 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 92% of the full registry) · completed in 960.5s · 551 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,190 of 4,492 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 93% of the full registry) · completed in 1008.8s · 575 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
