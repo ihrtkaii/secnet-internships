@@ -8,7 +8,7 @@
 
 ### 91 open roles (89 listed below) · 55 new this week
 
-4,271 employers tracked · data as of Aug 23, 2026 at 15:50 UTC
+4,271 employers tracked · data as of Aug 23, 2026 at 16:14 UTC
 
 _59 have a cycle the employer stated · 32 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -162,7 +162,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
 | Heidelberg Materials | IT Intern 🆕 | IT Support / Ops | Irving, TX | No skills listed | Aug 21, 2026 | [Apply](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/IT-Intern_JR10018243) |
-| Continental | IT Support Intern 🛂 🆕 | IT Support / Ops | Sumter, SC, United States | No skills listed | Aug 21, 2026 | [Apply](https://jobs.smartrecruiters.com/Continental/744000144791867) |
+| Continental | IT Support Intern 🛂 | IT Support / Ops | Sumter, SC, United States | No skills listed | Aug 21, 2026 | [Apply](https://jobs.smartrecruiters.com/Continental/744000144791867) |
 | Copart ✓ | Site Reliability Engineer Intern | Systems & Cloud Infra | Dallas, TX - Headquarters | Python, AWS, GCP, Kubernetes | Aug 19, 2026 | [Apply](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Site-Reliability-Engineer-Intern_JR110631) |
 | Vanguard | College to Corporate IT Internship - Risk & Security - Engineer  (PA) | Security (general) | Malvern, PA | No skills listed | Aug 17, 2026 | [Apply](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1) |
 | Securityriskadvisors | DevOps Engineering Generalist Co-op | Systems & Cloud Infra | Rochester, New York, United States | Python, Java, C++, C# | Aug 12, 2026 | [Apply](https://apply.workable.com/securityriskadvisors/j/3B23FB7BEB/) |
@@ -251,7 +251,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,244 of 4,514 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 94% of the full registry) · completed in 989.0s · 584 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,174 of 4,514 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 1097.8s · 551 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
