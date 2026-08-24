@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-24T10:16:39Z",
- "data_as_of": "2026-08-24T10:16:39Z",
- "rendered_at": "2026-08-24T10:16:40Z",
+ "generated_at": "2026-08-24T13:27:50Z",
+ "data_as_of": "2026-08-24T13:27:50Z",
+ "rendered_at": "2026-08-24T13:27:50Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -405,6 +405,25 @@
    }
   },
   {
+   "company": "BNY",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-24",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81276",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-24"
+   }
+  },
+  {
    "company": "CNO Financial Group",
    "last_cycle_posted": "",
    "posted_on": "2026-08-03",
@@ -424,5 +443,5 @@
    }
   }
  ],
- "count": 22
+ "count": 23
 }

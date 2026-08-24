@@ -91,6 +91,20 @@
     }
    }
   },
+  "bny": {
+   "name": "BNY",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-24",
+     "role_ids": [
+      "oracle:eofe.fa.us2.oraclecloud.com:81271",
+      "oracle:eofe.fa.us2.oraclecloud.com:81276",
+      "oracle:eofe.fa.us2.oraclecloud.com:81277"
+     ],
+     "count": 3
+    }
+   }
+  },
   "cno financial group": {
    "name": "CNO Financial Group",
    "cycles": {
@@ -377,5 +391,5 @@
    }
   }
  },
- "updated_at": "2026-08-24T10:16:39Z"
+ "updated_at": "2026-08-24T13:27:50Z"
 }
