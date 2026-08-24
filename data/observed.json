@@ -12,6 +12,19 @@
     }
    }
   },
+  "advanced space": {
+   "name": "Advanced Space",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-24",
+     "role_ids": [
+      "greenhouse:advancedspace:4333179009",
+      "greenhouse:advancedspace:4376394009"
+     ],
+     "count": 2
+    }
+   }
+  },
   "aerospace": {
    "name": "The Aerospace Corporation",
    "cycles": {
@@ -415,5 +428,5 @@
    }
   }
  },
- "updated_at": "2026-08-24T19:12:18Z"
+ "updated_at": "2026-08-24T21:55:31Z"
 }
