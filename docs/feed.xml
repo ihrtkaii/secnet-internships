@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-08-24T13:27:50Z</updated>
+  <updated>2026-08-24T16:08:40Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
     <id>urn:intern-engine:greenhouse:audaxgroup:4722759005</id>
@@ -16,20 +16,20 @@
     <summary>Winter 2027 · Other · New York, New York, United States · status: closed</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:eofe.fa.us2.oraclecloud.com:81276</id>
-    <title>BNY: 2027 BNY Summer Internship Program - Risk and Compliance (Pittsburgh, PA)</title>
-    <link href="https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81276"/>
-    <updated>2026-08-24T13:27:50Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · GRC / Risk · Pittsburgh, PA, United States · LLMs</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:oracle:eofe.fa.us2.oraclecloud.com:81271</id>
     <title>BNY: 2027 BNY Summer Internship Program - Risk and Compliance (New York, NY)</title>
     <link href="https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81271"/>
     <updated>2026-08-24T13:27:50Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · GRC / Risk · New York, NY, United States · LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:eofe.fa.us2.oraclecloud.com:81276</id>
+    <title>BNY: 2027 BNY Summer Internship Program - Risk and Compliance (Pittsburgh, PA)</title>
+    <link href="https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81276"/>
+    <updated>2026-08-24T13:27:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · GRC / Risk · Pittsburgh, PA, United States · LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:eofe.fa.us2.oraclecloud.com:81277</id>
