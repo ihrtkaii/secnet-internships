@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:eofe.fa.us2.oraclecloud.com:81276",
-      "oracle:eofe.fa.us2.oraclecloud.com:81271",
-      "oracle:eofe.fa.us2.oraclecloud.com:81277"
-    ],
-    "telegram": [
-      "oracle:eofe.fa.us2.oraclecloud.com:81276",
-      "oracle:eofe.fa.us2.oraclecloud.com:81271",
-      "oracle:eofe.fa.us2.oraclecloud.com:81277"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
