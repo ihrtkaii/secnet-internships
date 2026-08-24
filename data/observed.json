@@ -141,6 +141,18 @@
     }
    }
   },
+  "dmainc": {
+   "name": "Dmainc",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-24",
+     "role_ids": [
+      "workday:dmainc:/job/Indianapolis-IN/IT-Support-Intern---Summer-2027_REQ638-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "fifth third bank": {
    "name": "Fifth Third Bank",
    "cycles": {
@@ -245,6 +257,18 @@
       "smartrecruiters:LLNL:3743990014731656"
      ],
      "count": 2
+    }
+   }
+  },
+  "markel group": {
+   "name": "Markel Group, Inc.",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-24",
+     "role_ids": [
+      "workday:markelcorp:/job/Richmond-VA/Markel-2027-IT-Internship-Program_R0023805"
+     ],
+     "count": 1
     }
    }
   },
@@ -391,5 +415,5 @@
    }
   }
  },
- "updated_at": "2026-08-24T16:08:40Z"
+ "updated_at": "2026-08-24T19:12:18Z"
 }

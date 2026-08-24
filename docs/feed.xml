@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-08-24T16:08:40Z</updated>
+  <updated>2026-08-24T19:12:18Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:dmainc:/job/Indianapolis-IN/IT-Support-Intern---Summer-2027_REQ638-1</id>
+    <title>Dmainc: IT Support Intern - Summer 2027</title>
+    <link href="https://dmainc.wd5.myworkdayjobs.com/dma/job/Indianapolis-IN/IT-Support-Intern---Summer-2027_REQ638-1"/>
+    <updated>2026-08-24T19:12:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · IT Support / Ops · Indianapolis, IN</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:relx:/job/Dayton-OH/Desktop-Support-Co-Op_R117278-1</id>
+    <title>RELX: Desktop Support Co-Op</title>
+    <link href="https://relx.wd3.myworkdayjobs.com/relx/job/Dayton-OH/Desktop-Support-Co-Op_R117278-1"/>
+    <updated>2026-08-24T19:12:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · IT Support / Ops · Dayton, OH · $18/hr · LLMs, HTML/CSS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:markelcorp:/job/Richmond-VA/Markel-2027-IT-Internship-Program_R0023805</id>
+    <title>Markel Group, Inc.: Markel 2027 IT Internship Program 🛂</title>
+    <link href="https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Richmond-VA/Markel-2027-IT-Internship-Program_R0023805"/>
+    <updated>2026-08-24T19:12:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Other · Richmond, VA · $24–$28.5/hr · sponsorship: no-sponsorship</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:audaxgroup:4722759005</id>
     <title>Audax Group: IT Operations Co-Op</title>

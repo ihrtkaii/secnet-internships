@@ -1,6 +1,14 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:dmainc:/job/Indianapolis-IN/IT-Support-Intern---Summer-2027_REQ638-1",
+      "workday:relx:/job/Dayton-OH/Desktop-Support-Co-Op_R117278-1",
+      "workday:markelcorp:/job/Richmond-VA/Markel-2027-IT-Internship-Program_R0023805"
+    ],
+    "telegram": [
+      "workday:dmainc:/job/Indianapolis-IN/IT-Support-Intern---Summer-2027_REQ638-1",
+      "workday:relx:/job/Dayton-OH/Desktop-Support-Co-Op_R117278-1",
+      "workday:markelcorp:/job/Richmond-VA/Markel-2027-IT-Internship-Program_R0023805"
+    ]
   }
 }
