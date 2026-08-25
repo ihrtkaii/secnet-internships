@@ -192,6 +192,18 @@
     }
    }
   },
+  "globalfoundries": {
+   "name": "GlobalFoundries",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-25",
+     "role_ids": [
+      "workday:globalfoundries:/job/USA---New-York---Malta/Cybersecurity-Intern--Summer-2027-_JR-2604459"
+     ],
+     "count": 1
+    }
+   }
+  },
   "hd supply": {
    "name": "HD Supply",
    "cycles": {
@@ -440,5 +452,5 @@
    }
   }
  },
- "updated_at": "2026-08-25T13:24:39Z"
+ "updated_at": "2026-08-25T16:14:54Z"
 }
