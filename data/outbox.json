@@ -1,6 +1,20 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:ebxr.fa.us2.oraclecloud.com:214487",
+      "oracle:ebxr.fa.us2.oraclecloud.com:214476",
+      "oracle:ebxr.fa.us2.oraclecloud.com:214473",
+      "oracle:ehzq.fa.us2.oraclecloud.com:115637",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:155555",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:155554"
+    ],
+    "telegram": [
+      "oracle:ebxr.fa.us2.oraclecloud.com:214487",
+      "oracle:ebxr.fa.us2.oraclecloud.com:214476",
+      "oracle:ebxr.fa.us2.oraclecloud.com:214473",
+      "oracle:ehzq.fa.us2.oraclecloud.com:115637",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:155555",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:155554"
+    ]
   }
 }

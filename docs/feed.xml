@@ -5,15 +5,55 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-08-25T19:08:47Z</updated>
+  <updated>2026-08-25T21:56:12Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:brunswick:/job/Oshkosh-WI/Mercury-Marine--Drives---Propulsion-Systems-Engineering-Intern_JR-051237</id>
-    <title>Brunswick: Mercury Marine: Drives &amp; Propulsion Systems Engineering Intern 🛂</title>
-    <link href="https://brunswick.wd1.myworkdayjobs.com/search/job/Oshkosh-WI/Mercury-Marine--Drives---Propulsion-Systems-Engineering-Intern_JR-051237"/>
-    <updated>2026-08-25T19:08:47Z</updated>
+    <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214487</id>
+    <title>DTCC: Cyber Security Risk Intern [2027 Internship Program]</title>
+    <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214487"/>
+    <updated>2026-08-25T21:56:12Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Oshkosh, WI · $18–$27.5/hr · Python, MATLAB · sponsorship: no-sponsorship · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Security (general) · Jersey City, NJ, United States; Tampa, FL, United States; Dallas, TX, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214476</id>
+    <title>DTCC: Information Security Intern [2027 Intern Program]</title>
+    <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214476"/>
+    <updated>2026-08-25T21:56:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Jersey City, NJ, United States; Tampa, FL, United States; Dallas, TX, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214473</id>
+    <title>DTCC: Infrastructure Engineer Intern [2027 Intern Program]</title>
+    <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214473"/>
+    <updated>2026-08-25T21:56:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Jersey City, NJ, United States; Tampa, FL, United States; Dallas, TX, United States · Python, SQL, Bash, AWS, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ehzq.fa.us2.oraclecloud.com:115637</id>
+    <title>Grant Thornton: Cybersecurity and Privacy Intern - Summer 2027 🛂</title>
+    <link href="https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115637"/>
+    <updated>2026-08-25T21:56:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · New York, NY, United States · $40/hr · sponsorship: no-sponsorship · H-1B track record: ~118 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155555</id>
+    <title>Honeywell: Information Systems, IT, Cyber Engineer &amp; Data Science - Summer 2027 Intern</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155555"/>
+    <updated>2026-08-25T21:56:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · United States · $23/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155554</id>
+    <title>Honeywell: Information Systems, IT, Cyber Engineer &amp; Data Science - Summer 2027 Intern (US Person Required) 🇺🇸</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155554"/>
+    <updated>2026-08-25T21:56:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · United States · $23/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:verkada:5213881007</id>
@@ -22,6 +62,14 @@
     <updated>2026-08-25T19:08:47Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · San Mateo, CA United States · Python, Go, Computer Vision, AWS, Kubernetes · sponsorship: offers · H-1B track record: ~67 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:brunswick:/job/Oshkosh-WI/Mercury-Marine--Drives---Propulsion-Systems-Engineering-Intern_JR-051237</id>
+    <title>Brunswick: Mercury Marine: Drives &amp; Propulsion Systems Engineering Intern 🛂</title>
+    <link href="https://brunswick.wd1.myworkdayjobs.com/search/job/Oshkosh-WI/Mercury-Marine--Drives---Propulsion-Systems-Engineering-Intern_JR-051237"/>
+    <updated>2026-08-25T19:08:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Oshkosh, WI · $18–$27.5/hr · Python, MATLAB · sponsorship: no-sponsorship · H-1B track record: ~54 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:globalfoundries:/job/USA---New-York---Malta/Cybersecurity-Intern--Summer-2027-_JR-2604459</id>
@@ -97,11 +145,11 @@
   </entry>
   <entry>
     <id>urn:intern-engine:workday:relx:/job/Dayton-OH/Desktop-Support-Co-Op_R117278-1</id>
-    <title>RELX: Desktop Support Co-Op</title>
-    <link href="https://relx.wd3.myworkdayjobs.com/relx/job/Dayton-OH/Desktop-Support-Co-Op_R117278-1"/>
+    <title>LexisNexis Risk Solutions: Desktop Support Co-Op</title>
+    <link href="https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Dayton-OH/Desktop-Support-Co-Op_R117278"/>
     <updated>2026-08-24T19:12:18Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · IT Support / Ops · Dayton, OH · $18/hr · LLMs, HTML/CSS</summary>
+    <summary>Not stated · IT Support / Ops · Dayton, OH · $18/hr · LLMs, HTML/CSS · H-1B track record: ~69 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:audaxgroup:4722759005</id>
@@ -758,53 +806,5 @@
     <updated>2026-08-12T03:53:22Z</updated>
     <category term="Not stated"/>
     <summary>4 openings · Not stated · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 · Python, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ing:/job/New-York/Summer-2027-Internship---Tech--Infrastructure-_REQ-10119621</id>
-    <title>ING: Summer 2027 Internship - Tech (Infrastructure)</title>
-    <link href="https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Infrastructure-_REQ-10119621"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · New York · $35/hr · Python, Azure, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:medtronic:/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1</id>
-    <title>Medtronic: IT Intern - Summer 2027 🛂</title>
-    <link href="https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · IT Support / Ops · Minneapolis, Minnesota, United States of America · $23.25–$33.25/hr · Python, SQL, AWS · sponsorship: no-sponsorship · H-1B track record: ~424 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:monolithicpower:/job/San-Jose-CA/Security-Analyst-Intern_R-982-1</id>
-    <title>Monolithic Power Systems: Security Analyst Intern</title>
-    <link href="https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Security-Analyst-Intern_R-982-1"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · San Jose, CA · $26/hr · Python, Bash, Kubernetes, Docker, Terraform · H-1B track record: ~20 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:motorolasolutions:/job/Los-Angeles-CA/R-D-Intern---Wireless-Systems-Engineer---2026_R62376</id>
-    <title>Motorola: R&amp;D Intern - Wireless Systems Engineer - 2026 🇺🇸</title>
-    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/R-D-Intern---Wireless-Systems-Engineer---2026_R62376"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Network / Telecom · Los Angeles, CA · MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:motorolasolutions:/job/Washington-DC-Remote-Work/CAD-RMS-Technical-Co-op-Program_R64127</id>
-    <title>Motorola: CAD/RMS System Administrator - Internship 🛂</title>
-    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Washington-DC-Remote-Work/CAD-RMS-Technical-Co-op-Program_R64127"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Washington DC Remote Work, More... · SQL · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:pae:/job/US-CO-Colorado-Springs/Network-Engineer-Internship-IRES---SSFB_R0167863</id>
-    <title>Amentum: Network Engineer Internship IRES - SSFB 🇺🇸</title>
-    <link href="https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-CO-Colorado-Springs/Network-Engineer-Internship-IRES---SSFB_R0167863"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Network / Telecom · US-CO-Colorado Springs · $20.67/hr · sponsorship: citizens-only</summary>
   </entry>
 </feed>
