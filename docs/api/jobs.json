@@ -1,11 +1,36 @@
 {
- "generated_at": "2026-08-25T10:05:14Z",
- "data_as_of": "2026-08-25T10:05:14Z",
- "rendered_at": "2026-08-25T10:05:15Z",
+ "generated_at": "2026-08-25T13:24:39Z",
+ "data_as_of": "2026-08-25T13:24:39Z",
+ "rendered_at": "2026-08-25T13:24:40Z",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "h1b_window": "FY2022–2023",
- "count": 102,
+ "count": 103,
  "jobs": [
+  {
+   "id": "smartrecruiters:BoschGroup:744000145507908",
+   "company": "Bosch",
+   "title": "AI Security Research Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Security (general)",
+   "location": "Pittsburgh, PA, United States",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145507908",
+   "posted_at": "2026-08-25T12:50:20.265Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-08-25T13:24:39Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "PyTorch",
+    "LLMs"
+   ],
+   "source": "smartrecruiters",
+   "h1b_approvals": 188,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "greenhouse:morsecorpcoop:7968518003",
    "company": "Meridian Partners",

@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-08-25T10:05:14Z</updated>
+  <updated>2026-08-25T13:24:39Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000145507908</id>
+    <title>Bosch: AI Security Research Intern</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000145507908"/>
+    <updated>2026-08-25T13:24:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Pittsburgh, PA, United States · Python, PyTorch, LLMs · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:morsecorpcoop:7968518003</id>
     <title>Meridian Partners: Security Compliance Co-op</title>
@@ -798,13 +806,5 @@
     <updated>2026-08-12T03:53:22Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Security (general) · Detroit, MI</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:swbc:/job/San-Antonio-TX/Security-Intern_R0015253</id>
-    <title>SWBC: Security Intern</title>
-    <link href="https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Security-Intern_R0015253"/>
-    <updated>2026-08-20T07:17:34Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · San Antonio, TX · status: closed</summary>
   </entry>
 </feed>
