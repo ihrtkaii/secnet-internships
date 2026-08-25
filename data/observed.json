@@ -321,6 +321,18 @@
     }
    }
   },
+  "northrop grumman": {
+   "name": "Northrop Grumman",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-24",
+     "role_ids": [
+      "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering_R10247434"
+     ],
+     "count": 1
+    }
+   }
+  },
   "notion": {
    "name": "Notion",
    "cycles": {
@@ -428,5 +440,5 @@
    }
   }
  },
- "updated_at": "2026-08-24T21:55:31Z"
+ "updated_at": "2026-08-25T02:05:50Z"
 }
