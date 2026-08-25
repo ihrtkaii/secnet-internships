@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-08-25T02:05:50Z</updated>
+  <updated>2026-08-25T04:11:56Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:morsecorpcoop:7968729003</id>
+    <title>Meridian Partners: Network Engineer Graduate Co-op 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968729003"/>
+    <updated>2026-08-25T04:11:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Network / Telecom · Cambridge, MA · Python, Terraform · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:morsecorpcoop:7968518003</id>
+    <title>Meridian Partners: Security Compliance Co-op</title>
+    <link href="https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968518003"/>
+    <updated>2026-08-25T04:11:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · GRC / Risk · Cambridge, MA</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering_R10247434</id>
     <title>Northrop Grumman: 2027 Intern - Systems Engineering 🇺🇸</title>
@@ -790,21 +806,5 @@
     <updated>2026-08-20T07:17:34Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security (general) · San Antonio, TX · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tamus:/job/Laredo-TX/Intern--Information-Technology--End-User-Support--OIT-_R-095335</id>
-    <title>Texas A&amp;M International University: Intern- Information Technology (End User Support- OIT)</title>
-    <link href="https://tamus.wd1.myworkdayjobs.com/TAMIU_Student_Employment/job/Laredo-TX/Intern--Information-Technology--End-User-Support--OIT-_R-095335"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · IT Support / Ops · Laredo, TX</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tencent:/job/US-California-Palo-Alto/IT-Operations-Intern_R107720</id>
-    <title>Tencent: IT Operations Intern</title>
-    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/IT-Operations-Intern_R107720"/>
-    <updated>2026-08-13T08:03:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Other · US-California-Palo Alto · $28.27–$60/hr · Tableau · status: closed</summary>
   </entry>
 </feed>
