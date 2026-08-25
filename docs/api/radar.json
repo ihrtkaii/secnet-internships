@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-25T16:14:54Z",
- "data_as_of": "2026-08-25T16:14:54Z",
- "rendered_at": "2026-08-25T16:14:54Z",
+ "generated_at": "2026-08-25T19:08:47Z",
+ "data_as_of": "2026-08-25T19:08:47Z",
+ "rendered_at": "2026-08-25T19:08:47Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -500,6 +500,25 @@
    }
   },
   {
+   "company": "Brunswick",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-25",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Oshkosh-WI/Mercury-Marine--Drives---Propulsion-Systems-Engineering-Intern_JR-051237",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-25"
+   }
+  },
+  {
    "company": "GlobalFoundries",
    "last_cycle_posted": "",
    "posted_on": "2026-08-25",
@@ -511,6 +530,25 @@
    "days_until": 0,
    "status": "open",
    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Cybersecurity-Intern--Summer-2027-_JR-2604459",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-25"
+   }
+  },
+  {
+   "company": "Verkada",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-25",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -538,5 +576,5 @@
    }
   }
  ],
- "count": 28
+ "count": 30
 }

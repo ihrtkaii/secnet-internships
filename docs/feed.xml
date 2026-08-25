@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-08-25T16:14:54Z</updated>
+  <updated>2026-08-25T19:08:47Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:brunswick:/job/Oshkosh-WI/Mercury-Marine--Drives---Propulsion-Systems-Engineering-Intern_JR-051237</id>
+    <title>Brunswick: Mercury Marine: Drives &amp; Propulsion Systems Engineering Intern 🛂</title>
+    <link href="https://brunswick.wd1.myworkdayjobs.com/search/job/Oshkosh-WI/Mercury-Marine--Drives---Propulsion-Systems-Engineering-Intern_JR-051237"/>
+    <updated>2026-08-25T19:08:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Oshkosh, WI · $18–$27.5/hr · Python, MATLAB · sponsorship: no-sponsorship · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:verkada:5213881007</id>
+    <title>Verkada: Security Software Engineering Intern 2027</title>
+    <link href="https://job-boards.greenhouse.io/verkada/jobs/5213881007"/>
+    <updated>2026-08-25T19:08:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · San Mateo, CA United States · Python, Go, Computer Vision, AWS, Kubernetes · sponsorship: offers · H-1B track record: ~67 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:globalfoundries:/job/USA---New-York---Malta/Cybersecurity-Intern--Summer-2027-_JR-2604459</id>
     <title>GlobalFoundries: Cybersecurity Intern (Summer 2027)</title>
@@ -790,21 +806,5 @@
     <updated>2026-08-12T03:53:22Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Network / Telecom · US-CO-Colorado Springs · $20.67/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:pentair:/job/Golden-Valley-MN/IT---Cybersecurity-Leadership-Development-Internship-Program----Summer-2027_R23700</id>
-    <title>Pentair: IT &amp; Cybersecurity Leadership Development Internship Program -  Summer 2027 🛂</title>
-    <link href="https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/IT---Cybersecurity-Leadership-Development-Internship-Program----Summer-2027_R23700"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Golden Valley, MN · $31/hr · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:prysmiangroup:/job/Highland-Heights-KY/IT-Intern_R-34910</id>
-    <title>Prysmian Cables &amp; Systems: IT Intern</title>
-    <link href="https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Highland-Heights-KY/IT-Intern_R-34910"/>
-    <updated>2026-08-20T07:17:34Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · IT Support / Ops · Highland Heights, KY · Python, JavaScript, LLMs · status: closed</summary>
   </entry>
 </feed>

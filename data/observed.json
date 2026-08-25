@@ -118,6 +118,18 @@
     }
    }
   },
+  "brunswick": {
+   "name": "Brunswick",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-25",
+     "role_ids": [
+      "workday:brunswick:/job/Oshkosh-WI/Mercury-Marine--Drives---Propulsion-Systems-Engineering-Intern_JR-051237"
+     ],
+     "count": 1
+    }
+   }
+  },
   "cno financial group": {
    "name": "CNO Financial Group",
    "cycles": {
@@ -450,7 +462,19 @@
      "count": 17
     }
    }
+  },
+  "verkada": {
+   "name": "Verkada",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-25",
+     "role_ids": [
+      "greenhouse:verkada:5213881007"
+     ],
+     "count": 1
+    }
+   }
   }
  },
- "updated_at": "2026-08-25T16:14:54Z"
+ "updated_at": "2026-08-25T19:08:47Z"
 }
