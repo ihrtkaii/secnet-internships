@@ -5,23 +5,55 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-08-25T21:56:12Z</updated>
+  <updated>2026-08-26T02:09:21Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
-    <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214487</id>
-    <title>DTCC: Cyber Security Risk Intern [2027 Internship Program]</title>
-    <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214487"/>
-    <updated>2026-08-25T21:56:12Z</updated>
+    <id>urn:intern-engine:oracle:ehzq.fa.us2.oraclecloud.com:115449</id>
+    <title>Grant Thornton: Cybersecurity and Privacy Intern - Summer 2027 🛂</title>
+    <link href="https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115449"/>
+    <updated>2026-08-26T02:09:21Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Jersey City, NJ, United States; Tampa, FL, United States; Dallas, TX, United States</summary>
+    <summary>Summer 2027 · Security (general) · San Francisco, CA, United States · $42.5/hr · sponsorship: no-sponsorship · H-1B track record: ~118 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214476</id>
-    <title>DTCC: Information Security Intern [2027 Intern Program]</title>
-    <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214476"/>
-    <updated>2026-08-25T21:56:12Z</updated>
+    <id>urn:intern-engine:smartrecruiters:AbbVie:3743990014860456</id>
+    <title>AbbVie: 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate)</title>
+    <link href="https://jobs.smartrecruiters.com/AbbVie/3743990014860456"/>
+    <updated>2026-08-26T02:09:21Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Jersey City, NJ, United States; Tampa, FL, United States; Dallas, TX, United States</summary>
+    <summary>Summer 2027 · Cloud Platform · South San Francisco, CA, United States (Hybrid) · HTML/CSS, AWS, GCP, Azure, Kubernetes · H-1B track record: ~303 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:AbbVie:3743990014860211</id>
+    <title>AbbVie: 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate)</title>
+    <link href="https://jobs.smartrecruiters.com/AbbVie/3743990014860211"/>
+    <updated>2026-08-26T02:09:21Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Cloud Platform · Irvine, CA, United States (Hybrid) · HTML/CSS, AWS, GCP, Azure, Kubernetes · H-1B track record: ~303 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:AbbVie:3743990014860386</id>
+    <title>AbbVie: 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate)</title>
+    <link href="https://jobs.smartrecruiters.com/AbbVie/3743990014860386"/>
+    <updated>2026-08-26T02:09:21Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Cloud Platform · North Chicago, IL, United States (Hybrid) · HTML/CSS, AWS, GCP, Azure, Kubernetes · H-1B track record: ~303 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:copart:/job/US-Tech-InfraOps-729/Network-Engineering-Intern_JR110653</id>
+    <title>Copart: Network Engineering Intern</title>
+    <link href="https://copart.wd12.myworkdayjobs.com/copart/job/US-Tech-InfraOps-729/Network-Engineering-Intern_JR110653"/>
+    <updated>2026-08-26T02:09:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Network / Telecom · US Tech Infra/Ops 729 · Python, Bash, Linux · H-1B track record: ~83 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:shi:/job/Piscataway-NJ-USA/Systems-Engineer---Intern_JR3618</id>
+    <title>SHI International: Systems Engineer - Intern</title>
+    <link href="https://shi.wd12.myworkdayjobs.com/shicareers/job/Piscataway-NJ-USA/Systems-Engineer---Intern_JR3618"/>
+    <updated>2026-08-26T02:09:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Piscataway, NJ USA · Python, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214473</id>
@@ -32,6 +64,22 @@
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Jersey City, NJ, United States; Tampa, FL, United States; Dallas, TX, United States · Python, SQL, Bash, AWS, Azure</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214476</id>
+    <title>DTCC: Information Security Intern [2027 Intern Program]</title>
+    <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214476"/>
+    <updated>2026-08-25T21:56:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Jersey City, NJ, United States; Tampa, FL, United States; Dallas, TX, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214487</id>
+    <title>DTCC: Cyber Security Risk Intern [2027 Internship Program]</title>
+    <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214487"/>
+    <updated>2026-08-25T21:56:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Jersey City, NJ, United States; Tampa, FL, United States; Dallas, TX, United States</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:oracle:ehzq.fa.us2.oraclecloud.com:115637</id>
     <title>Grant Thornton: Cybersecurity and Privacy Intern - Summer 2027 🛂</title>
     <link href="https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115637"/>
@@ -40,20 +88,20 @@
     <summary>Summer 2027 · Security (general) · New York, NY, United States · $40/hr · sponsorship: no-sponsorship · H-1B track record: ~118 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155555</id>
-    <title>Honeywell: Information Systems, IT, Cyber Engineer &amp; Data Science - Summer 2027 Intern</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155555"/>
-    <updated>2026-08-25T21:56:12Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · United States · $23/hr</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155554</id>
     <title>Honeywell: Information Systems, IT, Cyber Engineer &amp; Data Science - Summer 2027 Intern (US Person Required) 🇺🇸</title>
     <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155554"/>
     <updated>2026-08-25T21:56:12Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · United States · $23/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155555</id>
+    <title>Honeywell: Information Systems, IT, Cyber Engineer &amp; Data Science - Summer 2027 Intern</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155555"/>
+    <updated>2026-08-25T21:56:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · United States · $23/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:verkada:5213881007</id>
@@ -145,11 +193,11 @@
   </entry>
   <entry>
     <id>urn:intern-engine:workday:relx:/job/Dayton-OH/Desktop-Support-Co-Op_R117278-1</id>
-    <title>LexisNexis Risk Solutions: Desktop Support Co-Op</title>
-    <link href="https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Dayton-OH/Desktop-Support-Co-Op_R117278"/>
+    <title>RELX: Desktop Support Co-Op</title>
+    <link href="https://relx.wd3.myworkdayjobs.com/relx/job/Dayton-OH/Desktop-Support-Co-Op_R117278-1"/>
     <updated>2026-08-24T19:12:18Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · IT Support / Ops · Dayton, OH · $18/hr · LLMs, HTML/CSS · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+    <summary>Not stated · IT Support / Ops · Dayton, OH · $18/hr · LLMs, HTML/CSS</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:audaxgroup:4722759005</id>
@@ -758,53 +806,5 @@
     <updated>2026-08-12T03:53:22Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security (general) · Pittsburgh, PA · sponsorship: no-sponsorship · H-1B track record: ~164 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cnoinc:/job/Carmel-IN/IT-Intern_JR170390</id>
-    <title>CNO Financial Group: Enterprise Architecture IT Intern - REMOTE</title>
-    <link href="https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/IT-Intern_JR170390"/>
-    <updated>2026-08-13T02:58:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · IT Support / Ops · Carmel, IN · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:copart:/job/Dallas-TX---Headquarters/Vulnerability-Management-Engineering-Intern-_JR109639</id>
-    <title>Copart: Vulnerability Management Engineering Intern</title>
-    <link href="https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Vulnerability-Management-Engineering-Intern-_JR109639"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Dallas, TX - Headquarters · Python, SQL, GraphQL · H-1B track record: ~83 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:erickson:/job/Baltimore-MD/IT-Intern_R0101964-1</id>
-    <title>Erickson Senior Living: IT Intern – Enterprise Applications</title>
-    <link href="https://erickson.wd108.myworkdayjobs.com/external/job/Baltimore-MD/IT-Intern_R0101964-1"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · IT Support / Ops · Baltimore, MD · $18–$20/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:fifththird:/job/Cincinnati-OH/XMLNAME-2027-IT-Audit-Intern_R70611</id>
-    <title>Fifth Third Bank: 2027 IT Audit Intern</title>
-    <link href="https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/XMLNAME-2027-IT-Audit-Intern_R70611"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · GRC / Risk · Cincinnati, OH</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineer-Intern---Summer-2027--Onsite-_01864173</id>
-    <title>RTX: Systems Engineer Intern - Summer 2027 (Onsite) 🛂</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineer-Intern---Summer-2027--Onsite-_01864173"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd NE ~ BLDG 112 · Python, MATLAB · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion--Systems-Engineer-I--Onsite-_01863190</id>
-    <title>RTX: Intern Conversion/ Systems Engineer I (Onsite) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion--Systems-Engineer-I--Onsite-_01863190"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Not stated"/>
-    <summary>4 openings · Not stated · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 · Python, Linux · sponsorship: citizens-only</summary>
   </entry>
 </feed>

@@ -1,6 +1,20 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:ehzq.fa.us2.oraclecloud.com:115449",
+      "smartrecruiters:AbbVie:3743990014860456",
+      "smartrecruiters:AbbVie:3743990014860211",
+      "smartrecruiters:AbbVie:3743990014860386",
+      "workday:copart:/job/US-Tech-InfraOps-729/Network-Engineering-Intern_JR110653",
+      "workday:shi:/job/Piscataway-NJ-USA/Systems-Engineer---Intern_JR3618"
+    ],
+    "telegram": [
+      "oracle:ehzq.fa.us2.oraclecloud.com:115449",
+      "smartrecruiters:AbbVie:3743990014860456",
+      "smartrecruiters:AbbVie:3743990014860211",
+      "smartrecruiters:AbbVie:3743990014860386",
+      "workday:copart:/job/US-Tech-InfraOps-729/Network-Engineering-Intern_JR110653",
+      "workday:shi:/job/Piscataway-NJ-USA/Systems-Engineer---Intern_JR3618"
+    ]
   }
 }
