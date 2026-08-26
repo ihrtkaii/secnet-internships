@@ -1,12 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:mksinst:/job/Andover-MA/XMLNAME-2027-Summer-BI-Data-Analytics-IT-Intern_R20657",
-      "workday:qtsdatacenters:/job/Irving-TX/Summer-2027-Internship--Internal-Data-Center-Infrastructure-Projects_R2026-1906"
-    ],
-    "telegram": [
-      "workday:mksinst:/job/Andover-MA/XMLNAME-2027-Summer-BI-Data-Analytics-IT-Intern_R20657",
-      "workday:qtsdatacenters:/job/Irving-TX/Summer-2027-Internship--Internal-Data-Center-Infrastructure-Projects_R2026-1906"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
