@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-08-26T13:28:31Z</updated>
+  <updated>2026-08-26T16:50:19Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:mksinst:/job/Andover-MA/XMLNAME-2027-Summer-BI-Data-Analytics-IT-Intern_R20657</id>
+    <title>MKS Instruments: 2027 Summer BI/Data Analytics IT Intern</title>
+    <link href="https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Andover-MA/XMLNAME-2027-Summer-BI-Data-Analytics-IT-Intern_R20657"/>
+    <updated>2026-08-26T16:50:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · IT Support / Ops · Andover, MA · $22–$27/hr · Python, Azure, Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:qtsdatacenters:/job/Irving-TX/Summer-2027-Internship--Internal-Data-Center-Infrastructure-Projects_R2026-1906</id>
+    <title>QTS: Summer 2027 Internship: Internal Data Center Infrastructure Projects 🇺🇸</title>
+    <link href="https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Irving-TX/Summer-2027-Internship--Internal-Data-Center-Infrastructure-Projects_R2026-1906"/>
+    <updated>2026-08-26T16:50:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Irving, TX · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:ehzq.fa.us2.oraclecloud.com:115449</id>
     <title>Grant Thornton: Cybersecurity and Privacy Intern - Summer 2027 🛂</title>
@@ -790,21 +806,5 @@
     <updated>2026-08-12T03:53:22Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · IT Support / Ops · Baltimore, MD · $18–$20/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:fifththird:/job/Cincinnati-OH/XMLNAME-2027-IT-Audit-Intern_R70611</id>
-    <title>Fifth Third Bank: 2027 IT Audit Intern</title>
-    <link href="https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/XMLNAME-2027-IT-Audit-Intern_R70611"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · GRC / Risk · Cincinnati, OH</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineer-Intern---Summer-2027--Onsite-_01864173</id>
-    <title>RTX: Systems Engineer Intern - Summer 2027 (Onsite) 🛂</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineer-Intern---Summer-2027--Onsite-_01864173"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd NE ~ BLDG 112 · Python, MATLAB · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>

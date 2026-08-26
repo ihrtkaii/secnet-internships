@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-26T13:28:31Z",
- "data_as_of": "2026-08-26T13:28:31Z",
- "rendered_at": "2026-08-26T13:28:31Z",
+ "generated_at": "2026-08-26T16:50:19Z",
+ "data_as_of": "2026-08-26T16:50:19Z",
+ "rendered_at": "2026-08-26T16:50:19Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -633,6 +633,44 @@
    }
   },
   {
+   "company": "MKS Instruments",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-26",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Andover-MA/XMLNAME-2027-Summer-BI-Data-Analytics-IT-Intern_R20657",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-26"
+   }
+  },
+  {
+   "company": "QTS",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-26",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Irving-TX/Summer-2027-Internship--Internal-Data-Center-Infrastructure-Projects_R2026-1906",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-26"
+   }
+  },
+  {
    "company": "CNO Financial Group",
    "last_cycle_posted": "",
    "posted_on": "2026-08-03",
@@ -652,5 +690,5 @@
    }
   }
  ],
- "count": 34
+ "count": 36
 }
