@@ -1536,6 +1536,13 @@
     "site": "broadbean_external"
   },
   {
+    "name": "Anheuser-Busch",
+    "slug": "abinbev",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "USA"
+  },
+  {
     "name": "Anima",
     "slug": "anima",
     "ats": "ashby"
@@ -3385,6 +3392,11 @@
     "name": "BlackEdge Capital",
     "slug": "blackedgecapital",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Blackline Safety",
+    "slug": "blacklinesafety",
+    "ats": "workable"
   },
   {
     "name": "BlackRock",
@@ -6011,6 +6023,11 @@
     "ats": "lever"
   },
   {
+    "name": "Compeer Financial",
+    "slug": "compeerfinancial",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Composio",
     "slug": "composio",
     "ats": "ashby"
@@ -6052,6 +6069,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "Careers_US"
+  },
+  {
+    "name": "Concentric",
+    "slug": "concentric",
+    "ats": "greenhouse"
   },
   {
     "name": "Concept Plus",
@@ -9597,6 +9619,11 @@
     "name": "Foundation",
     "slug": "foundation-robotics",
     "ats": "rippling"
+  },
+  {
+    "name": "Foundation Health",
+    "slug": "foundationhealthcareers",
+    "ats": "ashby"
   },
   {
     "name": "Four Hands",
@@ -14915,6 +14942,11 @@
   {
     "name": "Maxima",
     "slug": "maxima",
+    "ats": "ashby"
+  },
+  {
+    "name": "Maximor AI",
+    "slug": "maximor",
     "ats": "ashby"
   },
   {
@@ -23783,6 +23815,11 @@
   {
     "name": "Trading212",
     "slug": "trading212",
+    "ats": "ashby"
+  },
+  {
+    "name": "TradingHub",
+    "slug": "tradinghub",
     "ats": "ashby"
   },
   {
