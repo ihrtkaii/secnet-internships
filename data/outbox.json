@@ -1,6 +1,40 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Racing-Systems-Engineering-Co-Op_JR-051290",
+      "workday:leidos:/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00190663",
+      "workday:leidos:/job/Alexandria-VA/Cybersecurity-Analyst-Intern_R-00190671",
+      "workday:leidos:/job/Shiloh-IL/Cybersecurity-Analyst-Intern_R-00190667",
+      "workday:leidos:/job/Pearl-Harbor-HI/Cybersecurity-Analyst-Intern_R-00190665",
+      "workday:leidos:/job/Whitehall-OH/Cybersecurity-Analyst-Intern_R-00190669",
+      "workday:leidos:/job/Sunset-UT/Cybersecurity-Analyst-Intern_R-00190664",
+      "workday:leidos:/job/Shiloh-IL/Network-Operations-Intern_R-00190660",
+      "workday:leidos:/job/Sunset-UT/Network-Operations-Intern_R-00190657",
+      "workday:leidos:/job/Tampa-FL/Network-Operations-Intern_R-00190651",
+      "workday:leidos:/job/Odenton-MD/Systems-Engineering-Intern_R-00190647",
+      "workday:leidos:/job/Shiloh-IL/Network-Engineering---Operations-Intern_R-00190662-1",
+      "workday:leidos:/job/Shiloh-IL/Transport-Network-Engineer-Intern_R-00190655",
+      "workday:leidos:/job/Shiloh-IL/Network-Impact-Assessment--NIA--Intern_R-00190652-1",
+      "workday:magna:/job/Liberty-Missouri-US/IT-Intern_R00258472",
+      "workday:nrel:/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394"
+    ],
+    "telegram": [
+      "workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Racing-Systems-Engineering-Co-Op_JR-051290",
+      "workday:leidos:/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00190663",
+      "workday:leidos:/job/Alexandria-VA/Cybersecurity-Analyst-Intern_R-00190671",
+      "workday:leidos:/job/Shiloh-IL/Cybersecurity-Analyst-Intern_R-00190667",
+      "workday:leidos:/job/Pearl-Harbor-HI/Cybersecurity-Analyst-Intern_R-00190665",
+      "workday:leidos:/job/Whitehall-OH/Cybersecurity-Analyst-Intern_R-00190669",
+      "workday:leidos:/job/Sunset-UT/Cybersecurity-Analyst-Intern_R-00190664",
+      "workday:leidos:/job/Shiloh-IL/Network-Operations-Intern_R-00190660",
+      "workday:leidos:/job/Sunset-UT/Network-Operations-Intern_R-00190657",
+      "workday:leidos:/job/Tampa-FL/Network-Operations-Intern_R-00190651",
+      "workday:leidos:/job/Odenton-MD/Systems-Engineering-Intern_R-00190647",
+      "workday:leidos:/job/Shiloh-IL/Network-Engineering---Operations-Intern_R-00190662-1",
+      "workday:leidos:/job/Shiloh-IL/Transport-Network-Engineer-Intern_R-00190655",
+      "workday:leidos:/job/Shiloh-IL/Network-Impact-Assessment--NIA--Intern_R-00190652-1",
+      "workday:magna:/job/Liberty-Missouri-US/IT-Intern_R00258472",
+      "workday:nrel:/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394"
+    ]
   }
 }

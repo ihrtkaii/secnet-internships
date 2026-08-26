@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-26T16:50:19Z",
- "data_as_of": "2026-08-26T16:50:19Z",
- "rendered_at": "2026-08-26T16:50:19Z",
+ "generated_at": "2026-08-26T20:15:50Z",
+ "data_as_of": "2026-08-26T20:15:50Z",
+ "rendered_at": "2026-08-26T20:15:50Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -633,6 +633,25 @@
    }
   },
   {
+   "company": "Leidos",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-26",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00190663",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-26"
+   }
+  },
+  {
    "company": "MKS Instruments",
    "last_cycle_posted": "",
    "posted_on": "2026-08-26",
@@ -690,5 +709,5 @@
    }
   }
  ],
- "count": 36
+ "count": 37
 }

@@ -5,8 +5,136 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-08-26T16:50:19Z</updated>
+  <updated>2026-08-26T20:15:50Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Racing-Systems-Engineering-Co-Op_JR-051290</id>
+    <title>Brunswick: Mercury Racing Systems Engineering Co-Op</title>
+    <link href="https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Racing-Systems-Engineering-Co-Op_JR-051290"/>
+    <updated>2026-08-26T20:15:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Fond du Lac, WI · $18–$27.5/hr · Python, C++, MATLAB · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00190663</id>
+    <title>Leidos: Cybersecurity Analyst Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00190663"/>
+    <updated>2026-08-26T20:15:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Odenton, MD · Python, Bash, Linux · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Alexandria-VA/Cybersecurity-Analyst-Intern_R-00190671</id>
+    <title>Leidos: Cybersecurity Analyst Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Cybersecurity-Analyst-Intern_R-00190671"/>
+    <updated>2026-08-26T20:15:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Alexandria, VA · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Shiloh-IL/Cybersecurity-Analyst-Intern_R-00190667</id>
+    <title>Leidos: Cybersecurity Analyst Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Cybersecurity-Analyst-Intern_R-00190667"/>
+    <updated>2026-08-26T20:15:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Shiloh, IL · Python, Bash, Linux · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Pearl-Harbor-HI/Cybersecurity-Analyst-Intern_R-00190665</id>
+    <title>Leidos: Cybersecurity Analyst Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Pearl-Harbor-HI/Cybersecurity-Analyst-Intern_R-00190665"/>
+    <updated>2026-08-26T20:15:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Pearl Harbor, HI · Python, Bash, Linux · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Whitehall-OH/Cybersecurity-Analyst-Intern_R-00190669</id>
+    <title>Leidos: Cybersecurity Analyst Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Whitehall-OH/Cybersecurity-Analyst-Intern_R-00190669"/>
+    <updated>2026-08-26T20:15:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Whitehall, OH · Python, Bash, Linux · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Sunset-UT/Cybersecurity-Analyst-Intern_R-00190664</id>
+    <title>Leidos: Cybersecurity Analyst Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Sunset-UT/Cybersecurity-Analyst-Intern_R-00190664"/>
+    <updated>2026-08-26T20:15:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Sunset, UT · Python, Bash, Linux · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Shiloh-IL/Network-Operations-Intern_R-00190660</id>
+    <title>Leidos: Network Operations Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Network-Operations-Intern_R-00190660"/>
+    <updated>2026-08-26T20:15:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Network / Telecom · Shiloh, IL · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Sunset-UT/Network-Operations-Intern_R-00190657</id>
+    <title>Leidos: Network Operations Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Sunset-UT/Network-Operations-Intern_R-00190657"/>
+    <updated>2026-08-26T20:15:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Network / Telecom · Sunset, UT · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Tampa-FL/Network-Operations-Intern_R-00190651</id>
+    <title>Leidos: Network Operations Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Tampa-FL/Network-Operations-Intern_R-00190651"/>
+    <updated>2026-08-26T20:15:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Network / Telecom · Tampa, FL · Python, Bash, Linux · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Odenton-MD/Systems-Engineering-Intern_R-00190647</id>
+    <title>Leidos: Systems Engineering Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Systems-Engineering-Intern_R-00190647"/>
+    <updated>2026-08-26T20:15:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Odenton, MD · Python, Java, C++, Bash, Docker · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Shiloh-IL/Network-Engineering---Operations-Intern_R-00190662-1</id>
+    <title>Leidos: Network Engineering &amp; Operations Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Network-Engineering---Operations-Intern_R-00190662-1"/>
+    <updated>2026-08-26T20:15:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Network / Telecom · Shiloh, IL · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Shiloh-IL/Transport-Network-Engineer-Intern_R-00190655</id>
+    <title>Leidos: Transport Network Engineer Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Transport-Network-Engineer-Intern_R-00190655"/>
+    <updated>2026-08-26T20:15:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Network / Telecom · Shiloh, IL · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Shiloh-IL/Network-Impact-Assessment--NIA--Intern_R-00190652-1</id>
+    <title>Leidos: Network Impact Assessment (NIA) Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Network-Impact-Assessment--NIA--Intern_R-00190652-1"/>
+    <updated>2026-08-26T20:15:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Network / Telecom · Shiloh, IL · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:magna:/job/Liberty-Missouri-US/IT-Intern_R00258472</id>
+    <title>Magna International: IT Intern</title>
+    <link href="https://magna.wd3.myworkdayjobs.com/Magna/job/Liberty-Missouri-US/IT-Intern_R00258472"/>
+    <updated>2026-08-26T20:15:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · IT Support / Ops · Liberty, Missouri, US · H-1B track record: ~141 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:nrel:/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394</id>
+    <title>National Laboratory of the Rockies: Undergraduate/graduate intern - software and data infrastructure for autonomous thin film experimentation (Year-Round)</title>
+    <link href="https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394"/>
+    <updated>2026-08-26T20:15:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Golden, CO · Python, Computer Vision, Git</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:mksinst:/job/Andover-MA/XMLNAME-2027-Summer-BI-Data-Analytics-IT-Intern_R20657</id>
     <title>MKS Instruments: 2027 Summer BI/Data Analytics IT Intern</title>
@@ -678,133 +806,5 @@
     <updated>2026-08-14T10:30:28Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Systems &amp; Cloud Infra · Rochester, New York, United States · Python, Java, C++, C#, TypeScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gartner:/job/Stamford-CT/Summer-2027-IT-Intern--May-2028-Graduates-_113095</id>
-    <title>Gartner: Summer 2027 IT Intern (May 2028 Graduates)</title>
-    <link href="https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Summer-2027-IT-Intern--May-2028-Graduates-_113095"/>
-    <updated>2026-08-13T05:16:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · IT Support / Ops · Stamford, CT · Python, Java, C#, JavaScript, SQL · H-1B track record: ~90 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Summer-2027--Intern-Air-Combat-Training--Systems-Engineering--Onsite-_01865658</id>
-    <title>RTX: Summer 2027: Intern Air Combat Training: Systems Engineering (Onsite) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Summer-2027--Intern-Air-Combat-Training--Systems-Engineering--Onsite-_01865658"/>
-    <updated>2026-08-12T22:18:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:akunacapital:8018856</id>
-    <title>Akuna Capital: Platform Engineer Intern, Summer 2027</title>
-    <link href="https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Chicago, IL · AWS, Kubernetes · H-1B track record: ~40 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:appian:8088496</id>
-    <title>Appian: Information Security Engineer Intern 🛂</title>
-    <link href="https://job-boards.greenhouse.io/appian/jobs/8088496"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · McLean, Virginia · $50/hr · LLMs · sponsorship: no-sponsorship · H-1B track record: ~44 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:drweng:7993195</id>
-    <title>DRW: Leadership Rotation Network Intern 🛂</title>
-    <link href="https://job-boards.greenhouse.io/drweng/jobs/7993195"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Network / Telecom · Chicago, IL · Python, SQL, Pandas, Git · sponsorship: no-sponsorship · H-1B track record: ~31 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:oldmissioncapital:7828063003</id>
-    <title>Old Mission Capital: Compliance Analyst Co-Op</title>
-    <link href="https://www.oldmissioncapital.com/careers/?gh_jid=7828063003"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · GRC / Risk · Chicago, IL, United States · $30/hr · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:pdtpartners:8083292</id>
-    <title>PDT Partners: Summer 2027 Systems Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/pdtpartners/jobs/8083292"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · New York, NY · Kubernetes</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25016832</id>
-    <title>Texas Instruments: Network Engineer - Encore Program Internship 🛂</title>
-    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016832"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Network / Telecom · Dallas, TX, United States · Python, AWS, GCP, Azure, Terraform · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com:23368</id>
-    <title>Montenson: System Administrator Intern 🛂</title>
-    <link href="https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23368"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · MN, United States · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000142173185</id>
-    <title>Bosch: Internship Vehicle Thermal Systems Engineering</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000142173185"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Farmington Hills, MI, United States · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415</id>
-    <title>Booz Allen: AI RAN Telecommunications Engineer Intern 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Network / Telecom · McLean, VA · $108k/yr · Python, C++, PyTorch, TensorFlow, Kubernetes · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:canadiansolar:/job/Walnut-Creek-CA/Intern--IT-Infrastructure-Support_10001383</id>
-    <title>Canadian Solar: Intern, IT Infrastructure Support</title>
-    <link href="https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Walnut-Creek-CA/Intern--IT-Infrastructure-Support_10001383"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Walnut Creek, CA · $20–$25/hr · Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cat:/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898</id>
-    <title>Solar Turbines: 2027 IT Intern 🛂</title>
-    <link href="https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · IT Support / Ops · San Diego, California · sponsorship: no-sponsorship · H-1B track record: ~17 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cmu:/job/Pittsburgh-PA/Security-Services-Intern---Fall-Semester_2024907-1</id>
-    <title>Carnegie Mellon University: Security Services Intern - Fall Semester 🛂</title>
-    <link href="https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Security-Services-Intern---Fall-Semester_2024907-1"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Pittsburgh, PA · sponsorship: no-sponsorship · H-1B track record: ~164 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:copart:/job/Dallas-TX---Headquarters/Vulnerability-Management-Engineering-Intern-_JR109639</id>
-    <title>Copart: Vulnerability Management Engineering Intern</title>
-    <link href="https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Vulnerability-Management-Engineering-Intern-_JR109639"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Dallas, TX - Headquarters · Python, SQL, GraphQL · H-1B track record: ~83 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:erickson:/job/Baltimore-MD/IT-Intern_R0101964-1</id>
-    <title>Erickson Senior Living: IT Intern – Enterprise Applications</title>
-    <link href="https://erickson.wd108.myworkdayjobs.com/external/job/Baltimore-MD/IT-Intern_R0101964-1"/>
-    <updated>2026-08-12T03:53:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · IT Support / Ops · Baltimore, MD · $18–$20/hr</summary>
   </entry>
 </feed>
