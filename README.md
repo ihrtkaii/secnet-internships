@@ -8,7 +8,7 @@
 
 ### 118 open roles (116 listed below) · 45 new this week
 
-4,291 employers tracked · data as of Aug 26, 2026 at 10:09 UTC
+4,291 employers tracked · data as of Aug 26, 2026 at 13:28 UTC
 
 _80 have a cycle the employer stated · 38 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -81,9 +81,9 @@ This tracks security and networking internships specifically, because the major 
 | Honeywell | Information Systems, IT, Cyber Engineer & Data Science - Summer 2027 Intern 🆕 | Security (general) | United States | No skills listed | Aug 25, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155555) |
 | Verkada ✓ | Security Software Engineering Intern 2027 🆕 | Security (general) | San Mateo, CA United States | Python, Go, Computer Vision, AWS | Aug 25, 2026 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5213881007) |
 | GlobalFoundries | Cybersecurity Intern (Summer 2027) 🆕 | Security (general) | USA - New York - Malta | No skills listed | Aug 25, 2026 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Cybersecurity-Intern--Summer-2027-_JR-2604459) |
-| BNY | 2027 BNY Summer Internship Program - Risk and Compliance (New York, NY) 🆕 | GRC / Risk | New York, NY, United States | LLMs | Aug 24, 2026 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81271) |
-| BNY | 2027 BNY Summer Internship Program - Risk and Compliance (Pittsburgh, PA) 🆕 | GRC / Risk | Pittsburgh, PA, United States | LLMs | Aug 24, 2026 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81276) |
-| BNY | 2027 BNY Summer Internship Program - Risk and Compliance (Lake Mary, FL) 🆕 | GRC / Risk | Lake Mary, FL, United States | LLMs | Aug 24, 2026 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81277) |
+| BNY | 2027 BNY Summer Internship Program - Risk and Compliance (New York, NY) | GRC / Risk | New York, NY, United States | LLMs | Aug 24, 2026 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81271) |
+| BNY | 2027 BNY Summer Internship Program - Risk and Compliance (Pittsburgh, PA) | GRC / Risk | Pittsburgh, PA, United States | LLMs | Aug 24, 2026 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81276) |
+| BNY | 2027 BNY Summer Internship Program - Risk and Compliance (Lake Mary, FL) | GRC / Risk | Lake Mary, FL, United States | LLMs | Aug 24, 2026 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81277) |
 | Lawrence Livermore National Laboratory (LLNL) | National Security Engineering Division (NSED) Graduate Intern - Summer 2027 | Security (general) | Livermore, CA, United States | No skills listed | Aug 21, 2026 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990014731646) |
 | Lawrence Livermore National Laboratory (LLNL) | National Security Engineering Division (NSED) Undergraduate Intern - Summer 2027 | Security (general) | Livermore, CA, United States (Hybrid) | No skills listed | Aug 21, 2026 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990014731656) |
 | Fifth Third Bank | Information Security Co-op - Cyber Threat Interdiction - Summer 2027 | SOC / Detection | Cincinnati, OH | No skills listed | Aug 20, 2026 | [Apply](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582) |
@@ -163,7 +163,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | ING | Summer 2027 Internship - Tech (Infrastructure) | Systems & Cloud Infra | New York | Python, Azure, Git | Aug 11, 2026 | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Infrastructure-_REQ-10119621) |
 | Montenson | System Administrator Intern 🛂 | Systems & Cloud Infra | MN, United States | No skills listed | Aug 10, 2026 | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23368) |
 | RTX | Systems Engineer Intern - Summer 2027 (Onsite) 🛂 | Systems & Cloud Infra | US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd… | Python, MATLAB | Aug 04, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineer-Intern---Summer-2027--Onsite-_01864173) |
-| Medtronic ✓ | IT Intern - Summer 2027 🛂 | IT Support / Ops | Minneapolis +2 more | Python, SQL, AWS | Aug 03, 2026 | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625) |
+| Medtronic ✓ | IT Intern - Summer 2027 🛂 | IT Support / Ops | Minneapolis +2 more | Python, SQL, AWS | Aug 03, 2026 | [Apply](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1) |
 | PDT Partners | Summer 2027 Systems Engineering Intern | Systems & Cloud Infra | New York, NY | Kubernetes | Jul 24, 2026 | [Apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) |
 | Solar Turbines ✓ | 2027 IT Intern 🛂 | IT Support / Ops | San Diego, California | No skills listed | Jul 23, 2026 | [Apply](https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898) |
 | Akuna Capital ✓ | Platform Engineer Intern, Summer 2027 | Systems & Cloud Infra | Chicago, IL | AWS, Kubernetes | Jul 13, 2026 | [Apply](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) |
@@ -242,7 +242,7 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 | 🎯 Solar Turbines | Jul 23 | dropped Jul 23 | ✅ [open now](https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898) |
 | 🎯 PDT Partners | Jul 24 | dropped Jul 24 | ✅ [open now](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) |
 | 🎯 Appian | Jul 27 | dropped Jul 27 | ✅ [open now](https://job-boards.greenhouse.io/appian/jobs/8088496) |
-| 🎯 Medtronic | Aug 03 | dropped Aug 03 | ✅ [open now](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625) |
+| 🎯 Medtronic | Aug 03 | dropped Aug 03 | ✅ [open now](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1) |
 | 🎯 Pentair | Aug 04 | dropped Aug 04 | ✅ [open now](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/IT---Cybersecurity-Leadership-Development-Internship-Program----Summer-2027_R23700) |
 | 🎯 RTX | Aug 04 | dropped Aug 04 | ✅ [open now](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineer-Intern---Summer-2027--Onsite-_01864173) |
 | 🎯 Fifth Third Bank | Aug 06 | dropped Aug 06 | ✅ [open now](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582) |
@@ -278,7 +278,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,141 of 4,535 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 907.4s · 533 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,215 of 4,535 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 949.1s · 580 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
