@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-26T02:09:21Z",
- "data_as_of": "2026-08-26T02:09:21Z",
- "rendered_at": "2026-08-26T02:09:21Z",
+ "generated_at": "2026-08-26T04:17:20Z",
+ "data_as_of": "2026-08-26T04:17:20Z",
+ "rendered_at": "2026-08-26T04:17:20Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -567,7 +567,7 @@
    "expected": "2026-08-25",
    "days_until": -1,
    "status": "open",
-   "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115637",
+   "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115449",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -624,7 +624,7 @@
    "expected": "2026-08-26",
    "days_until": 0,
    "status": "open",
-   "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014860456",
+   "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014860211",
    "note": "",
    "provenance": {
     "type": "engine-observed",
