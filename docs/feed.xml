@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-08-26T20:15:50Z</updated>
+  <updated>2026-08-27T01:02:28Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:amainc:/job/Hampton-VA/Aeronautics-Systems-Engineering-Intern_R-100746</id>
+    <title>Analytical Mechanics Associates: Aeronautics Systems Engineering Intern</title>
+    <link href="https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Aeronautics-Systems-Engineering-Intern_R-100746"/>
+    <updated>2026-08-27T01:02:28Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Hampton, VA · $25–$27.69/hr</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Racing-Systems-Engineering-Co-Op_JR-051290</id>
     <title>Brunswick: Mercury Racing Systems Engineering Co-Op</title>
@@ -14,14 +22,6 @@
     <updated>2026-08-26T20:15:49Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Systems &amp; Cloud Infra · Fond du Lac, WI · $18–$27.5/hr · Python, C++, MATLAB · H-1B track record: ~54 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00190663</id>
-    <title>Leidos: Cybersecurity Analyst Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00190663"/>
-    <updated>2026-08-26T20:15:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Odenton, MD · Python, Bash, Linux · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:leidos:/job/Alexandria-VA/Cybersecurity-Analyst-Intern_R-00190671</id>
@@ -32,12 +32,20 @@
     <summary>Summer 2027 · Security (general) · Alexandria, VA · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Shiloh-IL/Cybersecurity-Analyst-Intern_R-00190667</id>
+    <id>urn:intern-engine:workday:leidos:/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00190663</id>
     <title>Leidos: Cybersecurity Analyst Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Cybersecurity-Analyst-Intern_R-00190667"/>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00190663"/>
     <updated>2026-08-26T20:15:49Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Shiloh, IL · Python, Bash, Linux · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Security (general) · Odenton, MD · Python, Bash, Linux · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Odenton-MD/Systems-Engineering-Intern_R-00190647</id>
+    <title>Leidos: Systems Engineering Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Systems-Engineering-Intern_R-00190647"/>
+    <updated>2026-08-26T20:15:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Odenton, MD · Python, Java, C++, Bash, Docker · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:leidos:/job/Pearl-Harbor-HI/Cybersecurity-Analyst-Intern_R-00190665</id>
@@ -48,20 +56,28 @@
     <summary>Summer 2027 · Security (general) · Pearl Harbor, HI · Python, Bash, Linux · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Whitehall-OH/Cybersecurity-Analyst-Intern_R-00190669</id>
+    <id>urn:intern-engine:workday:leidos:/job/Shiloh-IL/Cybersecurity-Analyst-Intern_R-00190667</id>
     <title>Leidos: Cybersecurity Analyst Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Whitehall-OH/Cybersecurity-Analyst-Intern_R-00190669"/>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Cybersecurity-Analyst-Intern_R-00190667"/>
     <updated>2026-08-26T20:15:49Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Whitehall, OH · Python, Bash, Linux · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Security (general) · Shiloh, IL · Python, Bash, Linux · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Sunset-UT/Cybersecurity-Analyst-Intern_R-00190664</id>
-    <title>Leidos: Cybersecurity Analyst Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Sunset-UT/Cybersecurity-Analyst-Intern_R-00190664"/>
+    <id>urn:intern-engine:workday:leidos:/job/Shiloh-IL/Network-Engineering---Operations-Intern_R-00190662-1</id>
+    <title>Leidos: Network Engineering &amp; Operations Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Network-Engineering---Operations-Intern_R-00190662-1"/>
     <updated>2026-08-26T20:15:49Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Sunset, UT · Python, Bash, Linux · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Network / Telecom · Shiloh, IL · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Shiloh-IL/Network-Impact-Assessment--NIA--Intern_R-00190652-1</id>
+    <title>Leidos: Network Impact Assessment (NIA) Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Network-Impact-Assessment--NIA--Intern_R-00190652-1"/>
+    <updated>2026-08-26T20:15:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Network / Telecom · Shiloh, IL · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:leidos:/job/Shiloh-IL/Network-Operations-Intern_R-00190660</id>
@@ -70,6 +86,22 @@
     <updated>2026-08-26T20:15:49Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Network / Telecom · Shiloh, IL · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Shiloh-IL/Transport-Network-Engineer-Intern_R-00190655</id>
+    <title>Leidos: Transport Network Engineer Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Transport-Network-Engineer-Intern_R-00190655"/>
+    <updated>2026-08-26T20:15:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Network / Telecom · Shiloh, IL · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Sunset-UT/Cybersecurity-Analyst-Intern_R-00190664</id>
+    <title>Leidos: Cybersecurity Analyst Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Sunset-UT/Cybersecurity-Analyst-Intern_R-00190664"/>
+    <updated>2026-08-26T20:15:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Sunset, UT · Python, Bash, Linux · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:leidos:/job/Sunset-UT/Network-Operations-Intern_R-00190657</id>
@@ -88,36 +120,12 @@
     <summary>Summer 2027 · Network / Telecom · Tampa, FL · Python, Bash, Linux · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Odenton-MD/Systems-Engineering-Intern_R-00190647</id>
-    <title>Leidos: Systems Engineering Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Systems-Engineering-Intern_R-00190647"/>
+    <id>urn:intern-engine:workday:leidos:/job/Whitehall-OH/Cybersecurity-Analyst-Intern_R-00190669</id>
+    <title>Leidos: Cybersecurity Analyst Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Whitehall-OH/Cybersecurity-Analyst-Intern_R-00190669"/>
     <updated>2026-08-26T20:15:49Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Odenton, MD · Python, Java, C++, Bash, Docker · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Shiloh-IL/Network-Engineering---Operations-Intern_R-00190662-1</id>
-    <title>Leidos: Network Engineering &amp; Operations Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Network-Engineering---Operations-Intern_R-00190662-1"/>
-    <updated>2026-08-26T20:15:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Network / Telecom · Shiloh, IL · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Shiloh-IL/Transport-Network-Engineer-Intern_R-00190655</id>
-    <title>Leidos: Transport Network Engineer Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Transport-Network-Engineer-Intern_R-00190655"/>
-    <updated>2026-08-26T20:15:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Network / Telecom · Shiloh, IL · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Shiloh-IL/Network-Impact-Assessment--NIA--Intern_R-00190652-1</id>
-    <title>Leidos: Network Impact Assessment (NIA) Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Network-Impact-Assessment--NIA--Intern_R-00190652-1"/>
-    <updated>2026-08-26T20:15:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Network / Telecom · Shiloh, IL · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Security (general) · Whitehall, OH · Python, Bash, Linux · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:magna:/job/Liberty-Missouri-US/IT-Intern_R00258472</id>
@@ -798,13 +806,5 @@
     <updated>2026-08-14T19:26:47Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · SOC / Detection · Sarasota FL USA · $27–$42/hr · Python, Bash, AWS · H-1B track record: ~37 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workable:securityriskadvisors:3B23FB7BEB</id>
-    <title>Securityriskadvisors: DevOps Engineering Generalist Co-op</title>
-    <link href="https://apply.workable.com/securityriskadvisors/j/3B23FB7BEB/"/>
-    <updated>2026-08-14T10:30:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Rochester, New York, United States · Python, Java, C++, C#, TypeScript</summary>
   </entry>
 </feed>
