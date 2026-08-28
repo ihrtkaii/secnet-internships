@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-08-28T00:40:43Z</updated>
+  <updated>2026-08-28T12:27:10Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Intern---Systems-Engineer--Onsite-_01868046</id>
+    <title>RTX: Intern - Systems Engineer (Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Intern---Systems-Engineer--Onsite-_01868046"/>
+    <updated>2026-08-28T12:27:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193 · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Systems-Engineer-Intern---Helmet-Displays--Summer-2027----Onsite_01867411</id>
+    <title>RTX: Systems Engineer Intern - Helmet Displays (Summer 2027) - Onsite 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Systems-Engineer-Intern---Helmet-Displays--Summer-2027----Onsite_01867411"/>
+    <updated>2026-08-28T12:27:10Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 · Python, C++, MATLAB · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Intern--Systems-Engineer--Onsite-_01868496</id>
+    <title>RTX: Intern- Systems Engineer (Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Intern--Systems-Engineer--Onsite-_01868496"/>
+    <updated>2026-08-28T12:27:10Z</updated>
+    <category term="Not stated"/>
+    <summary>2 openings · Not stated · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-192 ~ 1205 Continental Place NE ~ BLDG 192 · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10517649</id>
     <title>Amazon: Cloud Hardware Development Engineer Intern, Annapurna Labs - 2027</title>
@@ -14,14 +38,6 @@
     <updated>2026-08-28T00:40:43Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Cloud Platform · Austin, Texas, USA · Python, Verilog · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ehzq.fa.us2.oraclecloud.com:115640</id>
-    <title>Grant Thornton: Cybersecurity and Privacy Intern - Summer 2027 🛂</title>
-    <link href="https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115640"/>
-    <updated>2026-08-28T00:40:43Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Chicago, IL, United States · $37/hr · sponsorship: no-sponsorship · H-1B track record: ~118 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:reply:7bb0afb0-cea1-4e7a-b51e-1c529f37d843</id>
@@ -32,12 +48,20 @@
     <summary>Not stated · Network / Telecom · Chicago, Illinois · $15/hr · LLMs</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:AbbVie:3743990014900536</id>
-    <title>AbbVie: 2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate)</title>
-    <link href="https://jobs.smartrecruiters.com/AbbVie/3743990014900536"/>
+    <id>urn:intern-engine:oracle:ehzq.fa.us2.oraclecloud.com:115640</id>
+    <title>Grant Thornton: Cybersecurity and Privacy Intern - Summer 2027 🛂</title>
+    <link href="https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115640"/>
     <updated>2026-08-28T00:40:43Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · South San Francisco, CA, United States (Hybrid) · Python, Java, C#, JavaScript, HTML/CSS · H-1B track record: ~303 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Security (general) · Chicago, IL, United States · $37/hr · sponsorship: no-sponsorship · H-1B track record: ~118 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:AbbVie:3743990014896329</id>
+    <title>AbbVie: 2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate)</title>
+    <link href="https://jobs.smartrecruiters.com/AbbVie/3743990014896329"/>
+    <updated>2026-08-28T00:40:43Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · North Chicago, IL, United States (Hybrid) · Python, Java, C#, JavaScript, HTML/CSS · H-1B track record: ~303 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:AbbVie:3743990014900496</id>
@@ -48,12 +72,12 @@
     <summary>Summer 2027 · Security (general) · Irvine, CA, United States (Hybrid) · Python, Java, C#, JavaScript, HTML/CSS · H-1B track record: ~303 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:AbbVie:3743990014896329</id>
+    <id>urn:intern-engine:smartrecruiters:AbbVie:3743990014900536</id>
     <title>AbbVie: 2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate)</title>
-    <link href="https://jobs.smartrecruiters.com/AbbVie/3743990014896329"/>
+    <link href="https://jobs.smartrecruiters.com/AbbVie/3743990014900536"/>
     <updated>2026-08-28T00:40:43Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · North Chicago, IL, United States (Hybrid) · Python, Java, C#, JavaScript, HTML/CSS · H-1B track record: ~303 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Security (general) · South San Francisco, CA, United States (Hybrid) · Python, Java, C#, JavaScript, HTML/CSS · H-1B track record: ~303 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:airproducts:/job/Allentown-Pennsylvania/Summer-Intern--IT---Cyber-Audit--2027-_JR-2026-21954</id>
@@ -779,30 +803,6 @@
     <id>urn:intern-engine:workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_177680-1</id>
     <title>Vanguard: College to Corporate IT Internship - Data Science (PA)</title>
     <link href="https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_177680-1"/>
-    <updated>2026-08-17T21:53:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>2 openings · Summer 2027 · Other · Malvern, PA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Investment-Systems--PA-_177685-1</id>
-    <title>Vanguard: College to Corporate IT Internship - Investment Systems (PA)</title>
-    <link href="https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Investment-Systems--PA-_177685-1"/>
-    <updated>2026-08-17T21:53:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Malvern, PA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Analyst---PA-_177690-1</id>
-    <title>Vanguard: College to Corporate IT Internship - Risk &amp; Security - Analyst  (PA)</title>
-    <link href="https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Analyst---PA-_177690-1"/>
-    <updated>2026-08-17T21:53:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>2 openings · Summer 2027 · Security (general) · Malvern, PA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Technology-Operations--PA-_177670-1</id>
-    <title>Vanguard: College to Corporate IT Internship - Technology Operations (PA)</title>
-    <link href="https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Technology-Operations--PA-_177670-1"/>
     <updated>2026-08-17T21:53:44Z</updated>
     <category term="Summer 2027"/>
     <summary>2 openings · Summer 2027 · Other · Malvern, PA</summary>
