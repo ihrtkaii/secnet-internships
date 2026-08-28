@@ -1,6 +1,28 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "amazon:amazon:10517649",
+      "oracle:ehzq.fa.us2.oraclecloud.com:115640",
+      "lever:reply:7bb0afb0-cea1-4e7a-b51e-1c529f37d843",
+      "smartrecruiters:AbbVie:3743990014900536",
+      "smartrecruiters:AbbVie:3743990014900496",
+      "smartrecruiters:AbbVie:3743990014896329",
+      "workday:airproducts:/job/Allentown-Pennsylvania/Summer-Intern--IT---Cyber-Audit--2027-_JR-2026-21954",
+      "workday:amainc:/job/Remote---California/Remote-Aeronautics-Systems-Engineering-Intern_R-100747",
+      "workday:cnoinc:/job/Carmel-IN/Artificial-Intelligence--AI--IT-Intern-2027---REMOTE_JR170389",
+      "workday:erickson:/job/Catonsville-MD/Intern---IT-Support_R0103105-1"
+    ],
+    "telegram": [
+      "amazon:amazon:10517649",
+      "oracle:ehzq.fa.us2.oraclecloud.com:115640",
+      "lever:reply:7bb0afb0-cea1-4e7a-b51e-1c529f37d843",
+      "smartrecruiters:AbbVie:3743990014900536",
+      "smartrecruiters:AbbVie:3743990014900496",
+      "smartrecruiters:AbbVie:3743990014896329",
+      "workday:airproducts:/job/Allentown-Pennsylvania/Summer-Intern--IT---Cyber-Audit--2027-_JR-2026-21954",
+      "workday:amainc:/job/Remote---California/Remote-Aeronautics-Systems-Engineering-Intern_R-100747",
+      "workday:cnoinc:/job/Carmel-IN/Artificial-Intelligence--AI--IT-Intern-2027---REMOTE_JR170389",
+      "workday:erickson:/job/Catonsville-MD/Intern---IT-Support_R0103105-1"
+    ]
   }
 }

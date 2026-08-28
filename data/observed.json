@@ -20,9 +20,12 @@
      "role_ids": [
       "smartrecruiters:AbbVie:3743990014860211",
       "smartrecruiters:AbbVie:3743990014860386",
-      "smartrecruiters:AbbVie:3743990014860456"
+      "smartrecruiters:AbbVie:3743990014860456",
+      "smartrecruiters:AbbVie:3743990014896329",
+      "smartrecruiters:AbbVie:3743990014900496",
+      "smartrecruiters:AbbVie:3743990014900536"
      ],
-     "count": 3
+     "count": 6
     }
    }
   },
@@ -51,6 +54,18 @@
     }
    }
   },
+  "air products": {
+   "name": "Air Products",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-27",
+     "role_ids": [
+      "workday:airproducts:/job/Allentown-Pennsylvania/Summer-Intern--IT---Cyber-Audit--2027-_JR-2026-21954"
+     ],
+     "count": 1
+    }
+   }
+  },
   "akuna capital": {
    "name": "Akuna Capital",
    "cycles": {
@@ -70,6 +85,13 @@
      "first_posted": "2026-05-06",
      "role_ids": [
       "amazon:amazon:10412530"
+     ],
+     "count": 1
+    },
+    "Summer 2027": {
+     "first_posted": "2026-08-27",
+     "role_ids": [
+      "amazon:amazon:10517649"
      ],
      "count": 1
     }
@@ -150,9 +172,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-03",
      "role_ids": [
+      "workday:cnoinc:/job/Carmel-IN/Artificial-Intelligence--AI--IT-Intern-2027---REMOTE_JR170389",
       "workday:cnoinc:/job/Carmel-IN/IT-Intern_JR170390"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -251,9 +274,10 @@
      "first_posted": "2026-08-25",
      "role_ids": [
       "oracle:ehzq.fa.us2.oraclecloud.com:115449",
-      "oracle:ehzq.fa.us2.oraclecloud.com:115637"
+      "oracle:ehzq.fa.us2.oraclecloud.com:115637",
+      "oracle:ehzq.fa.us2.oraclecloud.com:115640"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -358,6 +382,7 @@
      "first_posted": "2026-08-26",
      "role_ids": [
       "workday:leidos:/job/Alexandria-VA/Cybersecurity-Analyst-Intern_R-00190671",
+      "workday:leidos:/job/Bethesda-MD/Cybersecurity-Engineer-Co-op_R-00190764",
       "workday:leidos:/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00190663",
       "workday:leidos:/job/Odenton-MD/Systems-Engineering-Intern_R-00190647",
       "workday:leidos:/job/Pearl-Harbor-HI/Cybersecurity-Analyst-Intern_R-00190665",
@@ -369,7 +394,7 @@
       "workday:leidos:/job/Tampa-FL/Network-Operations-Intern_R-00190651",
       "workday:leidos:/job/Whitehall-OH/Cybersecurity-Analyst-Intern_R-00190669"
      ],
-     "count": 11
+     "count": 12
     }
    }
   },
@@ -576,5 +601,5 @@
    }
   }
  },
- "updated_at": "2026-08-27T14:23:48Z"
+ "updated_at": "2026-08-28T00:40:43Z"
 }
