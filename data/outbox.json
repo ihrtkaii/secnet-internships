@@ -1,18 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007361",
-      "workday:andersen:/job/Oak-Park-Heights-MN/IT-Intern_R-8116",
-      "greenhouse:charlesriverassociates:8128811",
-      "workday:conagrabrands:/job/Omaha-Nebraska/Cybersecurity-Internship---Summer-2027_Req-039965",
-      "workday:tiaa:/job/New-York-NY-USA/Churchill-Summer-Internship--Investment-Infrastructure---Technology--IIT-_R260800515-1"
-    ],
-    "telegram": [
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007361",
-      "workday:andersen:/job/Oak-Park-Heights-MN/IT-Intern_R-8116",
-      "greenhouse:charlesriverassociates:8128811",
-      "workday:conagrabrands:/job/Omaha-Nebraska/Cybersecurity-Internship---Summer-2027_Req-039965",
-      "workday:tiaa:/job/New-York-NY-USA/Churchill-Summer-Internship--Investment-Infrastructure---Technology--IIT-_R260800515-1"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
