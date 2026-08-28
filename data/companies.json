@@ -224,6 +224,13 @@
     "site": "abcfinancialservices"
   },
   {
+    "name": "ABC Supply",
+    "slug": "abcsupply",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "abcsupplycareers"
+  },
+  {
     "name": "AbelsonTaylor",
     "slug": "abelsontaylor",
     "ats": "greenhouse"
@@ -1500,6 +1507,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "AnaVation",
+    "slug": "anavationllc",
+    "ats": "lever"
+  },
+  {
     "name": "Ancestry",
     "slug": "ancestry",
     "ats": "workday",
@@ -1510,6 +1522,13 @@
     "name": "Anchorage",
     "slug": "anchorage",
     "ats": "lever"
+  },
+  {
+    "name": "Andersen Corporation",
+    "slug": "andersen",
+    "ats": "workday",
+    "wd": "wd12",
+    "site": "Andersen_External_Career_Site"
   },
   {
     "name": "Ando",
@@ -3445,6 +3464,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "Blackstone_Campus_Careers"
+  },
+  {
+    "name": "Bland AI",
+    "slug": "bland",
+    "ats": "ashby"
   },
   {
     "name": "blend360",
@@ -6705,6 +6729,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "cubic_global_careers"
+  },
+  {
+    "name": "Culina Group",
+    "slug": "CulinaGroup1",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Cultivarium",
@@ -12195,6 +12224,11 @@
     "name": "Inductive Automation",
     "slug": "inductiveautomation",
     "ats": "lever"
+  },
+  {
+    "name": "Inductive Automation",
+    "slug": "inductive-automation-llc",
+    "ats": "ashby"
   },
   {
     "name": "InfiniteQuant",
@@ -18713,6 +18747,13 @@
     "site": "lsc"
   },
   {
+    "name": "PPM America",
+    "slug": "jackson",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "ppma_careers"
+  },
+  {
     "name": "PRA Group",
     "slug": "pra",
     "ats": "workday",
@@ -19516,6 +19557,11 @@
     "ats": "workday",
     "wd": "wd108",
     "site": "realty_income_careers"
+  },
+  {
+    "name": "Rebellion",
+    "slug": "rebellion",
+    "ats": "workable"
   },
   {
     "name": "ReCor Medical",
