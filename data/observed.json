@@ -166,6 +166,18 @@
     }
    }
   },
+  "charles river associates cra": {
+   "name": "Charles River Associates (CRA)",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-28",
+     "role_ids": [
+      "greenhouse:charlesriverassociates:8128811"
+     ],
+     "count": 1
+    }
+   }
+  },
   "cno financial group": {
    "name": "CNO Financial Group",
    "cycles": {
@@ -185,9 +197,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-17",
      "role_ids": [
+      "workday:conagrabrands:/job/Omaha-Nebraska/Cybersecurity-Internship---Summer-2027_Req-039965",
       "workday:conagrabrands:/job/Omaha-Nebraska/IT-Infrastructure-Internship---Summer-2027_Req-039788"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -561,6 +574,18 @@
     }
    }
   },
+  "stantec": {
+   "name": "Stantec",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-28",
+     "role_ids": [
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007361"
+     ],
+     "count": 1
+    }
+   }
+  },
   "vanguard": {
    "name": "Vanguard",
    "cycles": {
@@ -602,5 +627,5 @@
    }
   }
  },
- "updated_at": "2026-08-28T12:27:10Z"
+ "updated_at": "2026-08-28T22:52:11Z"
 }

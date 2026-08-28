@@ -5,15 +5,47 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-08-28T12:27:10Z</updated>
+  <updated>2026-08-28T22:52:11Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Intern---Systems-Engineer--Onsite-_01868046</id>
-    <title>RTX: Intern - Systems Engineer (Onsite) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Intern---Systems-Engineer--Onsite-_01868046"/>
-    <updated>2026-08-28T12:27:10Z</updated>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007361</id>
+    <title>Stantec: Roadway Design Intern - Infrastructure (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007361"/>
+    <updated>2026-08-28T22:52:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Raleigh, NC, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:andersen:/job/Oak-Park-Heights-MN/IT-Intern_R-8116</id>
+    <title>Andersen Corporation: IT Intern</title>
+    <link href="https://andersen.wd12.myworkdayjobs.com/Andersen_External_Career_Site/job/Oak-Park-Heights-MN/IT-Intern_R-8116"/>
+    <updated>2026-08-28T22:52:11Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193 · sponsorship: citizens-only</summary>
+    <summary>Not stated · IT Support / Ops · Oak Park Heights, MN · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:charlesriverassociates:8128811</id>
+    <title>Charles River Associates (CRA): (2028 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/charlesriverassociates/jobs/8128811"/>
+    <updated>2026-08-28T22:52:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Boston, MA, United States; Chicago, IL, United States; Dallas, Texas, United States; Washington, DC, United States · $30–$37.5/hr · Python, C#, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:conagrabrands:/job/Omaha-Nebraska/Cybersecurity-Internship---Summer-2027_Req-039965</id>
+    <title>Conagra Brands: Cybersecurity Internship - Summer 2027</title>
+    <link href="https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Cybersecurity-Internship---Summer-2027_Req-039965"/>
+    <updated>2026-08-28T22:52:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Omaha, Nebraska · $23/hr · H-1B track record: ~14 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tiaa:/job/New-York-NY-USA/Churchill-Summer-Internship--Investment-Infrastructure---Technology--IIT-_R260800515-1</id>
+    <title>TIAA: Churchill Summer Internship: Investment Infrastructure &amp; Technology (IIT)</title>
+    <link href="https://tiaa.wd1.myworkdayjobs.com/Search/job/New-York-NY-USA/Churchill-Summer-Internship--Investment-Infrastructure---Technology--IIT-_R260800515-1"/>
+    <updated>2026-08-28T22:52:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · New York, NY, USA · $30/hr · Python, SQL, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Systems-Engineer-Intern---Helmet-Displays--Summer-2027----Onsite_01867411</id>
@@ -30,6 +62,14 @@
     <updated>2026-08-28T12:27:10Z</updated>
     <category term="Not stated"/>
     <summary>2 openings · Not stated · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-192 ~ 1205 Continental Place NE ~ BLDG 192 · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Intern---Systems-Engineer--Onsite-_01868046</id>
+    <title>RTX: Intern - Systems Engineer (Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Intern---Systems-Engineer--Onsite-_01868046"/>
+    <updated>2026-08-28T12:27:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193 · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10517649</id>
@@ -766,45 +806,5 @@
     <updated>2026-08-17T21:53:44Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Other · Charlotte, NC</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_177677-1</id>
-    <title>Vanguard: College to Corporate IT Internship - Data Analyst (NC)</title>
-    <link href="https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_177677-1"/>
-    <updated>2026-08-17T21:53:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>2 openings · Summer 2027 · Other · Charlotte, NC</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_177682-1</id>
-    <title>Vanguard: College to Corporate IT Internship - Data Science (NC)</title>
-    <link href="https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_177682-1"/>
-    <updated>2026-08-17T21:53:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>2 openings · Summer 2027 · Other · Charlotte, NC</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Analyst---NC-_177689-1</id>
-    <title>Vanguard: College to Corporate IT Internship - Risk &amp; Security - Analyst  (NC)</title>
-    <link href="https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Analyst---NC-_177689-1"/>
-    <updated>2026-08-17T21:53:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>2 openings · Summer 2027 · Security (general) · Charlotte, NC</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Analysis--PA-_177679-1</id>
-    <title>Vanguard: College to Corporate IT Internship - Data Analysis (PA)</title>
-    <link href="https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Analysis--PA-_177679-1"/>
-    <updated>2026-08-17T21:53:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Other · Malvern, PA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_177680-1</id>
-    <title>Vanguard: College to Corporate IT Internship - Data Science (PA)</title>
-    <link href="https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_177680-1"/>
-    <updated>2026-08-17T21:53:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>2 openings · Summer 2027 · Other · Malvern, PA</summary>
   </entry>
 </feed>
