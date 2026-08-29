@@ -625,7 +625,19 @@
      "count": 1
     }
    }
+  },
+  "workiva": {
+   "name": "Workiva",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-27",
+     "role_ids": [
+      "workday:workiva:/job/USA---Remote/Spring---Summer-2027-Intern---Security---GRC_R12353"
+     ],
+     "count": 1
+    }
+   }
   }
  },
- "updated_at": "2026-08-28T22:52:11Z"
+ "updated_at": "2026-08-29T14:44:09Z"
 }

@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-08-28T22:52:11Z</updated>
+  <updated>2026-08-29T14:44:09Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:workiva:/job/USA---Remote/Spring---Summer-2027-Intern---Security---GRC_R12353</id>
+    <title>Workiva: Spring &amp; Summer 2027 Intern - Security &amp; GRC</title>
+    <link href="https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Spring---Summer-2027-Intern---Security---GRC_R12353"/>
+    <updated>2026-08-29T14:44:09Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · GRC / Risk · USA - Remote · Python, Java, SQL, AWS, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:charlesriverassociates:8128811</id>
+    <title>Charles River Associates (CRA): (2028 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/charlesriverassociates/jobs/8128811"/>
+    <updated>2026-08-28T22:52:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Boston, MA, United States; Chicago, IL, United States; Dallas, Texas, United States; Washington, DC, United States · $30–$37.5/hr · Python, C#, SQL</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007361</id>
     <title>Stantec: Roadway Design Intern - Infrastructure (Summer 2027)</title>
@@ -22,14 +38,6 @@
     <updated>2026-08-28T22:52:11Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · IT Support / Ops · Oak Park Heights, MN · H-1B track record: ~11 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:charlesriverassociates:8128811</id>
-    <title>Charles River Associates (CRA): (2028 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/charlesriverassociates/jobs/8128811"/>
-    <updated>2026-08-28T22:52:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Boston, MA, United States; Chicago, IL, United States; Dallas, Texas, United States; Washington, DC, United States · $30–$37.5/hr · Python, C#, SQL</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:conagrabrands:/job/Omaha-Nebraska/Cybersecurity-Internship---Summer-2027_Req-039965</id>
@@ -798,13 +806,5 @@
     <updated>2026-08-17T21:53:44Z</updated>
     <category term="Winter 2027"/>
     <summary>Winter 2027 · Security (general) · Oklahoma City, Oklahoma · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Application-Development--NC-_177681-1</id>
-    <title>Vanguard: College to Corporate IT Internship - Application Development (NC)</title>
-    <link href="https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Application-Development--NC-_177681-1"/>
-    <updated>2026-08-17T21:53:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Other · Charlotte, NC</summary>
   </entry>
 </feed>
