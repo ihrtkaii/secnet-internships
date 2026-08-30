@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-30T21:15:16Z",
- "data_as_of": "2026-08-30T21:15:16Z",
- "rendered_at": "2026-08-30T21:15:16Z",
+ "generated_at": "2026-08-30T23:43:01Z",
+ "data_as_of": "2026-08-30T23:43:01Z",
+ "rendered_at": "2026-08-30T23:43:01Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -802,7 +802,45 @@
     "cycle": "Summer 2027",
     "observed_on": "2026-08-28"
    }
+  },
+  {
+   "company": "Brookfield Properties",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-30",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://brookfield.wd5.myworkdayjobs.com/brookfieldproperties/job/Chicago-Illinois/IT-Intern--Summer-Internship-6-7-2027---8-13-2027-_R2052380-1",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-30"
+   }
+  },
+  {
+   "company": "Equifax",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-30",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer-Intern_J00178674",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-30"
+   }
   }
  ],
- "count": 42
+ "count": 44
 }

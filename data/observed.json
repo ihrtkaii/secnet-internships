@@ -154,6 +154,18 @@
     }
    }
   },
+  "brookfield properties": {
+   "name": "Brookfield Properties",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-30",
+     "role_ids": [
+      "workday:brookfield:/job/Chicago-Illinois/IT-Intern--Summer-Internship-6-7-2027---8-13-2027-_R2052380-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "brunswick": {
    "name": "Brunswick",
    "cycles": {
@@ -239,6 +251,18 @@
       "oracle:ebxr.fa.us2.oraclecloud.com:214487"
      ],
      "count": 3
+    }
+   }
+  },
+  "equifax": {
+   "name": "Equifax",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-30",
+     "role_ids": [
+      "workday:equifax:/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer-Intern_J00178674"
+     ],
+     "count": 1
     }
    }
   },
@@ -639,5 +663,5 @@
    }
   }
  },
- "updated_at": "2026-08-30T21:15:16Z"
+ "updated_at": "2026-08-30T23:43:01Z"
 }
