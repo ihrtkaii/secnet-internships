@@ -1,12 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:brookfield:/job/Chicago-Illinois/IT-Intern--Summer-Internship-6-7-2027---8-13-2027-_R2052380-1",
-      "workday:equifax:/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer-Intern_J00178674"
-    ],
-    "telegram": [
-      "workday:brookfield:/job/Chicago-Illinois/IT-Intern--Summer-Internship-6-7-2027---8-13-2027-_R2052380-1",
-      "workday:equifax:/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer-Intern_J00178674"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
