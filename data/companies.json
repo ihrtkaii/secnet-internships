@@ -19274,6 +19274,11 @@
     "ats": "lever"
   },
   {
+    "name": "Quanta",
+    "slug": "quanta",
+    "ats": "ashby"
+  },
+  {
     "name": "Quantcast",
     "slug": "quantcast",
     "ats": "lever"
@@ -23665,6 +23670,11 @@
     "name": "The Wonderful Company",
     "slug": "TheWonderfulCompany",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Thea Energy",
+    "slug": "thea",
+    "ats": "lever"
   },
   {
     "name": "TheGuarantors",
