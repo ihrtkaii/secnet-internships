@@ -1,5 +1,17 @@
 {
  "companies": {
+  "3m": {
+   "name": "3M",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:3m:/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-IT-Intern_R01170403-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "abbott": {
    "name": "Abbott",
    "cycles": {
@@ -140,6 +152,19 @@
     }
    }
   },
+  "awetomaton": {
+   "name": "Awetomaton",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "greenhouse:awetomaton:5394046008",
+      "greenhouse:awetomaton:5394074008"
+     ],
+     "count": 2
+    }
+   }
+  },
   "bny": {
    "name": "BNY",
    "cycles": {
@@ -254,6 +279,30 @@
     }
    }
   },
+  "duke energy": {
+   "name": "Duke Energy",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:dukeenergy:/job/Charlotte-NC/Digital-Forensics-Summer-Intern---2027_R41195"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "elanco": {
+   "name": "Elanco",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:elanco:/job/Indianapolis-IN/Junior-IT-Engineer---Information-Technology-Intern--Summer-2027-_R0026986-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "equifax": {
    "name": "Equifax",
    "cycles": {
@@ -261,6 +310,18 @@
      "first_posted": "2026-08-30",
      "role_ids": [
       "workday:equifax:/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer-Intern_J00178674"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "ercot": {
+   "name": "Ercot",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:ercot:/job/Taylor-TX/Summer-Intern----Cyber-Security_R2404"
      ],
      "count": 1
     }
@@ -312,9 +373,10 @@
      "role_ids": [
       "oracle:ehzq.fa.us2.oraclecloud.com:115449",
       "oracle:ehzq.fa.us2.oraclecloud.com:115637",
+      "oracle:ehzq.fa.us2.oraclecloud.com:115639",
       "oracle:ehzq.fa.us2.oraclecloud.com:115640"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -364,6 +426,18 @@
       "oracle:ibqbjb.fa.ocs.oraclecloud.com:155555"
      ],
      "count": 2
+    }
+   }
+  },
+  "hp iq": {
+   "name": "HP IQ",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "greenhouse:hpiq:6116398004"
+     ],
+     "count": 1
     }
    }
   },
@@ -418,6 +492,7 @@
     "Summer 2027": {
      "first_posted": "2026-08-26",
      "role_ids": [
+      "workday:leidos:/job/6314-RemoteTeleworker-US/SharePoint---Systems-Engineering-Intern_R-00190982",
       "workday:leidos:/job/Alexandria-VA/Cybersecurity-Analyst-Intern_R-00190671",
       "workday:leidos:/job/Bethesda-MD/Cybersecurity-Engineer-Co-op_R-00190764",
       "workday:leidos:/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00190663",
@@ -431,7 +506,7 @@
       "workday:leidos:/job/Tampa-FL/Network-Operations-Intern_R-00190651",
       "workday:leidos:/job/Whitehall-OH/Cybersecurity-Analyst-Intern_R-00190669"
      ],
-     "count": 12
+     "count": 13
     }
    }
   },
@@ -442,6 +517,18 @@
      "first_posted": "2026-08-24",
      "role_ids": [
       "workday:markelcorp:/job/Richmond-VA/Markel-2027-IT-Internship-Program_R0023805"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "mastercard": {
+   "name": "Mastercard",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:mastercard:/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284875"
      ],
      "count": 1
     }
@@ -501,7 +588,15 @@
     "Summer 2027": {
      "first_posted": "2026-08-24",
      "role_ids": [
-      "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering_R10247434"
+      "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering_R10247434",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Engineering-Intern--Roy-UT_R10248475"
+     ],
+     "count": 2
+    },
+    "Fall 2026": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2026-Part-Time-Cyber-Security-Engineering-Intern---Aurora-CO_R10248520"
      ],
      "count": 1
     }
@@ -514,6 +609,18 @@
      "first_posted": "2026-07-15",
      "role_ids": [
       "ashby:notion:6ccbc30c-2de0-4395-af14-3641cd15961b"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "oshkosh": {
+   "name": "Oshkosh",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:oshkoshcorporation:/job/Dodge-Center-Minnesota-United-States/Digital-Technology-Intern---Systems-Analyst--Summer-2027-_R49791"
      ],
      "count": 1
     }
@@ -580,9 +687,10 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Summer-2027--Intern-Air-Combat-Training--Systems-Engineering--Onsite-_01865658",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Systems-Engineer-Intern---Helmet-Displays--Summer-2027----Onsite_01867411",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineering-Intern-2027--Onsite-_01865648",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern-2027--Onsite-_01867044"
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern-2027--Onsite-_01867044",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871278"
      ],
-     "count": 8
+     "count": 9
     }
    }
   },
@@ -610,6 +718,18 @@
     }
    }
   },
+  "united parcel service ups": {
+   "name": "United Parcel Service (UPS)",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:hcmportal:/job/US---UPS-TECHNOLOGY-HEADQUARTERS--DATACENTER-NJRAR/UPS-Information-Security-Summer-2027-Internship---NJ_R26029761"
+     ],
+     "count": 1
+    }
+   }
+  },
   "vanguard": {
    "name": "Vanguard",
    "cycles": {
@@ -625,6 +745,7 @@
       "workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Analyst---NC-_181764",
       "workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Engineer---NC-_177688-1",
       "workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Technology-Operations--NC-_177674-1",
+      "workday:vanguard:/job/DallasFt-Worth-TX/College-to-Corporate-IT-Internship---Risk---Security---Engineer_181851",
       "workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Analysis--PA-_177679-1",
       "workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_177680-1",
       "workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766",
@@ -634,7 +755,7 @@
       "workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Technology-Operations--PA-_177670-1",
       "workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Technology-Operations--PA-_181788"
      ],
-     "count": 17
+     "count": 18
     }
    }
   },
@@ -661,7 +782,19 @@
      "count": 1
     }
    }
+  },
+  "xcel energy": {
+   "name": "Xcel Energy",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:xcelenergy:/job/Denver-CO-80205/IT-Infrastructure-Intern---CO_JR115917"
+     ],
+     "count": 1
+    }
+   }
   }
  },
- "updated_at": "2026-08-31T13:54:42Z"
+ "updated_at": "2026-08-31T21:05:14Z"
 }

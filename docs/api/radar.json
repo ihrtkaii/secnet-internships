@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-31T13:54:42Z",
- "data_as_of": "2026-08-31T13:54:42Z",
- "rendered_at": "2026-08-31T13:54:42Z",
+ "generated_at": "2026-08-31T21:05:14Z",
+ "data_as_of": "2026-08-31T21:05:14Z",
+ "rendered_at": "2026-08-31T21:05:14Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -840,7 +840,178 @@
     "cycle": "Summer 2027",
     "observed_on": "2026-08-30"
    }
+  },
+  {
+   "company": "3M",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-IT-Intern_R01170403-1",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
+   }
+  },
+  {
+   "company": "Awetomaton",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/awetomaton/jobs/5394074008",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
+   }
+  },
+  {
+   "company": "Duke Energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Digital-Forensics-Summer-Intern---2027_R41195",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
+   }
+  },
+  {
+   "company": "Elanco",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Junior-IT-Engineer---Information-Technology-Intern--Summer-2027-_R0026986-1",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
+   }
+  },
+  {
+   "company": "Ercot",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Summer-Intern----Cyber-Security_R2404",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
+   }
+  },
+  {
+   "company": "HP IQ",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/hpiq/jobs/6116398004",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
+   }
+  },
+  {
+   "company": "Mastercard",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284875",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
+   }
+  },
+  {
+   "company": "Oshkosh",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Dodge-Center-Minnesota-United-States/Digital-Technology-Intern---Systems-Analyst--Summer-2027-_R49791",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
+   }
+  },
+  {
+   "company": "United Parcel Service (UPS)",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-TECHNOLOGY-HEADQUARTERS--DATACENTER-NJRAR/UPS-Information-Security-Summer-2027-Internship---NJ_R26029761",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
+   }
   }
  ],
- "count": 44
+ "count": 53
 }
