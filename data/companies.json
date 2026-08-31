@@ -18165,6 +18165,13 @@
     "site": "PennantServicesCareerSite"
   },
   {
+    "name": "Pennmutual",
+    "slug": "pennmutual",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "_penn-careers"
+  },
+  {
     "name": "PennState University",
     "slug": "psu",
     "ats": "workday",
