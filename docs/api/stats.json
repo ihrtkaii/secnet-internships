@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-31T05:42:44Z",
- "fetched_at": "2026-08-31T05:42:44Z",
- "duration_seconds": 1005.4,
+ "generated_at": "2026-08-31T13:54:42Z",
+ "fetched_at": "2026-08-31T13:54:42Z",
+ "duration_seconds": 1050.0,
  "companies_total": 4572,
  "companies_by_source": {
   "greenhouse": 1033,
@@ -17,33 +17,34 @@
   "breezy": 12,
   "eightfold": 1
  },
- "quarantined": 265,
- "fetched_ok": 4174,
- "fetch_errors": 133,
+ "quarantined": 269,
+ "fetched_ok": 4213,
+ "fetch_errors": 90,
  "errors_by_source": {
-  "greenhouse": 1,
-  "workday": 127,
-  "workable": 5
+  "workday": 82,
+  "workable": 7,
+  "lever": 1
  },
- "fetch_success_rate": 0.969,
- "fetch_success_rate_registry": 0.913,
- "snapshots_complete": 3627,
- "snapshots_partial": 547,
+ "fetch_success_rate": 0.979,
+ "fetch_success_rate_registry": 0.921,
+ "snapshots_complete": 3642,
+ "snapshots_partial": 571,
  "partial_by_reason": {
-  "result-cap": 538,
-  "malformed-response": 9
+  "result-cap": 505,
+  "malformed-response": 65,
+  "pagination-stalled": 1
  },
- "degraded_fetches": 9,
- "roles_matched": 128,
- "dropped_no_year_in_title": 90,
- "dropped_no_year_undated": 54,
+ "degraded_fetches": 66,
+ "roles_matched": 133,
+ "dropped_no_year_in_title": 88,
+ "dropped_no_year_undated": 52,
  "dropped_no_year_dated_too_old": 36,
  "dropped_no_year_dated_in_future": 0,
  "dropped_no_year_unparsable_date": 0,
  "dropped_no_year_inference_disabled": 0,
  "dropped_no_year_by_reason": {
   "dated-too-old": 36,
-  "undated": 54
+  "undated": 52
  },
  "dropped_offcycle_by_text": 29,
  "roles_cycle_inferred": 49,
@@ -76,9 +77,9 @@
  "new_this_run": 0,
  "open_total": 155,
  "detection_latency": {
-  "median_minutes": 85.4,
+  "median_minutes": 80.8,
   "p95_minutes": 526.9,
-  "sample_size": 15,
+  "sample_size": 14,
   "window_days": 7,
   "basis": "roles published in the window with an exact source timestamp"
  },
@@ -86,5 +87,5 @@
   "median_days": 16,
   "sample_size": 7
  },
- "rendered_at": "2026-08-31T05:42:44Z"
+ "rendered_at": "2026-08-31T13:54:42Z"
 }
