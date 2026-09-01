@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-01T21:15:28Z</updated>
+  <updated>2026-09-01T23:33:08Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:genpt:/job/Birmingham-AL-USA/Platform-Engineering-Intern_R26_0000029141</id>
+    <title>Genuine Parts Company: Platform Engineering Intern</title>
+    <link href="https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Platform-Engineering-Intern_R26_0000029141"/>
+    <updated>2026-09-01T23:33:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Birmingham, AL, USA · GCP · H-1B track record: ~63 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:genpt:/job/Birmingham-AL-USA/GRC-Cybersecurity-Analyst-Intern_R26_0000029137</id>
+    <title>Genuine Parts Company: GRC/Cybersecurity Analyst Intern</title>
+    <link href="https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/GRC-Cybersecurity-Analyst-Intern_R26_0000029137"/>
+    <updated>2026-09-01T23:33:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · GRC / Risk · Birmingham, AL, USA · Linux · H-1B track record: ~63 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:genpt:/job/Birmingham-AL-USA/Cloud-SRE-Intern_R26_0000029134</id>
+    <title>Genuine Parts Company: Cloud SRE Intern</title>
+    <link href="https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Cloud-SRE-Intern_R26_0000029134"/>
+    <updated>2026-09-01T23:33:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Cloud Platform · Birmingham, AL, USA · GCP · H-1B track record: ~63 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:genpt:/job/Birmingham-AL-USA/Cloud-Developer-Intern_R26_0000029133</id>
+    <title>Genuine Parts Company: Cloud Developer Intern</title>
+    <link href="https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Cloud-Developer-Intern_R26_0000029133"/>
+    <updated>2026-09-01T23:33:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Cloud Platform · Birmingham, AL, USA · Java, GCP, Linux, Git · H-1B track record: ~63 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:esrtreit:c88d02a3-4075-4e74-9575-a26c74361e22</id>
     <title>Empire State Realty Trust: Service Desk &amp; AV Support Intern</title>
@@ -16,100 +48,20 @@
     <summary>Not stated · IT Support / Ops · New York, New York, United States · 22 USD/hr</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:bah:/job/McLean-VA/University---Summer-27--Cybersecurity-Analyst-Intern_R0248214</id>
-    <title>Booz Allen: University – Summer 27, Cybersecurity Analyst Intern 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Summer-27--Cybersecurity-Analyst-Intern_R0248214"/>
-    <updated>2026-09-01T21:15:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · McLean, VA · $108k/yr · Python, Java, C++, JavaScript, Bash · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/El-Segundo-CA/University---2027-Summer-Games-Cyber-Security-Intern---El-Segundo--CA_R0248047</id>
-    <title>Booz Allen: University - 2027 Summer Games Cyber Security Intern 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Cyber-Security-Intern---El-Segundo--CA_R0248047"/>
+    <id>urn:intern-engine:workday:bah:/job/Annapolis-Junction-MD/University---2027-Summer-Games-Cyber-Security-Intern---Annapolis-Junction--MD_R0248414</id>
+    <title>Booz Allen: University - 2027 Summer Games Cyber Security Intern - Annapolis Junction, MD 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Cyber-Security-Intern---Annapolis-Junction--MD_R0248414"/>
     <updated>2026-09-01T21:15:28Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · El Segundo, CA · $108k/yr · Linux · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Security (general) · Annapolis Junction, MD · $108k/yr · Linux · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:bah:/job/San-Diego-CA/University--2027-Summer-Games-Cyber-Security-Intern_R0248043</id>
-    <title>Booz Allen: University, 2027 Summer Games Cyber Security Intern 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University--2027-Summer-Games-Cyber-Security-Intern_R0248043"/>
+    <id>urn:intern-engine:workday:bah:/job/Annapolis-Junction-MD/University---2027-Summer-Games-Systems-Engineer-Intern---Annapolis-Junction--MD_R0248384</id>
+    <title>Booz Allen: University - 2027 Summer Games Systems Engineer Intern - Annapolis Junction, MD 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Systems-Engineer-Intern---Annapolis-Junction--MD_R0248384"/>
     <updated>2026-09-01T21:15:28Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · San Diego, CA · $108k/yr · Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Colorado-Springs-CO/University--2027-Summer-Games-Cybersecurity-Intern_R0248131</id>
-    <title>Booz Allen: University, 2027 Summer Games Cyber Security Intern 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Cybersecurity-Intern_R0248131"/>
-    <updated>2026-09-01T21:15:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Colorado Springs, CO · $108k/yr · Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Rome-NY/University--2027-Summer-Games-Cyber-Security-Intern_R0248142</id>
-    <title>Booz Allen: University, 2027 Summer Games Cyber Security Intern 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Cyber-Security-Intern_R0248142"/>
-    <updated>2026-09-01T21:15:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Rome, NY · $108k/yr · Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/McLean-VA/University---2027-Summer-Games-Cyber-Security-Intern---McLean--VA_R0248034</id>
-    <title>Booz Allen: University - 2027 Summer Games Cyber Security Intern - McLean, VA 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Cyber-Security-Intern---McLean--VA_R0248034"/>
-    <updated>2026-09-01T21:15:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · McLean, VA · $108k/yr · Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Charleston-SC/University---2027-Summer-Games-Cyber-Security-Intern---Charleston--SC_R0248136</id>
-    <title>Booz Allen: University - 2027 Summer Games Cyber Security Intern - Charleston, SC 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Cyber-Security-Intern---Charleston--SC_R0248136"/>
-    <updated>2026-09-01T21:15:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Charleston, SC · $108k/yr · Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Atlanta-GA/University---2027-Summer-Games-Cyber-Security-Intern---Atlanta--GA_R0248139</id>
-    <title>Booz Allen: University - 2027 Summer Games Cyber Security Intern - Atlanta, GA 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Cyber-Security-Intern---Atlanta--GA_R0248139"/>
-    <updated>2026-09-01T21:15:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Atlanta, GA · $108k/yr · Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Honolulu-HI/University---2027-Summer-Games-Systems-Engineer-Intern---Honolulu--HI_R0248370</id>
-    <title>Booz Allen: University - 2027 Summer Games Systems Engineer Intern - Honolulu, HI 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Systems-Engineer-Intern---Honolulu--HI_R0248370"/>
-    <updated>2026-09-01T21:15:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Honolulu, HI · $108k/yr · Python, Java, C++, JavaScript · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/McLean-VA/University---2027-Summer-Games-Systems-Engineer-Intern---McLean--VA_R0248361</id>
-    <title>Booz Allen: University - 2027 Summer Games Systems Engineer Intern - McLean, VA 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Systems-Engineer-Intern---McLean--VA_R0248361"/>
-    <updated>2026-09-01T21:15:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · McLean, VA · $108k/yr · Python, Java, C++, JavaScript · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Charleston--SC_R0248369</id>
-    <title>Booz Allen: University - 2027 Summer Games Systems Engineer Intern - Charleston, SC 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Charleston--SC_R0248369"/>
-    <updated>2026-09-01T21:15:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Colorado Springs, CO · $108k/yr · Python, Java, C++, JavaScript · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Rome-NY/University---2027-Summer-Games-Systems-Engineer-Intern---Rome--NY_R0248386</id>
-    <title>Booz Allen: University - 2027 Summer Games Systems Engineer Intern - Rome, NY 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University---2027-Summer-Games-Systems-Engineer-Intern---Rome--NY_R0248386"/>
-    <updated>2026-09-01T21:15:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Rome, NY · $108k/yr · Python, Java, C++, JavaScript · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Annapolis Junction, MD · $108k/yr · Python, Java, C++, JavaScript · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:bah:/job/Atlanta-GA/University---2027-Summer-Games--Systems-Engineer-Intern---Atlanta--GA_R0248381</id>
@@ -120,12 +72,84 @@
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Atlanta, GA · $108k/yr · Python, Java, C++, JavaScript · sponsorship: citizens-only</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:bah:/job/Atlanta-GA/University---2027-Summer-Games-Cyber-Security-Intern---Atlanta--GA_R0248139</id>
+    <title>Booz Allen: University - 2027 Summer Games Cyber Security Intern - Atlanta, GA 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Cyber-Security-Intern---Atlanta--GA_R0248139"/>
+    <updated>2026-09-01T21:15:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Atlanta, GA · $108k/yr · Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/Charleston-SC/University---2027-Summer-Games-Cyber-Security-Intern---Charleston--SC_R0248136</id>
+    <title>Booz Allen: University - 2027 Summer Games Cyber Security Intern - Charleston, SC 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Cyber-Security-Intern---Charleston--SC_R0248136"/>
+    <updated>2026-09-01T21:15:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Charleston, SC · $108k/yr · Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Charleston--SC_R0248369</id>
+    <title>Booz Allen: University - 2027 Summer Games Systems Engineer Intern - Charleston, SC 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Charleston--SC_R0248369"/>
+    <updated>2026-09-01T21:15:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Colorado Springs, CO · $108k/yr · Python, Java, C++, JavaScript · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Colorado-Springs--CO_R0248368</id>
+    <title>Booz Allen: University - 2027 Summer Games Systems Engineer Intern - Colorado Springs, CO 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Colorado-Springs--CO_R0248368"/>
+    <updated>2026-09-01T21:15:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Colorado Springs, CO · $108k/yr · Python, Java, C++, JavaScript · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/Colorado-Springs-CO/University--2027-Summer-Games-Cybersecurity-Intern_R0248131</id>
+    <title>Booz Allen: University, 2027 Summer Games Cyber Security Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Cybersecurity-Intern_R0248131"/>
+    <updated>2026-09-01T21:15:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Colorado Springs, CO · $108k/yr · Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/El-Segundo-CA/University---2027-Summer-Games-Cyber-Security-Intern---El-Segundo--CA_R0248047</id>
+    <title>Booz Allen: University - 2027 Summer Games Cyber Security Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Cyber-Security-Intern---El-Segundo--CA_R0248047"/>
+    <updated>2026-09-01T21:15:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · El Segundo, CA · $108k/yr · Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Cyber-Security-Intern---Ft-Walton-Beach--FL_R0248416</id>
+    <title>Booz Allen: University - 2027 Summer Games Cyber Security Intern - Ft. Walton Beach, FL 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Cyber-Security-Intern---Ft-Walton-Beach--FL_R0248416"/>
+    <updated>2026-09-01T21:15:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Fort Walton Beach, FL · $108k/yr · Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Systems-Engineer-Intern---Ft-Walton-Beach--FL_R0248388</id>
+    <title>Booz Allen: University - 2027 Summer Games Systems Engineer Intern - Ft. Walton Beach, FL 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Systems-Engineer-Intern---Ft-Walton-Beach--FL_R0248388"/>
+    <updated>2026-09-01T21:15:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Fort Walton Beach, FL · $108k/yr · Python, Java, C++, JavaScript · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:bah:/job/Honolulu-HI/University---2027-Summer-Games-Cyber-Security-Intern---Honolulu--HI_R0248411</id>
     <title>Booz Allen: University - 2027 Summer Games Cyber Security Intern - Honolulu, HI 🇺🇸</title>
     <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Cyber-Security-Intern---Honolulu--HI_R0248411"/>
     <updated>2026-09-01T21:15:28Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · Honolulu, HI · $108k/yr · Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/Honolulu-HI/University---2027-Summer-Games-Systems-Engineer-Intern---Honolulu--HI_R0248370</id>
+    <title>Booz Allen: University - 2027 Summer Games Systems Engineer Intern - Honolulu, HI 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Systems-Engineer-Intern---Honolulu--HI_R0248370"/>
+    <updated>2026-09-01T21:15:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Honolulu, HI · $108k/yr · Python, Java, C++, JavaScript · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:bah:/job/Huntsville-AL/University---2027-Summer-Games-Cyber-Security-Intern---Huntsville--AL_R0248412</id>
@@ -136,12 +160,44 @@
     <summary>Summer 2027 · Security (general) · Huntsville, AL · $108k/yr · Linux · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:bah:/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Colorado-Springs--CO_R0248368</id>
-    <title>Booz Allen: University - 2027 Summer Games Systems Engineer Intern - Colorado Springs, CO 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Colorado-Springs--CO_R0248368"/>
+    <id>urn:intern-engine:workday:bah:/job/McLean-VA/University---2027-Summer-Games-Cyber-Security-Intern---McLean--VA_R0248034</id>
+    <title>Booz Allen: University - 2027 Summer Games Cyber Security Intern - McLean, VA 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Cyber-Security-Intern---McLean--VA_R0248034"/>
     <updated>2026-09-01T21:15:28Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Colorado Springs, CO · $108k/yr · Python, Java, C++, JavaScript · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Security (general) · McLean, VA · $108k/yr · Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/McLean-VA/University---2027-Summer-Games-Systems-Engineer-Intern---McLean--VA_R0248361</id>
+    <title>Booz Allen: University - 2027 Summer Games Systems Engineer Intern - McLean, VA 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Systems-Engineer-Intern---McLean--VA_R0248361"/>
+    <updated>2026-09-01T21:15:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · McLean, VA · $108k/yr · Python, Java, C++, JavaScript · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/McLean-VA/University---Summer-27--Cybersecurity-Analyst-Intern_R0248214</id>
+    <title>Booz Allen: University – Summer 27, Cybersecurity Analyst Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Summer-27--Cybersecurity-Analyst-Intern_R0248214"/>
+    <updated>2026-09-01T21:15:28Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · McLean, VA · $108k/yr · Python, Java, C++, JavaScript, Bash · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/Rome-NY/University---2027-Summer-Games-Systems-Engineer-Intern---Rome--NY_R0248386</id>
+    <title>Booz Allen: University - 2027 Summer Games Systems Engineer Intern - Rome, NY 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University---2027-Summer-Games-Systems-Engineer-Intern---Rome--NY_R0248386"/>
+    <updated>2026-09-01T21:15:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Rome, NY · $108k/yr · Python, Java, C++, JavaScript · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/Rome-NY/University--2027-Summer-Games-Cyber-Security-Intern_R0248142</id>
+    <title>Booz Allen: University, 2027 Summer Games Cyber Security Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Cyber-Security-Intern_R0248142"/>
+    <updated>2026-09-01T21:15:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Rome, NY · $108k/yr · Linux · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:bah:/job/San-Diego-CA/University---2027-Summer-Games-Systems-Engineer-Intern---El-Segundo--CA_R0248366</id>
@@ -160,36 +216,12 @@
     <summary>Summer 2027 · Systems &amp; Cloud Infra · San Diego, CA · $108k/yr · Python, Java, C++, JavaScript · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:bah:/job/Annapolis-Junction-MD/University---2027-Summer-Games-Systems-Engineer-Intern---Annapolis-Junction--MD_R0248384</id>
-    <title>Booz Allen: University - 2027 Summer Games Systems Engineer Intern - Annapolis Junction, MD 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Systems-Engineer-Intern---Annapolis-Junction--MD_R0248384"/>
+    <id>urn:intern-engine:workday:bah:/job/San-Diego-CA/University--2027-Summer-Games-Cyber-Security-Intern_R0248043</id>
+    <title>Booz Allen: University, 2027 Summer Games Cyber Security Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University--2027-Summer-Games-Cyber-Security-Intern_R0248043"/>
     <updated>2026-09-01T21:15:28Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Annapolis Junction, MD · $108k/yr · Python, Java, C++, JavaScript · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Annapolis-Junction-MD/University---2027-Summer-Games-Cyber-Security-Intern---Annapolis-Junction--MD_R0248414</id>
-    <title>Booz Allen: University - 2027 Summer Games Cyber Security Intern - Annapolis Junction, MD 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Cyber-Security-Intern---Annapolis-Junction--MD_R0248414"/>
-    <updated>2026-09-01T21:15:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Annapolis Junction, MD · $108k/yr · Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Systems-Engineer-Intern---Ft-Walton-Beach--FL_R0248388</id>
-    <title>Booz Allen: University - 2027 Summer Games Systems Engineer Intern - Ft. Walton Beach, FL 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Systems-Engineer-Intern---Ft-Walton-Beach--FL_R0248388"/>
-    <updated>2026-09-01T21:15:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Fort Walton Beach, FL · $108k/yr · Python, Java, C++, JavaScript · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Cyber-Security-Intern---Ft-Walton-Beach--FL_R0248416</id>
-    <title>Booz Allen: University - 2027 Summer Games Cyber Security Intern - Ft. Walton Beach, FL 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Cyber-Security-Intern---Ft-Walton-Beach--FL_R0248416"/>
-    <updated>2026-09-01T21:15:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Fort Walton Beach, FL · $108k/yr · Linux · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Security (general) · San Diego, CA · $108k/yr · Linux · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:caci:/job/Sarasota-FL-US/AWS-Cloud-Engineering-Intern---Summer-2027_331437</id>
@@ -232,20 +264,20 @@
     <summary>Summer 2027 · Systems &amp; Cloud Infra · East Syracuse, NY (Collamer) · $20.27–$22.3/hr · Python, Java, C#, SQL, HTML/CSS · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:tencent:/job/US-California-Palo-Alto/Tencent-Cloud-CPaaS-Product-Management-Intern_R108019</id>
-    <title>Tencent: Tencent Cloud CPaaS Product Management Intern</title>
-    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Tencent-Cloud-CPaaS-Product-Management-Intern_R108019"/>
-    <updated>2026-09-01T21:15:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Cloud Platform · US-California-Palo Alto · $27.12–$51.93/hr</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:tencent:/job/US-California-Los-Angeles/Tencent-Cloud-CPaaS-Product-Management-Intern_R108020</id>
     <title>Tencent: Tencent Cloud CPaaS Product Management Intern</title>
     <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Los-Angeles/Tencent-Cloud-CPaaS-Product-Management-Intern_R108020"/>
     <updated>2026-09-01T21:15:28Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Cloud Platform · US-California-Los Angeles · $27.12–$51.93/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tencent:/job/US-California-Palo-Alto/Tencent-Cloud-CPaaS-Product-Management-Intern_R108019</id>
+    <title>Tencent: Tencent Cloud CPaaS Product Management Intern</title>
+    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Tencent-Cloud-CPaaS-Product-Management-Intern_R108019"/>
+    <updated>2026-09-01T21:15:28Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Cloud Platform · US-California-Palo Alto · $27.12–$51.93/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ebgj.fa.us2.oraclecloud.com:253297</id>
@@ -443,9 +475,9 @@
     <id>urn:intern-engine:workday:ercot:/job/Taylor-TX/Summer-Intern----Cyber-Security_R2404</id>
     <title>Ercot: Summer Intern -- Cyber Security</title>
     <link href="https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Summer-Intern----Cyber-Security_R2404"/>
-    <updated>2026-08-31T21:05:14Z</updated>
+    <updated>2026-09-01T23:33:08Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Taylor, TX</summary>
+    <summary>Summer 2027 · Security (general) · Taylor, TX · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871278</id>
@@ -613,7 +645,7 @@
     <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Intern---Systems-Engineer--Onsite-_01868046"/>
     <updated>2026-08-28T12:27:10Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193 · sponsorship: citizens-only</summary>
+    <summary>2 openings · Not stated · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193 · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10517649</id>
@@ -774,37 +806,5 @@
     <updated>2026-08-26T20:15:49Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Network / Telecom · Shiloh, IL · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Shiloh-IL/Network-Operations-Intern_R-00190660</id>
-    <title>Leidos: Network Operations Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Network-Operations-Intern_R-00190660"/>
-    <updated>2026-08-26T20:15:49Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Network / Telecom · Shiloh, IL · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Shiloh-IL/Transport-Network-Engineer-Intern_R-00190655</id>
-    <title>Leidos: Transport Network Engineer Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Transport-Network-Engineer-Intern_R-00190655"/>
-    <updated>2026-08-26T20:15:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Network / Telecom · Shiloh, IL · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Sunset-UT/Cybersecurity-Analyst-Intern_R-00190664</id>
-    <title>Leidos: Cybersecurity Analyst Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Sunset-UT/Cybersecurity-Analyst-Intern_R-00190664"/>
-    <updated>2026-08-26T20:15:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Sunset, UT · Python, Bash, Linux · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Sunset-UT/Network-Operations-Intern_R-00190657</id>
-    <title>Leidos: Network Operations Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Sunset-UT/Network-Operations-Intern_R-00190657"/>
-    <updated>2026-08-26T20:15:49Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Network / Telecom · Sunset, UT · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

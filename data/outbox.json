@@ -1,6 +1,18 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:genpt:/job/Birmingham-AL-USA/Platform-Engineering-Intern_R26_0000029141",
+      "workday:genpt:/job/Birmingham-AL-USA/GRC-Cybersecurity-Analyst-Intern_R26_0000029137",
+      "workday:genpt:/job/Birmingham-AL-USA/Cloud-SRE-Intern_R26_0000029134",
+      "workday:genpt:/job/Birmingham-AL-USA/Cloud-Developer-Intern_R26_0000029133",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Intern--Systems-Engineer--Onsite-_01868477"
+    ],
+    "telegram": [
+      "workday:genpt:/job/Birmingham-AL-USA/Platform-Engineering-Intern_R26_0000029141",
+      "workday:genpt:/job/Birmingham-AL-USA/GRC-Cybersecurity-Analyst-Intern_R26_0000029137",
+      "workday:genpt:/job/Birmingham-AL-USA/Cloud-SRE-Intern_R26_0000029134",
+      "workday:genpt:/job/Birmingham-AL-USA/Cloud-Developer-Intern_R26_0000029133",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Intern--Systems-Engineer--Onsite-_01868477"
+    ]
   }
 }

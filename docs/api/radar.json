@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-01T21:15:28Z",
- "data_as_of": "2026-09-01T21:15:28Z",
- "rendered_at": "2026-09-01T21:15:29Z",
+ "generated_at": "2026-09-01T23:33:08Z",
+ "data_as_of": "2026-09-01T23:33:08Z",
+ "rendered_at": "2026-09-01T23:33:08Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -757,7 +757,7 @@
    "expected": "2026-08-27",
    "days_until": -5,
    "status": "open",
-   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Cyber-Security-Intern---El-Segundo--CA_R0248047",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Cyber-Security-Intern---Annapolis-Junction--MD_R0248414",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -956,25 +956,6 @@
    }
   },
   {
-   "company": "Ercot",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-31",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-31",
-   "days_until": -1,
-   "status": "open",
-   "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Summer-Intern----Cyber-Security_R2404",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-31"
-   }
-  },
-  {
    "company": "HP IQ",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
@@ -1143,6 +1124,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-01"
+   }
+  },
+  {
+   "company": "Ercot",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -1,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
    }
   }
  ],
