@@ -6,9 +6,9 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/ihrtkaii/secnet-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/ihrtkaii/secnet-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fihrtkaii.github.io%2Fsecnet-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://ihrtkaii.github.io/secnet-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://ihrtkaii.github.io/secnet-internships/feed.xml)
 
-### 181 open roles (175 listed below) · 87 new this week
+### 181 open roles (175 listed below) · 84 new this week
 
-4,328 employers tracked · data as of Sep 01, 2026 at 00:51 UTC
+4,328 employers tracked · data as of Sep 01, 2026 at 05:56 UTC
 
 _129 have a cycle the employer stated · 52 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -138,9 +138,9 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Emerson Electric | Cybersecurity Engineering Co-op (Jan27-May27) 🆕 | Security (general) | Shakopee, MN, United States | Python, C++ | Sep 01, 2026 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009321) |
 | Emerson Electric | Cybersecurity Engineering Intern 🆕 | Security (general) | Shakopee, MN, United States | Python, C++ | Sep 01, 2026 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009324) |
 | Emerson Electric | Cybersecurity Engineering Intern 🆕 | Security (general) | Boulder, CO, United States | Python, C++ | Sep 01, 2026 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009478) |
-| Emerson Electric | Cybersecurity Engineering Co-op (Jan27-May27) 🆕 | Security (general) | Shakopee, MN, United States | Python, C++ | Sep 01, 2026 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009321) |
 | Bosch ✓ | AI Security Research Intern | Security (general) | Pittsburgh, PA, United States | Python, PyTorch, LLMs | Aug 25, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000145507908) |
 | Meridian Partners | Security Compliance Co-op | GRC / Risk | Cambridge, MA | No skills listed | Aug 24, 2026 | [Apply](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968518003) |
 | Vanguard | College to Corporate IT Internship - Risk & Security - Engineer  (PA) | Security (general) | Malvern, PA | No skills listed | Aug 17, 2026 | [Apply](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1) |
@@ -159,12 +159,12 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Olsson | Civil Engineering Internship - Federal Infrastructure Site Design 🆕 | Systems & Cloud Infra | North Kansas City, MO | No skills listed | Aug 31, 2026 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5396116008) |
 | Olsson | Electrical Engineering Internship - Data Center Facilities 🆕 | Systems & Cloud Infra | Fort Worth +5 more | No skills listed | Aug 31, 2026 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5395994008) |
-| Olsson | Electrical Engineering Internship - Federal Infrastructure 🆕 | Systems & Cloud Infra | North Kansas City, MO; Overland Park, KS | No skills listed | Aug 31, 2026 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5396125008) |
 | Olsson | Mechanical Engineering Internship - Data Center Facilities 🆕 | Systems & Cloud Infra | North Kansas City, MO; Tulsa, OK | No skills listed | Aug 31, 2026 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5396012008) |
-| Olsson | Mechanical Engineering Internship - Federal Infrastructure 🆕 | Systems & Cloud Infra | Overland Park, KS | No skills listed | Aug 31, 2026 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5396095008) |
 | Olsson | Structural Engineering Internship - Federal Infrastructure 🆕 | Systems & Cloud Infra | Overland Park, KS | No skills listed | Aug 31, 2026 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5396073008) |
+| Olsson | Mechanical Engineering Internship - Federal Infrastructure 🆕 | Systems & Cloud Infra | Overland Park, KS | No skills listed | Aug 31, 2026 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5396095008) |
+| Olsson | Civil Engineering Internship - Federal Infrastructure Site Design 🆕 | Systems & Cloud Infra | North Kansas City, MO | No skills listed | Aug 31, 2026 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5396116008) |
+| Olsson | Electrical Engineering Internship - Federal Infrastructure 🆕 | Systems & Cloud Infra | North Kansas City, MO; Overland Park, KS | No skills listed | Aug 31, 2026 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5396125008) |
 | Awetomaton | Platform Engineering Intern 🇺🇸 🆕 | Systems & Cloud Infra | Beavercreek, OH | Python, Java, AWS, GCP | Aug 31, 2026 | [Apply](https://job-boards.greenhouse.io/awetomaton/jobs/5394046008) |
 | Awetomaton | IT Intern 🇺🇸 🆕 | IT Support / Ops | Beavercreek, OH | Python, Bash, AWS, GCP | Aug 31, 2026 | [Apply](https://job-boards.greenhouse.io/awetomaton/jobs/5394074008) |
 | 3M ✓ | Internship - 2027 Undergraduate IT Intern 🇺🇸 🆕 | IT Support / Ops | US, Minnesota, Maplewood | Python, SQL, Snowflake | Aug 31, 2026 | [Apply](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-IT-Intern_R01170403-1) |
@@ -313,7 +313,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,183 of 4,573 registered boards returned successfully across 12 ATS platforms (93% of boards attempted, 91% of the full registry) · completed in 988.8s · 548 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,241 of 4,573 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 1032.4s · 559 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

@@ -5,8 +5,64 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-01T00:51:38Z</updated>
+  <updated>2026-09-01T05:56:50Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:olsson:5395994008</id>
+    <title>Olsson: Electrical Engineering Internship - Data Center Facilities</title>
+    <link href="https://job-boards.greenhouse.io/olsson/jobs/5395994008"/>
+    <updated>2026-09-01T00:51:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Fort Worth, TX; North Kansas City, MO; Omaha, NE</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:olsson:5396012008</id>
+    <title>Olsson: Mechanical Engineering Internship - Data Center Facilities</title>
+    <link href="https://job-boards.greenhouse.io/olsson/jobs/5396012008"/>
+    <updated>2026-09-01T00:51:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · North Kansas City, MO; Tulsa, OK</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:olsson:5396073008</id>
+    <title>Olsson: Structural Engineering Internship - Federal Infrastructure</title>
+    <link href="https://job-boards.greenhouse.io/olsson/jobs/5396073008"/>
+    <updated>2026-09-01T00:51:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Overland Park, KS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:olsson:5396095008</id>
+    <title>Olsson: Mechanical Engineering Internship - Federal Infrastructure</title>
+    <link href="https://job-boards.greenhouse.io/olsson/jobs/5396095008"/>
+    <updated>2026-09-01T00:51:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Overland Park, KS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:olsson:5396116008</id>
+    <title>Olsson: Civil Engineering Internship - Federal Infrastructure Site Design</title>
+    <link href="https://job-boards.greenhouse.io/olsson/jobs/5396116008"/>
+    <updated>2026-09-01T00:51:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · North Kansas City, MO</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:olsson:5396125008</id>
+    <title>Olsson: Electrical Engineering Internship - Federal Infrastructure</title>
+    <link href="https://job-boards.greenhouse.io/olsson/jobs/5396125008"/>
+    <updated>2026-09-01T00:51:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · North Kansas City, MO; Overland Park, KS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26009321</id>
+    <title>Emerson Electric: Cybersecurity Engineering Co-op (Jan27-May27)</title>
+    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009321"/>
+    <updated>2026-09-01T00:51:38Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Shakopee, MN, United States · Python, C++</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26009324</id>
     <title>Emerson Electric: Cybersecurity Engineering Intern</title>
@@ -22,62 +78,6 @@
     <updated>2026-09-01T00:51:38Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security (general) · Boulder, CO, United States · Python, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26009321</id>
-    <title>Emerson Electric: Cybersecurity Engineering Co-op (Jan27-May27)</title>
-    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009321"/>
-    <updated>2026-09-01T00:51:38Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Shakopee, MN, United States · Python, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:olsson:5396116008</id>
-    <title>Olsson: Civil Engineering Internship - Federal Infrastructure Site Design</title>
-    <link href="https://job-boards.greenhouse.io/olsson/jobs/5396116008"/>
-    <updated>2026-09-01T00:51:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · North Kansas City, MO</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:olsson:5395994008</id>
-    <title>Olsson: Electrical Engineering Internship - Data Center Facilities</title>
-    <link href="https://job-boards.greenhouse.io/olsson/jobs/5395994008"/>
-    <updated>2026-09-01T00:51:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Fort Worth, TX; North Kansas City, MO; Omaha, NE</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:olsson:5396125008</id>
-    <title>Olsson: Electrical Engineering Internship - Federal Infrastructure</title>
-    <link href="https://job-boards.greenhouse.io/olsson/jobs/5396125008"/>
-    <updated>2026-09-01T00:51:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · North Kansas City, MO; Overland Park, KS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:olsson:5396012008</id>
-    <title>Olsson: Mechanical Engineering Internship - Data Center Facilities</title>
-    <link href="https://job-boards.greenhouse.io/olsson/jobs/5396012008"/>
-    <updated>2026-09-01T00:51:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · North Kansas City, MO; Tulsa, OK</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:olsson:5396095008</id>
-    <title>Olsson: Mechanical Engineering Internship - Federal Infrastructure</title>
-    <link href="https://job-boards.greenhouse.io/olsson/jobs/5396095008"/>
-    <updated>2026-09-01T00:51:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Overland Park, KS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:olsson:5396073008</id>
-    <title>Olsson: Structural Engineering Internship - Federal Infrastructure</title>
-    <link href="https://job-boards.greenhouse.io/olsson/jobs/5396073008"/>
-    <updated>2026-09-01T00:51:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Overland Park, KS</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:awetomaton:5394046008</id>
