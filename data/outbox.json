@@ -1,26 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:hdjq.fa.us2.oraclecloud.com:26009324",
-      "oracle:hdjq.fa.us2.oraclecloud.com:26009478",
-      "oracle:hdjq.fa.us2.oraclecloud.com:26009321",
-      "greenhouse:olsson:5396116008",
-      "greenhouse:olsson:5395994008",
-      "greenhouse:olsson:5396125008",
-      "greenhouse:olsson:5396012008",
-      "greenhouse:olsson:5396095008",
-      "greenhouse:olsson:5396073008"
-    ],
-    "telegram": [
-      "oracle:hdjq.fa.us2.oraclecloud.com:26009324",
-      "oracle:hdjq.fa.us2.oraclecloud.com:26009478",
-      "oracle:hdjq.fa.us2.oraclecloud.com:26009321",
-      "greenhouse:olsson:5396116008",
-      "greenhouse:olsson:5395994008",
-      "greenhouse:olsson:5396125008",
-      "greenhouse:olsson:5396012008",
-      "greenhouse:olsson:5396095008",
-      "greenhouse:olsson:5396073008"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
