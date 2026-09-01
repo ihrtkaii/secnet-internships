@@ -5,8 +5,104 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-08-31T21:05:14Z</updated>
+  <updated>2026-09-01T00:51:38Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26009324</id>
+    <title>Emerson Electric: Cybersecurity Engineering Intern</title>
+    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009324"/>
+    <updated>2026-09-01T00:51:38Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Shakopee, MN, United States · Python, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26009478</id>
+    <title>Emerson Electric: Cybersecurity Engineering Intern</title>
+    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009478"/>
+    <updated>2026-09-01T00:51:38Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Boulder, CO, United States · Python, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26009321</id>
+    <title>Emerson Electric: Cybersecurity Engineering Co-op (Jan27-May27)</title>
+    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009321"/>
+    <updated>2026-09-01T00:51:38Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Shakopee, MN, United States · Python, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:olsson:5396116008</id>
+    <title>Olsson: Civil Engineering Internship - Federal Infrastructure Site Design</title>
+    <link href="https://job-boards.greenhouse.io/olsson/jobs/5396116008"/>
+    <updated>2026-09-01T00:51:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · North Kansas City, MO</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:olsson:5395994008</id>
+    <title>Olsson: Electrical Engineering Internship - Data Center Facilities</title>
+    <link href="https://job-boards.greenhouse.io/olsson/jobs/5395994008"/>
+    <updated>2026-09-01T00:51:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Fort Worth, TX; North Kansas City, MO; Omaha, NE</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:olsson:5396125008</id>
+    <title>Olsson: Electrical Engineering Internship - Federal Infrastructure</title>
+    <link href="https://job-boards.greenhouse.io/olsson/jobs/5396125008"/>
+    <updated>2026-09-01T00:51:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · North Kansas City, MO; Overland Park, KS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:olsson:5396012008</id>
+    <title>Olsson: Mechanical Engineering Internship - Data Center Facilities</title>
+    <link href="https://job-boards.greenhouse.io/olsson/jobs/5396012008"/>
+    <updated>2026-09-01T00:51:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · North Kansas City, MO; Tulsa, OK</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:olsson:5396095008</id>
+    <title>Olsson: Mechanical Engineering Internship - Federal Infrastructure</title>
+    <link href="https://job-boards.greenhouse.io/olsson/jobs/5396095008"/>
+    <updated>2026-09-01T00:51:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Overland Park, KS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:olsson:5396073008</id>
+    <title>Olsson: Structural Engineering Internship - Federal Infrastructure</title>
+    <link href="https://job-boards.greenhouse.io/olsson/jobs/5396073008"/>
+    <updated>2026-09-01T00:51:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Overland Park, KS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:awetomaton:5394046008</id>
+    <title>Awetomaton: Platform Engineering Intern 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/awetomaton/jobs/5394046008"/>
+    <updated>2026-08-31T21:05:14Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Beavercreek, OH · Python, Java, AWS, GCP, Azure · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:awetomaton:5394074008</id>
+    <title>Awetomaton: IT Intern 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/awetomaton/jobs/5394074008"/>
+    <updated>2026-08-31T21:05:14Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · IT Support / Ops · Beavercreek, OH · Python, Bash, AWS, GCP, Azure · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:hpiq:6116398004</id>
+    <title>HP IQ: Software Engineering Intern, Product Security (Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/hpiq/jobs/6116398004"/>
+    <updated>2026-08-31T21:05:14Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · AppSec / Product Sec · San Francisco, CA · $45–$51/hr · Python, Java, C++</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:ehzq.fa.us2.oraclecloud.com:115639</id>
     <title>Grant Thornton: Cybersecurity and Privacy Intern - Summer 2027 🛂</title>
@@ -22,22 +118,6 @@
     <updated>2026-08-31T21:05:14Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · IT Support / Ops · US, Minnesota, Maplewood · Python, SQL, Snowflake · sponsorship: citizens-only · H-1B track record: ~58 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:awetomaton:5394074008</id>
-    <title>Awetomaton: IT Intern 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/awetomaton/jobs/5394074008"/>
-    <updated>2026-08-31T21:05:14Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · IT Support / Ops · Beavercreek, OH · Python, Bash, AWS, GCP, Azure · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:awetomaton:5394046008</id>
-    <title>Awetomaton: Platform Engineering Intern 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/awetomaton/jobs/5394046008"/>
-    <updated>2026-08-31T21:05:14Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Beavercreek, OH · Python, Java, AWS, GCP, Azure · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:dukeenergy:/job/Charlotte-NC/Digital-Forensics-Summer-Intern---2027_R41195</id>
@@ -64,12 +144,20 @@
     <summary>Summer 2027 · Security (general) · Taylor, TX</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:hpiq:6116398004</id>
-    <title>HP IQ: Software Engineering Intern, Product Security (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/hpiq/jobs/6116398004"/>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871278</id>
+    <title>RTX: Cyber Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871278"/>
     <updated>2026-08-31T21:05:14Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · AppSec / Product Sec · San Francisco, CA · $45–$51/hr · Python, Java, C++</summary>
+    <summary>Summer 2027 · Security (general) · US-IA-CEDAR RAPIDS-166 ~ 855 35Th St NE ~ BLDG 166 · Python, C++ · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hcmportal:/job/US---UPS-TECHNOLOGY-HEADQUARTERS--DATACENTER-NJRAR/UPS-Information-Security-Summer-2027-Internship---NJ_R26029761</id>
+    <title>United Parcel Service (UPS): UPS Information Security Summer 2027 Internship - NJ 🇺🇸</title>
+    <link href="https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-TECHNOLOGY-HEADQUARTERS--DATACENTER-NJRAR/UPS-Information-Security-Summer-2027-Internship---NJ_R26029761"/>
+    <updated>2026-08-31T21:05:14Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · US - UPS TECHNOLOGY HEADQUARTERS &amp; DATACENTER (NJRAR) · $13.35/hr · Python, Java, C++, SQL, HTML/CSS · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:leidos:/job/6314-RemoteTeleworker-US/SharePoint---Systems-Engineering-Intern_R-00190982</id>
@@ -118,22 +206,6 @@
     <updated>2026-08-31T21:05:14Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Dodge Center, Minnesota, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871278</id>
-    <title>RTX: Cyber Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871278"/>
-    <updated>2026-08-31T21:05:14Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · US-IA-CEDAR RAPIDS-166 ~ 855 35Th St NE ~ BLDG 166 · Python, C++ · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hcmportal:/job/US---UPS-TECHNOLOGY-HEADQUARTERS--DATACENTER-NJRAR/UPS-Information-Security-Summer-2027-Internship---NJ_R26029761</id>
-    <title>United Parcel Service (UPS): UPS Information Security Summer 2027 Internship - NJ 🇺🇸</title>
-    <link href="https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-TECHNOLOGY-HEADQUARTERS--DATACENTER-NJRAR/UPS-Information-Security-Summer-2027-Internship---NJ_R26029761"/>
-    <updated>2026-08-31T21:05:14Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · US - UPS TECHNOLOGY HEADQUARTERS &amp; DATACENTER (NJRAR) · $13.35/hr · Python, Java, C++, SQL, HTML/CSS · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:vanguard:/job/DallasFt-Worth-TX/College-to-Corporate-IT-Internship---Risk---Security---Engineer_181851</id>
@@ -734,77 +806,5 @@
     <updated>2026-08-21T02:10:32Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · Livermore, CA, United States (Hybrid)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:LLNL:3743990014731696</id>
-    <title>Lawrence Livermore National Laboratory (LLNL): Energy Systems Analyst Graduate Intern - Fall 2026</title>
-    <link href="https://jobs.smartrecruiters.com/LLNL/3743990014731696"/>
-    <updated>2026-08-21T02:10:32Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Systems &amp; Cloud Infra · Livermore, CA, United States · Python, MATLAB</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:sonyglobal:/job/New-York/Intern--Information-Security-Risk-and-Compliance_JR-119512</id>
-    <title>Sony: Intern, Information Security Risk and Compliance</title>
-    <link href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Intern--Information-Security-Risk-and-Compliance_JR-119512"/>
-    <updated>2026-08-20T19:13:04Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · GRC / Risk · New York · $24/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:fifththird:/job/Cincinnati-OH/Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582</id>
-    <title>Fifth Third Bank: Information Security Co-op - Cyber Threat Interdiction - Summer 2027</title>
-    <link href="https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582"/>
-    <updated>2026-08-20T16:03:05Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · SOC / Detection · Cincinnati, OH</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:fifththird:/job/Cincinnati-OH/Information-Security-Co-op---Identity---Access-Management---Summer-2027_R71591</id>
-    <title>Fifth Third Bank: Information Security Co-op – Identity &amp; Access Management – Summer 2027</title>
-    <link href="https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Information-Security-Co-op---Identity---Access-Management---Summer-2027_R71591"/>
-    <updated>2026-08-20T16:03:05Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Cloud &amp; Infra Sec · Cincinnati, OH</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tencent:/job/US-Washington-Bellevue/IT-Operations-Intern_R107720</id>
-    <title>Tencent: IT Operations Intern</title>
-    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/IT-Operations-Intern_R107720"/>
-    <updated>2026-08-20T02:00:41Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Other · US-Washington-Bellevue · $28.27–$60/hr · Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:copart:/job/Dallas-TX---Headquarters/Site-Reliability-Engineer-Intern_JR110631</id>
-    <title>Copart: Site Reliability Engineer Intern</title>
-    <link href="https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Site-Reliability-Engineer-Intern_JR110631"/>
-    <updated>2026-08-19T22:15:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Dallas, TX - Headquarters · Python, AWS, GCP, Kubernetes, Linux · H-1B track record: ~83 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:armaninollp:/job/Austin-Texas/Summer-2027---IT-Audit-Intern--Austin-_JR104221</id>
-    <title>Armanino: Summer 2027 - IT Audit Intern (Austin)</title>
-    <link href="https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/Austin-Texas/Summer-2027---IT-Audit-Intern--Austin-_JR104221"/>
-    <updated>2026-08-19T21:52:43Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · GRC / Risk · Austin, Texas · $33/hr · H-1B track record: ~21 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:aero:/job/Kirtland-AFB-NM/XMLNAME-2026-AFRL-System-Engineer-Graduate-Intern_R016128</id>
-    <title>The Aerospace Corporation: 2026 AFRL System Engineer Graduate Intern 🇺🇸</title>
-    <link href="https://aero.wd5.myworkdayjobs.com/external/job/Kirtland-AFB-NM/XMLNAME-2026-AFRL-System-Engineer-Graduate-Intern_R016128"/>
-    <updated>2026-08-19T19:07:11Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Systems &amp; Cloud Infra · Kirtland AFB, NM · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:clr:/job/Oklahoma-City-OK/IT-Intern--Summer-2027-_R02593-1</id>
-    <title>Continental Resources: IT Intern (Summer 2027)</title>
-    <link href="https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/IT-Intern--Summer-2027-_R02593-1"/>
-    <updated>2026-08-19T04:10:56Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · IT Support / Ops · Oklahoma City, OK</summary>
   </entry>
 </feed>

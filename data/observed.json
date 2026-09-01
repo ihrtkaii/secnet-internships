@@ -614,6 +614,23 @@
     }
    }
   },
+  "olsson": {
+   "name": "Olsson",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "greenhouse:olsson:5395994008",
+      "greenhouse:olsson:5396012008",
+      "greenhouse:olsson:5396073008",
+      "greenhouse:olsson:5396095008",
+      "greenhouse:olsson:5396116008",
+      "greenhouse:olsson:5396125008"
+     ],
+     "count": 6
+    }
+   }
+  },
   "oshkosh": {
    "name": "Oshkosh",
    "cycles": {
@@ -796,5 +813,5 @@
    }
   }
  },
- "updated_at": "2026-08-31T21:05:14Z"
+ "updated_at": "2026-09-01T00:51:38Z"
 }
