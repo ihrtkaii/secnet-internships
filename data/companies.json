@@ -3660,6 +3660,13 @@
     "site": "university"
   },
   {
+    "name": "BlueCross BlueShield of Nebraska",
+    "slug": "nebraskablue",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "BCBSNE"
+  },
+  {
     "name": "BlueCross BlueShield of South Carolina",
     "slug": "ourhrconnect",
     "ats": "workday",
@@ -5617,6 +5624,11 @@
   {
     "name": "Clera",
     "slug": "clera",
+    "ats": "ashby"
+  },
+  {
+    "name": "Clerk",
+    "slug": "clerk",
     "ats": "ashby"
   },
   {
@@ -10521,6 +10533,11 @@
     "site": "CX_1"
   },
   {
+    "name": "GMO",
+    "slug": "gmo",
+    "ats": "lever"
+  },
+  {
     "name": "Go Fish Digital",
     "slug": "gofishdigital",
     "ats": "rippling"
@@ -13163,6 +13180,11 @@
     "ats": "ashby"
   },
   {
+    "name": "K2 Space",
+    "slug": "k2spacecorporation",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Kabam",
     "slug": "kabam",
     "ats": "lever"
@@ -14606,6 +14628,11 @@
     "name": "Mach9",
     "slug": "mach9",
     "ats": "ashby"
+  },
+  {
+    "name": "Machina Labs",
+    "slug": "machinalabs",
+    "ats": "lever"
   },
   {
     "name": "Macy's",
@@ -18612,6 +18639,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "Plug_Power_Inc"
+  },
+  {
+    "name": "Pluralis Research",
+    "slug": "pluralis-research",
+    "ats": "ashby"
   },
   {
     "name": "Pluralsight",
