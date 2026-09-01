@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-01T16:50:53Z",
- "data_as_of": "2026-09-01T16:50:53Z",
- "rendered_at": "2026-09-01T16:50:53Z",
+ "generated_at": "2026-09-01T21:15:28Z",
+ "data_as_of": "2026-09-01T21:15:28Z",
+ "rendered_at": "2026-09-01T21:15:29Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -510,7 +510,7 @@
    "expected": "2026-08-24",
    "days_until": -8,
    "status": "open",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering_R10247434",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Cybersecurity-Analyst-Intern----Boulder-CO_R10248677",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -739,6 +739,25 @@
    "days_until": -5,
    "status": "open",
    "url": "https://www.amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-27"
+   }
+  },
+  {
+   "company": "Booz Allen",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-27",
+   "days_until": -5,
+   "status": "open",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Cyber-Security-Intern---El-Segundo--CA_R0248047",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -985,7 +1004,7 @@
    "expected": "2026-08-31",
    "days_until": -1,
    "status": "open",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284875",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284868",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1051,6 +1070,44 @@
    }
   },
   {
+   "company": "CACI",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/AWS-Cloud-Engineering-Intern---Summer-2027_331437",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-01"
+   }
+  },
+  {
+   "company": "First National Bank",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Systems-Analyst-Intern_2026-02021",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-01"
+   }
+  },
+  {
    "company": "Saab",
    "last_cycle_posted": "",
    "posted_on": "2026-09-01",
@@ -1089,5 +1146,5 @@
    }
   }
  ],
- "count": 57
+ "count": 60
 }
