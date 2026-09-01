@@ -165,6 +165,18 @@
     }
    }
   },
+  "bluecross blueshield of nebraska": {
+   "name": "BlueCross BlueShield of Nebraska",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:nebraskablue:/job/Omaha-NE/Cyber-Intern--Summer-2027_JR101407"
+     ],
+     "count": 1
+    }
+   }
+  },
   "bny": {
    "name": "BNY",
    "cycles": {
@@ -528,9 +540,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-31",
      "role_ids": [
+      "workday:mastercard:/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284868",
       "workday:mastercard:/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284875"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -588,10 +601,12 @@
     "Summer 2027": {
      "first_posted": "2026-08-24",
      "role_ids": [
+      "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Cybersecurity-Analyst-Intern----Boulder-CO_R10248677",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering_R10247434",
+      "workday:ngc:/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern---Systems-Engineering_R10248653",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Engineering-Intern--Roy-UT_R10248475"
      ],
-     "count": 2
+     "count": 4
     },
     "Fall 2026": {
      "first_posted": "2026-08-31",
@@ -711,6 +726,18 @@
     }
    }
   },
+  "saab": {
+   "name": "Saab",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "workday:saabusa:/job/East-Syracuse-NY-Collamer/Systems-Engineering-Co-Op--Spring---Summer-2027-_R-03226-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "solar turbines": {
    "name": "Solar Turbines",
    "cycles": {
@@ -730,6 +757,18 @@
      "first_posted": "2026-08-28",
      "role_ids": [
       "oracle:hdhl.fa.us6.oraclecloud.com:1007361"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "texas instruments": {
+   "name": "Texas Instruments",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "oracle:ebgj.fa.us2.oraclecloud.com:253297"
      ],
      "count": 1
     }
@@ -762,6 +801,7 @@
       "workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Analyst---NC-_181764",
       "workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Engineer---NC-_177688-1",
       "workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Technology-Operations--NC-_177674-1",
+      "workday:vanguard:/job/DallasFt-Worth-TX/College-to-Corporate-IT-Internship---Application-Development---TX-_181846",
       "workday:vanguard:/job/DallasFt-Worth-TX/College-to-Corporate-IT-Internship---Risk---Security---Engineer_181851",
       "workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Analysis--PA-_177679-1",
       "workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_177680-1",
@@ -772,7 +812,7 @@
       "workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Technology-Operations--PA-_177670-1",
       "workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Technology-Operations--PA-_181788"
      ],
-     "count": 18
+     "count": 19
     }
    }
   },
@@ -813,5 +853,5 @@
    }
   }
  },
- "updated_at": "2026-09-01T11:50:53Z"
+ "updated_at": "2026-09-01T16:50:53Z"
 }
