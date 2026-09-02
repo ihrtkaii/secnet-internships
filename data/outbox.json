@@ -1,12 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Systems-Engineer-Intern---Gilbert-AZ_R10249114-1",
-      "workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-Systems-Engineer-Intern---Redondo-Beach-CA_R10249113"
-    ],
-    "telegram": [
-      "workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Systems-Engineer-Intern---Gilbert-AZ_R10249114-1",
-      "workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-Systems-Engineer-Intern---Redondo-Beach-CA_R10249113"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
