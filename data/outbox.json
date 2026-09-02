@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:ehzq.fa.us2.oraclecloud.com:115752",
-      "workday:caci:/job/Sterling-VA-US/DevOps-Software-Engineering-Intern---Summer-2027_331466",
-      "workday:hp:/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4744-1"
-    ],
-    "telegram": [
-      "oracle:ehzq.fa.us2.oraclecloud.com:115752",
-      "workday:caci:/job/Sterling-VA-US/DevOps-Software-Engineering-Intern---Summer-2027_331466",
-      "workday:hp:/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4744-1"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
