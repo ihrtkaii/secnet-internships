@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-02T04:39:05Z</updated>
+  <updated>2026-09-02T11:29:38Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
     <id>urn:intern-engine:workday:altera:/job/San-Jose-California-United-States/Graduate-Intern---Engineering-Infrastructure_R03066</id>
@@ -14,6 +14,14 @@
     <updated>2026-09-02T04:39:05Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Systems &amp; Cloud Infra · San Jose, California, United States · Python, Bash, AWS, Terraform, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:armaninollp:/job/Dallas-Texas/Summer-2027-IT-Audit-Intern--Dallas-_JR104286</id>
+    <title>Armanino: Summer 2027 IT Audit Intern (Dallas)</title>
+    <link href="https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/Dallas-Texas/Summer-2027-IT-Audit-Intern--Dallas-_JR104286"/>
+    <updated>2026-09-02T04:39:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · GRC / Risk · Dallas, Texas · H-1B track record: ~21 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:armaninollp:/job/Denver-Colorado/Summer-2027-IT-Audit-Intern_JR104282</id>
@@ -32,12 +40,12 @@
     <summary>Summer 2027 · GRC / Risk · St. Louis, Missouri · H-1B track record: ~21 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:armaninollp:/job/Dallas-Texas/Summer-2027-IT-Audit-Intern--Dallas-_JR104286</id>
-    <title>Armanino: Summer 2027 IT Audit Intern (Dallas)</title>
-    <link href="https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/Dallas-Texas/Summer-2027-IT-Audit-Intern--Dallas-_JR104286"/>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern--Summer-2027----Onsite_01869961</id>
+    <title>RTX: Systems Engineering Intern (Summer 2027) - Onsite 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern--Summer-2027----Onsite_01869961"/>
     <updated>2026-09-02T04:39:05Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · GRC / Risk · Dallas, Texas · H-1B track record: ~21 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 · Python · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:rockwellautomation:/job/Mayfield-Heights-Ohio-United-States/Intern--Cyber-Professional-Services--LCS-_R26-5042-2</id>
@@ -46,14 +54,6 @@
     <updated>2026-09-02T04:39:05Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security (general) · Mayfield Heights, Ohio, United States · sponsorship: no-sponsorship · H-1B track record: ~90 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern--Summer-2027----Onsite_01869961</id>
-    <title>RTX: Systems Engineering Intern (Summer 2027) - Onsite 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern--Summer-2027----Onsite_01869961"/>
-    <updated>2026-09-02T04:39:05Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 · Python · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:genpt:/job/Birmingham-AL-USA/Cloud-Developer-Intern_R26_0000029133</id>
@@ -339,9 +339,9 @@
     <id>urn:intern-engine:workday:availity:/job/Remote---United-States/Cloud-Operations-Intern_R0008424</id>
     <title>Availity: Cloud Operations Intern</title>
     <link href="https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Cloud-Operations-Intern_R0008424"/>
-    <updated>2026-09-01T16:50:53Z</updated>
+    <updated>2026-09-02T11:29:38Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Cloud Platform · Remote - United States · AWS, Terraform, Linux</summary>
+    <summary>Not stated · Cloud Platform · Remote - United States · AWS, Terraform, Linux · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:nebraskablue:/job/Omaha-NE/Cyber-Intern--Summer-2027_JR101407</id>
