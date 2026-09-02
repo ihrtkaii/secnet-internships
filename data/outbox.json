@@ -1,22 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:altera:/job/San-Jose-California-United-States/Graduate-Intern---Engineering-Infrastructure_R03066",
-      "workday:armaninollp:/job/Austin-Texas/Summer-2027-IT-Audit-Intern--Austin-_JR104287",
-      "workday:armaninollp:/job/Denver-Colorado/Summer-2027-IT-Audit-Intern_JR104282",
-      "workday:armaninollp:/job/St-Louis-Missouri/Summer-2027-IT-Audit-Intern--Denver-_JR104283",
-      "workday:armaninollp:/job/Dallas-Texas/Summer-2027-IT-Audit-Intern--Dallas-_JR104286",
-      "workday:rockwellautomation:/job/Mayfield-Heights-Ohio-United-States/Intern--Cyber-Professional-Services--LCS-_R26-5042-2",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern--Summer-2027----Onsite_01869961"
-    ],
-    "telegram": [
-      "workday:altera:/job/San-Jose-California-United-States/Graduate-Intern---Engineering-Infrastructure_R03066",
-      "workday:armaninollp:/job/Austin-Texas/Summer-2027-IT-Audit-Intern--Austin-_JR104287",
-      "workday:armaninollp:/job/Denver-Colorado/Summer-2027-IT-Audit-Intern_JR104282",
-      "workday:armaninollp:/job/St-Louis-Missouri/Summer-2027-IT-Audit-Intern--Denver-_JR104283",
-      "workday:armaninollp:/job/Dallas-Texas/Summer-2027-IT-Audit-Intern--Dallas-_JR104286",
-      "workday:rockwellautomation:/job/Mayfield-Heights-Ohio-United-States/Intern--Cyber-Professional-Services--LCS-_R26-5042-2",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern--Summer-2027----Onsite_01869961"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
