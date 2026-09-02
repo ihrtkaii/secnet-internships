@@ -5,15 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-02T21:15:55Z</updated>
+  <updated>2026-09-02T23:33:16Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:ingredion:/job/Bridgewater-NJ/Functional-Fiber-Research-Intern_Req-40204-1</id>
-    <title>Ingredion: Functional Fiber Research Intern</title>
-    <link href="https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Bridgewater-NJ/Functional-Fiber-Research-Intern_Req-40204-1"/>
-    <updated>2026-09-02T21:15:55Z</updated>
-    <category term="Summer 2026"/>
-    <summary>Summer 2026 · Network / Telecom · Bridgewater, NJ · status: closed</summary>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Systems-Engineer-Intern---Gilbert-AZ_R10249114-1</id>
+    <title>Northrop Grumman: 2027 Systems Engineer Intern - Gilbert AZ 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Systems-Engineer-Intern---Gilbert-AZ_R10249114-1"/>
+    <updated>2026-09-02T23:33:16Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · United States-Arizona-Gilbert · $23–$28/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-Systems-Engineer-Intern---Redondo-Beach-CA_R10249113</id>
+    <title>Northrop Grumman: 2027 Systems Engineer Intern - Redondo Beach CA 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Systems-Engineer-Intern---Redondo-Beach-CA_R10249113"/>
+    <updated>2026-09-02T23:33:16Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · United States-California-Redondo Beach · $26.75–$32.5/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ehzq.fa.us2.oraclecloud.com:115752</id>
@@ -38,6 +46,14 @@
     <updated>2026-09-02T21:15:55Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · AppSec / Product Sec · Spring, Texas, United States of America · $35–$40/hr · Python, C++, C#, TypeScript · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ingredion:/job/Bridgewater-NJ/Functional-Fiber-Research-Intern_Req-40204-1</id>
+    <title>Ingredion: Functional Fiber Research Intern</title>
+    <link href="https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Bridgewater-NJ/Functional-Fiber-Research-Intern_Req-40204-1"/>
+    <updated>2026-09-02T21:15:55Z</updated>
+    <category term="Summer 2026"/>
+    <summary>Summer 2026 · Network / Telecom · Bridgewater, NJ · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ejhp.fa.us6.oraclecloud.com:2622615</id>
@@ -790,21 +806,5 @@
     <updated>2026-08-28T22:52:11Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · Omaha, Nebraska · $23/hr · H-1B track record: ~14 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tiaa:/job/New-York-NY-USA/Churchill-Summer-Internship--Investment-Infrastructure---Technology--IIT-_R260800515-1</id>
-    <title>TIAA: Churchill Summer Internship: Investment Infrastructure &amp; Technology (IIT)</title>
-    <link href="https://tiaa.wd1.myworkdayjobs.com/Search/job/New-York-NY-USA/Churchill-Summer-Internship--Investment-Infrastructure---Technology--IIT-_R260800515-1"/>
-    <updated>2026-08-28T22:52:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · New York, NY, USA · $30/hr · Python, SQL, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Systems-Engineer-Intern---Helmet-Displays--Summer-2027----Onsite_01867411</id>
-    <title>RTX: Systems Engineer Intern - Helmet Displays (Summer 2027) - Onsite 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Systems-Engineer-Intern---Helmet-Displays--Summer-2027----Onsite_01867411"/>
-    <updated>2026-08-28T12:27:10Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 · Python, C++, MATLAB · sponsorship: citizens-only</summary>
   </entry>
 </feed>
