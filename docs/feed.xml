@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-02T16:47:03Z</updated>
+  <updated>2026-09-02T21:15:55Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:ingredion:/job/Bridgewater-NJ/Functional-Fiber-Research-Intern_Req-40204-1</id>
+    <title>Ingredion: Functional Fiber Research Intern</title>
+    <link href="https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Bridgewater-NJ/Functional-Fiber-Research-Intern_Req-40204-1"/>
+    <updated>2026-09-02T21:15:55Z</updated>
+    <category term="Summer 2026"/>
+    <summary>Summer 2026 · Network / Telecom · Bridgewater, NJ · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ehzq.fa.us2.oraclecloud.com:115752</id>
+    <title>Grant Thornton: Cybersecurity and Privacy Intern - Summer 2027 🛂</title>
+    <link href="https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115752"/>
+    <updated>2026-09-02T21:15:55Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Los Angeles, CA, United States · $40/hr · sponsorship: no-sponsorship · H-1B track record: ~118 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:caci:/job/Sterling-VA-US/DevOps-Software-Engineering-Intern---Summer-2027_331466</id>
+    <title>CACI: DevOps/Software Engineering Intern - Summer 2027</title>
+    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/DevOps-Software-Engineering-Intern---Summer-2027_331466"/>
+    <updated>2026-09-02T21:15:55Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Sterling, VA, US · Python, Java, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hp:/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4744-1</id>
+    <title>Hewlett Packard (HP): Software Product Security Engineer Intern 🛂</title>
+    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4744-1"/>
+    <updated>2026-09-02T21:15:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · AppSec / Product Sec · Spring, Texas, United States of America · $35–$40/hr · Python, C++, C#, TypeScript · sponsorship: no-sponsorship</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:ejhp.fa.us6.oraclecloud.com:2622615</id>
     <title>Sherwin-Williams: Year-Round IT Co-op, Cybersecurity</title>
@@ -22,6 +54,38 @@
     <updated>2026-09-02T16:47:03Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Systems &amp; Cloud Infra · Raleigh, NC, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Winsupply1:3743990015014247</id>
+    <title>Winsupply: Data Center Operations Intern</title>
+    <link href="https://jobs.smartrecruiters.com/Winsupply1/3743990015014247"/>
+    <updated>2026-09-02T16:47:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Moraine, OH, United States · H-1B track record: ~13 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Winsupply1:3743990015014751</id>
+    <title>Winsupply: Network Engineer Intern</title>
+    <link href="https://jobs.smartrecruiters.com/Winsupply1/3743990015014751"/>
+    <updated>2026-09-02T16:47:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Network / Telecom · Moraine, OH, United States · H-1B track record: ~13 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hcmportal:/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Buildings-and-Systems-Engineering-Summer-Intern_R26030715</id>
+    <title>United Parcel Service (UPS): 2027 Buildings and Systems Engineering Summer Intern 🇺🇸</title>
+    <link href="https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Buildings-and-Systems-Engineering-Summer-Intern_R26030715"/>
+    <updated>2026-09-02T16:47:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · US - UPS CORPORATE OFFICES (GACOR) · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:iatinsurancegroup:/job/Cheshire-CT/Network-Operations-Internship_JR100371</id>
+    <title>IAT Insurance Group: Network Operations Internship 🛂</title>
+    <link href="https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Cheshire-CT/Network-Operations-Internship_JR100371"/>
+    <updated>2026-09-02T16:47:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Network / Telecom · Cheshire CT · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:iatinsurancegroup:/job/Naperville-IL/Tier-2-IT-Support-Internship_JR100400</id>
@@ -48,28 +112,12 @@
     <summary>Summer 2027 · Security (general) · Raleigh NC · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:iatinsurancegroup:/job/Cheshire-CT/Network-Operations-Internship_JR100371</id>
-    <title>IAT Insurance Group: Network Operations Internship 🛂</title>
-    <link href="https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Cheshire-CT/Network-Operations-Internship_JR100371"/>
-    <updated>2026-09-02T16:47:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Network / Telecom · Cheshire CT · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:trwd:/job/Fort-Worth-TX/Summer-2027-Infrastructure-Engineering-Intern--T036-_JR100218</id>
     <title>Tarrant Regional Water District: Summer 2027 Infrastructure Engineering Intern (T036)</title>
     <link href="https://trwd.wd1.myworkdayjobs.com/TRWDCareers/job/Fort-Worth-TX/Summer-2027-Infrastructure-Engineering-Intern--T036-_JR100218"/>
     <updated>2026-09-02T16:47:03Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Fort Worth, TX · $18.54–$27.82/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hcmportal:/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Buildings-and-Systems-Engineering-Summer-Intern_R26030715</id>
-    <title>United Parcel Service (UPS): 2027 Buildings and Systems Engineering Summer Intern 🇺🇸</title>
-    <link href="https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Buildings-and-Systems-Engineering-Summer-Intern_R26030715"/>
-    <updated>2026-09-02T16:47:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · US - UPS CORPORATE OFFICES (GACOR) · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:usfoods:/job/Rosemont-IL/Intern---Cybersecurity-Operations--Hybrid--Onsite---Remote-_R282117</id>
@@ -86,22 +134,6 @@
     <updated>2026-09-02T16:47:03Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security (general) · Rosemont IL · sponsorship: no-sponsorship · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Winsupply1:3743990015014751</id>
-    <title>Winsupply: Network Engineer Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Winsupply1/3743990015014751"/>
-    <updated>2026-09-02T16:47:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Network / Telecom · Moraine, OH, United States · H-1B track record: ~13 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Winsupply1:3743990015014247</id>
-    <title>Winsupply: Data Center Operations Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Winsupply1/3743990015014247"/>
-    <updated>2026-09-02T16:47:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Moraine, OH, United States · H-1B track record: ~13 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:altera:/job/San-Jose-California-United-States/Graduate-Intern---Engineering-Infrastructure_R03066</id>
@@ -774,37 +806,5 @@
     <updated>2026-08-28T12:27:10Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 · Python, C++, MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Intern--Systems-Engineer--Onsite-_01868496</id>
-    <title>RTX: Intern- Systems Engineer (Onsite) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Intern--Systems-Engineer--Onsite-_01868496"/>
-    <updated>2026-08-28T12:27:10Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-192 ~ 1205 Continental Place NE ~ BLDG 192 · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Intern---Systems-Engineer--Onsite-_01868046</id>
-    <title>RTX: Intern - Systems Engineer (Onsite) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Intern---Systems-Engineer--Onsite-_01868046"/>
-    <updated>2026-08-28T12:27:10Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193 · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10517649</id>
-    <title>Amazon: Cloud Hardware Development Engineer Intern, Annapurna Labs - 2027</title>
-    <link href="https://www.amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027"/>
-    <updated>2026-08-28T00:40:43Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Cloud Platform · Austin, Texas, USA · Python, Verilog · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:reply:7bb0afb0-cea1-4e7a-b51e-1c529f37d843</id>
-    <title>Reply: Social Network Intern</title>
-    <link href="https://jobs.lever.co/reply/7bb0afb0-cea1-4e7a-b51e-1c529f37d843"/>
-    <updated>2026-08-28T00:40:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Network / Telecom · Chicago, Illinois · $15/hr · LLMs</summary>
   </entry>
 </feed>

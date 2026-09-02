@@ -257,9 +257,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-01",
      "role_ids": [
-      "workday:caci:/job/Sarasota-FL-US/AWS-Cloud-Engineering-Intern---Summer-2027_331437"
+      "workday:caci:/job/Sarasota-FL-US/AWS-Cloud-Engineering-Intern---Summer-2027_331437",
+      "workday:caci:/job/Sterling-VA-US/DevOps-Software-Engineering-Intern---Summer-2027_331466"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -446,9 +447,10 @@
       "oracle:ehzq.fa.us2.oraclecloud.com:115449",
       "oracle:ehzq.fa.us2.oraclecloud.com:115637",
       "oracle:ehzq.fa.us2.oraclecloud.com:115639",
-      "oracle:ehzq.fa.us2.oraclecloud.com:115640"
+      "oracle:ehzq.fa.us2.oraclecloud.com:115640",
+      "oracle:ehzq.fa.us2.oraclecloud.com:115752"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -954,5 +956,5 @@
    }
   }
  },
- "updated_at": "2026-09-02T16:47:03Z"
+ "updated_at": "2026-09-02T21:15:55Z"
 }
