@@ -5,23 +5,63 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-01T23:33:08Z</updated>
+  <updated>2026-09-02T04:39:05Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:genpt:/job/Birmingham-AL-USA/Platform-Engineering-Intern_R26_0000029141</id>
-    <title>Genuine Parts Company: Platform Engineering Intern</title>
-    <link href="https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Platform-Engineering-Intern_R26_0000029141"/>
-    <updated>2026-09-01T23:33:08Z</updated>
+    <id>urn:intern-engine:workday:altera:/job/San-Jose-California-United-States/Graduate-Intern---Engineering-Infrastructure_R03066</id>
+    <title>Altera Corporation: Graduate Intern - Engineering Infrastructure</title>
+    <link href="https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Graduate-Intern---Engineering-Infrastructure_R03066"/>
+    <updated>2026-09-02T04:39:05Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Birmingham, AL, USA · GCP · H-1B track record: ~63 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Systems &amp; Cloud Infra · San Jose, California, United States · Python, Bash, AWS, Terraform, Linux</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:genpt:/job/Birmingham-AL-USA/GRC-Cybersecurity-Analyst-Intern_R26_0000029137</id>
-    <title>Genuine Parts Company: GRC/Cybersecurity Analyst Intern</title>
-    <link href="https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/GRC-Cybersecurity-Analyst-Intern_R26_0000029137"/>
+    <id>urn:intern-engine:workday:armaninollp:/job/Denver-Colorado/Summer-2027-IT-Audit-Intern_JR104282</id>
+    <title>Armanino: Summer 2027 IT Audit Intern (Denver)</title>
+    <link href="https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/Denver-Colorado/Summer-2027-IT-Audit-Intern_JR104282"/>
+    <updated>2026-09-02T04:39:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · GRC / Risk · Denver, Colorado · $33/hr · H-1B track record: ~21 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:armaninollp:/job/St-Louis-Missouri/Summer-2027-IT-Audit-Intern--Denver-_JR104283</id>
+    <title>Armanino: Summer 2027 IT Audit Intern (Saint Louis)</title>
+    <link href="https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/St-Louis-Missouri/Summer-2027-IT-Audit-Intern--Denver-_JR104283"/>
+    <updated>2026-09-02T04:39:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · GRC / Risk · St. Louis, Missouri · H-1B track record: ~21 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:armaninollp:/job/Dallas-Texas/Summer-2027-IT-Audit-Intern--Dallas-_JR104286</id>
+    <title>Armanino: Summer 2027 IT Audit Intern (Dallas)</title>
+    <link href="https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/Dallas-Texas/Summer-2027-IT-Audit-Intern--Dallas-_JR104286"/>
+    <updated>2026-09-02T04:39:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · GRC / Risk · Dallas, Texas · H-1B track record: ~21 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:rockwellautomation:/job/Mayfield-Heights-Ohio-United-States/Intern--Cyber-Professional-Services--LCS-_R26-5042-2</id>
+    <title>Rockwell Automation: Intern, Cyber Professional Services (LCS) 🛂</title>
+    <link href="https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Cyber-Professional-Services--LCS-_R26-5042-2"/>
+    <updated>2026-09-02T04:39:05Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Mayfield Heights, Ohio, United States · sponsorship: no-sponsorship · H-1B track record: ~90 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern--Summer-2027----Onsite_01869961</id>
+    <title>RTX: Systems Engineering Intern (Summer 2027) - Onsite 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern--Summer-2027----Onsite_01869961"/>
+    <updated>2026-09-02T04:39:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 · Python · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:genpt:/job/Birmingham-AL-USA/Cloud-Developer-Intern_R26_0000029133</id>
+    <title>Genuine Parts Company: Cloud Developer Intern</title>
+    <link href="https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Cloud-Developer-Intern_R26_0000029133"/>
     <updated>2026-09-01T23:33:08Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · GRC / Risk · Birmingham, AL, USA · Linux · H-1B track record: ~63 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Cloud Platform · Birmingham, AL, USA · Java, GCP, Linux, Git · H-1B track record: ~63 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:genpt:/job/Birmingham-AL-USA/Cloud-SRE-Intern_R26_0000029134</id>
@@ -32,12 +72,20 @@
     <summary>Not stated · Cloud Platform · Birmingham, AL, USA · GCP · H-1B track record: ~63 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:genpt:/job/Birmingham-AL-USA/Cloud-Developer-Intern_R26_0000029133</id>
-    <title>Genuine Parts Company: Cloud Developer Intern</title>
-    <link href="https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Cloud-Developer-Intern_R26_0000029133"/>
+    <id>urn:intern-engine:workday:genpt:/job/Birmingham-AL-USA/GRC-Cybersecurity-Analyst-Intern_R26_0000029137</id>
+    <title>Genuine Parts Company: GRC/Cybersecurity Analyst Intern</title>
+    <link href="https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/GRC-Cybersecurity-Analyst-Intern_R26_0000029137"/>
     <updated>2026-09-01T23:33:08Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Cloud Platform · Birmingham, AL, USA · Java, GCP, Linux, Git · H-1B track record: ~63 approvals (FY2022–2023)</summary>
+    <summary>Not stated · GRC / Risk · Birmingham, AL, USA · Linux · H-1B track record: ~63 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:genpt:/job/Birmingham-AL-USA/Platform-Engineering-Intern_R26_0000029141</id>
+    <title>Genuine Parts Company: Platform Engineering Intern</title>
+    <link href="https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Platform-Engineering-Intern_R26_0000029141"/>
+    <updated>2026-09-01T23:33:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Birmingham, AL, USA · GCP · H-1B track record: ~63 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:esrtreit:c88d02a3-4075-4e74-9575-a26c74361e22</id>
@@ -758,53 +806,5 @@
     <updated>2026-08-26T20:15:49Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · Alexandria, VA · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00190663</id>
-    <title>Leidos: Cybersecurity Analyst Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00190663"/>
-    <updated>2026-08-26T20:15:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Odenton, MD · Python, Bash, Linux · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Odenton-MD/Systems-Engineering-Intern_R-00190647</id>
-    <title>Leidos: Systems Engineering Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Systems-Engineering-Intern_R-00190647"/>
-    <updated>2026-08-26T20:15:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Odenton, MD · Python, Java, C++, Bash, Docker · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Pearl-Harbor-HI/Cybersecurity-Analyst-Intern_R-00190665</id>
-    <title>Leidos: Cybersecurity Analyst Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Pearl-Harbor-HI/Cybersecurity-Analyst-Intern_R-00190665"/>
-    <updated>2026-08-26T20:15:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Pearl Harbor, HI · Python, Bash, Linux · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Shiloh-IL/Cybersecurity-Analyst-Intern_R-00190667</id>
-    <title>Leidos: Cybersecurity Analyst Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Cybersecurity-Analyst-Intern_R-00190667"/>
-    <updated>2026-08-26T20:15:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Shiloh, IL · Python, Bash, Linux · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Shiloh-IL/Network-Engineering---Operations-Intern_R-00190662-1</id>
-    <title>Leidos: Network Engineering &amp; Operations Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Network-Engineering---Operations-Intern_R-00190662-1"/>
-    <updated>2026-08-26T20:15:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Network / Telecom · Shiloh, IL · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Shiloh-IL/Network-Impact-Assessment--NIA--Intern_R-00190652-1</id>
-    <title>Leidos: Network Impact Assessment (NIA) Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Network-Impact-Assessment--NIA--Intern_R-00190652-1"/>
-    <updated>2026-08-26T20:15:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Network / Telecom · Shiloh, IL · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

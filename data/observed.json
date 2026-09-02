@@ -146,9 +146,13 @@
     "Summer 2027": {
      "first_posted": "2026-08-19",
      "role_ids": [
-      "workday:armaninollp:/job/Austin-Texas/Summer-2027---IT-Audit-Intern--Austin-_JR104221"
+      "workday:armaninollp:/job/Austin-Texas/Summer-2027---IT-Audit-Intern--Austin-_JR104221",
+      "workday:armaninollp:/job/Austin-Texas/Summer-2027-IT-Audit-Intern--Austin-_JR104287",
+      "workday:armaninollp:/job/Dallas-Texas/Summer-2027-IT-Audit-Intern--Dallas-_JR104286",
+      "workday:armaninollp:/job/Denver-Colorado/Summer-2027-IT-Audit-Intern_JR104282",
+      "workday:armaninollp:/job/St-Louis-Missouri/Summer-2027-IT-Audit-Intern--Denver-_JR104283"
      ],
-     "count": 1
+     "count": 5
     }
    }
   },
@@ -776,12 +780,13 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Summer-2027--Intern-Air-Combat-Training--Systems-Engineering--Onsite-_01865658",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Systems-Engineer-Intern---Helmet-Displays--Summer-2027----Onsite_01867411",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineering-Intern-2027--Onsite-_01865648",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern--Summer-2027----Onsite_01869961",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern-2027--Onsite-_01867044",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871278",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871442",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871444"
      ],
-     "count": 11
+     "count": 12
     }
    }
   },
@@ -914,5 +919,5 @@
    }
   }
  },
- "updated_at": "2026-09-01T23:33:08Z"
+ "updated_at": "2026-09-02T04:39:05Z"
 }
