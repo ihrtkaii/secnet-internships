@@ -5,8 +5,104 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-02T11:29:38Z</updated>
+  <updated>2026-09-02T16:47:03Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:ejhp.fa.us6.oraclecloud.com:2622615</id>
+    <title>Sherwin-Williams: Year-Round IT Co-op, Cybersecurity</title>
+    <link href="https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622615"/>
+    <updated>2026-09-02T16:47:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Cleveland, OH, United States · H-1B track record: ~94 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007497</id>
+    <title>Stantec: Roadway Design Co-op Student - Infrastructure (Fall 2026)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007497"/>
+    <updated>2026-09-02T16:47:03Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Systems &amp; Cloud Infra · Raleigh, NC, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:iatinsurancegroup:/job/Naperville-IL/Tier-2-IT-Support-Internship_JR100400</id>
+    <title>IAT Insurance Group: Tier 2 IT Support Internship 🛂</title>
+    <link href="https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Naperville-IL/Tier-2-IT-Support-Internship_JR100400"/>
+    <updated>2026-09-02T16:47:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · IT Support / Ops · Naperville IL · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:iatinsurancegroup:/job/Newark-NJ/System-Administrator-Internship_JR100415</id>
+    <title>IAT Insurance Group: System Administrator Internship 🛂</title>
+    <link href="https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Newark-NJ/System-Administrator-Internship_JR100415"/>
+    <updated>2026-09-02T16:47:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Newark NJ · Python, SQL, Azure · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:iatinsurancegroup:/job/Raleigh-NC/Cyber-Security-Internship_JR100410</id>
+    <title>IAT Insurance Group: Cyber Security Internship 🛂</title>
+    <link href="https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Raleigh-NC/Cyber-Security-Internship_JR100410"/>
+    <updated>2026-09-02T16:47:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Raleigh NC · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:iatinsurancegroup:/job/Cheshire-CT/Network-Operations-Internship_JR100371</id>
+    <title>IAT Insurance Group: Network Operations Internship 🛂</title>
+    <link href="https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Cheshire-CT/Network-Operations-Internship_JR100371"/>
+    <updated>2026-09-02T16:47:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Network / Telecom · Cheshire CT · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:trwd:/job/Fort-Worth-TX/Summer-2027-Infrastructure-Engineering-Intern--T036-_JR100218</id>
+    <title>Tarrant Regional Water District: Summer 2027 Infrastructure Engineering Intern (T036)</title>
+    <link href="https://trwd.wd1.myworkdayjobs.com/TRWDCareers/job/Fort-Worth-TX/Summer-2027-Infrastructure-Engineering-Intern--T036-_JR100218"/>
+    <updated>2026-09-02T16:47:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Fort Worth, TX · $18.54–$27.82/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hcmportal:/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Buildings-and-Systems-Engineering-Summer-Intern_R26030715</id>
+    <title>United Parcel Service (UPS): 2027 Buildings and Systems Engineering Summer Intern 🇺🇸</title>
+    <link href="https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Buildings-and-Systems-Engineering-Summer-Intern_R26030715"/>
+    <updated>2026-09-02T16:47:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · US - UPS CORPORATE OFFICES (GACOR) · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:usfoods:/job/Rosemont-IL/Intern---Cybersecurity-Operations--Hybrid--Onsite---Remote-_R282117</id>
+    <title>US Foods: Intern – Cybersecurity Operations (Hybrid: Onsite &amp; Remote) 🛂</title>
+    <link href="https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Rosemont-IL/Intern---Cybersecurity-Operations--Hybrid--Onsite---Remote-_R282117"/>
+    <updated>2026-09-02T16:47:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Rosemont IL · Python, Bash, Linux · sponsorship: no-sponsorship · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:usfoods:/job/Rosemont-IL/Intern---Cybersecurity-Risk--Hybrid--Onsite---Remote-_R282118</id>
+    <title>US Foods: Intern – Cybersecurity Risk (Hybrid: Onsite &amp; Remote) 🛂</title>
+    <link href="https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Rosemont-IL/Intern---Cybersecurity-Risk--Hybrid--Onsite---Remote-_R282118"/>
+    <updated>2026-09-02T16:47:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Rosemont IL · sponsorship: no-sponsorship · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Winsupply1:3743990015014751</id>
+    <title>Winsupply: Network Engineer Intern</title>
+    <link href="https://jobs.smartrecruiters.com/Winsupply1/3743990015014751"/>
+    <updated>2026-09-02T16:47:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Network / Telecom · Moraine, OH, United States · H-1B track record: ~13 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Winsupply1:3743990015014247</id>
+    <title>Winsupply: Data Center Operations Intern</title>
+    <link href="https://jobs.smartrecruiters.com/Winsupply1/3743990015014247"/>
+    <updated>2026-09-02T16:47:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Moraine, OH, United States · H-1B track record: ~13 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:altera:/job/San-Jose-California-United-States/Graduate-Intern---Engineering-Infrastructure_R03066</id>
     <title>Altera Corporation: Graduate Intern - Engineering Infrastructure</title>
@@ -710,101 +806,5 @@
     <updated>2026-08-28T00:40:43Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Network / Telecom · Chicago, Illinois · $15/hr · LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ehzq.fa.us2.oraclecloud.com:115640</id>
-    <title>Grant Thornton: Cybersecurity and Privacy Intern - Summer 2027 🛂</title>
-    <link href="https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115640"/>
-    <updated>2026-08-28T00:40:43Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Chicago, IL, United States · $37/hr · sponsorship: no-sponsorship · H-1B track record: ~118 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:AbbVie:3743990014896329</id>
-    <title>AbbVie: 2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate)</title>
-    <link href="https://jobs.smartrecruiters.com/AbbVie/3743990014896329"/>
-    <updated>2026-08-28T00:40:43Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · North Chicago, IL, United States (Hybrid) · Python, Java, C#, JavaScript, HTML/CSS · H-1B track record: ~303 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:AbbVie:3743990014900496</id>
-    <title>AbbVie: 2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate)</title>
-    <link href="https://jobs.smartrecruiters.com/AbbVie/3743990014900496"/>
-    <updated>2026-08-28T00:40:43Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Irvine, CA, United States (Hybrid) · Python, Java, C#, JavaScript, HTML/CSS · H-1B track record: ~303 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:AbbVie:3743990014900536</id>
-    <title>AbbVie: 2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate)</title>
-    <link href="https://jobs.smartrecruiters.com/AbbVie/3743990014900536"/>
-    <updated>2026-08-28T00:40:43Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · South San Francisco, CA, United States (Hybrid) · Python, Java, C#, JavaScript, HTML/CSS · H-1B track record: ~303 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:airproducts:/job/Allentown-Pennsylvania/Summer-Intern--IT---Cyber-Audit--2027-_JR-2026-21954</id>
-    <title>Air Products: Summer Intern- IT &amp; Cyber Audit (2027)</title>
-    <link href="https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Allentown-Pennsylvania/Summer-Intern--IT---Cyber-Audit--2027-_JR-2026-21954"/>
-    <updated>2026-08-28T00:40:43Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Allentown, Pennsylvania</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:amainc:/job/Remote---California/Remote-Aeronautics-Systems-Engineering-Intern_R-100747</id>
-    <title>Analytical Mechanics Associates: Remote Aeronautics Systems Engineering Intern</title>
-    <link href="https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Remote---California/Remote-Aeronautics-Systems-Engineering-Intern_R-100747"/>
-    <updated>2026-08-28T00:40:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Remote - California · $29.5–$33.5/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cnoinc:/job/Carmel-IN/Artificial-Intelligence--AI--IT-Intern-2027---REMOTE_JR170389</id>
-    <title>CNO Financial Group: Artificial Intelligence (AI) IT Intern 2027 - REMOTE</title>
-    <link href="https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Artificial-Intelligence--AI--IT-Intern-2027---REMOTE_JR170389"/>
-    <updated>2026-08-28T00:40:43Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · IT Support / Ops · Carmel, IN</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:erickson:/job/Catonsville-MD/Intern---IT-Support_R0103105-1</id>
-    <title>Erickson Senior Living: Intern – IT Support</title>
-    <link href="https://erickson.wd108.myworkdayjobs.com/external/job/Catonsville-MD/Intern---IT-Support_R0103105-1"/>
-    <updated>2026-08-28T00:40:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · IT Support / Ops · Catonsville, MD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Bethesda-MD/Cybersecurity-Engineer-Co-op_R-00190764</id>
-    <title>Leidos: Cybersecurity Engineer Co-op</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Cybersecurity-Engineer-Co-op_R-00190764"/>
-    <updated>2026-08-28T00:40:42Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Security (general) · Bethesda, MD · Linux · status: closed · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:amainc:/job/Hampton-VA/Aeronautics-Systems-Engineering-Intern_R-100746</id>
-    <title>Analytical Mechanics Associates: Aeronautics Systems Engineering Intern</title>
-    <link href="https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Aeronautics-Systems-Engineering-Intern_R-100746"/>
-    <updated>2026-08-27T01:02:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Hampton, VA · $25–$27.69/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Racing-Systems-Engineering-Co-Op_JR-051290</id>
-    <title>Brunswick: Mercury Racing Systems Engineering Co-Op</title>
-    <link href="https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Racing-Systems-Engineering-Co-Op_JR-051290"/>
-    <updated>2026-08-26T20:15:49Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Fond du Lac, WI · $18–$27.5/hr · Python, C++, MATLAB · H-1B track record: ~54 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Alexandria-VA/Cybersecurity-Analyst-Intern_R-00190671</id>
-    <title>Leidos: Cybersecurity Analyst Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Cybersecurity-Analyst-Intern_R-00190671"/>
-    <updated>2026-08-26T20:15:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Alexandria, VA · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

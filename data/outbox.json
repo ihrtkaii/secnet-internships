@@ -1,6 +1,34 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:ejhp.fa.us6.oraclecloud.com:2622615",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007497",
+      "workday:iatinsurancegroup:/job/Naperville-IL/Tier-2-IT-Support-Internship_JR100400",
+      "workday:iatinsurancegroup:/job/Newark-NJ/System-Administrator-Internship_JR100415",
+      "workday:iatinsurancegroup:/job/Raleigh-NC/Cyber-Security-Internship_JR100410",
+      "workday:iatinsurancegroup:/job/Cheshire-CT/Network-Operations-Internship_JR100371",
+      "workday:motorolasolutions:/job/Washington-DC-Remote-Work/CAD-RMS-System-Administrator---Internship_R67897",
+      "workday:trwd:/job/Fort-Worth-TX/Summer-2027-Infrastructure-Engineering-Intern--T036-_JR100218",
+      "workday:hcmportal:/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Buildings-and-Systems-Engineering-Summer-Intern_R26030715",
+      "workday:usfoods:/job/Rosemont-IL/Intern---Cybersecurity-Operations--Hybrid--Onsite---Remote-_R282117",
+      "workday:usfoods:/job/Rosemont-IL/Intern---Cybersecurity-Risk--Hybrid--Onsite---Remote-_R282118",
+      "smartrecruiters:Winsupply1:3743990015014751",
+      "smartrecruiters:Winsupply1:3743990015014247"
+    ],
+    "telegram": [
+      "oracle:ejhp.fa.us6.oraclecloud.com:2622615",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007497",
+      "workday:iatinsurancegroup:/job/Naperville-IL/Tier-2-IT-Support-Internship_JR100400",
+      "workday:iatinsurancegroup:/job/Newark-NJ/System-Administrator-Internship_JR100415",
+      "workday:iatinsurancegroup:/job/Raleigh-NC/Cyber-Security-Internship_JR100410",
+      "workday:iatinsurancegroup:/job/Cheshire-CT/Network-Operations-Internship_JR100371",
+      "workday:motorolasolutions:/job/Washington-DC-Remote-Work/CAD-RMS-System-Administrator---Internship_R67897",
+      "workday:trwd:/job/Fort-Worth-TX/Summer-2027-Infrastructure-Engineering-Intern--T036-_JR100218",
+      "workday:hcmportal:/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Buildings-and-Systems-Engineering-Summer-Intern_R26030715",
+      "workday:usfoods:/job/Rosemont-IL/Intern---Cybersecurity-Operations--Hybrid--Onsite---Remote-_R282117",
+      "workday:usfoods:/job/Rosemont-IL/Intern---Cybersecurity-Risk--Hybrid--Onsite---Remote-_R282118",
+      "smartrecruiters:Winsupply1:3743990015014751",
+      "smartrecruiters:Winsupply1:3743990015014247"
+    ]
   }
 }

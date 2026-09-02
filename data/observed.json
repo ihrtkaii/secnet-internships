@@ -513,6 +513,21 @@
     }
    }
   },
+  "iat insurance group": {
+   "name": "IAT Insurance Group",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "workday:iatinsurancegroup:/job/Cheshire-CT/Network-Operations-Internship_JR100371",
+      "workday:iatinsurancegroup:/job/Naperville-IL/Tier-2-IT-Support-Internship_JR100400",
+      "workday:iatinsurancegroup:/job/Newark-NJ/System-Administrator-Internship_JR100415",
+      "workday:iatinsurancegroup:/job/Raleigh-NC/Cyber-Security-Internship_JR100410"
+     ],
+     "count": 4
+    }
+   }
+  },
   "ing": {
    "name": "ING",
    "cycles": {
@@ -825,6 +840,25 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1007361"
      ],
      "count": 1
+    },
+    "Fall 2026": {
+     "first_posted": "2026-09-02",
+     "role_ids": [
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007497"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "tarrant regional water district": {
+   "name": "Tarrant Regional Water District",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "workday:trwd:/job/Fort-Worth-TX/Summer-2027-Infrastructure-Engineering-Intern--T036-_JR100218"
+     ],
+     "count": 1
     }
    }
   },
@@ -846,9 +880,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-31",
      "role_ids": [
+      "workday:hcmportal:/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Buildings-and-Systems-Engineering-Summer-Intern_R26030715",
       "workday:hcmportal:/job/US---UPS-TECHNOLOGY-HEADQUARTERS--DATACENTER-NJRAR/UPS-Information-Security-Summer-2027-Internship---NJ_R26029761"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -919,5 +954,5 @@
    }
   }
  },
- "updated_at": "2026-09-02T11:29:38Z"
+ "updated_at": "2026-09-02T16:47:03Z"
 }
