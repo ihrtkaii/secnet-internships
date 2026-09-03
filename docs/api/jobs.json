@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-03T21:15:08Z",
- "data_as_of": "2026-09-03T21:15:08Z",
- "rendered_at": "2026-09-03T21:15:08Z",
+ "generated_at": "2026-09-03T23:30:18Z",
+ "data_as_of": "2026-09-03T23:30:18Z",
+ "rendered_at": "2026-09-03T23:30:18Z",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "h1b_window": "FY2022–2023",
- "count": 268,
+ "count": 265,
  "jobs": [
   {
    "id": "lever:hermeus:9229aa88-f54d-4ecd-85ee-b31f53b4207d",
@@ -106,6 +106,52 @@
    "remote": false
   },
   {
+   "id": "workday:snc:/job/Dayton-OH/Systems-Engineer-Intern--Summer-2027-_R0030749",
+   "company": "Sierra Nevada Corporation",
+   "title": "Systems Engineer Intern (Summer 2027)",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Systems & Cloud Infra",
+   "location": "Dayton, OH",
+   "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Systems-Engineer-Intern--Summer-2027-_R0030749",
+   "posted_at": "2026-09-03T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-03T21:15:08Z",
+   "sponsorship": "citizens-only",
+   "salary": null,
+   "skills": [
+    "MATLAB"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workday:snc:/job/Hagerstown-MD/Systems-Engineering-Intern--Summer-2027-_R0030753",
+   "company": "Sierra Nevada Corporation",
+   "title": "Systems Engineering Intern (Summer 2027)",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Systems & Cloud Infra",
+   "location": "Hagerstown, MD",
+   "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Systems-Engineering-Intern--Summer-2027-_R0030753",
+   "posted_at": "2026-09-03T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-03T21:15:08Z",
+   "sponsorship": "citizens-only",
+   "salary": null,
+   "skills": [
+    "MATLAB"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
    "id": "workday:snc:/job/Hagerstown-MD/Systems-Security-Engineering-Intern--Summer-2027-_R0030783",
    "company": "Sierra Nevada Corporation",
    "title": "Systems Security Engineering Intern (Summer 2027)",
@@ -152,29 +198,6 @@
    "remote": false
   },
   {
-   "id": "workday:snc:/job/Hagerstown-MD/Systems-Engineering-Intern--Summer-2027-_R0030753",
-   "company": "Sierra Nevada Corporation",
-   "title": "Systems Engineering Intern (Summer 2027)",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Systems & Cloud Infra",
-   "location": "Hagerstown, MD",
-   "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Systems-Engineering-Intern--Summer-2027-_R0030753",
-   "posted_at": "2026-09-03T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-03T21:15:08Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [
-    "MATLAB"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:snc:/job/Lone-Tree-CO/Systems-Engineering-Intern--Summer-2027-_R0030750",
    "company": "Sierra Nevada Corporation",
    "title": "Systems Engineering Intern (Summer 2027)",
@@ -207,29 +230,6 @@
    "category": "Systems & Cloud Infra",
    "location": "Plano, TX",
    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Systems-Engineering-Intern--Summer-2027-_R0030752",
-   "posted_at": "2026-09-03T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-03T21:15:08Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [
-    "MATLAB"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:snc:/job/Dayton-OH/Systems-Engineer-Intern--Summer-2027-_R0030749",
-   "company": "Sierra Nevada Corporation",
-   "title": "Systems Engineer Intern (Summer 2027)",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Systems & Cloud Infra",
-   "location": "Dayton, OH",
-   "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Systems-Engineer-Intern--Summer-2027-_R0030749",
    "posted_at": "2026-09-03T00:00:00Z",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-09-03T21:15:08Z",
@@ -1528,54 +1528,6 @@
    "remote": false
   },
   {
-   "id": "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871442",
-   "company": "RTX",
-   "title": "Cyber Engineering Intern (Summer 2027)",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Security (general)",
-   "location": "US-IA-CEDAR RAPIDS-166 ~ 855 35Th St NE ~ BLDG 166",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871442",
-   "posted_at": "2026-09-01T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-01T21:15:28Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C++"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871444",
-   "company": "RTX",
-   "title": "Cyber Engineering Intern (Summer 2027)",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Security (general)",
-   "location": "US-IA-CEDAR RAPIDS-166 ~ 855 35Th St NE ~ BLDG 166",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871444",
-   "posted_at": "2026-09-01T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-01T21:15:28Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C++"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:mastercard:/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284873",
    "company": "Mastercard",
    "title": "Platform Engineering Intern, Summer 2027 – St. Louis, MO, US",
@@ -2307,30 +2259,6 @@
    "sponsorship": "unknown",
    "salary": "$20–$40/hr",
    "skills": [],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871278",
-   "company": "RTX",
-   "title": "Cyber Engineering Intern (Summer 2027)",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Security (general)",
-   "location": "US-IA-CEDAR RAPIDS-166 ~ 855 35Th St NE ~ BLDG 166",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871278",
-   "posted_at": "2026-08-31T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-31T21:05:14Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C++"
-   ],
    "source": "workday",
    "h1b_approvals": null,
    "program": "Internship",

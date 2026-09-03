@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-03T21:15:08Z</updated>
+  <updated>2026-09-03T23:30:18Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
     <id>urn:intern-engine:lever:foth:072d5e17-c095-49bc-ac02-4cd558bb5d64</id>
@@ -16,17 +16,17 @@
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Newport, Rhode Island · 21–26 USD/hr</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:lever:foth:95f75d08-ec27-48ff-8c60-dcf2d5720885</id>
-    <title>FOTH: Civil Engineering Intern-Waterfront Infrastructure (Summer 2027)</title>
-    <link href="https://jobs.lever.co/foth/95f75d08-ec27-48ff-8c60-dcf2d5720885"/>
+    <id>urn:intern-engine:lever:foth:78374fff-0ecd-4505-9f9d-bbfb0686c51e</id>
+    <title>FOTH: Mechanical Packaging Systems Engineering Co-op (Summer/Fall 2027)</title>
+    <link href="https://jobs.lever.co/foth/78374fff-0ecd-4505-9f9d-bbfb0686c51e"/>
     <updated>2026-09-03T21:15:08Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Green Bay, Wisconsin</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:lever:foth:78374fff-0ecd-4505-9f9d-bbfb0686c51e</id>
-    <title>FOTH: Mechanical Packaging Systems Engineering Co-op (Summer/Fall 2027)</title>
-    <link href="https://jobs.lever.co/foth/78374fff-0ecd-4505-9f9d-bbfb0686c51e"/>
+    <id>urn:intern-engine:lever:foth:95f75d08-ec27-48ff-8c60-dcf2d5720885</id>
+    <title>FOTH: Civil Engineering Intern-Waterfront Infrastructure (Summer 2027)</title>
+    <link href="https://jobs.lever.co/foth/95f75d08-ec27-48ff-8c60-dcf2d5720885"/>
     <updated>2026-09-03T21:15:08Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Green Bay, Wisconsin</summary>
@@ -72,6 +72,22 @@
     <summary>Summer 2027 · Systems &amp; Cloud Infra · O'Fallon, Missouri · $25–$30/hr · Python, Bash, AWS, GCP, Azure</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:snc:/job/Dayton-OH/Systems-Engineer-Intern--Summer-2027-_R0030749</id>
+    <title>Sierra Nevada Corporation: Systems Engineer Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Systems-Engineer-Intern--Summer-2027-_R0030749"/>
+    <updated>2026-09-03T21:15:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Dayton, OH · MATLAB · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:snc:/job/Hagerstown-MD/Systems-Engineering-Intern--Summer-2027-_R0030753</id>
+    <title>Sierra Nevada Corporation: Systems Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Systems-Engineering-Intern--Summer-2027-_R0030753"/>
+    <updated>2026-09-03T21:15:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Hagerstown, MD · MATLAB · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:snc:/job/Hagerstown-MD/Systems-Security-Engineering-Intern--Summer-2027-_R0030783</id>
     <title>Sierra Nevada Corporation: Systems Security Engineering Intern (Summer 2027) 🇺🇸</title>
     <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Systems-Security-Engineering-Intern--Summer-2027-_R0030783"/>
@@ -88,14 +104,6 @@
     <summary>Summer 2027 · IT Support / Ops · Lone Tree, CO · MATLAB · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:snc:/job/Hagerstown-MD/Systems-Engineering-Intern--Summer-2027-_R0030753</id>
-    <title>Sierra Nevada Corporation: Systems Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Systems-Engineering-Intern--Summer-2027-_R0030753"/>
-    <updated>2026-09-03T21:15:08Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Hagerstown, MD · MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:snc:/job/Lone-Tree-CO/Systems-Engineering-Intern--Summer-2027-_R0030750</id>
     <title>Sierra Nevada Corporation: Systems Engineering Intern (Summer 2027) 🇺🇸</title>
     <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Systems-Engineering-Intern--Summer-2027-_R0030750"/>
@@ -110,14 +118,6 @@
     <updated>2026-09-03T21:15:08Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Plano, TX · MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:snc:/job/Dayton-OH/Systems-Engineer-Intern--Summer-2027-_R0030749</id>
-    <title>Sierra Nevada Corporation: Systems Engineer Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Systems-Engineer-Intern--Summer-2027-_R0030749"/>
-    <updated>2026-09-03T21:15:08Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Dayton, OH · MATLAB · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:wonder:/job/New-York-NY/Robotics-Systems-Engineer-Intern_JR101321</id>
