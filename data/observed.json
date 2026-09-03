@@ -625,6 +625,18 @@
     }
    }
   },
+  "mckesson": {
+   "name": "McKesson",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-02",
+     "role_ids": [
+      "workday:mckesson:/job/USA-CO-Longmont/Software-Installation---IT-Support-Intern---Summer-2027_JR0152304"
+     ],
+     "count": 1
+    }
+   }
+  },
   "medtronic": {
    "name": "Medtronic",
    "cycles": {
@@ -680,13 +692,14 @@
      "first_posted": "2026-08-24",
      "role_ids": [
       "workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Systems-Engineer-Intern---Gilbert-AZ_R10249114-1",
+      "workday:ngc:/job/United-States-California-Azusa/XMLNAME-2027-Systems-Engineer-Intern---Azusa-CA_R10249123",
       "workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-Systems-Engineer-Intern---Redondo-Beach-CA_R10249113",
       "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Cybersecurity-Analyst-Intern----Boulder-CO_R10248677",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering_R10247434",
       "workday:ngc:/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern---Systems-Engineering_R10248653",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Engineering-Intern--Roy-UT_R10248475"
      ],
-     "count": 6
+     "count": 7
     },
     "Fall 2026": {
      "first_posted": "2026-08-31",
@@ -958,5 +971,5 @@
    }
   }
  },
- "updated_at": "2026-09-02T23:33:16Z"
+ "updated_at": "2026-09-03T04:33:09Z"
 }

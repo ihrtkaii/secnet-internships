@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-02T23:33:16Z</updated>
+  <updated>2026-09-03T04:33:09Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:mckesson:/job/USA-CO-Longmont/Software-Installation---IT-Support-Intern---Summer-2027_JR0152304</id>
+    <title>McKesson: Software Installation &amp; IT Support Intern - Summer 2027</title>
+    <link href="https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-CO-Longmont/Software-Installation---IT-Support-Intern---Summer-2027_JR0152304"/>
+    <updated>2026-09-03T04:33:09Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · IT Support / Ops · USA, CO, Longmont · H-1B track record: ~147 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-California-Azusa/XMLNAME-2027-Systems-Engineer-Intern---Azusa-CA_R10249123</id>
+    <title>Northrop Grumman: 2027 Systems Engineer Intern - Azusa CA 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Systems-Engineer-Intern---Azusa-CA_R10249123"/>
+    <updated>2026-09-03T04:33:09Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · United States-California-Azusa · $26.75–$32.5/hr · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Systems-Engineer-Intern---Gilbert-AZ_R10249114-1</id>
     <title>Northrop Grumman: 2027 Systems Engineer Intern - Gilbert AZ 🇺🇸</title>
@@ -790,21 +806,5 @@
     <updated>2026-08-28T22:52:11Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Raleigh, NC, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:andersen:/job/Oak-Park-Heights-MN/IT-Intern_R-8116</id>
-    <title>Andersen Corporation: IT Intern</title>
-    <link href="https://andersen.wd12.myworkdayjobs.com/Andersen_External_Career_Site/job/Oak-Park-Heights-MN/IT-Intern_R-8116"/>
-    <updated>2026-08-28T22:52:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · IT Support / Ops · Oak Park Heights, MN · H-1B track record: ~11 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:conagrabrands:/job/Omaha-Nebraska/Cybersecurity-Internship---Summer-2027_Req-039965</id>
-    <title>Conagra Brands: Cybersecurity Internship - Summer 2027</title>
-    <link href="https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Cybersecurity-Internship---Summer-2027_Req-039965"/>
-    <updated>2026-08-28T22:52:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Omaha, Nebraska · $23/hr · H-1B track record: ~14 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
