@@ -5,15 +5,127 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-03T16:38:26Z</updated>
+  <updated>2026-09-03T21:15:08Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:nationwidechildrens:/job/Main-Campus-Columbus-OH/IS-Data-Center-Intern_R-27841-1</id>
-    <title>Nationwide Children's Hospital: IS Data Center Intern</title>
-    <link href="https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/IS-Data-Center-Intern_R-27841-1"/>
-    <updated>2026-09-03T16:38:26Z</updated>
+    <id>urn:intern-engine:lever:foth:072d5e17-c095-49bc-ac02-4cd558bb5d64</id>
+    <title>FOTH: Civil Engineering Intern-Coastal Infrastructure (Summer 2027)</title>
+    <link href="https://jobs.lever.co/foth/072d5e17-c095-49bc-ac02-4cd558bb5d64"/>
+    <updated>2026-09-03T21:15:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Newport, Rhode Island · 21–26 USD/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:foth:95f75d08-ec27-48ff-8c60-dcf2d5720885</id>
+    <title>FOTH: Civil Engineering Intern-Waterfront Infrastructure (Summer 2027)</title>
+    <link href="https://jobs.lever.co/foth/95f75d08-ec27-48ff-8c60-dcf2d5720885"/>
+    <updated>2026-09-03T21:15:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Green Bay, Wisconsin</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:foth:78374fff-0ecd-4505-9f9d-bbfb0686c51e</id>
+    <title>FOTH: Mechanical Packaging Systems Engineering Co-op (Summer/Fall 2027)</title>
+    <link href="https://jobs.lever.co/foth/78374fff-0ecd-4505-9f9d-bbfb0686c51e"/>
+    <updated>2026-09-03T21:15:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Green Bay, Wisconsin</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:foth:c074a997-c723-4c6f-b531-686ef1461c25</id>
+    <title>FOTH: Mechanical Packaging Systems Engineering Intern (Summer 2027)</title>
+    <link href="https://jobs.lever.co/foth/c074a997-c723-4c6f-b531-686ef1461c25"/>
+    <updated>2026-09-03T21:15:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Green Bay, Wisconsin</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:hermeus:9229aa88-f54d-4ecd-85ee-b31f53b4207d</id>
+    <title>Hermeus: Mission Systems Engineering Intern 🇺🇸</title>
+    <link href="https://jobs.lever.co/hermeus/9229aa88-f54d-4ecd-85ee-b31f53b4207d"/>
+    <updated>2026-09-03T21:15:08Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Main Campus, Columbus, OH</summary>
+    <summary>Not stated · Systems &amp; Cloud Infra · Atlanta, GA · 25–33 USD/hr · Python, C++ · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:alliedsolutions:/job/Carmel-IN/IT-Operations-Intern_R-011095</id>
+    <title>Allied Solutions: IT Operations Intern</title>
+    <link href="https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/IT-Operations-Intern_R-011095"/>
+    <updated>2026-09-03T21:15:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Other · Carmel, IN</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cisco:/job/RTP-North-Carolina-US/Security-Consulting-Engineer-I--Intern----United-States_2024817</id>
+    <title>Cisco: Security Consulting Engineer I (Intern) - United States</title>
+    <link href="https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Security-Consulting-Engineer-I--Intern----United-States_2024817"/>
+    <updated>2026-09-03T21:15:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · RTP, North Carolina, US · Python, Java, C++, Terraform</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:mastercard:/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654</id>
+    <title>Mastercard: Site Reliability Engineering Intern, Summer 2027 – St. Louis, MO, US</title>
+    <link href="https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"/>
+    <updated>2026-09-03T21:15:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · O'Fallon, Missouri · $25–$30/hr · Python, Bash, AWS, GCP, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:snc:/job/Hagerstown-MD/Systems-Security-Engineering-Intern--Summer-2027-_R0030783</id>
+    <title>Sierra Nevada Corporation: Systems Security Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Systems-Security-Engineering-Intern--Summer-2027-_R0030783"/>
+    <updated>2026-09-03T21:15:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Hagerstown, MD · MATLAB · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:snc:/job/Lone-Tree-CO/IT-Support-Technician-Intern--Summer-2027-_R0030762</id>
+    <title>Sierra Nevada Corporation: IT Support Technician Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/IT-Support-Technician-Intern--Summer-2027-_R0030762"/>
+    <updated>2026-09-03T21:15:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · IT Support / Ops · Lone Tree, CO · MATLAB · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:snc:/job/Hagerstown-MD/Systems-Engineering-Intern--Summer-2027-_R0030753</id>
+    <title>Sierra Nevada Corporation: Systems Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Systems-Engineering-Intern--Summer-2027-_R0030753"/>
+    <updated>2026-09-03T21:15:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Hagerstown, MD · MATLAB · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:snc:/job/Lone-Tree-CO/Systems-Engineering-Intern--Summer-2027-_R0030750</id>
+    <title>Sierra Nevada Corporation: Systems Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Systems-Engineering-Intern--Summer-2027-_R0030750"/>
+    <updated>2026-09-03T21:15:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Lone Tree, CO · MATLAB · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:snc:/job/Plano-TX/Systems-Engineering-Intern--Summer-2027-_R0030752</id>
+    <title>Sierra Nevada Corporation: Systems Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Systems-Engineering-Intern--Summer-2027-_R0030752"/>
+    <updated>2026-09-03T21:15:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Plano, TX · MATLAB · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:snc:/job/Dayton-OH/Systems-Engineer-Intern--Summer-2027-_R0030749</id>
+    <title>Sierra Nevada Corporation: Systems Engineer Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Systems-Engineer-Intern--Summer-2027-_R0030749"/>
+    <updated>2026-09-03T21:15:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Dayton, OH · MATLAB · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wonder:/job/New-York-NY/Robotics-Systems-Engineer-Intern_JR101321</id>
+    <title>Wonder: Robotics Systems Engineer Intern 🛂</title>
+    <link href="https://wonder.wd1.myworkdayjobs.com/WG/job/New-York-NY/Robotics-Systems-Engineer-Intern_JR101321"/>
+    <updated>2026-09-03T21:15:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · New York, NY · $53/hr · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Winsupply1:3743990015052606</id>
@@ -22,6 +134,14 @@
     <updated>2026-09-03T16:38:26Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Network / Telecom · Moraine, OH, United States · H-1B track record: ~13 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:nationwidechildrens:/job/Main-Campus-Columbus-OH/IS-Data-Center-Intern_R-27841-1</id>
+    <title>Nationwide Children's Hospital: IS Data Center Intern</title>
+    <link href="https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/IS-Data-Center-Intern_R-27841-1"/>
+    <updated>2026-09-03T16:38:26Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Main Campus, Columbus, OH</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:mckesson:/job/USA-CO-Longmont/Software-Installation---IT-Support-Intern---Summer-2027_JR0152304</id>
@@ -686,125 +806,5 @@
     <updated>2026-08-31T21:05:14Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · SOC / Detection · Charlotte, NC</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:elanco:/job/Indianapolis-IN/Junior-IT-Engineer---Information-Technology-Intern--Summer-2027-_R0026986-1</id>
-    <title>Elanco: Junior IT Engineer – Information Technology Intern (Summer 2027)</title>
-    <link href="https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Junior-IT-Engineer---Information-Technology-Intern--Summer-2027-_R0026986-1"/>
-    <updated>2026-08-31T21:05:14Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Other · Indianapolis, IN · $20–$40/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ercot:/job/Taylor-TX/Summer-Intern----Cyber-Security_R2404</id>
-    <title>Ercot: Summer Intern -- Cyber Security</title>
-    <link href="https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Summer-Intern----Cyber-Security_R2404"/>
-    <updated>2026-09-01T23:33:08Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Taylor, TX · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871278</id>
-    <title>RTX: Cyber Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871278"/>
-    <updated>2026-08-31T21:05:14Z</updated>
-    <category term="Summer 2027"/>
-    <summary>3 openings · Summer 2027 · Security (general) · US-IA-CEDAR RAPIDS-166 ~ 855 35Th St NE ~ BLDG 166 · Python, C++ · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hcmportal:/job/US---UPS-TECHNOLOGY-HEADQUARTERS--DATACENTER-NJRAR/UPS-Information-Security-Summer-2027-Internship---NJ_R26029761</id>
-    <title>United Parcel Service (UPS): UPS Information Security Summer 2027 Internship - NJ 🇺🇸</title>
-    <link href="https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-TECHNOLOGY-HEADQUARTERS--DATACENTER-NJRAR/UPS-Information-Security-Summer-2027-Internship---NJ_R26029761"/>
-    <updated>2026-08-31T21:05:14Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · US - UPS TECHNOLOGY HEADQUARTERS &amp; DATACENTER (NJRAR) · $13.35/hr · Python, Java, C++, SQL, HTML/CSS · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/6314-RemoteTeleworker-US/SharePoint---Systems-Engineering-Intern_R-00190982</id>
-    <title>Leidos: SharePoint &amp; Systems Engineering Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/SharePoint---Systems-Engineering-Intern_R-00190982"/>
-    <updated>2026-08-31T21:05:14Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · 6314 Remote/Teleworker US · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:mastercard:/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284875</id>
-    <title>Mastercard: Platform Engineering Intern, Summer 2027 – St. Louis, MO, US</title>
-    <link href="https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284875"/>
-    <updated>2026-08-31T21:05:14Z</updated>
-    <category term="Summer 2027"/>
-    <summary>3 openings · Summer 2027 · Systems &amp; Cloud Infra · O'Fallon, Missouri · $25–$30/hr · Python, Terraform, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:micron:/job/Austin-TX/Intern---AI-Systems-and-Infrastructure-Engineering_JR109990</id>
-    <title>Micron Technology: Intern - AI Systems and Infrastructure Engineering</title>
-    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Austin-TX/Intern---AI-Systems-and-Infrastructure-Engineering_JR109990"/>
-    <updated>2026-08-31T21:05:14Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Austin, TX · Python, C++, PyTorch, LLMs, CUDA · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2026-Part-Time-Cyber-Security-Engineering-Intern---Aurora-CO_R10248520</id>
-    <title>Northrop Grumman: 2026 Part-Time Cyber Security Engineering Intern - Aurora CO 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2026-Part-Time-Cyber-Security-Engineering-Intern---Aurora-CO_R10248520"/>
-    <updated>2026-08-31T21:05:14Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Security (general) · United States-Colorado-Aurora · $20.5–$38/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Engineering-Intern--Roy-UT_R10248475</id>
-    <title>Northrop Grumman: 2027 Systems Engineering Intern- Roy UT 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Engineering-Intern--Roy-UT_R10248475"/>
-    <updated>2026-08-31T21:05:14Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · United States-Utah-Roy · $23–$29/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:oshkoshcorporation:/job/Dodge-Center-Minnesota-United-States/Digital-Technology-Intern---Systems-Analyst--Summer-2027-_R49791</id>
-    <title>Oshkosh: Digital Technology Intern - Systems Analyst (Summer 2027)</title>
-    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Dodge-Center-Minnesota-United-States/Digital-Technology-Intern---Systems-Analyst--Summer-2027-_R49791"/>
-    <updated>2026-08-31T21:05:14Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Dodge Center, Minnesota, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vanguard:/job/DallasFt-Worth-TX/College-to-Corporate-IT-Internship---Risk---Security---Engineer_181851</id>
-    <title>Vanguard: College to Corporate IT Internship - Risk &amp; Security - Engineer</title>
-    <link href="https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/DallasFt-Worth-TX/College-to-Corporate-IT-Internship---Risk---Security---Engineer_181851"/>
-    <updated>2026-08-31T21:05:14Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Dallas/Ft. Worth, TX</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:xcelenergy:/job/Denver-CO-80205/IT-Infrastructure-Intern---CO_JR115917</id>
-    <title>Xcel Energy: IT Infrastructure Intern - CO</title>
-    <link href="https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/IT-Infrastructure-Intern---CO_JR115917"/>
-    <updated>2026-08-31T21:05:14Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Systems &amp; Cloud Infra · Denver, CO, 80205 · $17.4–$22.1/hr · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:brookfield:/job/Chicago-Illinois/IT-Intern--Summer-Internship-6-7-2027---8-13-2027-_R2052380-1</id>
-    <title>Brookfield Properties: IT Intern (Summer Internship 6/7/2027 - 8/13/2027)</title>
-    <link href="https://brookfield.wd5.myworkdayjobs.com/brookfieldproperties/job/Chicago-Illinois/IT-Intern--Summer-Internship-6-7-2027---8-13-2027-_R2052380-1"/>
-    <updated>2026-08-30T23:43:01Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · IT Support / Ops · Chicago, Illinois</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:equifax:/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer-Intern_J00178674</id>
-    <title>Equifax: Site Reliability Engineer Intern</title>
-    <link href="https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer-Intern_J00178674"/>
-    <updated>2026-08-30T23:43:01Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · USA - Missouri - St. Louis - Lackland · Python, Java, GCP · H-1B track record: ~378 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:workiva:/job/USA---Remote/Spring---Summer-2027-Intern---Security---GRC_R12353</id>
-    <title>Workiva: Spring &amp; Summer 2027 Intern - Security &amp; GRC</title>
-    <link href="https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Spring---Summer-2027-Intern---Security---GRC_R12353"/>
-    <updated>2026-08-29T14:44:09Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · GRC / Risk · USA - Remote · Python, Java, SQL, AWS, Linux</summary>
   </entry>
 </feed>

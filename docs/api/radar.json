@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-03T16:38:26Z",
- "data_as_of": "2026-09-03T16:38:26Z",
- "rendered_at": "2026-09-03T16:38:27Z",
+ "generated_at": "2026-09-03T21:15:08Z",
+ "data_as_of": "2026-09-03T21:15:08Z",
+ "rendered_at": "2026-09-03T21:15:08Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -1070,6 +1070,25 @@
    }
   },
   {
+   "company": "FOTH",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -2,
+   "status": "open",
+   "url": "https://jobs.lever.co/foth/072d5e17-c095-49bc-ac02-4cd558bb5d64",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-01"
+   }
+  },
+  {
    "company": "IAT Insurance Group",
    "last_cycle_posted": "",
    "posted_on": "2026-09-01",
@@ -1165,6 +1184,44 @@
    }
   },
   {
+   "company": "Allied Solutions",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/IT-Operations-Intern_R-011095",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-03"
+   }
+  },
+  {
+   "company": "Sierra Nevada Corporation",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Systems-Security-Engineering-Intern--Summer-2027-_R0030783",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-03"
+   }
+  },
+  {
    "company": "MKS Instruments",
    "last_cycle_posted": "",
    "posted_on": "2026-08-26",
@@ -1203,5 +1260,5 @@
    }
   }
  ],
- "count": 63
+ "count": 66
 }

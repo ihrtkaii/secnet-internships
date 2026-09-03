@@ -90,6 +90,18 @@
     }
    }
   },
+  "allied solutions": {
+   "name": "Allied Solutions",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-03",
+     "role_ids": [
+      "workday:alliedsolutions:/job/Carmel-IN/IT-Operations-Intern_R-011095"
+     ],
+     "count": 1
+    }
+   }
+  },
   "amazon": {
    "name": "Amazon",
    "cycles": {
@@ -414,6 +426,21 @@
     }
    }
   },
+  "foth": {
+   "name": "FOTH",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "lever:foth:072d5e17-c095-49bc-ac02-4cd558bb5d64",
+      "lever:foth:78374fff-0ecd-4505-9f9d-bbfb0686c51e",
+      "lever:foth:95f75d08-ec27-48ff-8c60-dcf2d5720885",
+      "lever:foth:c074a997-c723-4c6f-b531-686ef1461c25"
+     ],
+     "count": 4
+    }
+   }
+  },
   "gartner": {
    "name": "Gartner",
    "cycles": {
@@ -619,9 +646,10 @@
      "role_ids": [
       "workday:mastercard:/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284868",
       "workday:mastercard:/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284873",
-      "workday:mastercard:/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284875"
+      "workday:mastercard:/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284875",
+      "workday:mastercard:/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -836,6 +864,23 @@
     }
    }
   },
+  "sierra nevada": {
+   "name": "Sierra Nevada Corporation",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-03",
+     "role_ids": [
+      "workday:snc:/job/Dayton-OH/Systems-Engineer-Intern--Summer-2027-_R0030749",
+      "workday:snc:/job/Hagerstown-MD/Systems-Engineering-Intern--Summer-2027-_R0030753",
+      "workday:snc:/job/Hagerstown-MD/Systems-Security-Engineering-Intern--Summer-2027-_R0030783",
+      "workday:snc:/job/Lone-Tree-CO/IT-Support-Technician-Intern--Summer-2027-_R0030762",
+      "workday:snc:/job/Lone-Tree-CO/Systems-Engineering-Intern--Summer-2027-_R0030750",
+      "workday:snc:/job/Plano-TX/Systems-Engineering-Intern--Summer-2027-_R0030752"
+     ],
+     "count": 6
+    }
+   }
+  },
   "solar turbines": {
    "name": "Solar Turbines",
    "cycles": {
@@ -971,5 +1016,5 @@
    }
   }
  },
- "updated_at": "2026-09-03T16:38:26Z"
+ "updated_at": "2026-09-03T21:15:08Z"
 }
