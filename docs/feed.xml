@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-04T21:02:07Z</updated>
+  <updated>2026-09-04T23:18:46Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:schonfeld:8171696</id>
+    <title>Schonfeld: 2027 Cybersecurity Operations Intern</title>
+    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8171696"/>
+    <updated>2026-09-04T21:02:07Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · New York, New York, United States</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com:43365</id>
     <title>Worthington Enterprises: IT Intern</title>
@@ -14,14 +22,6 @@
     <updated>2026-09-04T21:02:07Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · IT Support / Ops · Columbus, OH, United States · PyTorch</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:barclays:/job/New-York-745-7th-Avenue/XMLNAME-2027-Compliance-Analyst-Summer-Internship-Program-New-York_JR-0000123191</id>
-    <title>Barclays: 2027 Compliance Analyst Summer Internship Program New York</title>
-    <link href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/XMLNAME-2027-Compliance-Analyst-Summer-Internship-Program-New-York_JR-0000123191"/>
-    <updated>2026-09-04T21:02:07Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · GRC / Risk · New York, 745 7th Avenue</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:bah:/job/Charleston-SC/University---2027-Summer-Games-Systems-Engineer-Intern---Charleston--SC_R0248369</id>
@@ -40,6 +40,14 @@
     <summary>Summer 2027 · Systems &amp; Cloud Infra · El Segundo, CA · $108k/yr · Python, Java, C++, JavaScript · sponsorship: citizens-only</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:barclays:/job/New-York-745-7th-Avenue/XMLNAME-2027-Compliance-Analyst-Summer-Internship-Program-New-York_JR-0000123191</id>
+    <title>Barclays: 2027 Compliance Analyst Summer Internship Program New York</title>
+    <link href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/XMLNAME-2027-Compliance-Analyst-Summer-Internship-Program-New-York_JR-0000123191"/>
+    <updated>2026-09-04T21:02:07Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · GRC / Risk · New York, 745 7th Avenue</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:dukeenergy:/job/Charlotte-NC/Enterprise-Protective-Services--Corporate-Security-Intern---Summer-2027_R41381</id>
     <title>Duke Energy: Enterprise Protective Services, Corporate Security Intern - Summer 2027</title>
     <link href="https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Enterprise-Protective-Services--Corporate-Security-Intern---Summer-2027_R41381"/>
@@ -54,14 +62,6 @@
     <updated>2026-09-04T21:02:07Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · SOC / Detection · Charlotte, NC</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hyvee:/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Network---Systems-Intern---Summer-2027_R250141</id>
-    <title>Hy-Vee: Network &amp; Systems Intern - Summer 2027</title>
-    <link href="https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Network---Systems-Intern---Summer-2027_R250141"/>
-    <updated>2026-09-04T21:02:07Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Network / Telecom · Corporate Office, Westown Pkwy., West Des Moines, IA · Bash</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:hyvee:/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Cyber-Security-Intern--Summer-2027_R250153</id>
@@ -80,12 +80,12 @@
     <summary>Summer 2027 · Security (general) · Corporate Office, Westown Pkwy., West Des Moines, IA</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:schonfeld:8171696</id>
-    <title>Schonfeld: 2027 Cybersecurity Operations Intern</title>
-    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8171696"/>
+    <id>urn:intern-engine:workday:hyvee:/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Network---Systems-Intern---Summer-2027_R250141</id>
+    <title>Hy-Vee: Network &amp; Systems Intern - Summer 2027</title>
+    <link href="https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Network---Systems-Intern---Summer-2027_R250141"/>
     <updated>2026-09-04T21:02:07Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · New York, New York, United States</summary>
+    <summary>Summer 2027 · Network / Telecom · Corporate Office, Westown Pkwy., West Des Moines, IA · Bash</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007589</id>
