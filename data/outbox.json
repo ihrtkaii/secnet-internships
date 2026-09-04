@@ -1,6 +1,28 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com:43365",
+      "workday:barclays:/job/New-York-745-7th-Avenue/XMLNAME-2027-Compliance-Analyst-Summer-Internship-Program-New-York_JR-0000123191",
+      "workday:bah:/job/Charleston-SC/University---2027-Summer-Games-Systems-Engineer-Intern---Charleston--SC_R0248369",
+      "workday:bah:/job/El-Segundo-CA/University---2027-Summer-Games-Systems-Engineer-Intern---El-Segundo--CA_R0248366",
+      "workday:dukeenergy:/job/Charlotte-NC/Enterprise-Protective-Services--Corporate-Security-Intern---Summer-2027_R41381",
+      "workday:dukeenergy:/job/Charlotte-NC/Enterprise-Protective-Services--Threat-Intelligence-Intern---Summer-2027_R41379",
+      "workday:hyvee:/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Network---Systems-Intern---Summer-2027_R250141",
+      "workday:hyvee:/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Cyber-Security-Intern--Summer-2027_R250153",
+      "workday:hyvee:/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/IT-Security-Loss-Prevention-Intern---Summer-2027_R250154",
+      "greenhouse:schonfeld:8171696"
+    ],
+    "telegram": [
+      "oracle:fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com:43365",
+      "workday:barclays:/job/New-York-745-7th-Avenue/XMLNAME-2027-Compliance-Analyst-Summer-Internship-Program-New-York_JR-0000123191",
+      "workday:bah:/job/Charleston-SC/University---2027-Summer-Games-Systems-Engineer-Intern---Charleston--SC_R0248369",
+      "workday:bah:/job/El-Segundo-CA/University---2027-Summer-Games-Systems-Engineer-Intern---El-Segundo--CA_R0248366",
+      "workday:dukeenergy:/job/Charlotte-NC/Enterprise-Protective-Services--Corporate-Security-Intern---Summer-2027_R41381",
+      "workday:dukeenergy:/job/Charlotte-NC/Enterprise-Protective-Services--Threat-Intelligence-Intern---Summer-2027_R41379",
+      "workday:hyvee:/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Network---Systems-Intern---Summer-2027_R250141",
+      "workday:hyvee:/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Cyber-Security-Intern--Summer-2027_R250153",
+      "workday:hyvee:/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/IT-Security-Loss-Prevention-Intern---Summer-2027_R250154",
+      "greenhouse:schonfeld:8171696"
+    ]
   }
 }

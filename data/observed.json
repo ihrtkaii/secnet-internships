@@ -181,6 +181,18 @@
     }
    }
   },
+  "barclays": {
+   "name": "Barclays",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-04",
+     "role_ids": [
+      "workday:barclays:/job/New-York-745-7th-Avenue/XMLNAME-2027-Compliance-Analyst-Summer-Internship-Program-New-York_JR-0000123191"
+     ],
+     "count": 1
+    }
+   }
+  },
   "bluecross blueshield of nebraska": {
    "name": "BlueCross BlueShield of Nebraska",
    "cycles": {
@@ -218,10 +230,12 @@
       "workday:bah:/job/Atlanta-GA/University---2027-Summer-Games--Systems-Engineer-Intern---Atlanta--GA_R0248381",
       "workday:bah:/job/Atlanta-GA/University---2027-Summer-Games-Cyber-Security-Intern---Atlanta--GA_R0248139",
       "workday:bah:/job/Charleston-SC/University---2027-Summer-Games-Cyber-Security-Intern---Charleston--SC_R0248136",
+      "workday:bah:/job/Charleston-SC/University---2027-Summer-Games-Systems-Engineer-Intern---Charleston--SC_R0248369",
       "workday:bah:/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Charleston--SC_R0248369",
       "workday:bah:/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Colorado-Springs--CO_R0248368",
       "workday:bah:/job/Colorado-Springs-CO/University--2027-Summer-Games-Cybersecurity-Intern_R0248131",
       "workday:bah:/job/El-Segundo-CA/University---2027-Summer-Games-Cyber-Security-Intern---El-Segundo--CA_R0248047",
+      "workday:bah:/job/El-Segundo-CA/University---2027-Summer-Games-Systems-Engineer-Intern---El-Segundo--CA_R0248366",
       "workday:bah:/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Cyber-Security-Intern---Ft-Walton-Beach--FL_R0248416",
       "workday:bah:/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Systems-Engineer-Intern---Ft-Walton-Beach--FL_R0248388",
       "workday:bah:/job/Honolulu-HI/University---2027-Summer-Games-Cyber-Security-Intern---Honolulu--HI_R0248411",
@@ -235,7 +249,7 @@
       "workday:bah:/job/San-Diego-CA/University---2027-Summer-Games-Systems-Engineer-Intern---San-Diego--CA_R0248365",
       "workday:bah:/job/San-Diego-CA/University--2027-Summer-Games-Cyber-Security-Intern_R0248043"
      ],
-     "count": 21
+     "count": 23
     }
    }
   },
@@ -358,9 +372,11 @@
     "Summer 2027": {
      "first_posted": "2026-08-31",
      "role_ids": [
-      "workday:dukeenergy:/job/Charlotte-NC/Digital-Forensics-Summer-Intern---2027_R41195"
+      "workday:dukeenergy:/job/Charlotte-NC/Digital-Forensics-Summer-Intern---2027_R41195",
+      "workday:dukeenergy:/job/Charlotte-NC/Enterprise-Protective-Services--Corporate-Security-Intern---Summer-2027_R41381",
+      "workday:dukeenergy:/job/Charlotte-NC/Enterprise-Protective-Services--Threat-Intelligence-Intern---Summer-2027_R41379"
      ],
-     "count": 1
+     "count": 3
     }
    }
   },
@@ -539,6 +555,20 @@
       "greenhouse:hpiq:6116398004"
      ],
      "count": 1
+    }
+   }
+  },
+  "hy vee": {
+   "name": "Hy-Vee",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-04",
+     "role_ids": [
+      "workday:hyvee:/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Cyber-Security-Intern--Summer-2027_R250153",
+      "workday:hyvee:/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/IT-Security-Loss-Prevention-Intern---Summer-2027_R250154",
+      "workday:hyvee:/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Network---Systems-Intern---Summer-2027_R250141"
+     ],
+     "count": 3
     }
    }
   },
@@ -864,6 +894,18 @@
     }
    }
   },
+  "schonfeld": {
+   "name": "Schonfeld",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-04",
+     "role_ids": [
+      "greenhouse:schonfeld:8171696"
+     ],
+     "count": 1
+    }
+   }
+  },
   "sierra nevada": {
    "name": "Sierra Nevada Corporation",
    "cycles": {
@@ -1030,5 +1072,5 @@
    }
   }
  },
- "updated_at": "2026-09-04T16:35:12Z"
+ "updated_at": "2026-09-04T21:02:07Z"
 }
