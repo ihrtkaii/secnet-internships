@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-04T11:29:20Z",
- "data_as_of": "2026-09-04T11:29:20Z",
- "rendered_at": "2026-09-04T11:29:20Z",
+ "generated_at": "2026-09-04T16:35:12Z",
+ "data_as_of": "2026-09-04T16:35:12Z",
+ "rendered_at": "2026-09-04T16:35:12Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -1222,6 +1222,25 @@
    }
   },
   {
+   "company": "TJX",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-04",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Marlborough-MA-01752/IT-Analyst-Internship---Summer-2027_REQ153172",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-04"
+   }
+  },
+  {
    "company": "MKS Instruments",
    "last_cycle_posted": "",
    "posted_on": "2026-08-26",
@@ -1260,5 +1279,5 @@
    }
   }
  ],
- "count": 66
+ "count": 67
 }

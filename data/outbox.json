@@ -1,6 +1,14 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007589",
+      "workday:tjx:/job/Marlborough-MA-01752/IT-Analyst-Internship---Summer-2027_REQ153172",
+      "workday:tjx:/job/Marlborough-MA-01752/IT-Engineer-Internship---Summer-2027_REQ153160"
+    ],
+    "telegram": [
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007589",
+      "workday:tjx:/job/Marlborough-MA-01752/IT-Analyst-Internship---Summer-2027_REQ153172",
+      "workday:tjx:/job/Marlborough-MA-01752/IT-Engineer-Internship---Summer-2027_REQ153160"
+    ]
   }
 }

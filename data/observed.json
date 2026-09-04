@@ -899,9 +899,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-28",
      "role_ids": [
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007361"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007361",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007589"
      ],
-     "count": 1
+     "count": 2
     },
     "Fall 2026": {
      "first_posted": "2026-09-02",
@@ -933,6 +934,19 @@
       "oracle:ebgj.fa.us2.oraclecloud.com:253297"
      ],
      "count": 1
+    }
+   }
+  },
+  "tjx": {
+   "name": "TJX",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-04",
+     "role_ids": [
+      "workday:tjx:/job/Marlborough-MA-01752/IT-Analyst-Internship---Summer-2027_REQ153172",
+      "workday:tjx:/job/Marlborough-MA-01752/IT-Engineer-Internship---Summer-2027_REQ153160"
+     ],
+     "count": 2
     }
    }
   },
@@ -1016,5 +1030,5 @@
    }
   }
  },
- "updated_at": "2026-09-04T11:29:20Z"
+ "updated_at": "2026-09-04T16:35:12Z"
 }

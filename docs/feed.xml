@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-04T11:29:20Z</updated>
+  <updated>2026-09-04T16:35:12Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007589</id>
+    <title>Stantec: Digital Practice Co-op/Intern - Infrastructure (Spring/Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007589"/>
+    <updated>2026-09-04T16:35:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Washington, DC, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tjx:/job/Marlborough-MA-01752/IT-Analyst-Internship---Summer-2027_REQ153172</id>
+    <title>TJX: IT Analyst Internship - Summer 2027</title>
+    <link href="https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Marlborough-MA-01752/IT-Analyst-Internship---Summer-2027_REQ153172"/>
+    <updated>2026-09-04T16:35:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Other · Marlborough, MA 01752 · $24–$25/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tjx:/job/Marlborough-MA-01752/IT-Engineer-Internship---Summer-2027_REQ153160</id>
+    <title>TJX: IT Engineer Internship - Summer 2027</title>
+    <link href="https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Marlborough-MA-01752/IT-Engineer-Internship---Summer-2027_REQ153160"/>
+    <updated>2026-09-04T16:35:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Other · Marlborough, MA 01752 · $25–$26/hr</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:foth:072d5e17-c095-49bc-ac02-4cd558bb5d64</id>
     <title>FOTH: Civil Engineering Intern-Coastal Infrastructure (Summer 2027)</title>
@@ -782,29 +806,5 @@
     <updated>2026-08-31T21:05:14Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · AppSec / Product Sec · San Francisco, CA · $45–$51/hr · Python, Java, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ehzq.fa.us2.oraclecloud.com:115639</id>
-    <title>Grant Thornton: Cybersecurity and Privacy Intern - Summer 2027 🛂</title>
-    <link href="https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115639"/>
-    <updated>2026-08-31T21:05:14Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Charlotte, NC, United States · sponsorship: no-sponsorship · H-1B track record: ~118 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:3m:/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-IT-Intern_R01170403-1</id>
-    <title>3M: Internship - 2027 Undergraduate IT Intern 🇺🇸</title>
-    <link href="https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-IT-Intern_R01170403-1"/>
-    <updated>2026-08-31T21:05:14Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · IT Support / Ops · US, Minnesota, Maplewood · Python, SQL, Snowflake · sponsorship: citizens-only · H-1B track record: ~58 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:dukeenergy:/job/Charlotte-NC/Digital-Forensics-Summer-Intern---2027_R41195</id>
-    <title>Duke Energy: Digital Forensics Summer Intern - 2027</title>
-    <link href="https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Digital-Forensics-Summer-Intern---2027_R41195"/>
-    <updated>2026-08-31T21:05:14Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · SOC / Detection · Charlotte, NC</summary>
   </entry>
 </feed>
