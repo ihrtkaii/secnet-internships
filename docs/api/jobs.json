@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-05T10:46:24Z",
- "data_as_of": "2026-09-05T10:46:24Z",
- "rendered_at": "2026-09-05T10:46:24Z",
+ "generated_at": "2026-09-05T15:25:13Z",
+ "data_as_of": "2026-09-05T15:25:13Z",
+ "rendered_at": "2026-09-05T15:25:13Z",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "h1b_window": "FY2022–2023",
- "count": 277,
+ "count": 276,
  "jobs": [
   {
    "id": "workday:cna:/job/Chicago-IL-USA/Technology-Internship-Program--Cybersecurity-_R-8130-1",
@@ -2755,29 +2755,6 @@
    "sponsorship": "unknown",
    "salary": null,
    "skills": [],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:xcelenergy:/job/Denver-CO-80205/IT-Infrastructure-Intern---CO_JR115917",
-   "company": "Xcel Energy",
-   "title": "IT Infrastructure Intern - CO",
-   "season": "Fall 2026",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Systems & Cloud Infra",
-   "location": "Denver, CO, 80205",
-   "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/IT-Infrastructure-Intern---CO_JR115917",
-   "posted_at": "2026-08-31T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-31T21:05:14Z",
-   "sponsorship": "unknown",
-   "salary": "$17.4–$22.1/hr",
-   "skills": [
-    "Python"
-   ],
    "source": "workday",
    "h1b_approvals": null,
    "program": "Internship",
