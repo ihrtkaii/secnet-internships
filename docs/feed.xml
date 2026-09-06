@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-05T23:07:31Z</updated>
+  <updated>2026-09-06T04:45:20Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:harbingermotors:5231842007</id>
+    <title>Harbinger Motors: Intern, Cybersecurity</title>
+    <link href="https://job-boards.greenhouse.io/harbingermotors/jobs/5231842007"/>
+    <updated>2026-09-06T04:45:20Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Garden Grove, CA · Python, Bash</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:cna:/job/Chicago-IL-USA/Technology-Internship-Program--Cybersecurity-_R-8130-1</id>
     <title>CNA Insurance: Technology Internship Program (Cybersecurity) 🛂</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-01T16:50:53Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Other · Dallas/Ft. Worth, TX · Python, Java, JavaScript · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:olsson:5395994008</id>
-    <title>Olsson: Electrical Engineering Internship - Data Center Facilities</title>
-    <link href="https://job-boards.greenhouse.io/olsson/jobs/5395994008"/>
-    <updated>2026-09-01T00:51:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Fort Worth, TX; North Kansas City, MO; Omaha, NE</summary>
   </entry>
 </feed>

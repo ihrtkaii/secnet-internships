@@ -1,11 +1,35 @@
 {
- "generated_at": "2026-09-05T23:07:31Z",
- "data_as_of": "2026-09-05T23:07:31Z",
- "rendered_at": "2026-09-05T23:07:31Z",
+ "generated_at": "2026-09-06T04:45:20Z",
+ "data_as_of": "2026-09-06T04:45:20Z",
+ "rendered_at": "2026-09-06T04:45:20Z",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "h1b_window": "FY2022–2023",
- "count": 276,
+ "count": 277,
  "jobs": [
+  {
+   "id": "greenhouse:harbingermotors:5231842007",
+   "company": "Harbinger Motors",
+   "title": "Intern, Cybersecurity",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Security (general)",
+   "location": "Garden Grove, CA",
+   "url": "https://job-boards.greenhouse.io/harbingermotors/jobs/5231842007",
+   "posted_at": "2026-09-05T23:34:20-04:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-09-06T04:45:20Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Bash"
+   ],
+   "source": "greenhouse",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:cna:/job/Chicago-IL-USA/Technology-Internship-Program--Cybersecurity-_R-8130-1",
    "company": "CNA Insurance",
