@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-06T20:36:30Z",
- "data_as_of": "2026-09-06T20:36:30Z",
- "rendered_at": "2026-09-06T20:36:30Z",
+ "generated_at": "2026-09-06T23:10:08Z",
+ "data_as_of": "2026-09-06T23:10:08Z",
+ "rendered_at": "2026-09-06T23:10:08Z",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "h1b_window": "FY2022–2023",
  "count": 274,
@@ -4415,14 +4415,14 @@
   },
   {
    "id": "workday:relx:/job/Dayton-OH/Desktop-Support-Co-Op_R117278-1",
-   "company": "RELX",
+   "company": "LexisNexis Risk Solutions",
    "title": "Desktop Support Co-Op",
    "season": "Not stated",
    "seasons": null,
    "season_inferred": true,
    "category": "IT Support / Ops",
    "location": "Dayton, OH",
-   "url": "https://relx.wd3.myworkdayjobs.com/relx/job/Dayton-OH/Desktop-Support-Co-Op_R117278-1",
+   "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Dayton-OH/Desktop-Support-Co-Op_R117278",
    "posted_at": "2026-08-24T00:00:00Z",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-08-24T19:12:18Z",
@@ -4433,7 +4433,7 @@
     "HTML/CSS"
    ],
    "source": "workday",
-   "h1b_approvals": null,
+   "h1b_approvals": 69,
    "program": "Co-op",
    "remote": false
   },
