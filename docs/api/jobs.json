@@ -1,11 +1,39 @@
 {
- "generated_at": "2026-09-07T18:11:02Z",
- "data_as_of": "2026-09-07T18:11:02Z",
- "rendered_at": "2026-09-07T18:11:02Z",
+ "generated_at": "2026-09-07T21:43:57Z",
+ "data_as_of": "2026-09-07T21:43:57Z",
+ "rendered_at": "2026-09-07T21:43:57Z",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "h1b_window": "FY2022–2023",
- "count": 275,
+ "count": 276,
  "jobs": [
+  {
+   "id": "workday:hp:/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4740-1",
+   "company": "Hewlett Packard (HP)",
+   "title": "Software Product Security Engineer Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "AppSec / Product Sec",
+   "location": "Spring, Texas, United States of America",
+   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4740-1",
+   "posted_at": "2026-09-07T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-07T21:43:57Z",
+   "sponsorship": "no-sponsorship",
+   "salary": "$35–$40/hr",
+   "skills": [
+    "Python",
+    "Java",
+    "C#",
+    "TypeScript",
+    "AWS",
+    "Azure"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:hpe:/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396",
    "company": "Hewlett Packard Enterprise",
