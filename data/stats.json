@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-07T12:38:06Z",
-  "fetched_at": "2026-09-07T12:38:06Z",
-  "duration_seconds": 980.1,
+  "generated_at": "2026-09-07T18:11:02Z",
+  "fetched_at": "2026-09-07T18:11:02Z",
+  "duration_seconds": 1028.7,
   "companies_total": 4727,
   "companies_by_source": {
     "greenhouse": 1055,
@@ -17,37 +17,35 @@
     "breezy": 12,
     "eightfold": 1
   },
-  "quarantined": 101,
-  "fetched_ok": 4320,
-  "fetch_errors": 306,
+  "quarantined": 301,
+  "fetched_ok": 4328,
+  "fetch_errors": 98,
   "errors_by_source": {
-    "workday": 172,
-    "lever": 29,
-    "ashby": 49,
-    "greenhouse": 40,
-    "workable": 16
+    "workday": 96,
+    "greenhouse": 1,
+    "lever": 1
   },
-  "fetch_success_rate": 0.934,
-  "fetch_success_rate_registry": 0.914,
-  "snapshots_complete": 3753,
-  "snapshots_partial": 567,
+  "fetch_success_rate": 0.978,
+  "fetch_success_rate_registry": 0.916,
+  "snapshots_complete": 3770,
+  "snapshots_partial": 558,
   "partial_by_reason": {
-    "result-cap": 543,
-    "malformed-response": 24
+    "result-cap": 547,
+    "malformed-response": 11
   },
-  "degraded_fetches": 24,
-  "roles_matched": 227,
-  "dropped_no_year_in_title": 92,
-  "dropped_no_year_undated": 56,
+  "degraded_fetches": 11,
+  "roles_matched": 209,
+  "dropped_no_year_in_title": 90,
+  "dropped_no_year_undated": 54,
   "dropped_no_year_dated_too_old": 36,
   "dropped_no_year_dated_in_future": 0,
   "dropped_no_year_unparsable_date": 0,
   "dropped_no_year_inference_disabled": 0,
   "dropped_no_year_by_reason": {
     "dated-too-old": 36,
-    "undated": 56
+    "undated": 54
   },
-  "dropped_offcycle_by_text": 51,
+  "dropped_offcycle_by_text": 53,
   "roles_cycle_inferred": 76,
   "roles_by_source": {
     "amazon": 1,
@@ -80,7 +78,7 @@
   "detection_latency": {
     "median_minutes": 231.6,
     "p95_minutes": 3017.8,
-    "sample_size": 20,
+    "sample_size": 18,
     "window_days": 7,
     "basis": "roles published in the window with an exact source timestamp"
   },
@@ -88,5 +86,5 @@
     "median_days": 9.0,
     "sample_size": 18
   },
-  "rendered_at": "2026-09-07T12:38:06Z"
+  "rendered_at": "2026-09-07T18:11:02Z"
 }
