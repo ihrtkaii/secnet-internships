@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-06T23:10:08Z</updated>
+  <updated>2026-09-07T04:47:33Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:hpe:/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396</id>
+    <title>Hewlett Packard Enterprise: HPC AI Systems Administrator Intern</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396"/>
+    <updated>2026-09-07T04:47:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Bloomington, Minnesota, United States of America · Python, Bash, HTML/CSS, Linux, Git · H-1B track record: ~499 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:harbingermotors:5231842007</id>
     <title>Harbinger Motors: Intern, Cybersecurity</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-01T16:50:53Z</updated>
     <category term="Summer 2027"/>
     <summary>2 openings · Summer 2027 · Systems &amp; Cloud Infra · East Syracuse, NY (Collamer) · $20.27–$22.3/hr · Java, C++, MATLAB, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vanguard:/job/DallasFt-Worth-TX/College-to-Corporate-IT-Internship---Application-Development---TX-_181846</id>
-    <title>Vanguard: College to Corporate IT Internship - Application Development  (TX) 🛂</title>
-    <link href="https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/DallasFt-Worth-TX/College-to-Corporate-IT-Internship---Application-Development---TX-_181846"/>
-    <updated>2026-09-01T16:50:53Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Other · Dallas/Ft. Worth, TX · Python, Java, JavaScript · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>

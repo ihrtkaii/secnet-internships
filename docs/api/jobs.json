@@ -1,11 +1,38 @@
 {
- "generated_at": "2026-09-06T23:10:08Z",
- "data_as_of": "2026-09-06T23:10:08Z",
- "rendered_at": "2026-09-06T23:10:08Z",
+ "generated_at": "2026-09-07T04:47:33Z",
+ "data_as_of": "2026-09-07T04:47:33Z",
+ "rendered_at": "2026-09-07T04:47:33Z",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "h1b_window": "FY2022–2023",
- "count": 274,
+ "count": 275,
  "jobs": [
+  {
+   "id": "workday:hpe:/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396",
+   "company": "Hewlett Packard Enterprise",
+   "title": "HPC AI Systems Administrator Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Systems & Cloud Infra",
+   "location": "Bloomington, Minnesota, United States of America",
+   "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396",
+   "posted_at": "2026-09-06T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-07T04:47:33Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Bash",
+    "HTML/CSS",
+    "Linux",
+    "Git"
+   ],
+   "source": "workday",
+   "h1b_approvals": 499,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "greenhouse:harbingermotors:5231842007",
    "company": "Harbinger Motors",
@@ -4415,14 +4442,14 @@
   },
   {
    "id": "workday:relx:/job/Dayton-OH/Desktop-Support-Co-Op_R117278-1",
-   "company": "LexisNexis Risk Solutions",
+   "company": "RELX",
    "title": "Desktop Support Co-Op",
    "season": "Not stated",
    "seasons": null,
    "season_inferred": true,
    "category": "IT Support / Ops",
    "location": "Dayton, OH",
-   "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Dayton-OH/Desktop-Support-Co-Op_R117278",
+   "url": "https://relx.wd3.myworkdayjobs.com/relx/job/Dayton-OH/Desktop-Support-Co-Op_R117278-1",
    "posted_at": "2026-08-24T00:00:00Z",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-08-24T19:12:18Z",
@@ -4433,7 +4460,7 @@
     "HTML/CSS"
    ],
    "source": "workday",
-   "h1b_approvals": 69,
+   "h1b_approvals": null,
    "program": "Co-op",
    "remote": false
   },
