@@ -180,6 +180,18 @@
     }
    }
   },
+  "auto owners insurance": {
+   "name": "Auto-Owners Insurance",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "workday:aoins:/job/Lansing-MI/IT-Security-Engineer-Internship---Summer-2027_R_14477"
+     ],
+     "count": 1
+    }
+   }
+  },
   "awetomaton": {
    "name": "Awetomaton",
    "cycles": {
@@ -359,6 +371,18 @@
      "first_posted": "2026-08-18",
      "role_ids": [
       "workday:clr:/job/Oklahoma-City-OK/IT-Intern--Summer-2027-_R02593-1"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "devon energy": {
+   "name": "Devon Energy",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "workday:devonenergy:/job/Oklahoma-City-OK/Cyber-Security-Intern-2027_R26303-1"
      ],
      "count": 1
     }
@@ -740,6 +764,18 @@
      "first_posted": "2026-08-03",
      "role_ids": [
       "workday:medtronic:/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "meijer": {
+   "name": "Meijer",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "workday:meijer:/job/Grand-Rapids-MI/Information-Security-Intern--Summer-2027_R000698302"
      ],
      "count": 1
     }
@@ -1152,5 +1188,5 @@
    }
   }
  },
- "updated_at": "2026-09-08T16:51:25Z"
+ "updated_at": "2026-09-08T21:23:54Z"
 }
