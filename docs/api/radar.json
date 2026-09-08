@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-08T21:23:54Z",
- "data_as_of": "2026-09-08T21:23:54Z",
- "rendered_at": "2026-09-08T21:23:54Z",
+ "generated_at": "2026-09-08T23:40:19Z",
+ "data_as_of": "2026-09-08T23:40:19Z",
+ "rendered_at": "2026-09-08T23:40:19Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -1317,6 +1317,25 @@
    }
   },
   {
+   "company": "Allen Control Systems",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/allen-control-systems/9945f76d-6d03-45f0-b431-fc69d31f5476",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-08"
+   }
+  },
+  {
    "company": "AtkinsRéalis",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -1507,5 +1526,5 @@
    }
   }
  ],
- "count": 79
+ "count": 80
 }

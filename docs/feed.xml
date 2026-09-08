@@ -5,15 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-08T21:23:54Z</updated>
+  <updated>2026-09-08T23:40:19Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
-    <id>urn:intern-engine:greenhouse:wasabi:5418393008</id>
-    <title>Wasabi Technologies: Cloud Tech Support Engineer - Co-op</title>
-    <link href="https://job-boards.greenhouse.io/wasabi/jobs/5418393008"/>
-    <updated>2026-09-08T21:23:54Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Cloud Platform · United States of America · $25/hr · AWS, Linux · status: closed · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:ashby:allen-control-systems:9945f76d-6d03-45f0-b431-fc69d31f5476</id>
+    <title>Allen Control Systems: Systems Engineering Intern, 2027</title>
+    <link href="https://jobs.ashbyhq.com/allen-control-systems/9945f76d-6d03-45f0-b431-fc69d31f5476"/>
+    <updated>2026-09-08T23:40:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Austin, TX · Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:equifax:/job/USA---Georgia---Alpharetta---30005/Security-Intern_J00178958</id>
+    <title>Equifax: Security Intern 🛂</title>
+    <link href="https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Security-Intern_J00178958"/>
+    <updated>2026-09-08T23:40:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · USA - Georgia - Alpharetta - 30005 · Python, Java, C#, Ruby, Bash · sponsorship: no-sponsorship · H-1B track record: ~378 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:3117694</id>
@@ -24,20 +32,20 @@
     <summary>Not stated · Security (general) · Austin, Texas, USA · Python, C++, Computer Vision, AWS, Git · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:greenhouse:wasabi:5418393008</id>
+    <title>Wasabi Technologies: Cloud Tech Support Engineer - Co-op</title>
+    <link href="https://job-boards.greenhouse.io/wasabi/jobs/5418393008"/>
+    <updated>2026-09-08T21:23:54Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Cloud Platform · United States of America · $25/hr · AWS, Linux · status: closed · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:aoins:/job/Lansing-MI/IT-Security-Engineer-Internship---Summer-2027_R_14477</id>
     <title>Auto-Owners Insurance: IT Security Engineer Internship - Summer 2027</title>
     <link href="https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/IT-Security-Engineer-Internship---Summer-2027_R_14477"/>
     <updated>2026-09-08T21:23:54Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · Lansing, MI</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:blueorigin:/job/Los-Angeles-CA/Electronics-Electrical-Systems-Engineer-Co-Op_R71548</id>
-    <title>Blue Origin: Electronics/Electrical Systems Engineer Co-Op 🇺🇸</title>
-    <link href="https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Los-Angeles-CA/Electronics-Electrical-Systems-Engineer-Co-Op_R71548"/>
-    <updated>2026-09-08T21:23:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Los Angeles, CA · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:bah:/job/Lexington-MA/University---Systems-Engineer-Intern_R0248855</id>
@@ -48,6 +56,14 @@
     <summary>Not stated · Systems &amp; Cloud Infra · Lexington, MA · $108k/yr · Python, JavaScript, SQL, React, Node.js · sponsorship: citizens-only</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:blueorigin:/job/Los-Angeles-CA/Electronics-Electrical-Systems-Engineer-Co-Op_R71548</id>
+    <title>Blue Origin: Electronics/Electrical Systems Engineer Co-Op 🇺🇸</title>
+    <link href="https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Los-Angeles-CA/Electronics-Electrical-Systems-Engineer-Co-Op_R71548"/>
+    <updated>2026-09-08T21:23:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Los Angeles, CA · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:devonenergy:/job/Oklahoma-City-OK/Cyber-Security-Intern-2027_R26303-1</id>
     <title>Devon Energy: Cyber Security Intern 2027</title>
     <link href="https://wd5.myworkdaysite.com/recruiting/devonenergy/Careers/job/Oklahoma-City-OK/Cyber-Security-Intern-2027_R26303-1"/>
@@ -56,20 +72,20 @@
     <summary>Summer 2027 · Security (general) · Oklahoma City, OK</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:meijer:/job/Grand-Rapids-MI/Information-Security-Intern--Summer-2027_R000698302</id>
-    <title>Meijer: Information Security Intern- Summer 2027</title>
-    <link href="https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Information-Security-Intern--Summer-2027_R000698302"/>
-    <updated>2026-09-08T21:23:54Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Grand Rapids, MI</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/KC-135-Platform-Systems-Engineering-Co-Op--Spring-Summer----Onsite_01870355</id>
     <title>RTX: KC-135 Platform Systems Engineering Co-Op (Spring/Summer) - Onsite 🇺🇸</title>
     <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/KC-135-Platform-Systems-Engineering-Co-Op--Spring-Summer----Onsite_01870355"/>
     <updated>2026-09-08T21:23:54Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-192 ~ 1205 Continental Place NE ~ BLDG 192 · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:meijer:/job/Grand-Rapids-MI/Information-Security-Intern--Summer-2027_R000698302</id>
+    <title>Meijer: Information Security Intern- Summer 2027</title>
+    <link href="https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Information-Security-Intern--Summer-2027_R000698302"/>
+    <updated>2026-09-08T21:23:54Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Grand Rapids, MI</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:swbc:/job/San-Antonio-TX/DevOps-Intern_R0015484-2</id>
@@ -790,21 +806,5 @@
     <updated>2026-09-01T21:15:28Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Colorado Springs, CO · $108k/yr · Python, Java, C++, JavaScript · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Colorado-Springs-CO/University--2027-Summer-Games-Cybersecurity-Intern_R0248131</id>
-    <title>Booz Allen: University, 2027 Summer Games Cyber Security Intern - Colorado Springs, CO 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Cybersecurity-Intern_R0248131"/>
-    <updated>2026-09-01T21:15:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Colorado Springs, CO · $108k/yr · Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/El-Segundo-CA/University---2027-Summer-Games-Cyber-Security-Intern---El-Segundo--CA_R0248047</id>
-    <title>Booz Allen: University - 2027 Summer Games Cyber Security Intern - El Segundo, CA 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Cyber-Security-Intern---El-Segundo--CA_R0248047"/>
-    <updated>2026-09-01T21:15:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · El Segundo, CA · $108k/yr · Linux · sponsorship: citizens-only</summary>
   </entry>
 </feed>

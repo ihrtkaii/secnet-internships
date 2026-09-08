@@ -90,6 +90,18 @@
     }
    }
   },
+  "allen control systems": {
+   "name": "Allen Control Systems",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "ashby:allen-control-systems:9945f76d-6d03-45f0-b431-fc69d31f5476"
+     ],
+     "count": 1
+    }
+   }
+  },
   "allied solutions": {
    "name": "Allied Solutions",
    "cycles": {
@@ -446,9 +458,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-30",
      "role_ids": [
+      "workday:equifax:/job/USA---Georgia---Alpharetta---30005/Security-Intern_J00178958",
       "workday:equifax:/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer-Intern_J00178674"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1188,5 +1201,5 @@
    }
   }
  },
- "updated_at": "2026-09-08T21:23:54Z"
+ "updated_at": "2026-09-08T23:40:19Z"
 }
