@@ -1,24 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "amazon:amazon:3117694",
-      "workday:aoins:/job/Lansing-MI/IT-Security-Engineer-Internship---Summer-2027_R_14477",
-      "workday:blueorigin:/job/Los-Angeles-CA/Electronics-Electrical-Systems-Engineer-Co-Op_R71548",
-      "workday:bah:/job/Lexington-MA/University---Systems-Engineer-Intern_R0248855",
-      "workday:devonenergy:/job/Oklahoma-City-OK/Cyber-Security-Intern-2027_R26303-1",
-      "workday:meijer:/job/Grand-Rapids-MI/Information-Security-Intern--Summer-2027_R000698302",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/KC-135-Platform-Systems-Engineering-Co-Op--Spring-Summer----Onsite_01870355",
-      "workday:swbc:/job/San-Antonio-TX/DevOps-Intern_R0015484-2"
-    ],
-    "telegram": [
-      "amazon:amazon:3117694",
-      "workday:aoins:/job/Lansing-MI/IT-Security-Engineer-Internship---Summer-2027_R_14477",
-      "workday:blueorigin:/job/Los-Angeles-CA/Electronics-Electrical-Systems-Engineer-Co-Op_R71548",
-      "workday:bah:/job/Lexington-MA/University---Systems-Engineer-Intern_R0248855",
-      "workday:devonenergy:/job/Oklahoma-City-OK/Cyber-Security-Intern-2027_R26303-1",
-      "workday:meijer:/job/Grand-Rapids-MI/Information-Security-Intern--Summer-2027_R000698302",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/KC-135-Platform-Systems-Engineering-Co-Op--Spring-Summer----Onsite_01870355",
-      "workday:swbc:/job/San-Antonio-TX/DevOps-Intern_R0015484-2"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
