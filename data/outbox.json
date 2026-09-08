@@ -1,12 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "ashby:allen-control-systems:9945f76d-6d03-45f0-b431-fc69d31f5476",
-      "workday:equifax:/job/USA---Georgia---Alpharetta---30005/Security-Intern_J00178958"
-    ],
-    "telegram": [
-      "ashby:allen-control-systems:9945f76d-6d03-45f0-b431-fc69d31f5476",
-      "workday:equifax:/job/USA---Georgia---Alpharetta---30005/Security-Intern_J00178958"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
