@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-07T23:59:19Z</updated>
+  <updated>2026-09-08T04:45:50Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:gilead:/job/United-States---North-Carolina---Raleigh/Intern---CFO---IT--Cloud-Platform-_R0054839</id>
+    <title>Gilead Sciences: Intern – CFO - IT (Cloud Platform) 🛂</title>
+    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---North-Carolina---Raleigh/Intern---CFO---IT--Cloud-Platform-_R0054839"/>
+    <updated>2026-09-08T04:45:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Cloud Platform · United States - North Carolina - Raleigh · Git · sponsorship: no-sponsorship · H-1B track record: ~272 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:msd:/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Security-Resiliency-Center---Intern_R413882</id>
+    <title>Merck: 2027 Future Talent Program – Global Security Resiliency Center - Intern 🛂</title>
+    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Security-Resiliency-Center---Intern_R413882"/>
+    <updated>2026-09-08T04:45:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · USA - New Jersey - Rahway · Tableau · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:msd:/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---North-America-Regional-Security-Team---Intern_R413091</id>
+    <title>Merck: 2027 Future Talent Program - North America Regional Security Team - Intern 🛂</title>
+    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---North-America-Regional-Security-Team---Intern_R413091"/>
+    <updated>2026-09-08T04:45:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · USA - New Jersey - Rahway · sponsorship: no-sponsorship</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:hp:/job/Vancouver-Washington-United-States-of-America/Business-Intelligence-and-Infrastructure-Analysts--Intern_UNI4669-1</id>
     <title>Hewlett Packard (HP): Business Intelligence and Infrastructure Analysts  Intern</title>
@@ -782,29 +806,5 @@
     <updated>2026-09-01T16:50:53Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · Omaha, NE · Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Cybersecurity-Analyst-Intern----Boulder-CO_R10248677</id>
-    <title>Northrop Grumman: 2027 Cybersecurity Analyst Intern -  Boulder CO 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Cybersecurity-Analyst-Intern----Boulder-CO_R10248677"/>
-    <updated>2026-09-01T16:50:53Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · United States-Colorado-Boulder · $22.25–$27.25/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern---Systems-Engineering_R10248653</id>
-    <title>Northrop Grumman: 2027 Intern - Systems Engineering 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern---Systems-Engineering_R10248653"/>
-    <updated>2026-09-01T16:50:53Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · United States-Oklahoma-Oklahoma City · $17.5–$31.75/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:niagarawater:/job/Corp-Main---Diamond-Bar-CA/IT-Intern_R56349</id>
-    <title>Niagara Bottling: IT Intern</title>
-    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Corp-Main---Diamond-Bar-CA/IT-Intern_R56349"/>
-    <updated>2026-09-01T16:50:53Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · IT Support / Ops · Corp-Main - Diamond Bar, CA · H-1B track record: ~104 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
