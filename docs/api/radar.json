@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-08T11:29:03Z",
- "data_as_of": "2026-09-08T11:29:03Z",
- "rendered_at": "2026-09-08T11:29:03Z",
+ "generated_at": "2026-09-08T16:51:25Z",
+ "data_as_of": "2026-09-08T16:51:25Z",
+ "rendered_at": "2026-09-08T16:51:25Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -1203,6 +1203,25 @@
    }
   },
   {
+   "company": "Hermeus",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": -5,
+   "status": "open",
+   "url": "https://jobs.lever.co/hermeus/9229aa88-f54d-4ecd-85ee-b31f53b4207d",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-03"
+   }
+  },
+  {
    "company": "Sierra Nevada Corporation",
    "last_cycle_posted": "",
    "posted_on": "2026-09-03",
@@ -1298,6 +1317,44 @@
    }
   },
   {
+   "company": "AtkinsRéalis",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USGAAtlanta2018-Powers-Ferry-Rd/Water-Infrastructure-Engineering-Intern---Summer-2027_R-163480-1",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-08"
+   }
+  },
+  {
+   "company": "C.H. Robinson",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-08"
+   }
+  },
+  {
    "company": "Merck",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -1309,6 +1366,44 @@
    "days_until": 0,
    "status": "open",
    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Security-Resiliency-Center---Intern_R413882",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-08"
+   }
+  },
+  {
+   "company": "RSM",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Kansas-City/Managed-IT-Services-Service-Desk-Consulting-Intern---Summer-2027_JR117036",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-08"
+   }
+  },
+  {
+   "company": "U.S. Bank",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Cincinnati-OH/XMLNAME-2027-Information-Security-Summer-Intern_2026-0025770",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1355,5 +1450,5 @@
    }
   }
  ],
- "count": 71
+ "count": 76
 }

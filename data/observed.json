@@ -168,6 +168,18 @@
     }
    }
   },
+  "atkinsréalis": {
+   "name": "AtkinsRéalis",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "workday:slihrms:/job/USGAAtlanta2018-Powers-Ferry-Rd/Water-Infrastructure-Engineering-Intern---Summer-2027_R-163480-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "awetomaton": {
    "name": "Awetomaton",
    "cycles": {
@@ -272,6 +284,18 @@
      "first_posted": "2026-08-25",
      "role_ids": [
       "workday:brunswick:/job/Oshkosh-WI/Mercury-Marine--Drives---Propulsion-Systems-Engineering-Intern_JR-051237"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "c h robinson": {
+   "name": "C.H. Robinson",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "workday:chrobinson:/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322"
      ],
      "count": 1
     }
@@ -509,6 +533,18 @@
     }
    }
   },
+  "hermeus": {
+   "name": "Hermeus",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-03",
+     "role_ids": [
+      "lever:hermeus:9229aa88-f54d-4ecd-85ee-b31f53b4207d"
+     ],
+     "count": 1
+    }
+   }
+  },
   "hilton worldwide": {
    "name": "Hilton Worldwide",
    "cycles": {
@@ -626,9 +662,11 @@
      "first_posted": "2026-08-21",
      "role_ids": [
       "smartrecruiters:LLNL:3743990014731646",
-      "smartrecruiters:LLNL:3743990014731656"
+      "smartrecruiters:LLNL:3743990014731656",
+      "smartrecruiters:LLNL:3743990015113126",
+      "smartrecruiters:LLNL:3743990015113316"
      ],
-     "count": 2
+     "count": 4
     }
    }
   },
@@ -762,15 +800,18 @@
     "Summer 2027": {
      "first_posted": "2026-08-24",
      "role_ids": [
+      "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Systems-Engineering-Intern--Huntsville-AL_R10249774",
       "workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Systems-Engineer-Intern---Gilbert-AZ_R10249114-1",
       "workday:ngc:/job/United-States-California-Azusa/XMLNAME-2027-Systems-Engineer-Intern---Azusa-CA_R10249123",
       "workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-Systems-Engineer-Intern---Redondo-Beach-CA_R10249113",
       "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Cybersecurity-Analyst-Intern----Boulder-CO_R10248677",
+      "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027--Systems-Engineer-Intern---Colorado-Springs-CO_R10249777",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering_R10247434",
       "workday:ngc:/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern---Systems-Engineering_R10248653",
-      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Engineering-Intern--Roy-UT_R10248475"
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Engineering-Intern--Roy-UT_R10248475",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Security-Engineering-Intern---Roy-UT_R10249815"
      ],
-     "count": 7
+     "count": 10
     },
     "Fall 2026": {
      "first_posted": "2026-08-31",
@@ -870,6 +911,18 @@
     }
    }
   },
+  "rsm": {
+   "name": "RSM",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "workday:rsm:/job/Kansas-City/Managed-IT-Services-Service-Desk-Consulting-Intern---Summer-2027_JR117036"
+     ],
+     "count": 1
+    }
+   }
+  },
   "rtx": {
    "name": "RTX",
    "cycles": {
@@ -877,11 +930,13 @@
      "first_posted": "2026-08-04",
      "role_ids": [
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineer-Intern---Summer-2027--Onsite-_01864173",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Platform-System-Engineering-Co-op--2027----Onsite_01871078",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/RSE----Systems-Engineering-Intern-2027--Onsite-_01866779",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/RSE---Systems-Engineering-Intern-2027--Onsite-_01867325",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/RSE---Systems-Engineering-Intern-2027--Onsite-_01867566",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Summer-2027--Intern-Air-Combat-Training--Systems-Engineering--Onsite-_01865658",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Systems-Engineer-Intern---Helmet-Displays--Summer-2027----Onsite_01867411",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872651",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineering-Intern-2027--Onsite-_01865648",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern--Summer-2027----Onsite_01869961",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern-2027--Onsite-_01867044",
@@ -889,7 +944,7 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871442",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871444"
      ],
-     "count": 12
+     "count": 14
     }
    }
   },
@@ -1005,6 +1060,18 @@
     }
    }
   },
+  "u s bank": {
+   "name": "U.S. Bank",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "workday:usbank:/job/Cincinnati-OH/XMLNAME-2027-Information-Security-Summer-Intern_2026-0025770"
+     ],
+     "count": 1
+    }
+   }
+  },
   "united parcel service ups": {
    "name": "United Parcel Service (UPS)",
    "cycles": {
@@ -1085,5 +1152,5 @@
    }
   }
  },
- "updated_at": "2026-09-08T11:29:03Z"
+ "updated_at": "2026-09-08T16:51:25Z"
 }

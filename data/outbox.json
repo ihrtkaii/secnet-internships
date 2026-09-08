@@ -1,6 +1,30 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:slihrms:/job/USGAAtlanta2018-Powers-Ferry-Rd/Water-Infrastructure-Engineering-Intern---Summer-2027_R-163480-1",
+      "workday:chrobinson:/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322",
+      "smartrecruiters:LLNL:3743990015113316",
+      "smartrecruiters:LLNL:3743990015113126",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Security-Engineering-Intern---Roy-UT_R10249815",
+      "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027--Systems-Engineer-Intern---Colorado-Springs-CO_R10249777",
+      "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Systems-Engineering-Intern--Huntsville-AL_R10249774",
+      "workday:rsm:/job/Kansas-City/Managed-IT-Services-Service-Desk-Consulting-Intern---Summer-2027_JR117036",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Platform-System-Engineering-Co-op--2027----Onsite_01871078",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872651",
+      "workday:usbank:/job/Cincinnati-OH/XMLNAME-2027-Information-Security-Summer-Intern_2026-0025770"
+    ],
+    "telegram": [
+      "workday:slihrms:/job/USGAAtlanta2018-Powers-Ferry-Rd/Water-Infrastructure-Engineering-Intern---Summer-2027_R-163480-1",
+      "workday:chrobinson:/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322",
+      "smartrecruiters:LLNL:3743990015113316",
+      "smartrecruiters:LLNL:3743990015113126",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Security-Engineering-Intern---Roy-UT_R10249815",
+      "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027--Systems-Engineer-Intern---Colorado-Springs-CO_R10249777",
+      "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Systems-Engineering-Intern--Huntsville-AL_R10249774",
+      "workday:rsm:/job/Kansas-City/Managed-IT-Services-Service-Desk-Consulting-Intern---Summer-2027_JR117036",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Platform-System-Engineering-Co-op--2027----Onsite_01871078",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872651",
+      "workday:usbank:/job/Cincinnati-OH/XMLNAME-2027-Information-Security-Summer-Intern_2026-0025770"
+    ]
   }
 }
