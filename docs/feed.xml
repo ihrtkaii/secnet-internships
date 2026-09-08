@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-08T04:45:50Z</updated>
+  <updated>2026-09-08T11:29:03Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---Development---Governance--Risk---Analysis_R0054675</id>
+    <title>Gilead Sciences: Intern - Development - Governance, Risk &amp; Analysis 🛂</title>
+    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Development---Governance--Risk---Analysis_R0054675"/>
+    <updated>2026-09-08T11:29:03Z</updated>
+    <category term="Not stated"/>
+    <summary>2 openings · Not stated · GRC / Risk · United States - California - Foster City · sponsorship: no-sponsorship · H-1B track record: ~272 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772</id>
+    <title>Gilead Sciences: Intern - Development - DevOps Business Strategy Leader 🛂</title>
+    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772"/>
+    <updated>2026-09-08T11:29:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · United States - California - Foster City · sponsorship: no-sponsorship · H-1B track record: ~272 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---CFO---IT--Security--Risk--and-Compliance-_R0054791</id>
+    <title>Gilead Sciences: Intern - CFO - IT (Security, Risk, and Compliance) 🛂</title>
+    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---CFO---IT--Security--Risk--and-Compliance-_R0054791"/>
+    <updated>2026-09-08T11:29:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · GRC / Risk · United States - California - Foster City · sponsorship: no-sponsorship · H-1B track record: ~272 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:gilead:/job/United-States---North-Carolina---Raleigh/Intern---CFO---IT--Cloud-Platform-_R0054839</id>
     <title>Gilead Sciences: Intern – CFO - IT (Cloud Platform) 🛂</title>
@@ -782,29 +806,5 @@
     <updated>2026-09-01T21:15:28Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Cloud Platform · US-California-Palo Alto · $27.12–$51.93/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ebgj.fa.us2.oraclecloud.com:253297</id>
-    <title>Texas Instruments: IT Infrastructure Intern - Summer 2027</title>
-    <link href="https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253297"/>
-    <updated>2026-09-01T16:50:53Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Pella, IA, United States · $27.25/hr · LLMs · H-1B track record: ~234 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:availity:/job/Remote---United-States/Cloud-Operations-Intern_R0008424</id>
-    <title>Availity: Cloud Operations Intern</title>
-    <link href="https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Cloud-Operations-Intern_R0008424"/>
-    <updated>2026-09-02T11:29:38Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Cloud Platform · Remote - United States · AWS, Terraform, Linux · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:nebraskablue:/job/Omaha-NE/Cyber-Intern--Summer-2027_JR101407</id>
-    <title>BlueCross BlueShield of Nebraska: Cyber Intern: Summer 2027</title>
-    <link href="https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Cyber-Intern--Summer-2027_JR101407"/>
-    <updated>2026-09-01T16:50:53Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Omaha, NE · Azure</summary>
   </entry>
 </feed>

@@ -1,6 +1,16 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:gilead:/job/United-States---California---Foster-City/Intern---Development---Governance--Risk---Analysis_R0054675",
+      "workday:gilead:/job/United-States---California---Foster-City/Intern---Development---Governance--Risk---Analysis_R0054743",
+      "workday:gilead:/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772",
+      "workday:gilead:/job/United-States---California---Foster-City/Intern---CFO---IT--Security--Risk--and-Compliance-_R0054791"
+    ],
+    "telegram": [
+      "workday:gilead:/job/United-States---California---Foster-City/Intern---Development---Governance--Risk---Analysis_R0054675",
+      "workday:gilead:/job/United-States---California---Foster-City/Intern---Development---Governance--Risk---Analysis_R0054743",
+      "workday:gilead:/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772",
+      "workday:gilead:/job/United-States---California---Foster-City/Intern---CFO---IT--Security--Risk--and-Compliance-_R0054791"
+    ]
   }
 }
