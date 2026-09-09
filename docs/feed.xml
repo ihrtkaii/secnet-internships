@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-09T16:53:25Z</updated>
+  <updated>2026-09-09T21:09:31Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:chartermfg:/job/Charter-Dura-Bar---Woodstock-IL/IT-Support-Technician-Intern--Year-Round-_R07769</id>
+    <title>Charter Manufacturing: IT Support Technician Intern (Year-Round)</title>
+    <link href="https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Dura-Bar---Woodstock-IL/IT-Support-Technician-Intern--Year-Round-_R07769"/>
+    <updated>2026-09-09T21:09:31Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · IT Support / Ops · Charter Dura-Bar - Woodstock, IL · $24.25/hr · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:crestoperations:79751f7f-fd05-4b5a-8154-f8f2819cf900</id>
+    <title>Crest Industries: Enterprise Technology Operations Intern</title>
+    <link href="https://jobs.lever.co/crestoperations/79751f7f-fd05-4b5a-8154-f8f2819cf900"/>
+    <updated>2026-09-09T21:09:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Other · Pineville, Louisiana · Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:crestoperations:c0be0317-9219-454b-bb32-f2cd471a3efd</id>
+    <title>Crest Industries: Security Intern</title>
+    <link href="https://jobs.lever.co/crestoperations/c0be0317-9219-454b-bb32-f2cd471a3efd"/>
+    <updated>2026-09-09T21:09:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Pineville, Louisiana</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:caci:/job/Denver-CO-US/DevOps-Software-Engineering-Intern---Summer-2027_331798</id>
+    <title>CACI: DevOps/Software Engineering Intern - Summer 2027</title>
+    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/DevOps-Software-Engineering-Intern---Summer-2027_331798"/>
+    <updated>2026-09-09T21:09:31Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Denver, CO, US · Python, Java, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ntrs:/job/Chicago-IL/Risk-and-Compliance-Intern_R160771-1</id>
+    <title>Northern Trust: Risk and Compliance Intern 🛂</title>
+    <link href="https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Risk-and-Compliance-Intern_R160771-1"/>
+    <updated>2026-09-09T21:09:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · GRC / Risk · Chicago, IL · sponsorship: no-sponsorship · H-1B track record: ~144 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000148540185</id>
     <title>Bosch: ERP/IT Intern- Summer 2027</title>
@@ -73,7 +113,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:workday:blueorigin:/job/Los-Angeles-CA/Electronics-Electrical-Systems-Engineer-Co-Op_R71548</id>
-    <title>Blue Origin: Electronics/Electrical Systems Engineer Co-Op 🇺🇸</title>
+    <title>Blue Origin: Electronics/Electrical Systems Engineer Co-Op (Fixed Term) 🇺🇸</title>
     <link href="https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Los-Angeles-CA/Electronics-Electrical-Systems-Engineer-Co-Op_R71548"/>
     <updated>2026-09-08T21:23:54Z</updated>
     <category term="Not stated"/>
@@ -766,45 +806,5 @@
     <updated>2026-09-01T21:15:28Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · IT Support / Ops · New York, New York, United States · 22 USD/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Annapolis-Junction-MD/University---2027-Summer-Games-Cyber-Security-Intern---Annapolis-Junction--MD_R0248414</id>
-    <title>Booz Allen: University - 2027 Summer Games Cyber Security Intern - Annapolis Junction, MD 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Cyber-Security-Intern---Annapolis-Junction--MD_R0248414"/>
-    <updated>2026-09-01T21:15:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Annapolis Junction, MD · $108k/yr · Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Annapolis-Junction-MD/University---2027-Summer-Games-Systems-Engineer-Intern---Annapolis-Junction--MD_R0248384</id>
-    <title>Booz Allen: University - 2027 Summer Games Systems Engineer Intern - Annapolis Junction, MD 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Systems-Engineer-Intern---Annapolis-Junction--MD_R0248384"/>
-    <updated>2026-09-01T21:15:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Annapolis Junction, MD · $108k/yr · Python, Java, C++, JavaScript · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Atlanta-GA/University---2027-Summer-Games--Systems-Engineer-Intern---Atlanta--GA_R0248381</id>
-    <title>Booz Allen: University - 2027 Summer Games, Systems Engineer Intern - Atlanta, GA 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games--Systems-Engineer-Intern---Atlanta--GA_R0248381"/>
-    <updated>2026-09-01T21:15:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Atlanta, GA · $108k/yr · Python, Java, C++, JavaScript · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Atlanta-GA/University---2027-Summer-Games-Cyber-Security-Intern---Atlanta--GA_R0248139</id>
-    <title>Booz Allen: University - 2027 Summer Games Cyber Security Intern - Atlanta, GA 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Cyber-Security-Intern---Atlanta--GA_R0248139"/>
-    <updated>2026-09-01T21:15:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Atlanta, GA · $108k/yr · Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Charleston-SC/University---2027-Summer-Games-Cyber-Security-Intern---Charleston--SC_R0248136</id>
-    <title>Booz Allen: University - 2027 Summer Games Cyber Security Intern - Charleston, SC 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Cyber-Security-Intern---Charleston--SC_R0248136"/>
-    <updated>2026-09-01T21:15:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Charleston, SC · $108k/yr · Linux · sponsorship: citizens-only</summary>
   </entry>
 </feed>

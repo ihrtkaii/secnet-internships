@@ -343,10 +343,11 @@
     "Summer 2027": {
      "first_posted": "2026-09-01",
      "role_ids": [
+      "workday:caci:/job/Denver-CO-US/DevOps-Software-Engineering-Intern---Summer-2027_331798",
       "workday:caci:/job/Sarasota-FL-US/AWS-Cloud-Engineering-Intern---Summer-2027_331437",
       "workday:caci:/job/Sterling-VA-US/DevOps-Software-Engineering-Intern---Summer-2027_331466"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1213,5 +1214,5 @@
    }
   }
  },
- "updated_at": "2026-09-09T16:53:25Z"
+ "updated_at": "2026-09-09T21:09:31Z"
 }

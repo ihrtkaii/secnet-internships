@@ -1,6 +1,16 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "lever:crestoperations:79751f7f-fd05-4b5a-8154-f8f2819cf900",
+      "lever:crestoperations:c0be0317-9219-454b-bb32-f2cd471a3efd",
+      "workday:caci:/job/Denver-CO-US/DevOps-Software-Engineering-Intern---Summer-2027_331798",
+      "workday:ntrs:/job/Chicago-IL/Risk-and-Compliance-Intern_R160771-1"
+    ],
+    "telegram": [
+      "lever:crestoperations:79751f7f-fd05-4b5a-8154-f8f2819cf900",
+      "lever:crestoperations:c0be0317-9219-454b-bb32-f2cd471a3efd",
+      "workday:caci:/job/Denver-CO-US/DevOps-Software-Engineering-Intern---Summer-2027_331798",
+      "workday:ntrs:/job/Chicago-IL/Risk-and-Compliance-Intern_R160771-1"
+    ]
   }
 }
