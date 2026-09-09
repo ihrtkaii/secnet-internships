@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-09T21:09:31Z",
- "fetched_at": "2026-09-09T21:09:31Z",
- "duration_seconds": 963.7,
+ "generated_at": "2026-09-09T23:29:28Z",
+ "fetched_at": "2026-09-09T23:29:28Z",
+ "duration_seconds": 1097.2,
  "companies_total": 4749,
  "companies_by_source": {
   "greenhouse": 1058,
@@ -17,35 +17,34 @@
   "breezy": 12,
   "eightfold": 1
  },
- "quarantined": 303,
- "fetched_ok": 4342,
- "fetch_errors": 104,
+ "quarantined": 315,
+ "fetched_ok": 4326,
+ "fetch_errors": 108,
  "errors_by_source": {
-  "workday": 101,
-  "rippling": 1,
-  "ashby": 2
+  "workday": 100,
+  "workable": 8
  },
- "fetch_success_rate": 0.977,
- "fetch_success_rate_registry": 0.914,
- "snapshots_complete": 3756,
- "snapshots_partial": 586,
+ "fetch_success_rate": 0.976,
+ "fetch_success_rate_registry": 0.911,
+ "snapshots_complete": 3748,
+ "snapshots_partial": 578,
  "partial_by_reason": {
-  "result-cap": 535,
-  "malformed-response": 51
+  "result-cap": 556,
+  "malformed-response": 22
  },
- "degraded_fetches": 51,
- "roles_matched": 223,
- "dropped_no_year_in_title": 87,
- "dropped_no_year_undated": 51,
+ "degraded_fetches": 22,
+ "roles_matched": 221,
+ "dropped_no_year_in_title": 83,
+ "dropped_no_year_undated": 47,
  "dropped_no_year_dated_too_old": 36,
  "dropped_no_year_dated_in_future": 0,
  "dropped_no_year_unparsable_date": 0,
  "dropped_no_year_inference_disabled": 0,
  "dropped_no_year_by_reason": {
   "dated-too-old": 36,
-  "undated": 51
+  "undated": 47
  },
- "dropped_offcycle_by_text": 60,
+ "dropped_offcycle_by_text": 61,
  "roles_cycle_inferred": 90,
  "roles_by_source": {
   "amazon": 2,
@@ -71,10 +70,10 @@
   "offers": 1
  },
  "posted_date_coverage": 1.0,
- "enriched_this_run": 15,
- "enrichment_detail_fetches": 3,
+ "enriched_this_run": 12,
+ "enrichment_detail_fetches": 0,
  "purged_this_run": 0,
- "new_this_run": 4,
+ "new_this_run": 0,
  "open_total": 309,
  "detection_latency": {
   "median_minutes": 71.0,
@@ -87,5 +86,5 @@
   "median_days": 10,
   "sample_size": 19
  },
- "rendered_at": "2026-09-09T21:09:31Z"
+ "rendered_at": "2026-09-09T23:29:28Z"
 }

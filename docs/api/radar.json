@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-09T21:09:31Z",
- "data_as_of": "2026-09-09T21:09:31Z",
- "rendered_at": "2026-09-09T21:09:31Z",
+ "generated_at": "2026-09-09T23:29:28Z",
+ "data_as_of": "2026-09-09T23:29:28Z",
+ "rendered_at": "2026-09-09T23:29:28Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -1023,7 +1023,7 @@
    "expected": "2026-09-01",
    "days_until": -8,
    "status": "open",
-   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/AWS-Cloud-Engineering-Intern---Summer-2027_331437",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/DevOps-Software-Engineering-Intern---Summer-2027_331798",
    "note": "",
    "provenance": {
     "type": "engine-observed",
