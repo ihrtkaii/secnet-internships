@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-09T04:50:54Z</updated>
+  <updated>2026-09-09T11:33:42Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com:15624</id>
+    <title>Zachry Group: Cyber Security Specialist I - Intern</title>
+    <link href="https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1029/job/15624"/>
+    <updated>2026-09-09T11:33:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Stonington, CT, United States; Charlotte, NC, United States · HTML/CSS</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:allen-control-systems:9945f76d-6d03-45f0-b431-fc69d31f5476</id>
     <title>Allen Control Systems: Systems Engineering Intern, 2027</title>
@@ -795,14 +803,6 @@
     <id>urn:intern-engine:workday:bah:/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Charleston--SC_R0248369</id>
     <title>Booz Allen: University - 2027 Summer Games Systems Engineer Intern - Charleston, SC 🇺🇸</title>
     <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Charleston--SC_R0248369"/>
-    <updated>2026-09-01T21:15:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Colorado Springs, CO · $108k/yr · Python, Java, C++, JavaScript · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Colorado-Springs--CO_R0248368</id>
-    <title>Booz Allen: University - 2027 Summer Games Systems Engineer Intern - Colorado Springs, CO 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Colorado-Springs--CO_R0248368"/>
     <updated>2026-09-01T21:15:28Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Colorado Springs, CO · $108k/yr · Python, Java, C++, JavaScript · sponsorship: citizens-only</summary>
