@@ -289,6 +289,18 @@
     }
    }
   },
+  "bosch": {
+   "name": "Bosch",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "smartrecruiters:BoschGroup:744000148540185"
+     ],
+     "count": 1
+    }
+   }
+  },
   "brookfield properties": {
    "name": "Brookfield Properties",
    "cycles": {
@@ -1201,5 +1213,5 @@
    }
   }
  },
- "updated_at": "2026-09-09T11:33:42Z"
+ "updated_at": "2026-09-09T16:53:25Z"
 }
