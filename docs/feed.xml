@@ -5,15 +5,47 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-10T04:52:42Z</updated>
+  <updated>2026-09-10T11:31:06Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:allegion:/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Systems-Engineering_JR37479-1</id>
-    <title>Allegion: Summer Intern - Systems Engineering</title>
-    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Systems-Engineering_JR37479-1"/>
-    <updated>2026-09-10T04:52:42Z</updated>
+    <id>urn:intern-engine:workday:bah:/job/McLean-VA/Enterprise-Cybersecurity-Education-and-Execution-Intern_R0249071</id>
+    <title>Booz Allen: Enterprise Cybersecurity Education and Execution Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Education-and-Execution-Intern_R0249071"/>
+    <updated>2026-09-10T11:31:06Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Indianapolis, IN - Hague Rd</summary>
+    <summary>Not stated · Security (general) · McLean, VA · $108k/yr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Vulnerability-Intern_R0249085</id>
+    <title>Booz Allen: University – Summer 27, Enterprise Cybersecurity Vulnerability Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Vulnerability-Intern_R0249085"/>
+    <updated>2026-09-10T11:31:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · McLean, VA · $126k/yr · Python, SQL, AWS, GCP, Azure · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-IT-Policy-Intern_R0249077</id>
+    <title>Booz Allen: University – Summer 27, Enterprise Cybersecurity IT Policy Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-IT-Policy-Intern_R0249077"/>
+    <updated>2026-09-10T11:31:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · GRC / Risk · McLean, VA · $108k/yr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249083</id>
+    <title>Booz Allen: University – Summer 27, Enterprise Cybersecurity Data Loss Prevention Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249083"/>
+    <updated>2026-09-10T11:31:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · McLean, VA · $108k/yr · AWS, GCP, Azure · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rocketlab:7987046003</id>
+    <title>Rocket Lab: Systems Engineering Intern Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7987046003"/>
+    <updated>2026-09-10T04:52:42Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Long Beach, CA · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:allegion:/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Systems-Engineer_JR37310-1</id>
@@ -24,12 +56,12 @@
     <summary>Not stated · Systems &amp; Cloud Infra · Indianapolis, IN - Hague Rd</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:7987046003</id>
-    <title>Rocket Lab: Systems Engineering Intern Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7987046003"/>
+    <id>urn:intern-engine:workday:allegion:/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Systems-Engineering_JR37479-1</id>
+    <title>Allegion: Summer Intern - Systems Engineering</title>
+    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Systems-Engineering_JR37479-1"/>
     <updated>2026-09-10T04:52:42Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Long Beach, CA · sponsorship: citizens-only</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Indianapolis, IN - Hague Rd</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:crestoperations:79751f7f-fd05-4b5a-8154-f8f2819cf900</id>
@@ -774,37 +806,5 @@
     <updated>2026-09-02T04:39:05Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · GRC / Risk · St. Louis, Missouri · H-1B track record: ~21 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern--Summer-2027----Onsite_01869961</id>
-    <title>RTX: Systems Engineering Intern (Summer 2027) - Onsite 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern--Summer-2027----Onsite_01869961"/>
-    <updated>2026-09-02T04:39:05Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 · Python · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:rockwellautomation:/job/Mayfield-Heights-Ohio-United-States/Intern--Cyber-Professional-Services--LCS-_R26-5042-2</id>
-    <title>Rockwell Automation: Intern, Cyber Professional Services (LCS) 🛂</title>
-    <link href="https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Cyber-Professional-Services--LCS-_R26-5042-2"/>
-    <updated>2026-09-02T04:39:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Mayfield Heights, Ohio, United States · sponsorship: no-sponsorship · H-1B track record: ~90 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:genpt:/job/Birmingham-AL-USA/Cloud-Developer-Intern_R26_0000029133</id>
-    <title>Genuine Parts Company: Cloud Developer Intern</title>
-    <link href="https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Cloud-Developer-Intern_R26_0000029133"/>
-    <updated>2026-09-01T23:33:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Cloud Platform · Birmingham, AL, USA · Java, GCP, Linux, Git · H-1B track record: ~63 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:genpt:/job/Birmingham-AL-USA/Cloud-SRE-Intern_R26_0000029134</id>
-    <title>Genuine Parts Company: Cloud SRE Intern</title>
-    <link href="https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Cloud-SRE-Intern_R26_0000029134"/>
-    <updated>2026-09-01T23:33:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Cloud Platform · Birmingham, AL, USA · GCP · H-1B track record: ~63 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
