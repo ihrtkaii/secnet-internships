@@ -1,6 +1,22 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:bah:/job/McLean-VA/Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249131-1",
+      "workday:bah:/job/Huntsville-AL/University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249188",
+      "workday:cox:/job/Atlanta-GA/Infrastructure-Operations-Intern---Summer-2027_R202682357",
+      "workday:cox:/job/Atlanta-GA/Infrastructure-Automation-Intern---Summer-2027_R202682338",
+      "workday:cox:/job/Atlanta-GA/Cybersecurity-Intern---Summer-2027_R202682288",
+      "workday:momentive:/job/US-WV-Friendly/Summer-2027-Silanes-Production---Energy-Systems-Engineer-Intern_R9776",
+      "greenhouse:testnisc:8191987"
+    ],
+    "telegram": [
+      "workday:bah:/job/McLean-VA/Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249131-1",
+      "workday:bah:/job/Huntsville-AL/University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249188",
+      "workday:cox:/job/Atlanta-GA/Infrastructure-Operations-Intern---Summer-2027_R202682357",
+      "workday:cox:/job/Atlanta-GA/Infrastructure-Automation-Intern---Summer-2027_R202682338",
+      "workday:cox:/job/Atlanta-GA/Cybersecurity-Intern---Summer-2027_R202682288",
+      "workday:momentive:/job/US-WV-Friendly/Summer-2027-Silanes-Production---Energy-Systems-Engineer-Intern_R9776",
+      "greenhouse:testnisc:8191987"
+    ]
   }
 }

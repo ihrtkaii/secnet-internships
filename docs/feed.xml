@@ -5,8 +5,72 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-10T16:39:20Z</updated>
+  <updated>2026-09-10T21:09:34Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/McLean-VA/Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249131-1</id>
+    <title>Booz Allen: Enterprise Cybersecurity Data Loss Prevention Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249131-1"/>
+    <updated>2026-09-10T21:09:34Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · McLean, VA · $108k/yr · AWS, GCP, Azure · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/Huntsville-AL/University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249188</id>
+    <title>Booz Allen: University - 2027 Summer Games Systems Engineer Intern - Huntsville, AL 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249188"/>
+    <updated>2026-09-10T21:09:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Huntsville, AL · $108k/yr · Python, Java, C++, JavaScript · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cox:/job/Atlanta-GA/Infrastructure-Operations-Intern---Summer-2027_R202682357</id>
+    <title>Cox: Infrastructure Operations Intern - Summer 2027</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Infrastructure-Operations-Intern---Summer-2027_R202682357"/>
+    <updated>2026-09-10T21:09:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Atlanta GA · $24.23–$36.35/hr · SQL, AWS, Azure, Terraform, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cox:/job/Atlanta-GA/Infrastructure-Automation-Intern---Summer-2027_R202682338</id>
+    <title>Cox: Infrastructure Automation Intern - Summer 2027</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Infrastructure-Automation-Intern---Summer-2027_R202682338"/>
+    <updated>2026-09-10T21:09:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Atlanta GA · $24.23–$36.35/hr · AWS, Azure, Terraform, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cox:/job/Atlanta-GA/Cybersecurity-Intern---Summer-2027_R202682288</id>
+    <title>Cox: Cybersecurity Intern - Summer 2027</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Cybersecurity-Intern---Summer-2027_R202682288"/>
+    <updated>2026-09-10T21:09:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Atlanta GA · $24.23–$36.35/hr · Python, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:momentive:/job/US-WV-Friendly/Summer-2027-Silanes-Production---Energy-Systems-Engineer-Intern_R9776</id>
+    <title>Momentive: Summer 2027 Silanes Production &amp; Energy Systems Engineer Intern</title>
+    <link href="https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Summer-2027-Silanes-Production---Energy-Systems-Engineer-Intern_R9776"/>
+    <updated>2026-09-10T21:09:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · US WV Friendly · H-1B track record: ~44 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:testnisc:8191987</id>
+    <title>National Information Solutions Cooperative (NISC): Intern - Information Security (Cybersecurity)</title>
+    <link href="https://job-boards.greenhouse.io/testnisc/jobs/8191987"/>
+    <updated>2026-09-10T21:09:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Mandan, ND · Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:schonfeld:8171699</id>
+    <title>Schonfeld: 2027 Platform Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8171699"/>
+    <updated>2026-09-10T16:39:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · New York, New York, United States · Python, Bash, AWS, Kubernetes, Terraform</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:immuta:3c4cb235-6138-4a50-add2-666a5216427e</id>
     <title>Immuta: Platform &amp; Site Reliability Engineering Internship - Summer 2027</title>
@@ -14,6 +78,38 @@
     <updated>2026-09-10T16:39:20Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Columbus, OH · 25–30 USD/hr · AWS, GCP, Azure, Databricks, Snowflake</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:PilotCompany:744000148572860</id>
+    <title>Pilot Company: Program Intern, Network Operations</title>
+    <link href="https://jobs.smartrecruiters.com/PilotCompany/744000148572860"/>
+    <updated>2026-09-10T16:39:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Network / Telecom · Knoxville, TN, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:PilotCompany:744000148574954</id>
+    <title>Pilot Company: Program Intern, End User Service Desk</title>
+    <link href="https://jobs.smartrecruiters.com/PilotCompany/744000148574954"/>
+    <updated>2026-09-10T16:39:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · IT Support / Ops · Knoxville, TN, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:PilotCompany:744000148577368</id>
+    <title>Pilot Company: Program Intern, Infrastructure Support</title>
+    <link href="https://jobs.smartrecruiters.com/PilotCompany/744000148577368"/>
+    <updated>2026-09-10T16:39:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Knoxville, TN, United States · AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:PilotCompany:744000148578069</id>
+    <title>Pilot Company: Program Intern, Cloud Operations</title>
+    <link href="https://jobs.smartrecruiters.com/PilotCompany/744000148578069"/>
+    <updated>2026-09-10T16:39:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Cloud Platform · Knoxville, TN, United States · Python, AWS, Terraform, Linux, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:cigna:/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/The-Cigna-Group-s-Technology-Development-Program-----Infrastructure---Cloud-Engineering-Track_26009529</id>
@@ -30,46 +126,6 @@
     <updated>2026-09-10T16:39:20Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · IT Support / Ops · Arden Hills, MN (USA) · H-1B track record: ~17 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:PilotCompany:744000148578069</id>
-    <title>Pilot Company: Program Intern, Cloud Operations</title>
-    <link href="https://jobs.smartrecruiters.com/PilotCompany/744000148578069"/>
-    <updated>2026-09-10T16:39:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Cloud Platform · Knoxville, TN, United States · Python, AWS, Terraform, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:PilotCompany:744000148577368</id>
-    <title>Pilot Company: Program Intern, Infrastructure Support</title>
-    <link href="https://jobs.smartrecruiters.com/PilotCompany/744000148577368"/>
-    <updated>2026-09-10T16:39:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Knoxville, TN, United States · AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:PilotCompany:744000148574954</id>
-    <title>Pilot Company: Program Intern, End User Service Desk</title>
-    <link href="https://jobs.smartrecruiters.com/PilotCompany/744000148574954"/>
-    <updated>2026-09-10T16:39:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · IT Support / Ops · Knoxville, TN, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:PilotCompany:744000148572860</id>
-    <title>Pilot Company: Program Intern, Network Operations</title>
-    <link href="https://jobs.smartrecruiters.com/PilotCompany/744000148572860"/>
-    <updated>2026-09-10T16:39:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Network / Telecom · Knoxville, TN, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:schonfeld:8171699</id>
-    <title>Schonfeld: 2027 Platform Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8171699"/>
-    <updated>2026-09-10T16:39:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · New York, New York, United States · Python, Bash, AWS, Kubernetes, Terraform</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:bah:/job/McLean-VA/Enterprise-Cybersecurity-Education-and-Execution-Intern_R0249071</id>
@@ -750,61 +806,5 @@
     <updated>2026-09-02T16:47:03Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security (general) · Cleveland, OH, United States · H-1B track record: ~94 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007497</id>
-    <title>Stantec: Roadway Design Co-op Student - Infrastructure (Fall 2026)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007497"/>
-    <updated>2026-09-02T16:47:03Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Systems &amp; Cloud Infra · Raleigh, NC, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Winsupply1:3743990015014247</id>
-    <title>Winsupply: Data Center Operations Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Winsupply1/3743990015014247"/>
-    <updated>2026-09-02T16:47:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Moraine, OH, United States · H-1B track record: ~13 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Winsupply1:3743990015014751</id>
-    <title>Winsupply: Network Engineer Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Winsupply1/3743990015014751"/>
-    <updated>2026-09-02T16:47:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Network / Telecom · Moraine, OH, United States · H-1B track record: ~13 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hcmportal:/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Buildings-and-Systems-Engineering-Summer-Intern_R26030715</id>
-    <title>United Parcel Service (UPS): 2027 Buildings and Systems Engineering Summer Intern 🇺🇸</title>
-    <link href="https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Buildings-and-Systems-Engineering-Summer-Intern_R26030715"/>
-    <updated>2026-09-02T16:47:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · US - UPS CORPORATE OFFICES (GACOR) · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:iatinsurancegroup:/job/Cheshire-CT/Network-Operations-Internship_JR100371</id>
-    <title>IAT Insurance Group: Network Operations Internship 🛂</title>
-    <link href="https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Cheshire-CT/Network-Operations-Internship_JR100371"/>
-    <updated>2026-09-02T16:47:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Network / Telecom · Cheshire CT · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:iatinsurancegroup:/job/Naperville-IL/Tier-2-IT-Support-Internship_JR100400</id>
-    <title>IAT Insurance Group: Tier 2 IT Support Internship 🛂</title>
-    <link href="https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Naperville-IL/Tier-2-IT-Support-Internship_JR100400"/>
-    <updated>2026-09-02T16:47:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · IT Support / Ops · Naperville IL · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:iatinsurancegroup:/job/Newark-NJ/System-Administrator-Internship_JR100415</id>
-    <title>IAT Insurance Group: System Administrator Internship 🛂</title>
-    <link href="https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Newark-NJ/System-Administrator-Internship_JR100415"/>
-    <updated>2026-09-02T16:47:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Newark NJ · Python, SQL, Azure · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>

@@ -277,6 +277,7 @@
       "workday:bah:/job/Honolulu-HI/University---2027-Summer-Games-Cyber-Security-Intern---Honolulu--HI_R0248411",
       "workday:bah:/job/Honolulu-HI/University---2027-Summer-Games-Systems-Engineer-Intern---Honolulu--HI_R0248370",
       "workday:bah:/job/Huntsville-AL/University---2027-Summer-Games-Cyber-Security-Intern---Huntsville--AL_R0248412",
+      "workday:bah:/job/Huntsville-AL/University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249188",
       "workday:bah:/job/McLean-VA/University---2027-Summer-Games-Cyber-Security-Intern---McLean--VA_R0248034",
       "workday:bah:/job/McLean-VA/University---2027-Summer-Games-Systems-Engineer-Intern---McLean--VA_R0248361",
       "workday:bah:/job/Rome-NY/University---2027-Summer-Games-Systems-Engineer-Intern---Rome--NY_R0248386",
@@ -285,7 +286,7 @@
       "workday:bah:/job/San-Diego-CA/University---2027-Summer-Games-Systems-Engineer-Intern---San-Diego--CA_R0248365",
       "workday:bah:/job/San-Diego-CA/University--2027-Summer-Games-Cyber-Security-Intern_R0248043"
      ],
-     "count": 23
+     "count": 24
     }
    }
   },
@@ -410,6 +411,20 @@
       "workday:clr:/job/Oklahoma-City-OK/IT-Intern--Summer-2027-_R02593-1"
      ],
      "count": 1
+    }
+   }
+  },
+  "cox": {
+   "name": "Cox",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "workday:cox:/job/Atlanta-GA/Cybersecurity-Intern---Summer-2027_R202682288",
+      "workday:cox:/job/Atlanta-GA/Infrastructure-Automation-Intern---Summer-2027_R202682338",
+      "workday:cox:/job/Atlanta-GA/Infrastructure-Operations-Intern---Summer-2027_R202682357"
+     ],
+     "count": 3
     }
    }
   },
@@ -868,6 +883,18 @@
     }
    }
   },
+  "momentive": {
+   "name": "Momentive",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "workday:momentive:/job/US-WV-Friendly/Summer-2027-Silanes-Production---Energy-Systems-Engineer-Intern_R9776"
+     ],
+     "count": 1
+    }
+   }
+  },
   "montenson": {
    "name": "Montenson",
    "cycles": {
@@ -887,6 +914,18 @@
      "first_posted": "2026-03-30",
      "role_ids": [
       "workday:motorolasolutions:/job/Los-Angeles-CA/R-D-Intern---Wireless-Systems-Engineer---2026_R62376"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "national information solutions cooperative nisc": {
+   "name": "National Information Solutions Cooperative (NISC)",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "greenhouse:testnisc:8191987"
      ],
      "count": 1
     }
@@ -1278,5 +1317,5 @@
    }
   }
  },
- "updated_at": "2026-09-10T16:39:20Z"
+ "updated_at": "2026-09-10T21:09:34Z"
 }
