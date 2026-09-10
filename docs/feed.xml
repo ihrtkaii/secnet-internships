@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-09T23:29:28Z</updated>
+  <updated>2026-09-10T04:52:42Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:allegion:/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Systems-Engineering_JR37479-1</id>
+    <title>Allegion: Summer Intern - Systems Engineering</title>
+    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Systems-Engineering_JR37479-1"/>
+    <updated>2026-09-10T04:52:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Indianapolis, IN - Hague Rd</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:allegion:/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Systems-Engineer_JR37310-1</id>
+    <title>Allegion: Summer Intern - Systems Engineer</title>
+    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Systems-Engineer_JR37310-1"/>
+    <updated>2026-09-10T04:52:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Indianapolis, IN - Hague Rd</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rocketlab:7987046003</id>
+    <title>Rocket Lab: Systems Engineering Intern Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7987046003"/>
+    <updated>2026-09-10T04:52:42Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Long Beach, CA · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:crestoperations:79751f7f-fd05-4b5a-8154-f8f2819cf900</id>
     <title>Crest Industries: Enterprise Technology Operations Intern</title>
@@ -782,29 +806,5 @@
     <updated>2026-09-01T23:33:08Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Cloud Platform · Birmingham, AL, USA · GCP · H-1B track record: ~63 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:genpt:/job/Birmingham-AL-USA/GRC-Cybersecurity-Analyst-Intern_R26_0000029137</id>
-    <title>Genuine Parts Company: GRC/Cybersecurity Analyst Intern</title>
-    <link href="https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/GRC-Cybersecurity-Analyst-Intern_R26_0000029137"/>
-    <updated>2026-09-01T23:33:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · GRC / Risk · Birmingham, AL, USA · Linux · H-1B track record: ~63 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:genpt:/job/Birmingham-AL-USA/Platform-Engineering-Intern_R26_0000029141</id>
-    <title>Genuine Parts Company: Platform Engineering Intern</title>
-    <link href="https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Platform-Engineering-Intern_R26_0000029141"/>
-    <updated>2026-09-01T23:33:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Birmingham, AL, USA · GCP · H-1B track record: ~63 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:esrtreit:c88d02a3-4075-4e74-9575-a26c74361e22</id>
-    <title>Empire State Realty Trust: Service Desk &amp; AV Support Intern</title>
-    <link href="https://jobs.lever.co/esrtreit/c88d02a3-4075-4e74-9575-a26c74361e22"/>
-    <updated>2026-09-01T21:15:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · IT Support / Ops · New York, New York, United States · 22 USD/hr</summary>
   </entry>
 </feed>

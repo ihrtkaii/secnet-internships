@@ -973,6 +973,18 @@
     }
    }
   },
+  "rocket lab": {
+   "name": "Rocket Lab",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "greenhouse:rocketlab:7987046003"
+     ],
+     "count": 1
+    }
+   }
+  },
   "rsm": {
    "name": "RSM",
    "cycles": {
@@ -1214,5 +1226,5 @@
    }
   }
  },
- "updated_at": "2026-09-09T23:29:28Z"
+ "updated_at": "2026-09-10T04:52:42Z"
 }

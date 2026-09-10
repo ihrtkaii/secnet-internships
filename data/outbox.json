@@ -1,6 +1,14 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:allegion:/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Systems-Engineering_JR37479-1",
+      "workday:allegion:/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Systems-Engineer_JR37310-1",
+      "greenhouse:rocketlab:7987046003"
+    ],
+    "telegram": [
+      "workday:allegion:/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Systems-Engineering_JR37479-1",
+      "workday:allegion:/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Systems-Engineer_JR37310-1",
+      "greenhouse:rocketlab:7987046003"
+    ]
   }
 }
