@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "ashby:bedrock-robotics:d7da851b-55c2-45d4-bf8b-aa879282f25c",
-      "ashby:bedrock-robotics:0331551e-c18e-428a-8e91-e6cb25c9c2e8",
-      "workday:bah:/job/Annapolis-Junction-MD/University---Summer-2027---Systems-Administrator-Intern_R0249226"
-    ],
-    "telegram": [
-      "ashby:bedrock-robotics:d7da851b-55c2-45d4-bf8b-aa879282f25c",
-      "ashby:bedrock-robotics:0331551e-c18e-428a-8e91-e6cb25c9c2e8",
-      "workday:bah:/job/Annapolis-Junction-MD/University---Summer-2027---Systems-Administrator-Intern_R0249226"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
