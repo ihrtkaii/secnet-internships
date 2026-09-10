@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-10T21:09:34Z",
- "data_as_of": "2026-09-10T21:09:34Z",
- "rendered_at": "2026-09-10T21:09:34Z",
+ "generated_at": "2026-09-10T23:25:47Z",
+ "data_as_of": "2026-09-10T23:25:47Z",
+ "rendered_at": "2026-09-10T23:25:47Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -1564,6 +1564,25 @@
    }
   },
   {
+   "company": "Bedrock Robotics",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-10",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/bedrock-robotics/d7da851b-55c2-45d4-bf8b-aa879282f25c",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-10"
+   }
+  },
+  {
    "company": "Cigna Group",
    "last_cycle_posted": "",
    "posted_on": "2026-09-10",
@@ -1593,7 +1612,7 @@
    "expected": "2026-09-10",
    "days_until": 0,
    "status": "open",
-   "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Infrastructure-Operations-Intern---Summer-2027_R202682357",
+   "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Cybersecurity-Intern---Summer-2027_R202682288",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1697,5 +1716,5 @@
    }
   }
  ],
- "count": 89
+ "count": 90
 }

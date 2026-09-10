@@ -229,6 +229,19 @@
     }
    }
   },
+  "bedrock robotics": {
+   "name": "Bedrock Robotics",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "ashby:bedrock-robotics:0331551e-c18e-428a-8e91-e6cb25c9c2e8",
+      "ashby:bedrock-robotics:d7da851b-55c2-45d4-bf8b-aa879282f25c"
+     ],
+     "count": 2
+    }
+   }
+  },
   "bluecross blueshield of nebraska": {
    "name": "BlueCross BlueShield of Nebraska",
    "cycles": {
@@ -263,6 +276,7 @@
      "role_ids": [
       "workday:bah:/job/Annapolis-Junction-MD/University---2027-Summer-Games-Cyber-Security-Intern---Annapolis-Junction--MD_R0248414",
       "workday:bah:/job/Annapolis-Junction-MD/University---2027-Summer-Games-Systems-Engineer-Intern---Annapolis-Junction--MD_R0248384",
+      "workday:bah:/job/Annapolis-Junction-MD/University---Summer-2027---Systems-Administrator-Intern_R0249226",
       "workday:bah:/job/Atlanta-GA/University---2027-Summer-Games--Systems-Engineer-Intern---Atlanta--GA_R0248381",
       "workday:bah:/job/Atlanta-GA/University---2027-Summer-Games-Cyber-Security-Intern---Atlanta--GA_R0248139",
       "workday:bah:/job/Charleston-SC/University---2027-Summer-Games-Cyber-Security-Intern---Charleston--SC_R0248136",
@@ -286,7 +300,7 @@
       "workday:bah:/job/San-Diego-CA/University---2027-Summer-Games-Systems-Engineer-Intern---San-Diego--CA_R0248365",
       "workday:bah:/job/San-Diego-CA/University--2027-Summer-Games-Cyber-Security-Intern_R0248043"
      ],
-     "count": 24
+     "count": 25
     }
    }
   },
@@ -1317,5 +1331,5 @@
    }
   }
  },
- "updated_at": "2026-09-10T21:09:34Z"
+ "updated_at": "2026-09-10T23:25:47Z"
 }
