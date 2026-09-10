@@ -1,6 +1,26 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "lever:immuta:3c4cb235-6138-4a50-add2-666a5216427e",
+      "workday:cigna:/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/The-Cigna-Group-s-Technology-Development-Program-----Infrastructure---Cloud-Engineering-Track_26009529",
+      "workday:landolakes:/job/Arden-Hills-MN-USA/IT-Intern_R-40138",
+      "workday:mksinst:/job/Andover-MA/XMLNAME-2027-Summer-BI-Data-Analytics-IT-Intern_R20657",
+      "smartrecruiters:PilotCompany:744000148578069",
+      "smartrecruiters:PilotCompany:744000148577368",
+      "smartrecruiters:PilotCompany:744000148574954",
+      "smartrecruiters:PilotCompany:744000148572860",
+      "greenhouse:schonfeld:8171699"
+    ],
+    "telegram": [
+      "lever:immuta:3c4cb235-6138-4a50-add2-666a5216427e",
+      "workday:cigna:/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/The-Cigna-Group-s-Technology-Development-Program-----Infrastructure---Cloud-Engineering-Track_26009529",
+      "workday:landolakes:/job/Arden-Hills-MN-USA/IT-Intern_R-40138",
+      "workday:mksinst:/job/Andover-MA/XMLNAME-2027-Summer-BI-Data-Analytics-IT-Intern_R20657",
+      "smartrecruiters:PilotCompany:744000148578069",
+      "smartrecruiters:PilotCompany:744000148577368",
+      "smartrecruiters:PilotCompany:744000148574954",
+      "smartrecruiters:PilotCompany:744000148572860",
+      "greenhouse:schonfeld:8171699"
+    ]
   }
 }

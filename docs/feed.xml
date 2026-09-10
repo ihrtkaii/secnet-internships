@@ -5,8 +5,72 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-10T11:31:06Z</updated>
+  <updated>2026-09-10T16:39:20Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:lever:immuta:3c4cb235-6138-4a50-add2-666a5216427e</id>
+    <title>Immuta: Platform &amp; Site Reliability Engineering Internship - Summer 2027</title>
+    <link href="https://jobs.lever.co/immuta/3c4cb235-6138-4a50-add2-666a5216427e"/>
+    <updated>2026-09-10T16:39:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Columbus, OH · 25–30 USD/hr · AWS, GCP, Azure, Databricks, Snowflake</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cigna:/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/The-Cigna-Group-s-Technology-Development-Program-----Infrastructure---Cloud-Engineering-Track_26009529</id>
+    <title>Cigna Group: The Cigna Group's Technology Development Program  -  Infrastructure &amp; Cloud Engineering Track Summer Internship</title>
+    <link href="https://cigna.wd5.myworkdayjobs.com/cignacareers/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/The-Cigna-Group-s-Technology-Development-Program-----Infrastructure---Cloud-Engineering-Track_26009529"/>
+    <updated>2026-09-10T16:39:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Cloud Platform · CT, Bloomfield, 900 Cottage Grove Rd Wilde Bldg · $25–$33/hr · Python, Java, JavaScript, Bash, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:landolakes:/job/Arden-Hills-MN-USA/IT-Intern_R-40138</id>
+    <title>Land O'Lakes: IT Intern</title>
+    <link href="https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Arden-Hills-MN-USA/IT-Intern_R-40138"/>
+    <updated>2026-09-10T16:39:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · IT Support / Ops · Arden Hills, MN (USA) · H-1B track record: ~17 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:PilotCompany:744000148578069</id>
+    <title>Pilot Company: Program Intern, Cloud Operations</title>
+    <link href="https://jobs.smartrecruiters.com/PilotCompany/744000148578069"/>
+    <updated>2026-09-10T16:39:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Cloud Platform · Knoxville, TN, United States · Python, AWS, Terraform, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:PilotCompany:744000148577368</id>
+    <title>Pilot Company: Program Intern, Infrastructure Support</title>
+    <link href="https://jobs.smartrecruiters.com/PilotCompany/744000148577368"/>
+    <updated>2026-09-10T16:39:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Knoxville, TN, United States · AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:PilotCompany:744000148574954</id>
+    <title>Pilot Company: Program Intern, End User Service Desk</title>
+    <link href="https://jobs.smartrecruiters.com/PilotCompany/744000148574954"/>
+    <updated>2026-09-10T16:39:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · IT Support / Ops · Knoxville, TN, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:PilotCompany:744000148572860</id>
+    <title>Pilot Company: Program Intern, Network Operations</title>
+    <link href="https://jobs.smartrecruiters.com/PilotCompany/744000148572860"/>
+    <updated>2026-09-10T16:39:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Network / Telecom · Knoxville, TN, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:schonfeld:8171699</id>
+    <title>Schonfeld: 2027 Platform Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8171699"/>
+    <updated>2026-09-10T16:39:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · New York, New York, United States · Python, Bash, AWS, Kubernetes, Terraform</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:bah:/job/McLean-VA/Enterprise-Cybersecurity-Education-and-Execution-Intern_R0249071</id>
     <title>Booz Allen: Enterprise Cybersecurity Education and Execution Intern 🇺🇸</title>
@@ -16,12 +80,12 @@
     <summary>Not stated · Security (general) · McLean, VA · $108k/yr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:bah:/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Vulnerability-Intern_R0249085</id>
-    <title>Booz Allen: University – Summer 27, Enterprise Cybersecurity Vulnerability Intern 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Vulnerability-Intern_R0249085"/>
+    <id>urn:intern-engine:workday:bah:/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249083</id>
+    <title>Booz Allen: University – Summer 27, Enterprise Cybersecurity Data Loss Prevention Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249083"/>
     <updated>2026-09-10T11:31:06Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Security (general) · McLean, VA · $126k/yr · Python, SQL, AWS, GCP, Azure · sponsorship: citizens-only</summary>
+    <summary>Not stated · Security (general) · McLean, VA · $108k/yr · AWS, GCP, Azure · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:bah:/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-IT-Policy-Intern_R0249077</id>
@@ -32,12 +96,12 @@
     <summary>Not stated · GRC / Risk · McLean, VA · $108k/yr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:bah:/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249083</id>
-    <title>Booz Allen: University – Summer 27, Enterprise Cybersecurity Data Loss Prevention Intern 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249083"/>
+    <id>urn:intern-engine:workday:bah:/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Vulnerability-Intern_R0249085</id>
+    <title>Booz Allen: University – Summer 27, Enterprise Cybersecurity Vulnerability Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Vulnerability-Intern_R0249085"/>
     <updated>2026-09-10T11:31:06Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Security (general) · McLean, VA · $108k/yr · AWS, GCP, Azure · sponsorship: citizens-only</summary>
+    <summary>Not stated · Security (general) · McLean, VA · $126k/yr · Python, SQL, AWS, GCP, Azure · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:rocketlab:7987046003</id>
@@ -742,69 +806,5 @@
     <updated>2026-09-02T16:47:03Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Newark NJ · Python, SQL, Azure · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:iatinsurancegroup:/job/Raleigh-NC/Cyber-Security-Internship_JR100410</id>
-    <title>IAT Insurance Group: Cyber Security Internship 🛂</title>
-    <link href="https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Raleigh-NC/Cyber-Security-Internship_JR100410"/>
-    <updated>2026-09-02T16:47:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Raleigh NC · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:trwd:/job/Fort-Worth-TX/Summer-2027-Infrastructure-Engineering-Intern--T036-_JR100218</id>
-    <title>Tarrant Regional Water District: Summer 2027 Infrastructure Engineering Intern (T036)</title>
-    <link href="https://trwd.wd1.myworkdayjobs.com/TRWDCareers/job/Fort-Worth-TX/Summer-2027-Infrastructure-Engineering-Intern--T036-_JR100218"/>
-    <updated>2026-09-02T16:47:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Fort Worth, TX · $18.54–$27.82/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:usfoods:/job/Rosemont-IL/Intern---Cybersecurity-Operations--Hybrid--Onsite---Remote-_R282117</id>
-    <title>US Foods: Intern – Cybersecurity Operations (Hybrid: Onsite &amp; Remote) 🛂</title>
-    <link href="https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Rosemont-IL/Intern---Cybersecurity-Operations--Hybrid--Onsite---Remote-_R282117"/>
-    <updated>2026-09-02T16:47:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Rosemont IL · Python, Bash, Linux · sponsorship: no-sponsorship · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:usfoods:/job/Rosemont-IL/Intern---Cybersecurity-Risk--Hybrid--Onsite---Remote-_R282118</id>
-    <title>US Foods: Intern – Cybersecurity Risk (Hybrid: Onsite &amp; Remote) 🛂</title>
-    <link href="https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Rosemont-IL/Intern---Cybersecurity-Risk--Hybrid--Onsite---Remote-_R282118"/>
-    <updated>2026-09-02T16:47:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Rosemont IL · sponsorship: no-sponsorship · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:altera:/job/San-Jose-California-United-States/Graduate-Intern---Engineering-Infrastructure_R03066</id>
-    <title>Altera Corporation: Graduate Intern - Engineering Infrastructure</title>
-    <link href="https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Graduate-Intern---Engineering-Infrastructure_R03066"/>
-    <updated>2026-09-02T04:39:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · San Jose, California, United States · Python, Bash, AWS, Terraform, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:armaninollp:/job/Dallas-Texas/Summer-2027-IT-Audit-Intern--Dallas-_JR104286</id>
-    <title>Armanino: Summer 2027 IT Audit Intern (Dallas)</title>
-    <link href="https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/Dallas-Texas/Summer-2027-IT-Audit-Intern--Dallas-_JR104286"/>
-    <updated>2026-09-02T04:39:05Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · GRC / Risk · Dallas, Texas · H-1B track record: ~21 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:armaninollp:/job/Denver-Colorado/Summer-2027-IT-Audit-Intern_JR104282</id>
-    <title>Armanino: Summer 2027 IT Audit Intern (Denver)</title>
-    <link href="https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/Denver-Colorado/Summer-2027-IT-Audit-Intern_JR104282"/>
-    <updated>2026-09-02T04:39:05Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · GRC / Risk · Denver, Colorado · $33/hr · H-1B track record: ~21 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:armaninollp:/job/St-Louis-Missouri/Summer-2027-IT-Audit-Intern--Denver-_JR104283</id>
-    <title>Armanino: Summer 2027 IT Audit Intern (Saint Louis)</title>
-    <link href="https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/St-Louis-Missouri/Summer-2027-IT-Audit-Intern--Denver-_JR104283"/>
-    <updated>2026-09-02T04:39:05Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · GRC / Risk · St. Louis, Missouri · H-1B track record: ~21 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

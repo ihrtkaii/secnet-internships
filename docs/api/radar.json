@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-10T11:31:06Z",
- "data_as_of": "2026-09-10T11:31:06Z",
- "rendered_at": "2026-09-10T11:31:06Z",
+ "generated_at": "2026-09-10T16:39:20Z",
+ "data_as_of": "2026-09-10T16:39:20Z",
+ "rendered_at": "2026-09-10T16:39:20Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -644,6 +644,25 @@
    "days_until": -15,
    "status": "open",
    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/SharePoint---Systems-Engineering-Intern_R-00190982",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-26"
+   }
+  },
+  {
+   "company": "MKS Instruments",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-26",
+   "days_until": -15,
+   "status": "open",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Andover-MA/XMLNAME-2027-Summer-BI-Data-Analytics-IT-Intern_R20657",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1488,6 +1507,44 @@
    }
   },
   {
+   "company": "Immuta",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-09",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://jobs.lever.co/immuta/3c4cb235-6138-4a50-add2-666a5216427e",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-09"
+   }
+  },
+  {
+   "company": "Pilot Company",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-09",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://jobs.smartrecruiters.com/PilotCompany/744000148578069",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-09"
+   }
+  },
+  {
    "company": "Rocket Lab",
    "last_cycle_posted": "",
    "posted_on": "2026-09-09",
@@ -1504,6 +1561,44 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-09"
+   }
+  },
+  {
+   "company": "Cigna Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-10",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/The-Cigna-Group-s-Technology-Development-Program-----Infrastructure---Cloud-Engineering-Track_26009529",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-10"
+   }
+  },
+  {
+   "company": "Land O'Lakes",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-10",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Arden-Hills-MN-USA/IT-Intern_R-40138",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-10"
    }
   },
   {
@@ -1526,25 +1621,6 @@
    }
   },
   {
-   "company": "MKS Instruments",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-26",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-26",
-   "days_until": -15,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-26"
-   }
-  },
-  {
    "company": "Ercot",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
@@ -1564,5 +1640,5 @@
    }
   }
  ],
- "count": 82
+ "count": 86
 }

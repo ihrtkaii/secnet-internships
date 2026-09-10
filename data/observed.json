@@ -363,6 +363,18 @@
     }
    }
   },
+  "cigna group": {
+   "name": "Cigna Group",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "workday:cigna:/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/The-Cigna-Group-s-Technology-Development-Program-----Infrastructure---Cloud-Engineering-Track_26009529"
+     ],
+     "count": 1
+    }
+   }
+  },
   "cno financial group": {
    "name": "CNO Financial Group",
    "cycles": {
@@ -673,6 +685,18 @@
     }
    }
   },
+  "immuta": {
+   "name": "Immuta",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "lever:immuta:3c4cb235-6138-4a50-add2-666a5216427e"
+     ],
+     "count": 1
+    }
+   }
+  },
   "ing": {
    "name": "ING",
    "cycles": {
@@ -695,6 +719,18 @@
       "workday:keybank:/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Security--Business---Strategy-Track-Internship--Cleveland_R-41390"
      ],
      "count": 2
+    }
+   }
+  },
+  "land o lakes": {
+   "name": "Land O'Lakes",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "workday:landolakes:/job/Arden-Hills-MN-USA/IT-Intern_R-40138"
+     ],
+     "count": 1
     }
    }
   },
@@ -949,6 +985,21 @@
     }
    }
   },
+  "pilot": {
+   "name": "Pilot Company",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "smartrecruiters:PilotCompany:744000148572860",
+      "smartrecruiters:PilotCompany:744000148574954",
+      "smartrecruiters:PilotCompany:744000148577368",
+      "smartrecruiters:PilotCompany:744000148578069"
+     ],
+     "count": 4
+    }
+   }
+  },
   "qts": {
    "name": "QTS",
    "cycles": {
@@ -1042,9 +1093,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-04",
      "role_ids": [
-      "greenhouse:schonfeld:8171696"
+      "greenhouse:schonfeld:8171696",
+      "greenhouse:schonfeld:8171699"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1226,5 +1278,5 @@
    }
   }
  },
- "updated_at": "2026-09-10T11:31:06Z"
+ "updated_at": "2026-09-10T16:39:20Z"
 }
