@@ -1,42 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:hcgn.fa.us2.oraclecloud.com:49284",
-      "oracle:hcgn.fa.us2.oraclecloud.com:49286",
-      "oracle:hcgn.fa.us2.oraclecloud.com:49285",
-      "oracle:hcgn.fa.us2.oraclecloud.com:49287",
-      "oracle:hcgn.fa.us2.oraclecloud.com:49288",
-      "oracle:hcgn.fa.us2.oraclecloud.com:49289",
-      "oracle:edbz.fa.us2.oraclecloud.com:25017917",
-      "oracle:edbz.fa.us2.oraclecloud.com:25017914",
-      "oracle:edbz.fa.us2.oraclecloud.com:25017542",
-      "workday:abglobal:/job/Nashville-Tennessee/Infrastructure-Engineering-Summer-Intern_R0019749",
-      "smartrecruiters:KnobelsdorffEnterprises:744000148832985",
-      "smartrecruiters:KnobelsdorffEnterprises:744000148834584",
-      "workday:lego:/job/Temp-Richmond-Manufacturing/Security-Intern_0000035337",
-      "workday:oshkoshcorporation:/job/Oshkosh-Wisconsin-United-States/Cyber-Security-Intern_R50267",
-      "greenhouse:tanium:8189328",
-      "workday:ttc:/job/Bloomington-MN/Electrical-Systems-Engineering-Intern---The-Toro-Company_JR17164",
-      "workday:vermeer:/job/Piedmont-South-Carolina-USA/Systems-Engineer-Intern_REQ-22256"
-    ],
-    "telegram": [
-      "oracle:hcgn.fa.us2.oraclecloud.com:49284",
-      "oracle:hcgn.fa.us2.oraclecloud.com:49286",
-      "oracle:hcgn.fa.us2.oraclecloud.com:49285",
-      "oracle:hcgn.fa.us2.oraclecloud.com:49287",
-      "oracle:hcgn.fa.us2.oraclecloud.com:49288",
-      "oracle:hcgn.fa.us2.oraclecloud.com:49289",
-      "oracle:edbz.fa.us2.oraclecloud.com:25017917",
-      "oracle:edbz.fa.us2.oraclecloud.com:25017914",
-      "oracle:edbz.fa.us2.oraclecloud.com:25017542",
-      "workday:abglobal:/job/Nashville-Tennessee/Infrastructure-Engineering-Summer-Intern_R0019749",
-      "smartrecruiters:KnobelsdorffEnterprises:744000148832985",
-      "smartrecruiters:KnobelsdorffEnterprises:744000148834584",
-      "workday:lego:/job/Temp-Richmond-Manufacturing/Security-Intern_0000035337",
-      "workday:oshkoshcorporation:/job/Oshkosh-Wisconsin-United-States/Cyber-Security-Intern_R50267",
-      "greenhouse:tanium:8189328",
-      "workday:ttc:/job/Bloomington-MN/Electrical-Systems-Engineering-Intern---The-Toro-Company_JR17164",
-      "workday:vermeer:/job/Piedmont-South-Carolina-USA/Systems-Engineer-Intern_REQ-22256"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
