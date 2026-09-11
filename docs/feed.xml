@@ -5,15 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-10T23:25:47Z</updated>
+  <updated>2026-09-11T04:47:59Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
-    <id>urn:intern-engine:ashby:bedrock-robotics:d7da851b-55c2-45d4-bf8b-aa879282f25c</id>
-    <title>Bedrock Robotics: Internship 2027 Sensor Systems Engineer</title>
-    <link href="https://jobs.ashbyhq.com/bedrock-robotics/d7da851b-55c2-45d4-bf8b-aa879282f25c"/>
-    <updated>2026-09-10T23:25:47Z</updated>
+    <id>urn:intern-engine:workday:avav:/job/Petaluma-CA/Systems-Engineering-Intern_8592</id>
+    <title>Avav: Systems Engineering Intern 🇺🇸</title>
+    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Petaluma-CA/Systems-Engineering-Intern_8592"/>
+    <updated>2026-09-11T04:47:59Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Petaluma, CA · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:avav:/job/Moorpark-CA/Summer-2027-Systems-Engineering-Test-Intern_8552</id>
+    <title>Avav: Summer 2027 Systems Engineering/Test Intern 🇺🇸</title>
+    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Moorpark-CA/Summer-2027-Systems-Engineering-Test-Intern_8552"/>
+    <updated>2026-09-11T04:47:59Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · San Francisco, CA · Python</summary>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Moorpark, CA · Python, MATLAB · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:WellmarkInc:744000148918178</id>
+    <title>Wellmark: Cyber Security Internship</title>
+    <link href="https://jobs.smartrecruiters.com/WellmarkInc/744000148918178"/>
+    <updated>2026-09-11T04:47:59Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Des Moines, IA, United States (Hybrid) · Python, Bash · H-1B track record: ~15 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:bedrock-robotics:0331551e-c18e-428a-8e91-e6cb25c9c2e8</id>
@@ -22,6 +38,14 @@
     <updated>2026-09-10T23:25:47Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · San Francisco, CA · C++, Rust, PyTorch, LLMs, CUDA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:bedrock-robotics:d7da851b-55c2-45d4-bf8b-aa879282f25c</id>
+    <title>Bedrock Robotics: Internship 2027 Sensor Systems Engineer</title>
+    <link href="https://jobs.ashbyhq.com/bedrock-robotics/d7da851b-55c2-45d4-bf8b-aa879282f25c"/>
+    <updated>2026-09-10T23:25:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · San Francisco, CA · Python</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:bah:/job/Annapolis-Junction-MD/University---Summer-2027---Systems-Administrator-Intern_R0249226</id>
@@ -782,29 +806,5 @@
     <updated>2026-09-02T23:33:16Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · United States-Arizona-Gilbert · $23–$28/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-Systems-Engineer-Intern---Redondo-Beach-CA_R10249113</id>
-    <title>Northrop Grumman: 2027 Systems Engineer Intern - Redondo Beach CA 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Systems-Engineer-Intern---Redondo-Beach-CA_R10249113"/>
-    <updated>2026-09-02T23:33:16Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · United States-California-Redondo Beach · $26.75–$32.5/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ehzq.fa.us2.oraclecloud.com:115752</id>
-    <title>Grant Thornton: Cybersecurity and Privacy Intern - Summer 2027 🛂</title>
-    <link href="https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115752"/>
-    <updated>2026-09-02T21:15:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Los Angeles, CA, United States · $40/hr · sponsorship: no-sponsorship · H-1B track record: ~118 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:caci:/job/Sterling-VA-US/DevOps-Software-Engineering-Intern---Summer-2027_331466</id>
-    <title>CACI: DevOps/Software Engineering Intern - Summer 2027</title>
-    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/DevOps-Software-Engineering-Intern---Summer-2027_331466"/>
-    <updated>2026-09-02T21:15:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Sterling, VA, US · Python, Java, Linux, Git</summary>
   </entry>
 </feed>

@@ -204,6 +204,18 @@
     }
    }
   },
+  "avav": {
+   "name": "Avav",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "workday:avav:/job/Moorpark-CA/Summer-2027-Systems-Engineering-Test-Intern_8552"
+     ],
+     "count": 1
+    }
+   }
+  },
   "awetomaton": {
    "name": "Awetomaton",
    "cycles": {
@@ -1331,5 +1343,5 @@
    }
   }
  },
- "updated_at": "2026-09-10T23:25:47Z"
+ "updated_at": "2026-09-11T04:47:59Z"
 }
