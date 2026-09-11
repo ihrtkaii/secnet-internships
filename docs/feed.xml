@@ -5,15 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-11T04:47:59Z</updated>
+  <updated>2026-09-11T11:31:09Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:avav:/job/Petaluma-CA/Systems-Engineering-Intern_8592</id>
-    <title>Avav: Systems Engineering Intern 🇺🇸</title>
-    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Petaluma-CA/Systems-Engineering-Intern_8592"/>
+    <id>urn:intern-engine:smartrecruiters:WellmarkInc:744000148918178</id>
+    <title>Wellmark: Cyber Security Internship</title>
+    <link href="https://jobs.smartrecruiters.com/WellmarkInc/744000148918178"/>
     <updated>2026-09-11T04:47:59Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Petaluma, CA · sponsorship: citizens-only</summary>
+    <summary>Not stated · Security (general) · Des Moines, IA, United States (Hybrid) · Python, Bash · H-1B track record: ~15 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:avav:/job/Moorpark-CA/Summer-2027-Systems-Engineering-Test-Intern_8552</id>
@@ -24,12 +24,12 @@
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Moorpark, CA · Python, MATLAB · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:WellmarkInc:744000148918178</id>
-    <title>Wellmark: Cyber Security Internship</title>
-    <link href="https://jobs.smartrecruiters.com/WellmarkInc/744000148918178"/>
+    <id>urn:intern-engine:workday:avav:/job/Petaluma-CA/Systems-Engineering-Intern_8592</id>
+    <title>Avav: Systems Engineering Intern 🇺🇸</title>
+    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Petaluma-CA/Systems-Engineering-Intern_8592"/>
     <updated>2026-09-11T04:47:59Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Des Moines, IA, United States (Hybrid) · Python, Bash · H-1B track record: ~15 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Systems &amp; Cloud Infra · Petaluma, CA · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:bedrock-robotics:0331551e-c18e-428a-8e91-e6cb25c9c2e8</id>
