@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:avav:/job/Petaluma-CA/Systems-Engineering-Intern_8592",
-      "workday:avav:/job/Moorpark-CA/Summer-2027-Systems-Engineering-Test-Intern_8552",
-      "smartrecruiters:WellmarkInc:744000148918178"
-    ],
-    "telegram": [
-      "workday:avav:/job/Petaluma-CA/Systems-Engineering-Intern_8592",
-      "workday:avav:/job/Moorpark-CA/Summer-2027-Systems-Engineering-Test-Intern_8552",
-      "smartrecruiters:WellmarkInc:744000148918178"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
