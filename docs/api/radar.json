@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-11T11:31:09Z",
- "data_as_of": "2026-09-11T11:31:09Z",
- "rendered_at": "2026-09-11T11:31:09Z",
+ "generated_at": "2026-09-11T16:40:09Z",
+ "data_as_of": "2026-09-11T16:40:09Z",
+ "rendered_at": "2026-09-11T16:40:09Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -1697,6 +1697,44 @@
    }
   },
   {
+   "company": "Citizens Financial Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49284",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-11"
+   }
+  },
+  {
+   "company": "The Toro Company",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Electrical-Systems-Engineering-Intern---The-Toro-Company_JR17164",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-11"
+   }
+  },
+  {
    "company": "CNO Financial Group",
    "last_cycle_posted": "",
    "posted_on": "2026-08-03",
@@ -1735,5 +1773,5 @@
    }
   }
  ],
- "count": 91
+ "count": 93
 }

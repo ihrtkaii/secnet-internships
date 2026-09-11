@@ -402,6 +402,23 @@
     }
    }
   },
+  "citizens financial group": {
+   "name": "Citizens Financial Group",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-11",
+     "role_ids": [
+      "oracle:hcgn.fa.us2.oraclecloud.com:49284",
+      "oracle:hcgn.fa.us2.oraclecloud.com:49285",
+      "oracle:hcgn.fa.us2.oraclecloud.com:49286",
+      "oracle:hcgn.fa.us2.oraclecloud.com:49287",
+      "oracle:hcgn.fa.us2.oraclecloud.com:49288",
+      "oracle:hcgn.fa.us2.oraclecloud.com:49289"
+     ],
+     "count": 6
+    }
+   }
+  },
   "cno financial group": {
    "name": "CNO Financial Group",
    "cycles": {
@@ -1251,6 +1268,18 @@
     }
    }
   },
+  "toro": {
+   "name": "The Toro Company",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-11",
+     "role_ids": [
+      "workday:ttc:/job/Bloomington-MN/Electrical-Systems-Engineering-Intern---The-Toro-Company_JR17164"
+     ],
+     "count": 1
+    }
+   }
+  },
   "u s bank": {
    "name": "U.S. Bank",
    "cycles": {
@@ -1343,5 +1372,5 @@
    }
   }
  },
- "updated_at": "2026-09-11T11:31:09Z"
+ "updated_at": "2026-09-11T16:40:09Z"
 }
