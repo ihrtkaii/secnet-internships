@@ -5,8 +5,72 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-11T16:40:09Z</updated>
+  <updated>2026-09-11T21:11:13Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10537998</id>
+    <title>Amazon: Data Center Engineering Operations Technician Internship 🛂</title>
+    <link href="https://www.amazon.jobs/en/jobs/10537998/data-center-engineering-operations-technician-internship"/>
+    <updated>2026-09-11T21:11:13Z</updated>
+    <category term="Summer 2026"/>
+    <summary>Summer 2026 · Systems &amp; Cloud Infra · Sterling, Virginia, USA · AWS · sponsorship: no-sponsorship · status: closed · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:erickson:/job/Baltimore-MD/College-Intern-Corporate_R0103863-1</id>
+    <title>Erickson Senior Living: Corporate IT Intern</title>
+    <link href="https://erickson.wd108.myworkdayjobs.com/external/job/Baltimore-MD/College-Intern-Corporate_R0103863-1"/>
+    <updated>2026-09-11T21:11:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · IT Support / Ops · Baltimore, MD · $18–$20/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:magna:/job/Holland-Michigan-US/Magna-Engineered-Glass--IT-Intern--part-time-_R00261528</id>
+    <title>Magna International: Magna Engineered Glass: IT Intern (part-time)</title>
+    <link href="https://magna.wd3.myworkdayjobs.com/Magna/job/Holland-Michigan-US/Magna-Engineered-Glass--IT-Intern--part-time-_R00261528"/>
+    <updated>2026-09-11T21:11:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · IT Support / Ops · Holland, Michigan, US · Python, JavaScript, HTML/CSS · H-1B track record: ~141 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:swbc:/job/San-Antonio-TX/Security-Operations---Compliance-Intern_R0015535-2</id>
+    <title>SWBC: Security Operations &amp; Compliance Intern</title>
+    <link href="https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Security-Operations---Compliance-Intern_R0015535-2"/>
+    <updated>2026-09-11T21:11:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · SOC / Detection · San Antonio, TX</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:tanium:8189328</id>
+    <title>Tanium: Technical Support Engineer (TSE) Intern</title>
+    <link href="https://job-boards.greenhouse.io/tanium/jobs/8189328"/>
+    <updated>2026-09-11T16:40:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · IT Support / Ops · Bellevue, WA (Hybrid); Emeryville, CA (Hybrid) · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017542</id>
+    <title>Texas Instruments: Systems Engineering Intern - MS/PhD</title>
+    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017542"/>
+    <updated>2026-09-11T16:40:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Dallas, TX, United States; Sugar Land, TX, United States; Knoxville, TN, United States · C++, MATLAB · H-1B track record: ~234 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017914</id>
+    <title>Texas Instruments: Systems Engineering Intern(SEM) - A&amp;D 🛂</title>
+    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017914"/>
+    <updated>2026-09-11T16:40:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Dallas, TX, United States · C++, MATLAB · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017917</id>
+    <title>Texas Instruments: Systems Engineering Intern 🛂</title>
+    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017917"/>
+    <updated>2026-09-11T16:40:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Dallas, TX, United States; Sugar Land, TX, United States · C++, MATLAB · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:hcgn.fa.us2.oraclecloud.com:49284</id>
     <title>Citizens Financial Group: Cloud Engineer Summer 2027 Intern | Enterprise Technology &amp; Security Summer Internship Program</title>
@@ -16,20 +80,20 @@
     <summary>Summer 2027 · Security (general) · United States · Python, Java, JavaScript, SQL, AWS · H-1B track record: ~290 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:hcgn.fa.us2.oraclecloud.com:49286</id>
-    <title>Citizens Financial Group: Software Engineer Summer 2027 Intern | Enterprise Technology &amp; Security Summer Internship Program</title>
-    <link href="https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286"/>
-    <updated>2026-09-11T16:40:09Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · United States · Python, Java, C++, JavaScript, Swift · H-1B track record: ~290 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:oracle:hcgn.fa.us2.oraclecloud.com:49285</id>
     <title>Citizens Financial Group: Data Engineer Summer 2027 Intern | Enterprise Technology &amp; Security Summer Internship Program</title>
     <link href="https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285"/>
     <updated>2026-09-11T16:40:09Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · United States · Python, Java, SQL, LLMs, Django · H-1B track record: ~290 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hcgn.fa.us2.oraclecloud.com:49286</id>
+    <title>Citizens Financial Group: Software Engineer Summer 2027 Intern | Enterprise Technology &amp; Security Summer Internship Program</title>
+    <link href="https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286"/>
+    <updated>2026-09-11T16:40:09Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · United States · Python, Java, C++, JavaScript, Swift · H-1B track record: ~290 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:hcgn.fa.us2.oraclecloud.com:49287</id>
@@ -56,38 +120,6 @@
     <summary>Summer 2027 · Security (general) · United States · Linux · H-1B track record: ~290 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017917</id>
-    <title>Texas Instruments: Systems Engineering Intern 🛂</title>
-    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017917"/>
-    <updated>2026-09-11T16:40:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Dallas, TX, United States; Sugar Land, TX, United States · C++, MATLAB · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017914</id>
-    <title>Texas Instruments: Systems Engineering Intern(SEM) - A&amp;D 🛂</title>
-    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017914"/>
-    <updated>2026-09-11T16:40:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Dallas, TX, United States · C++, MATLAB · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017542</id>
-    <title>Texas Instruments: Systems Engineering Intern - MS/PhD</title>
-    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017542"/>
-    <updated>2026-09-11T16:40:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Dallas, TX, United States; Sugar Land, TX, United States; Knoxville, TN, United States · C++, MATLAB · H-1B track record: ~234 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:abglobal:/job/Nashville-Tennessee/Infrastructure-Engineering-Summer-Intern_R0019749</id>
-    <title>AllianceBernstein: Infrastructure Engineering Summer Intern 🇺🇸</title>
-    <link href="https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Infrastructure-Engineering-Summer-Intern_R0019749"/>
-    <updated>2026-09-11T16:40:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Nashville, Tennessee · SQL, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:smartrecruiters:KnobelsdorffEnterprises:744000148832985</id>
     <title>Knobelsdorff Enterprises: IT Intern</title>
     <link href="https://jobs.smartrecruiters.com/KnobelsdorffEnterprises/744000148832985"/>
@@ -104,6 +136,14 @@
     <summary>Not stated · Systems &amp; Cloud Infra · Eagan, MN, United States · $20–$25/hr</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:abglobal:/job/Nashville-Tennessee/Infrastructure-Engineering-Summer-Intern_R0019749</id>
+    <title>AllianceBernstein: Infrastructure Engineering Summer Intern 🇺🇸</title>
+    <link href="https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Infrastructure-Engineering-Summer-Intern_R0019749"/>
+    <updated>2026-09-11T16:40:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Nashville, Tennessee · SQL, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:lego:/job/Temp-Richmond-Manufacturing/Security-Intern_0000035337</id>
     <title>LEGO: Facility Security Intern</title>
     <link href="https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Temp-Richmond-Manufacturing/Security-Intern_0000035337"/>
@@ -118,14 +158,6 @@
     <updated>2026-09-11T16:40:09Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security (general) · Oshkosh, Wisconsin, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:tanium:8189328</id>
-    <title>Tanium: Technical Support Engineer (TSE) Intern</title>
-    <link href="https://job-boards.greenhouse.io/tanium/jobs/8189328"/>
-    <updated>2026-09-11T16:40:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · IT Support / Ops · Bellevue, WA (Hybrid); Emeryville, CA (Hybrid) · H-1B track record: ~11 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ttc:/job/Bloomington-MN/Electrical-Systems-Engineering-Intern---The-Toro-Company_JR17164</id>
@@ -774,37 +806,5 @@
     <updated>2026-09-04T16:35:12Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Other · Marlborough, MA 01752 · $24–$25/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tjx:/job/Marlborough-MA-01752/IT-Engineer-Internship---Summer-2027_REQ153160</id>
-    <title>TJX: IT Engineer Internship - Summer 2027</title>
-    <link href="https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Marlborough-MA-01752/IT-Engineer-Internship---Summer-2027_REQ153160"/>
-    <updated>2026-09-04T16:35:12Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Other · Marlborough, MA 01752 · $25–$26/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:foth:072d5e17-c095-49bc-ac02-4cd558bb5d64</id>
-    <title>FOTH: Civil Engineering Intern-Coastal Infrastructure (Summer 2027)</title>
-    <link href="https://jobs.lever.co/foth/072d5e17-c095-49bc-ac02-4cd558bb5d64"/>
-    <updated>2026-09-03T21:15:08Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Newport, Rhode Island · 21–26 USD/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:foth:78374fff-0ecd-4505-9f9d-bbfb0686c51e</id>
-    <title>FOTH: Mechanical Packaging Systems Engineering Co-op (Summer/Fall 2027)</title>
-    <link href="https://jobs.lever.co/foth/78374fff-0ecd-4505-9f9d-bbfb0686c51e"/>
-    <updated>2026-09-03T21:15:08Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Green Bay, Wisconsin</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:foth:95f75d08-ec27-48ff-8c60-dcf2d5720885</id>
-    <title>FOTH: Civil Engineering Intern-Waterfront Infrastructure (Summer 2027)</title>
-    <link href="https://jobs.lever.co/foth/95f75d08-ec27-48ff-8c60-dcf2d5720885"/>
-    <updated>2026-09-03T21:15:08Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Green Bay, Wisconsin</summary>
   </entry>
 </feed>

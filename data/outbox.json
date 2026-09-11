@@ -1,6 +1,14 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:erickson:/job/Baltimore-MD/College-Intern-Corporate_R0103863-1",
+      "workday:magna:/job/Holland-Michigan-US/Magna-Engineered-Glass--IT-Intern--part-time-_R00261528",
+      "workday:swbc:/job/San-Antonio-TX/Security-Operations---Compliance-Intern_R0015535-2"
+    ],
+    "telegram": [
+      "workday:erickson:/job/Baltimore-MD/College-Intern-Corporate_R0103863-1",
+      "workday:magna:/job/Holland-Michigan-US/Magna-Engineered-Glass--IT-Intern--part-time-_R00261528",
+      "workday:swbc:/job/San-Antonio-TX/Security-Operations---Compliance-Intern_R0015535-2"
+    ]
   }
 }
