@@ -5,15 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-12T04:42:25Z</updated>
+  <updated>2026-09-12T10:57:53Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:entegris:/job/Chaska-MN/Cybersecurity-Engineer-Co-Op_REQ-14472-1</id>
-    <title>Entegris: Cybersecurity Engineer Co-Op</title>
-    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Cybersecurity-Engineer-Co-Op_REQ-14472-1"/>
+    <id>urn:intern-engine:workday:ascensushr:/job/Dresher-PA/Compliance-Analyst--College-Savings---Compliance_R0021928</id>
+    <title>Ascensus: Compliance Analyst, College Savings - Co-Op</title>
+    <link href="https://ascensushr.wd1.myworkdayjobs.com/ascensuscareers/job/Dresher-PA/Compliance-Analyst--College-Savings---Compliance_R0021928"/>
     <updated>2026-09-12T04:42:25Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Security (general) · Chaska, MN · $20–$30/hr · Python, GCP, Azure, Terraform, Git · status: closed · H-1B track record: ~60 approvals (FY2022–2023)</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · GRC / Risk · Dresher, PA · H-1B track record: ~18 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:entegris:/job/Chaska-MN/Cyber-Threat-Analyst-Co-Op_REQ-14505</id>
@@ -24,20 +24,20 @@
     <summary>Spring 2027 · SOC / Detection · Chaska, MN · $20–$30/hr · status: closed · H-1B track record: ~60 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:entegris:/job/Chaska-MN/Cybersecurity-Engineer-Co-Op_REQ-14472-1</id>
+    <title>Entegris: Cybersecurity Engineer Co-Op</title>
+    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Cybersecurity-Engineer-Co-Op_REQ-14472-1"/>
+    <updated>2026-09-12T04:42:25Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Security (general) · Chaska, MN · $20–$30/hr · Python, GCP, Azure, Terraform, Git · status: closed · H-1B track record: ~60 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:entegris:/job/Rockrimmon-Colorado-Springs-CO/Manufacturing-Systems-Engineer-Co-Op_REQ-14437</id>
     <title>Entegris: Manufacturing Systems Engineer Co-Op</title>
     <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Manufacturing-Systems-Engineer-Co-Op_REQ-14437"/>
     <updated>2026-09-12T04:42:25Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Systems &amp; Cloud Infra · Rockrimmon, Colorado Springs, CO · $20–$30/hr · status: closed · H-1B track record: ~60 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ascensushr:/job/Dresher-PA/Compliance-Analyst--College-Savings---Compliance_R0021928</id>
-    <title>Ascensus: Compliance Analyst, College Savings - Co-Op</title>
-    <link href="https://ascensushr.wd1.myworkdayjobs.com/ascensuscareers/job/Dresher-PA/Compliance-Analyst--College-Savings---Compliance_R0021928"/>
-    <updated>2026-09-12T04:42:25Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · GRC / Risk · Dresher, PA · H-1B track record: ~18 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10537998</id>

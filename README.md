@@ -8,7 +8,7 @@
 
 ### 359 open roles (337 listed below) · 87 new this week
 
-4,535 employers tracked · data as of Sep 12, 2026 at 04:42 UTC
+4,535 employers tracked · data as of Sep 12, 2026 at 10:57 UTC
 
 _246 have a cycle the employer stated · 113 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -235,7 +235,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Pilot Company | Program Intern, End User Service Desk 🆕 | IT Support / Ops | Knoxville, TN, United States | No skills listed | Sep 09, 2026 | [Apply](https://jobs.smartrecruiters.com/PilotCompany/744000148574954) |
 | Pilot Company | Program Intern, Infrastructure Support 🆕 | Systems & Cloud Infra | Knoxville, TN, United States | AWS | Sep 09, 2026 | [Apply](https://jobs.smartrecruiters.com/PilotCompany/744000148577368) |
 | Pilot Company | Program Intern, Cloud Operations 🆕 | Cloud Platform | Knoxville, TN, United States | Python, AWS, Terraform, Linux | Sep 09, 2026 | [Apply](https://jobs.smartrecruiters.com/PilotCompany/744000148578069) |
-| Rocket Lab | Systems Engineering Intern Summer 2027 🇺🇸 🆕 | Systems & Cloud Infra | Long Beach, CA | No skills listed | Sep 09, 2026 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987046003) |
+| Rocket Lab | Systems Engineering Intern Summer 2027 🇺🇸 | Systems & Cloud Infra | Long Beach, CA | No skills listed | Sep 09, 2026 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987046003) |
 | CACI | DevOps/Software Engineering Intern - Summer 2027 | Systems & Cloud Infra | Denver, CO, US | Python, Java, Linux, Git | Sep 09, 2026 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/DevOps-Software-Engineering-Intern---Summer-2027_331798) |
 | Bosch ✓ | ERP/IT Intern- Summer 2027 | IT Support / Ops | Lincolnshire, IL, United States | No skills listed | Sep 09, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148540185) |
 | Allen Control Systems | Systems Engineering Intern, 2027 | Systems & Cloud Infra | Austin, TX | Computer Vision | Sep 08, 2026 | [Apply](https://jobs.ashbyhq.com/allen-control-systems/9945f76d-6d03-45f0-b431-fc69d31f5476) |
@@ -361,8 +361,8 @@ These postings never name a cycle — not in the title, not in the posting text 
 | AllianceBernstein | Infrastructure Engineering Summer Intern 🇺🇸 🆕 | Systems & Cloud Infra | Nashville, Tennessee | SQL, Linux | Sep 10, 2026 | [Apply](https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Infrastructure-Engineering-Summer-Intern_R0019749) |
 | Avav | Systems Engineering Intern 🇺🇸 🆕 | Systems & Cloud Infra | Petaluma, CA | No skills listed | Sep 10, 2026 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Petaluma-CA/Systems-Engineering-Intern_8592) |
 | Tanium ✓ | Technical Support Engineer (TSE) Intern 🆕 | IT Support / Ops | Bellevue +3 more | No skills listed | Sep 09, 2026 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8189328) |
-| Allegion | Summer Intern - Systems Engineer 🆕 | Systems & Cloud Infra | Indianapolis, IN - Hague Rd | No skills listed | Sep 09, 2026 | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Systems-Engineer_JR37310-1) |
-| Allegion | Summer Intern - Systems Engineering 🆕 | Systems & Cloud Infra | Indianapolis, IN - Hague Rd | No skills listed | Sep 09, 2026 | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Systems-Engineering_JR37479-1) |
+| Allegion | Summer Intern - Systems Engineer | Systems & Cloud Infra | Indianapolis, IN - Hague Rd | No skills listed | Sep 09, 2026 | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Systems-Engineer_JR37310-1) |
+| Allegion | Summer Intern - Systems Engineering | Systems & Cloud Infra | Indianapolis, IN - Hague Rd | No skills listed | Sep 09, 2026 | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Systems-Engineering_JR37479-1) |
 | Booz Allen | University - Systems Engineer Intern 🇺🇸 | Systems & Cloud Infra | Lexington, MA | Python, JavaScript, SQL, React | Sep 08, 2026 | [Apply](https://bah.wd1.myworkdayjobs.com/Confidential/job/Lexington-MA/University---Systems-Engineer-Intern_R0248855) |
 | Blue Origin | Electronics/Electrical Systems Engineer Co-Op (Fixed Term) 🇺🇸 | Systems & Cloud Infra | Los Angeles, CA | No skills listed | Sep 08, 2026 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Los-Angeles-CA/Electronics-Electrical-Systems-Engineer-Co-Op_R71548) |
 | RTX | KC-135 Platform Systems Engineering Co-Op (Spring/Summer) - Onsite 🇺🇸 | Systems & Cloud Infra | US-IA-CEDAR RAPIDS-192 ~ 1205 Continent… | No skills listed | Sep 08, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/KC-135-Platform-Systems-Engineering-Co-Op--Spring-Summer----Onsite_01870355) |
@@ -501,7 +501,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,496 of 4,787 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 862.9s · 622 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,346 of 4,787 registered boards returned successfully across 12 ATS platforms (96% of boards attempted, 90% of the full registry) · completed in 1060.6s · 565 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
