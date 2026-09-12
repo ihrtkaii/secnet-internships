@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-12T15:42:33Z</updated>
+  <updated>2026-09-12T18:05:47Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Systems-Engineering-Co-op-Intern_JR100323</id>
-    <title>Bracco: Systems Engineering Co-op/Intern</title>
-    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Systems-Engineering-Co-op-Intern_JR100323"/>
-    <updated>2026-09-12T15:42:33Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:FortuneBrands:744000149058098</id>
     <title>Fortune Brands: Product Management Intern, B2B Security</title>
@@ -22,6 +14,14 @@
     <updated>2026-09-12T15:42:33Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security (general) · Deerfield, ILLINOIS, United States (Hybrid) · Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Systems-Engineering-Co-op-Intern_JR100323</id>
+    <title>Bracco: Systems Engineering Co-op/Intern</title>
+    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Systems-Engineering-Co-op-Intern_JR100323"/>
+    <updated>2026-09-12T15:42:33Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ascensushr:/job/Dresher-PA/Compliance-Analyst--College-Savings---Compliance_R0021928</id>
