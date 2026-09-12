@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-11T23:34:43Z</updated>
+  <updated>2026-09-12T04:42:25Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:entegris:/job/Chaska-MN/Cybersecurity-Engineer-Co-Op_REQ-14472-1</id>
+    <title>Entegris: Cybersecurity Engineer Co-Op</title>
+    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Cybersecurity-Engineer-Co-Op_REQ-14472-1"/>
+    <updated>2026-09-12T04:42:25Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Security (general) · Chaska, MN · $20–$30/hr · Python, GCP, Azure, Terraform, Git · status: closed · H-1B track record: ~60 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:entegris:/job/Chaska-MN/Cyber-Threat-Analyst-Co-Op_REQ-14505</id>
+    <title>Entegris: Cyber Threat Analyst Co-Op</title>
+    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Cyber-Threat-Analyst-Co-Op_REQ-14505"/>
+    <updated>2026-09-12T04:42:25Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · SOC / Detection · Chaska, MN · $20–$30/hr · status: closed · H-1B track record: ~60 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:entegris:/job/Rockrimmon-Colorado-Springs-CO/Manufacturing-Systems-Engineer-Co-Op_REQ-14437</id>
+    <title>Entegris: Manufacturing Systems Engineer Co-Op</title>
+    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Manufacturing-Systems-Engineer-Co-Op_REQ-14437"/>
+    <updated>2026-09-12T04:42:25Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Systems &amp; Cloud Infra · Rockrimmon, Colorado Springs, CO · $20–$30/hr · status: closed · H-1B track record: ~60 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ascensushr:/job/Dresher-PA/Compliance-Analyst--College-Savings---Compliance_R0021928</id>
+    <title>Ascensus: Compliance Analyst, College Savings - Co-Op</title>
+    <link href="https://ascensushr.wd1.myworkdayjobs.com/ascensuscareers/job/Dresher-PA/Compliance-Analyst--College-Savings---Compliance_R0021928"/>
+    <updated>2026-09-12T04:42:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · GRC / Risk · Dresher, PA · H-1B track record: ~18 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10537998</id>
     <title>Amazon: Data Center Engineering Operations Technician Internship 🛂</title>
@@ -774,37 +806,5 @@
     <updated>2026-09-04T21:02:07Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · Corporate Office, Westown Pkwy., West Des Moines, IA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hyvee:/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/IT-Security-Loss-Prevention-Intern---Summer-2027_R250154</id>
-    <title>Hy-Vee: IT Security Loss Prevention Intern - Summer 2027</title>
-    <link href="https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/IT-Security-Loss-Prevention-Intern---Summer-2027_R250154"/>
-    <updated>2026-09-04T21:02:07Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Corporate Office, Westown Pkwy., West Des Moines, IA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hyvee:/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Network---Systems-Intern---Summer-2027_R250141</id>
-    <title>Hy-Vee: Network &amp; Systems Intern - Summer 2027</title>
-    <link href="https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Network---Systems-Intern---Summer-2027_R250141"/>
-    <updated>2026-09-04T21:02:07Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Network / Telecom · Corporate Office, Westown Pkwy., West Des Moines, IA · Bash</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007589</id>
-    <title>Stantec: Digital Practice Co-op/Intern - Infrastructure (Spring/Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007589"/>
-    <updated>2026-09-04T16:35:12Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Washington, DC, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tjx:/job/Marlborough-MA-01752/IT-Analyst-Internship---Summer-2027_REQ153172</id>
-    <title>TJX: IT Analyst Internship - Summer 2027</title>
-    <link href="https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Marlborough-MA-01752/IT-Analyst-Internship---Summer-2027_REQ153172"/>
-    <updated>2026-09-04T16:35:12Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Other · Marlborough, MA 01752 · $24–$25/hr</summary>
   </entry>
 </feed>
