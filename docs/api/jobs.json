@@ -1,11 +1,34 @@
 {
- "generated_at": "2026-09-12T10:57:53Z",
- "data_as_of": "2026-09-12T10:57:53Z",
- "rendered_at": "2026-09-12T10:57:53Z",
+ "generated_at": "2026-09-12T15:42:33Z",
+ "data_as_of": "2026-09-12T15:42:33Z",
+ "rendered_at": "2026-09-12T15:42:33Z",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "h1b_window": "FY2022–2023",
- "count": 359,
+ "count": 361,
  "jobs": [
+  {
+   "id": "smartrecruiters:FortuneBrands:744000149058098",
+   "company": "Fortune Brands",
+   "title": "Product Management Intern, B2B Security",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Security (general)",
+   "location": "Deerfield, ILLINOIS, United States (Hybrid)",
+   "url": "https://jobs.smartrecruiters.com/FortuneBrands/744000149058098",
+   "posted_at": "2026-09-11T15:45:08.759Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-09-12T15:42:33Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Tableau"
+   ],
+   "source": "smartrecruiters",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:ascensushr:/job/Dresher-PA/Compliance-Analyst--College-Savings---Compliance_R0021928",
    "company": "Ascensus",
@@ -2318,6 +2341,27 @@
    "source": "workday",
    "h1b_approvals": null,
    "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Systems-Engineering-Co-op-Intern_JR100323",
+   "company": "Bracco",
+   "title": "Systems Engineering Co-op/Intern",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Systems & Cloud Infra",
+   "location": "USA, Eden Prairie, Minnesota, 55344",
+   "url": "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Systems-Engineering-Co-op-Intern_JR100323",
+   "posted_at": "2026-09-03T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-12T15:42:33Z",
+   "sponsorship": "unknown",
+   "salary": "$23–$25/hr",
+   "skills": [],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship / Co-op",
    "remote": false
   },
   {

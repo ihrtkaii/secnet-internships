@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-12T10:57:53Z</updated>
+  <updated>2026-09-12T15:42:33Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Systems-Engineering-Co-op-Intern_JR100323</id>
+    <title>Bracco: Systems Engineering Co-op/Intern</title>
+    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Systems-Engineering-Co-op-Intern_JR100323"/>
+    <updated>2026-09-12T15:42:33Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:FortuneBrands:744000149058098</id>
+    <title>Fortune Brands: Product Management Intern, B2B Security</title>
+    <link href="https://jobs.smartrecruiters.com/FortuneBrands/744000149058098"/>
+    <updated>2026-09-12T15:42:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Deerfield, ILLINOIS, United States (Hybrid) · Tableau</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:ascensushr:/job/Dresher-PA/Compliance-Analyst--College-Savings---Compliance_R0021928</id>
     <title>Ascensus: Compliance Analyst, College Savings - Co-Op</title>
@@ -790,21 +806,5 @@
     <updated>2026-09-04T21:02:07Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · Charlotte, NC</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:dukeenergy:/job/Charlotte-NC/Enterprise-Protective-Services--Threat-Intelligence-Intern---Summer-2027_R41379</id>
-    <title>Duke Energy: Enterprise Protective Services, Threat Intelligence Intern - Summer 2027</title>
-    <link href="https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Enterprise-Protective-Services--Threat-Intelligence-Intern---Summer-2027_R41379"/>
-    <updated>2026-09-04T21:02:07Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · SOC / Detection · Charlotte, NC</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hyvee:/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Cyber-Security-Intern--Summer-2027_R250153</id>
-    <title>Hy-Vee: Cyber Security Intern- Summer 2027</title>
-    <link href="https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Cyber-Security-Intern--Summer-2027_R250153"/>
-    <updated>2026-09-04T21:02:07Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Corporate Office, Westown Pkwy., West Des Moines, IA</summary>
   </entry>
 </feed>

@@ -1,6 +1,12 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Systems-Engineering-Co-op-Intern_JR100323",
+      "smartrecruiters:FortuneBrands:744000149058098"
+    ],
+    "telegram": [
+      "workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Systems-Engineering-Co-op-Intern_JR100323",
+      "smartrecruiters:FortuneBrands:744000149058098"
+    ]
   }
 }

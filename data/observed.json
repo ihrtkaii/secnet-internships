@@ -328,6 +328,18 @@
     }
    }
   },
+  "bracco": {
+   "name": "Bracco",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-03",
+     "role_ids": [
+      "workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Systems-Engineering-Co-op-Intern_JR100323"
+     ],
+     "count": 1
+    }
+   }
+  },
   "brookfield properties": {
    "name": "Brookfield Properties",
    "cycles": {
@@ -1372,5 +1384,5 @@
    }
   }
  },
- "updated_at": "2026-09-12T10:57:53Z"
+ "updated_at": "2026-09-12T15:42:33Z"
 }
