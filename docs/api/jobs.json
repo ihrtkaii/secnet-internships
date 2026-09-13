@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-13T04:56:38Z",
- "data_as_of": "2026-09-13T04:56:38Z",
- "rendered_at": "2026-09-13T04:56:38Z",
+ "generated_at": "2026-09-13T12:01:35Z",
+ "data_as_of": "2026-09-13T12:01:35Z",
+ "rendered_at": "2026-09-13T12:01:36Z",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "h1b_window": "FY2022–2023",
- "count": 360,
+ "count": 358,
  "jobs": [
   {
    "id": "smartrecruiters:FortuneBrands:744000149058098",
@@ -5848,31 +5848,6 @@
    "remote": false
   },
   {
-   "id": "workday:mksinst:/job/Andover-MA/XMLNAME-2027-Summer-BI-Data-Analytics-IT-Intern_R20657",
-   "company": "MKS Instruments",
-   "title": "2027 Summer BI/Data Analytics IT Intern",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "IT Support / Ops",
-   "location": "Andover, MA",
-   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Andover-MA/XMLNAME-2027-Summer-BI-Data-Analytics-IT-Intern_R20657",
-   "posted_at": "2026-08-26T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-26T16:50:18Z",
-   "sponsorship": "unknown",
-   "salary": "$22–$27/hr",
-   "skills": [
-    "Python",
-    "Azure",
-    "Tableau"
-   ],
-   "source": "workday",
-   "h1b_approvals": 7,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:qtsdatacenters:/job/Irving-TX/Summer-2027-Internship--Internal-Data-Center-Infrastructure-Projects_R2026-1906",
    "company": "QTS",
    "title": "Summer 2027 Internship: Internal Data Center Infrastructure Projects",
@@ -7695,27 +7670,6 @@
    ],
    "source": "workday",
    "h1b_approvals": 27,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:oneok:/job/Tulsa-OK/Cyber-Security-Intern---Tulsa--OK_R8449",
-   "company": "ONEOK",
-   "title": "Cyber Security Intern - Tulsa, OK",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Security (general)",
-   "location": "Tulsa, OK",
-   "url": "https://oneok.wd1.myworkdayjobs.com/ONEOK_Early_Careers/job/Tulsa-OK/Cyber-Security-Intern---Tulsa--OK_R8449",
-   "posted_at": "2026-08-14T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-15T09:54:23Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": null,
    "program": "Internship",
    "remote": false
   },
