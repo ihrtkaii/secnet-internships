@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-12T23:17:53Z",
- "data_as_of": "2026-09-12T23:17:53Z",
- "rendered_at": "2026-09-12T23:17:53Z",
+ "generated_at": "2026-09-13T04:56:38Z",
+ "data_as_of": "2026-09-13T04:56:38Z",
+ "rendered_at": "2026-09-13T04:56:38Z",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "h1b_window": "FY2022–2023",
- "count": 361,
+ "count": 360,
  "jobs": [
   {
    "id": "smartrecruiters:FortuneBrands:744000149058098",
@@ -8322,31 +8322,6 @@
    ],
    "source": "greenhouse",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:neuralink:7736276003",
-   "company": "Neuralink",
-   "title": "IT Systems Administrator Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Systems & Cloud Infra",
-   "location": "Austin, Texas, United States; South San Francisco, California, United States",
-   "url": "https://boards.greenhouse.io/neuralink/jobs/7736276003?gh_jid=7736276003",
-   "posted_at": "2026-05-15T19:15:03-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-08-16T15:47:21Z",
-   "sponsorship": "unknown",
-   "salary": "$25/hr",
-   "skills": [
-    "Python",
-    "Bash",
-    "Linux"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": 7,
    "program": "Internship",
    "remote": false
   },
