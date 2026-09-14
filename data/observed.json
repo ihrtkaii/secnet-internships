@@ -186,9 +186,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-08",
      "role_ids": [
-      "workday:slihrms:/job/USGAAtlanta2018-Powers-Ferry-Rd/Water-Infrastructure-Engineering-Intern---Summer-2027_R-163480-1"
+      "workday:slihrms:/job/USGAAtlanta2018-Powers-Ferry-Rd/Water-Infrastructure-Engineering-Intern---Summer-2027_R-163480-1",
+      "workday:slihrms:/job/USNVHenderson/Water-Infrastructure-Engineering-Intern---Summer-2027_R-160500-2"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -466,6 +467,19 @@
       "workday:clr:/job/Oklahoma-City-OK/IT-Intern--Summer-2027-_R02593-1"
      ],
      "count": 1
+    }
+   }
+  },
+  "costar group": {
+   "name": "CoStar Group",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "workday:costar:/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727",
+      "workday:costar:/job/US-VA-Richmond/Security-Engineer-Intern---Richmond--VA_R39726"
+     ],
+     "count": 2
     }
    }
   },
@@ -850,6 +864,18 @@
     }
    }
   },
+  "louisiana blue": {
+   "name": "Louisiana Blue",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "workday:bcbsla:/job/Corporate---Baton-Rouge-LA/CW-Security-Operation-Center-Engineer-Intern--Fall-2026--Starting-in-December-_R12127"
+     ],
+     "count": 1
+    }
+   }
+  },
   "markel group": {
    "name": "Markel Group, Inc.",
    "cycles": {
@@ -1194,6 +1220,18 @@
     }
    }
   },
+  "schroders": {
+   "name": "Schroders",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "oracle:ekbq.fa.em2.oraclecloud.com:2061"
+     ],
+     "count": 1
+    }
+   }
+  },
   "sierra nevada": {
    "name": "Sierra Nevada Corporation",
    "cycles": {
@@ -1398,5 +1436,5 @@
    }
   }
  },
- "updated_at": "2026-09-14T12:54:46Z"
+ "updated_at": "2026-09-14T20:08:21Z"
 }

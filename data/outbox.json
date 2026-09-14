@@ -1,6 +1,26 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:ekbq.fa.em2.oraclecloud.com:2061",
+      "workday:slihrms:/job/USNVHenderson/Water-Infrastructure-Engineering-Intern---Summer-2027_R-160500-2",
+      "workday:costar:/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727",
+      "workday:costar:/job/US-VA-Richmond/Security-Engineer-Intern---Richmond--VA_R39726",
+      "workday:gfs:/job/Wyoming-Michigan/Inbound-Transportation-Network-Internship_R-57173",
+      "workday:invesco:/job/Houston-Texas/Early-Career-Intern---Global-Security-Department_R-15519-1",
+      "workday:bcbsla:/job/Corporate---Baton-Rouge-LA/CW-Security-Operation-Center-Engineer-Intern--Fall-2026--Starting-in-December-_R12127",
+      "workday:wexinc:/job/US---Remote/DevOps---Backend-Software-Engineer-Intern--Undergraduate-_R22584",
+      "workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589"
+    ],
+    "telegram": [
+      "oracle:ekbq.fa.em2.oraclecloud.com:2061",
+      "workday:slihrms:/job/USNVHenderson/Water-Infrastructure-Engineering-Intern---Summer-2027_R-160500-2",
+      "workday:costar:/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727",
+      "workday:costar:/job/US-VA-Richmond/Security-Engineer-Intern---Richmond--VA_R39726",
+      "workday:gfs:/job/Wyoming-Michigan/Inbound-Transportation-Network-Internship_R-57173",
+      "workday:invesco:/job/Houston-Texas/Early-Career-Intern---Global-Security-Department_R-15519-1",
+      "workday:bcbsla:/job/Corporate---Baton-Rouge-LA/CW-Security-Operation-Center-Engineer-Intern--Fall-2026--Starting-in-December-_R12127",
+      "workday:wexinc:/job/US---Remote/DevOps---Backend-Software-Engineer-Intern--Undergraduate-_R22584",
+      "workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589"
+    ]
   }
 }

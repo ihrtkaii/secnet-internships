@@ -5,8 +5,80 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-14T12:54:46Z</updated>
+  <updated>2026-09-14T20:08:21Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:ekbq.fa.em2.oraclecloud.com:2061</id>
+    <title>Schroders: 2027 Schroders Capital Internship Program - Infrastructure</title>
+    <link href="https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2061"/>
+    <updated>2026-09-14T20:08:21Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · NEW YORK, NY, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:slihrms:/job/USNVHenderson/Water-Infrastructure-Engineering-Intern---Summer-2027_R-160500-2</id>
+    <title>AtkinsRéalis: Water Infrastructure Engineering Intern - Summer 2027</title>
+    <link href="https://slihrms.wd3.myworkdayjobs.com/careers/job/USNVHenderson/Water-Infrastructure-Engineering-Intern---Summer-2027_R-160500-2"/>
+    <updated>2026-09-14T20:08:21Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · US.NV.Henderson</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:costar:/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727</id>
+    <title>CoStar Group: Security Engineer Intern - Arlington, VA 🛂</title>
+    <link href="https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727"/>
+    <updated>2026-09-14T20:08:21Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · US-VA Arlington · Python, Bash, Linux · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:costar:/job/US-VA-Richmond/Security-Engineer-Intern---Richmond--VA_R39726</id>
+    <title>CoStar Group: Security Engineer Intern - Richmond, VA 🛂</title>
+    <link href="https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond/Security-Engineer-Intern---Richmond--VA_R39726"/>
+    <updated>2026-09-14T20:08:21Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · US-VA Richmond · Python, Bash, Linux · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gfs:/job/Wyoming-Michigan/Inbound-Transportation-Network-Internship_R-57173</id>
+    <title>Gordon Food Service: Inbound Transportation Network Internship</title>
+    <link href="https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Inbound-Transportation-Network-Internship_R-57173"/>
+    <updated>2026-09-14T20:08:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Network / Telecom · Wyoming, Michigan · H-1B track record: ~21 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:invesco:/job/Houston-Texas/Early-Career-Intern---Global-Security-Department_R-15519-1</id>
+    <title>Invesco: Early Career Intern - Global Security Department</title>
+    <link href="https://invesco.wd1.myworkdayjobs.com/IVZ/job/Houston-Texas/Early-Career-Intern---Global-Security-Department_R-15519-1"/>
+    <updated>2026-09-14T20:08:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Houston, Texas · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bcbsla:/job/Corporate---Baton-Rouge-LA/CW-Security-Operation-Center-Engineer-Intern--Fall-2026--Starting-in-December-_R12127</id>
+    <title>Louisiana Blue: CW Security Operation Center Engineer Intern (Fall 2026- Starting in December)</title>
+    <link href="https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Security-Operation-Center-Engineer-Intern--Fall-2026--Starting-in-December-_R12127"/>
+    <updated>2026-09-14T20:08:21Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Security (general) · Corporate - Baton Rouge, LA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/DevOps---Backend-Software-Engineer-Intern--Undergraduate-_R22584</id>
+    <title>Wex: DevOps &amp; Backend Software Engineer Intern (Undergraduate)</title>
+    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/DevOps---Backend-Software-Engineer-Intern--Undergraduate-_R22584"/>
+    <updated>2026-09-14T20:08:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · US - Remote · Python, C#, Azure, Kubernetes, Docker · H-1B track record: ~22 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589</id>
+    <title>Wex: Backend Software Engineer Intern - C#, Cloud Security &amp; AI (Undergraduate)</title>
+    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589"/>
+    <updated>2026-09-14T20:08:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Cloud &amp; Infra Sec · US - Remote · C#, Python, AWS, Docker, Git · H-1B track record: ~22 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cloud-DevOps_R_1510799</id>
     <title>TD Bank: 2027 Summer Internship Program - Global Technology &amp; Solutions - Cloud/DevOps</title>
@@ -734,77 +806,5 @@
     <updated>2026-09-08T04:45:50Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Cloud Platform · United States - North Carolina - Raleigh · Git · sponsorship: no-sponsorship · H-1B track record: ~272 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:msd:/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Security-Resiliency-Center---Intern_R413882</id>
-    <title>Merck: 2027 Future Talent Program – Global Security Resiliency Center - Intern 🛂</title>
-    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Security-Resiliency-Center---Intern_R413882"/>
-    <updated>2026-09-08T04:45:50Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · USA - New Jersey - Rahway · Tableau · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:msd:/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---North-America-Regional-Security-Team---Intern_R413091</id>
-    <title>Merck: 2027 Future Talent Program - North America Regional Security Team - Intern 🛂</title>
-    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---North-America-Regional-Security-Team---Intern_R413091"/>
-    <updated>2026-09-08T04:45:50Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · USA - New Jersey - Rahway · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hp:/job/Vancouver-Washington-United-States-of-America/Business-Intelligence-and-Infrastructure-Analysts--Intern_UNI4669-1</id>
-    <title>Hewlett Packard (HP): Business Intelligence and Infrastructure Analysts  Intern</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Business-Intelligence-and-Infrastructure-Analysts--Intern_UNI4669-1"/>
-    <updated>2026-09-07T23:59:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Vancouver, Washington, United States of America</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hpe:/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396</id>
-    <title>Hewlett Packard Enterprise: HPC AI Systems Administrator Intern</title>
-    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396"/>
-    <updated>2026-09-07T04:47:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Bloomington, Minnesota, United States of America · Python, Bash, HTML/CSS, Linux, Git · H-1B track record: ~499 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:harbingermotors:5231842007</id>
-    <title>Harbinger Motors: Intern, Cybersecurity</title>
-    <link href="https://job-boards.greenhouse.io/harbingermotors/jobs/5231842007"/>
-    <updated>2026-09-06T04:45:20Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Garden Grove, CA · Python, Bash</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cna:/job/Chicago-IL-USA/Technology-Internship-Program--Cybersecurity-_R-8130-1</id>
-    <title>CNA Insurance: Technology Internship Program (Cybersecurity) 🛂</title>
-    <link href="https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Cybersecurity-_R-8130-1"/>
-    <updated>2026-09-05T04:34:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Chicago, IL, USA · $35k–$65k/yr · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:schonfeld:8171696</id>
-    <title>Schonfeld: 2027 Cybersecurity Operations Intern</title>
-    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8171696"/>
-    <updated>2026-09-04T21:02:07Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · New York, New York, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com:43365</id>
-    <title>Worthington Enterprises: IT Intern</title>
-    <link href="https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/43365"/>
-    <updated>2026-09-04T21:02:07Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · IT Support / Ops · Columbus, OH, United States · PyTorch</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Charleston-SC/University---2027-Summer-Games-Systems-Engineer-Intern---Charleston--SC_R0248369</id>
-    <title>Booz Allen: University - 2027 Summer Games Systems Engineer Intern - Charleston, SC 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Systems-Engineer-Intern---Charleston--SC_R0248369"/>
-    <updated>2026-09-04T21:02:07Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Charleston, SC · $108k/yr · Python, Java, C++, JavaScript · sponsorship: citizens-only</summary>
   </entry>
 </feed>
