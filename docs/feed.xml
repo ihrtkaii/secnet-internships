@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-14T05:05:34Z</updated>
+  <updated>2026-09-14T12:54:46Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cyber-Security_R_1510795</id>
-    <title>TD Bank: 2027 Summer Internship Program - Global Technology &amp; Solutions - Cyber Security</title>
-    <link href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cyber-Security_R_1510795"/>
-    <updated>2026-09-14T05:05:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Mount Laurel, New Jersey</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cloud-DevOps_R_1510799</id>
     <title>TD Bank: 2027 Summer Internship Program - Global Technology &amp; Solutions - Cloud/DevOps</title>
@@ -22,6 +14,14 @@
     <updated>2026-09-14T05:05:34Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Cloud Platform · Mount Laurel, New Jersey · Terraform</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cyber-Security_R_1510795</id>
+    <title>TD Bank: 2027 Summer Internship Program - Global Technology &amp; Solutions - Cyber Security</title>
+    <link href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cyber-Security_R_1510795"/>
+    <updated>2026-09-14T05:05:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Mount Laurel, New Jersey</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology-Solutions---Business-Systems-Analyst--BSA-_R_1510802</id>
