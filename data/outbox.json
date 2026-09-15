@@ -1,20 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "lever:acronaviation:6c0066e6-ed85-43c9-b1ec-911709dafca9",
-      "workday:hmhw:/job/Houston-TX/IT-Intern_JR102416",
-      "workday:tencent:/job/US-California-Palo-Alto/Cyber-Security-Engineer-Intern_R108141-2",
-      "workday:wexinc:/job/US---Remote/DevOps---AI-Engineering-Intern--Undergraduate-_R23056",
-      "workday:wexinc:/job/US---Remote/SRE---Application-Services-Intern--Graduate-Master-s-_R22494",
-      "workday:wexinc:/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055"
-    ],
-    "telegram": [
-      "lever:acronaviation:6c0066e6-ed85-43c9-b1ec-911709dafca9",
-      "workday:hmhw:/job/Houston-TX/IT-Intern_JR102416",
-      "workday:tencent:/job/US-California-Palo-Alto/Cyber-Security-Engineer-Intern_R108141-2",
-      "workday:wexinc:/job/US---Remote/DevOps---AI-Engineering-Intern--Undergraduate-_R23056",
-      "workday:wexinc:/job/US---Remote/SRE---Application-Services-Intern--Graduate-Master-s-_R22494",
-      "workday:wexinc:/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
