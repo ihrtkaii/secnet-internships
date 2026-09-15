@@ -715,6 +715,18 @@
     }
    }
   },
+  "hmh": {
+   "name": "HMH",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "workday:hmhw:/job/Houston-TX/IT-Intern_JR102416"
+     ],
+     "count": 1
+    }
+   }
+  },
   "honeywell": {
    "name": "Honeywell",
    "cycles": {
@@ -1436,5 +1448,5 @@
    }
   }
  },
- "updated_at": "2026-09-14T20:08:21Z"
+ "updated_at": "2026-09-15T00:06:47Z"
 }

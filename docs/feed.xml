@@ -5,8 +5,56 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-14T20:08:21Z</updated>
+  <updated>2026-09-15T00:06:47Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:lever:acronaviation:6c0066e6-ed85-43c9-b1ec-911709dafca9</id>
+    <title>Acron Aviation: Systems Engineer Intern - Phoenix Site</title>
+    <link href="https://jobs.lever.co/acronaviation/6c0066e6-ed85-43c9-b1ec-911709dafca9"/>
+    <updated>2026-09-15T00:06:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Phoenix, AZ</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hmhw:/job/Houston-TX/IT-Intern_JR102416</id>
+    <title>HMH: IT Intern</title>
+    <link href="https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/IT-Intern_JR102416"/>
+    <updated>2026-09-15T00:06:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · IT Support / Ops · Houston, TX · Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tencent:/job/US-California-Palo-Alto/Cyber-Security-Engineer-Intern_R108141-2</id>
+    <title>Tencent: Cyber Security Engineer Intern</title>
+    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Cyber-Security-Engineer-Intern_R108141-2"/>
+    <updated>2026-09-15T00:06:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · US-California-Palo Alto · $27.12–$51.93/hr · Python, Java, C++, Bash, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/DevOps---AI-Engineering-Intern--Undergraduate-_R23056</id>
+    <title>Wex: DevOps &amp; AI Engineering Intern (Undergraduate)</title>
+    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/DevOps---AI-Engineering-Intern--Undergraduate-_R23056"/>
+    <updated>2026-09-15T00:06:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · US - Remote · Python, Java, TypeScript, JavaScript, Bash · H-1B track record: ~22 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/SRE---Application-Services-Intern--Graduate-Master-s-_R22494</id>
+    <title>Wex: SRE &amp; Application Services Intern (Graduate/Master's)</title>
+    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/SRE---Application-Services-Intern--Graduate-Master-s-_R22494"/>
+    <updated>2026-09-15T00:06:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · US - Remote · Python, Bash, AWS, GCP, Azure · H-1B track record: ~22 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055</id>
+    <title>Wex: AI &amp; Data Platform Engineering Intern (Undergraduate)</title>
+    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055"/>
+    <updated>2026-09-15T00:06:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · US - Remote · Python, Java, SQL, LLMs, AWS · H-1B track record: ~22 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:ekbq.fa.em2.oraclecloud.com:2061</id>
     <title>Schroders: 2027 Schroders Capital Internship Program - Infrastructure</title>
@@ -16,12 +64,12 @@
     <summary>Summer 2027 · Systems &amp; Cloud Infra · NEW YORK, NY, United States</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:slihrms:/job/USNVHenderson/Water-Infrastructure-Engineering-Intern---Summer-2027_R-160500-2</id>
-    <title>AtkinsRéalis: Water Infrastructure Engineering Intern - Summer 2027</title>
-    <link href="https://slihrms.wd3.myworkdayjobs.com/careers/job/USNVHenderson/Water-Infrastructure-Engineering-Intern---Summer-2027_R-160500-2"/>
+    <id>urn:intern-engine:workday:bcbsla:/job/Corporate---Baton-Rouge-LA/CW-Security-Operation-Center-Engineer-Intern--Fall-2026--Starting-in-December-_R12127</id>
+    <title>Louisiana Blue: CW Security Operation Center Engineer Intern (Fall 2026- Starting in December)</title>
+    <link href="https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Security-Operation-Center-Engineer-Intern--Fall-2026--Starting-in-December-_R12127"/>
     <updated>2026-09-14T20:08:21Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · US.NV.Henderson</summary>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Security (general) · Corporate - Baton Rouge, LA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:costar:/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727</id>
@@ -56,20 +104,12 @@
     <summary>Not stated · Security (general) · Houston, Texas · Python</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:bcbsla:/job/Corporate---Baton-Rouge-LA/CW-Security-Operation-Center-Engineer-Intern--Fall-2026--Starting-in-December-_R12127</id>
-    <title>Louisiana Blue: CW Security Operation Center Engineer Intern (Fall 2026- Starting in December)</title>
-    <link href="https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Security-Operation-Center-Engineer-Intern--Fall-2026--Starting-in-December-_R12127"/>
+    <id>urn:intern-engine:workday:slihrms:/job/USNVHenderson/Water-Infrastructure-Engineering-Intern---Summer-2027_R-160500-2</id>
+    <title>AtkinsRéalis: Water Infrastructure Engineering Intern - Summer 2027</title>
+    <link href="https://slihrms.wd3.myworkdayjobs.com/careers/job/USNVHenderson/Water-Infrastructure-Engineering-Intern---Summer-2027_R-160500-2"/>
     <updated>2026-09-14T20:08:21Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Security (general) · Corporate - Baton Rouge, LA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/DevOps---Backend-Software-Engineer-Intern--Undergraduate-_R22584</id>
-    <title>Wex: DevOps &amp; Backend Software Engineer Intern (Undergraduate)</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/DevOps---Backend-Software-Engineer-Intern--Undergraduate-_R22584"/>
-    <updated>2026-09-14T20:08:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · US - Remote · Python, C#, Azure, Kubernetes, Docker · H-1B track record: ~22 approvals (FY2022–2023)</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · US.NV.Henderson</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589</id>
@@ -78,6 +118,14 @@
     <updated>2026-09-14T20:08:21Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Cloud &amp; Infra Sec · US - Remote · C#, Python, AWS, Docker, Git · H-1B track record: ~22 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/DevOps---Backend-Software-Engineer-Intern--Undergraduate-_R22584</id>
+    <title>Wex: DevOps &amp; Backend Software Engineer Intern (Undergraduate)</title>
+    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/DevOps---Backend-Software-Engineer-Intern--Undergraduate-_R22584"/>
+    <updated>2026-09-14T20:08:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · US - Remote · Python, C#, Azure, Kubernetes, Docker · H-1B track record: ~22 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cloud-DevOps_R_1510799</id>
@@ -758,53 +806,5 @@
     <updated>2026-09-08T16:51:25Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · IT Support / Ops · Kansas City · $29–$35/hr · Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:slihrms:/job/USGAAtlanta2018-Powers-Ferry-Rd/Water-Infrastructure-Engineering-Intern---Summer-2027_R-163480-1</id>
-    <title>AtkinsRéalis: Water Infrastructure Engineering Intern - Summer 2027</title>
-    <link href="https://slihrms.wd3.myworkdayjobs.com/careers/job/USGAAtlanta2018-Powers-Ferry-Rd/Water-Infrastructure-Engineering-Intern---Summer-2027_R-163480-1"/>
-    <updated>2026-09-08T16:51:25Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · US.GA.Atlanta.2018 Powers Ferry Rd</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:usbank:/job/Cincinnati-OH/XMLNAME-2027-Information-Security-Summer-Intern_2026-0025770</id>
-    <title>U.S. Bank: 2027 Information Security Summer Intern</title>
-    <link href="https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Cincinnati-OH/XMLNAME-2027-Information-Security-Summer-Intern_2026-0025770"/>
-    <updated>2026-09-08T16:51:25Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Cincinnati, OH · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---CFO---IT--Security--Risk--and-Compliance-_R0054791</id>
-    <title>Gilead Sciences: Intern - CFO - IT (Security, Risk, and Compliance) 🛂</title>
-    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---CFO---IT--Security--Risk--and-Compliance-_R0054791"/>
-    <updated>2026-09-08T11:29:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · GRC / Risk · United States - California - Foster City · sponsorship: no-sponsorship · H-1B track record: ~272 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772</id>
-    <title>Gilead Sciences: Intern - Development - DevOps Business Strategy Leader 🛂</title>
-    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772"/>
-    <updated>2026-09-08T11:29:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · United States - California - Foster City · sponsorship: no-sponsorship · H-1B track record: ~272 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---Development---Governance--Risk---Analysis_R0054675</id>
-    <title>Gilead Sciences: Intern - Development - Governance, Risk &amp; Analysis 🛂</title>
-    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Development---Governance--Risk---Analysis_R0054675"/>
-    <updated>2026-09-08T11:29:03Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · GRC / Risk · United States - California - Foster City · sponsorship: no-sponsorship · H-1B track record: ~272 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gilead:/job/United-States---North-Carolina---Raleigh/Intern---CFO---IT--Cloud-Platform-_R0054839</id>
-    <title>Gilead Sciences: Intern – CFO - IT (Cloud Platform) 🛂</title>
-    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---North-Carolina---Raleigh/Intern---CFO---IT--Cloud-Platform-_R0054839"/>
-    <updated>2026-09-08T04:45:50Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Cloud Platform · United States - North Carolina - Raleigh · Git · sponsorship: no-sponsorship · H-1B track record: ~272 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
