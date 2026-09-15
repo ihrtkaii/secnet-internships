@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-15T00:06:47Z",
- "data_as_of": "2026-09-15T00:06:47Z",
- "rendered_at": "2026-09-15T00:06:47Z",
+ "generated_at": "2026-09-15T05:05:36Z",
+ "data_as_of": "2026-09-15T05:05:36Z",
+ "rendered_at": "2026-09-15T05:05:36Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -1811,6 +1811,25 @@
    }
   },
   {
+   "company": "The Aerospace Corporation",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Undergraduate-Intern_R016530",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-14"
+   }
+  },
+  {
    "company": "CNO Financial Group",
    "last_cycle_posted": "",
    "posted_on": "2026-08-03",
@@ -1868,5 +1887,5 @@
    }
   }
  ],
- "count": 98
+ "count": 99
 }

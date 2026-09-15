@@ -63,6 +63,14 @@
       "workday:aero:/job/Kirtland-AFB-NM/XMLNAME-2026-AFRL-System-Engineer-Graduate-Intern_R016128"
      ],
      "count": 1
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Graduate-Intern_R016527",
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Undergraduate-Intern_R016530"
+     ],
+     "count": 2
     }
    }
   },
@@ -1448,5 +1456,5 @@
    }
   }
  },
- "updated_at": "2026-09-15T00:06:47Z"
+ "updated_at": "2026-09-15T05:05:35Z"
 }
