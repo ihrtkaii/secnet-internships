@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-15T11:56:45Z",
- "data_as_of": "2026-09-15T11:56:45Z",
- "rendered_at": "2026-09-15T11:56:45Z",
+ "generated_at": "2026-09-15T17:10:27Z",
+ "data_as_of": "2026-09-15T17:10:27Z",
+ "rendered_at": "2026-09-15T17:10:27Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -1849,6 +1849,24 @@
    }
   },
   {
+   "company": "APEX Analytix",
+   "last_cycle_posted": "",
+   "posted_on": "",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "",
+   "days_until": null,
+   "status": "open",
+   "url": "https://ats.rippling.com/apexanalytix-careers/jobs/c2519ae5-9e05-4182-a4ea-7c4cfae6840a",
+   "note": "",
+   "provenance": {
+    "type": "live-role",
+    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/c2519ae5-9e05-4182-a4ea-7c4cfae6840a"
+   }
+  },
+  {
    "company": "CNO Financial Group",
    "last_cycle_posted": "",
    "posted_on": "2026-08-03",
@@ -1906,5 +1924,5 @@
    }
   }
  ],
- "count": 100
+ "count": 101
 }

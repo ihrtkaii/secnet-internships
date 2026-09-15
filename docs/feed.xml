@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-15T11:56:45Z</updated>
+  <updated>2026-09-15T17:10:27Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:rippling:apexanalytix-careers:c2519ae5-9e05-4182-a4ea-7c4cfae6840a</id>
+    <title>APEX Analytix: IT &amp; Cloud Intern (Summer 2027)</title>
+    <link href="https://ats.rippling.com/apexanalytix-careers/jobs/c2519ae5-9e05-4182-a4ea-7c4cfae6840a"/>
+    <updated>2026-09-15T17:10:27Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Cloud Platform · Greensboro, NC · H-1B track record: ~24 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:buildertrend:/job/Omaha-NE/Product-Security-Intern_JR-000473-1</id>
+    <title>Buildertrend: Product Security Intern</title>
+    <link href="https://buildertrend.wd108.myworkdayjobs.com/External_Careers/job/Omaha-NE/Product-Security-Intern_JR-000473-1"/>
+    <updated>2026-09-15T17:10:27Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · AppSec / Product Sec · Omaha, NE · $28/hr · Python, C#, JavaScript, Bash, GCP</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:ensco:5421861008</id>
+    <title>ENSCO: Information Security Intern 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/ensco/jobs/5421861008"/>
+    <updated>2026-09-15T17:10:27Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Endicott, New York, United States; Melbourne, Florida, United States; Vienna, Virginia, United States · Python · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:micron:/job/Longmont-MAX--Office-CO/Intern---Data-Center-SSD-Firmware_JR111461</id>
+    <title>Micron Technology: Intern - Data Center SSD Firmware</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---Data-Center-SSD-Firmware_JR111461"/>
+    <updated>2026-09-15T17:10:27Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Longmont-MAX- Office, CO · Python, C++, LLMs, Git · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471</id>
+    <title>Northrop Grumman: 2027 Cyber Systems Engineer Intern - Roy UT 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471"/>
+    <updated>2026-09-15T17:10:27Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · United States-Utah-Roy · $18.5–$33.5/hr · Python, Java, C++, C#, MATLAB · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017626</id>
     <title>Texas Instruments: Information Technology Intern – Security 🛂</title>
@@ -766,45 +806,5 @@
     <updated>2026-09-08T21:23:54Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Systems &amp; Cloud Infra · San Antonio, TX · Java, C#</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:LLNL:3743990015113126</id>
-    <title>Lawrence Livermore National Laboratory (LLNL): Laser and Experimental Systems Engineering Graduate Intern - Summer 2027</title>
-    <link href="https://jobs.smartrecruiters.com/LLNL/3743990015113126"/>
-    <updated>2026-09-08T16:51:25Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Livermore, CA, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:LLNL:3743990015113316</id>
-    <title>Lawrence Livermore National Laboratory (LLNL): Laser and Experimental Systems Engineering Undergraduate Intern - Summer 2027</title>
-    <link href="https://jobs.smartrecruiters.com/LLNL/3743990015113316"/>
-    <updated>2026-09-08T16:51:25Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Livermore, CA, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:chrobinson:/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322</id>
-    <title>C.H. Robinson: Security Internship 2027</title>
-    <link href="https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322"/>
-    <updated>2026-09-08T16:51:25Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Eden Prairie, MN United States of America · $15–$30/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Platform-System-Engineering-Co-op--2027----Onsite_01871078</id>
-    <title>RTX: Platform System Engineering Co-op (2027) - Onsite 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Platform-System-Engineering-Co-op--2027----Onsite_01871078"/>
-    <updated>2026-09-08T16:51:25Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872651</id>
-    <title>RTX: Systems Engineering Co-op (Summer/Fall 2027) - Onsite 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872651"/>
-    <updated>2026-09-08T16:51:25Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 · sponsorship: citizens-only</summary>
   </entry>
 </feed>

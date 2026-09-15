@@ -1058,10 +1058,11 @@
       "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027--Systems-Engineer-Intern---Colorado-Springs-CO_R10249777",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering_R10247434",
       "workday:ngc:/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern---Systems-Engineering_R10248653",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Engineering-Intern--Roy-UT_R10248475",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Security-Engineering-Intern---Roy-UT_R10249815"
      ],
-     "count": 10
+     "count": 11
     },
     "Fall 2026": {
      "first_posted": "2026-08-31",
@@ -1468,5 +1469,5 @@
    }
   }
  },
- "updated_at": "2026-09-15T11:56:45Z"
+ "updated_at": "2026-09-15T17:10:27Z"
 }

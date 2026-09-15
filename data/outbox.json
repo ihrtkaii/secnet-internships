@@ -1,6 +1,18 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "rippling:apexanalytix-careers:c2519ae5-9e05-4182-a4ea-7c4cfae6840a",
+      "workday:buildertrend:/job/Omaha-NE/Product-Security-Intern_JR-000473-1",
+      "greenhouse:ensco:5421861008",
+      "workday:micron:/job/Longmont-MAX--Office-CO/Intern---Data-Center-SSD-Firmware_JR111461",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471"
+    ],
+    "telegram": [
+      "rippling:apexanalytix-careers:c2519ae5-9e05-4182-a4ea-7c4cfae6840a",
+      "workday:buildertrend:/job/Omaha-NE/Product-Security-Intern_JR-000473-1",
+      "greenhouse:ensco:5421861008",
+      "workday:micron:/job/Longmont-MAX--Office-CO/Intern---Data-Center-SSD-Firmware_JR111461",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471"
+    ]
   }
 }
