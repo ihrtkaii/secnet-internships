@@ -1,16 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:edbz.fa.us2.oraclecloud.com:25017921",
-      "greenhouse:testnisc:8204131",
-      "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Secure-System-Engineering-Intern--Summer-2027-_01869964"
-    ],
-    "telegram": [
-      "oracle:edbz.fa.us2.oraclecloud.com:25017921",
-      "greenhouse:testnisc:8204131",
-      "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Secure-System-Engineering-Intern--Summer-2027-_01869964"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
