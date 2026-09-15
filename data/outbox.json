@@ -1,6 +1,12 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:edbz.fa.us2.oraclecloud.com:25017626",
+      "workday:cai:/job/California/Cybersecurity-Analyst-Intern_R8488"
+    ],
+    "telegram": [
+      "oracle:edbz.fa.us2.oraclecloud.com:25017626",
+      "workday:cai:/job/California/Cybersecurity-Analyst-Intern_R8488"
+    ]
   }
 }

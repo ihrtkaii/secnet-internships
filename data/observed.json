@@ -399,6 +399,18 @@
     }
    }
   },
+  "cai": {
+   "name": "CAI",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-15",
+     "role_ids": [
+      "workday:cai:/job/California/Cybersecurity-Analyst-Intern_R8488"
+     ],
+     "count": 1
+    }
+   }
+  },
   "charles river associates cra": {
    "name": "Charles River Associates (CRA)",
    "cycles": {
@@ -1456,5 +1468,5 @@
    }
   }
  },
- "updated_at": "2026-09-15T05:05:35Z"
+ "updated_at": "2026-09-15T11:56:45Z"
 }
