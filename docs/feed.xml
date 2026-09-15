@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-15T17:10:27Z</updated>
+  <updated>2026-09-15T21:33:11Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:testnisc:8204131</id>
+    <title>National Information Solutions Cooperative (NISC): Intern - Platform Development (Systems Engineering)</title>
+    <link href="https://job-boards.greenhouse.io/testnisc/jobs/8204131"/>
+    <updated>2026-09-15T21:33:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Mandan, ND · Python, Java, Bash, AWS, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186</id>
+    <title>Northrop Grumman: 2027 Cyber Software Engineer Intern - Cincinnati OH 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186"/>
+    <updated>2026-09-15T21:33:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · United States-Ohio-Cincinnati · $19.5–$35.5/hr · Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Secure-System-Engineering-Intern--Summer-2027-_01869964</id>
+    <title>RTX: Secure System Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Secure-System-Engineering-Intern--Summer-2027-_01869964"/>
+    <updated>2026-09-15T21:33:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-107 ~ 400 Collins Rd NE ~ BLDG 107 · Python, Linux, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:ensco:5421861008</id>
+    <title>ENSCO: Information Security Intern 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/ensco/jobs/5421861008"/>
+    <updated>2026-09-15T17:10:27Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Endicott, New York, United States; Melbourne, Florida, United States; Vienna, Virginia, United States · Python · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:rippling:apexanalytix-careers:c2519ae5-9e05-4182-a4ea-7c4cfae6840a</id>
     <title>APEX Analytix: IT &amp; Cloud Intern (Summer 2027)</title>
@@ -22,14 +54,6 @@
     <updated>2026-09-15T17:10:27Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · AppSec / Product Sec · Omaha, NE · $28/hr · Python, C#, JavaScript, Bash, GCP</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:ensco:5421861008</id>
-    <title>ENSCO: Information Security Intern 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/ensco/jobs/5421861008"/>
-    <updated>2026-09-15T17:10:27Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Endicott, New York, United States; Melbourne, Florida, United States; Vienna, Virginia, United States · Python · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:micron:/job/Longmont-MAX--Office-CO/Intern---Data-Center-SSD-Firmware_JR111461</id>
@@ -325,7 +349,7 @@
     <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017914"/>
     <updated>2026-09-11T16:40:09Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Dallas, TX, United States · C++, MATLAB · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
+    <summary>2 openings · Not stated · Systems &amp; Cloud Infra · Dallas, TX, United States · C++, MATLAB · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017917</id>
@@ -782,29 +806,5 @@
     <updated>2026-09-08T21:23:54Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · Oklahoma City, OK</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/KC-135-Platform-Systems-Engineering-Co-Op--Spring-Summer----Onsite_01870355</id>
-    <title>RTX: KC-135 Platform Systems Engineering Co-Op (Spring/Summer) - Onsite 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/KC-135-Platform-Systems-Engineering-Co-Op--Spring-Summer----Onsite_01870355"/>
-    <updated>2026-09-08T21:23:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-192 ~ 1205 Continental Place NE ~ BLDG 192 · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:meijer:/job/Grand-Rapids-MI/Information-Security-Intern--Summer-2027_R000698302</id>
-    <title>Meijer: Information Security Intern- Summer 2027</title>
-    <link href="https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Information-Security-Intern--Summer-2027_R000698302"/>
-    <updated>2026-09-08T21:23:54Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Grand Rapids, MI</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:swbc:/job/San-Antonio-TX/DevOps-Intern_R0015484-2</id>
-    <title>SWBC: DevOps Intern</title>
-    <link href="https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/DevOps-Intern_R0015484-2"/>
-    <updated>2026-09-08T21:23:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · San Antonio, TX · Java, C#</summary>
   </entry>
 </feed>
