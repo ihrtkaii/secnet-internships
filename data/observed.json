@@ -188,6 +188,18 @@
     }
    }
   },
+  "aspentech": {
+   "name": "AspenTech",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-15",
+     "role_ids": [
+      "workday:aspentech:/job/Medina-Minnesota/Power-System-Engineering-Intern---Digital-Grid-Management---Summer-2027_R9458"
+     ],
+     "count": 1
+    }
+   }
+  },
   "atkinsréalis": {
    "name": "AtkinsRéalis",
    "cycles": {
@@ -665,9 +677,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-25",
      "role_ids": [
-      "workday:globalfoundries:/job/USA---New-York---Malta/Cybersecurity-Intern--Summer-2027-_JR-2604459"
+      "workday:globalfoundries:/job/USA---New-York---Malta/Cybersecurity-Intern--Summer-2027-_JR-2604459",
+      "workday:globalfoundries:/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604044"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1086,6 +1099,18 @@
     }
    }
   },
+  "nvidia": {
+   "name": "NVIDIA",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-15",
+     "role_ids": [
+      "workday:nvidia:/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "olsson": {
    "name": "Olsson",
    "cycles": {
@@ -1303,9 +1328,12 @@
      "first_posted": "2026-08-28",
      "role_ids": [
       "oracle:hdhl.fa.us6.oraclecloud.com:1007361",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007589"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007589",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007774",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007776",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007777"
      ],
-     "count": 2
+     "count": 5
     },
     "Fall 2026": {
      "first_posted": "2026-09-02",
@@ -1471,5 +1499,5 @@
    }
   }
  },
- "updated_at": "2026-09-15T21:33:11Z"
+ "updated_at": "2026-09-15T23:57:34Z"
 }

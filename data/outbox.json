@@ -1,6 +1,20 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007774",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007776",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007777",
+      "workday:aspentech:/job/Medina-Minnesota/Power-System-Engineering-Intern---Digital-Grid-Management---Summer-2027_R9458",
+      "workday:globalfoundries:/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604044",
+      "workday:nvidia:/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1"
+    ],
+    "telegram": [
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007774",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007776",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007777",
+      "workday:aspentech:/job/Medina-Minnesota/Power-System-Engineering-Intern---Digital-Grid-Management---Summer-2027_R9458",
+      "workday:globalfoundries:/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604044",
+      "workday:nvidia:/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1"
+    ]
   }
 }

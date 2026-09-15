@@ -5,8 +5,56 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-15T21:33:11Z</updated>
+  <updated>2026-09-15T23:57:34Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007774</id>
+    <title>Stantec: Transportation Engineering Intern - Infrastructure (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007774"/>
+    <updated>2026-09-15T23:57:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Houston, TX, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007776</id>
+    <title>Stantec: Transportation Engineering Intern - Infrastructure (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007776"/>
+    <updated>2026-09-15T23:57:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Plano, TX, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007777</id>
+    <title>Stantec: Transportation Engineering Intern - Infrastructure (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007777"/>
+    <updated>2026-09-15T23:57:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Austin, TX, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aspentech:/job/Medina-Minnesota/Power-System-Engineering-Intern---Digital-Grid-Management---Summer-2027_R9458</id>
+    <title>AspenTech: Power System Engineering Intern - Digital Grid Management - Summer 2027</title>
+    <link href="https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Power-System-Engineering-Intern---Digital-Grid-Management---Summer-2027_R9458"/>
+    <updated>2026-09-15T23:57:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Medina, Minnesota · Python, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalfoundries:/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604044</id>
+    <title>GlobalFoundries: Systems Engineering Intern (Summer 2027)</title>
+    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604044"/>
+    <updated>2026-09-15T23:57:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · USA - Texas - Richardson · Python, C++, MATLAB, PyTorch, TensorFlow</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:nvidia:/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1</id>
+    <title>NVIDIA: Product Management MBA Intern, Data Center GPU - Summer 2027</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1"/>
+    <updated>2026-09-15T23:57:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · US, CA, Santa Clara · H-1B track record: ~1.5k approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:testnisc:8204131</id>
     <title>National Information Solutions Cooperative (NISC): Intern - Platform Development (Systems Engineering)</title>
@@ -16,20 +64,20 @@
     <summary>Not stated · Systems &amp; Cloud Infra · Mandan, ND · Python, Java, Bash, AWS, Linux</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186</id>
-    <title>Northrop Grumman: 2027 Cyber Software Engineer Intern - Cincinnati OH 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186"/>
-    <updated>2026-09-15T21:33:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · United States-Ohio-Cincinnati · $19.5–$35.5/hr · Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Secure-System-Engineering-Intern--Summer-2027-_01869964</id>
     <title>RTX: Secure System Engineering Intern (Summer 2027) 🇺🇸</title>
     <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Secure-System-Engineering-Intern--Summer-2027-_01869964"/>
     <updated>2026-09-15T21:33:11Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-107 ~ 400 Collins Rd NE ~ BLDG 107 · Python, Linux, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186</id>
+    <title>Northrop Grumman: 2027 Cyber Software Engineer Intern - Cincinnati OH 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186"/>
+    <updated>2026-09-15T21:33:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · United States-Ohio-Cincinnati · $19.5–$35.5/hr · Git · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:ensco:5421861008</id>
@@ -194,7 +242,7 @@
   <entry>
     <id>urn:intern-engine:workday:invesco:/job/Houston-Texas/Early-Career-Intern---Global-Security-Department_R-15519-1</id>
     <title>Invesco: Early Career Intern - Global Security Department</title>
-    <link href="https://invesco.wd1.myworkdayjobs.com/IVZ/job/Houston-Texas/Early-Career-Intern---Global-Security-Department_R-15519-1"/>
+    <link href="https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Houston-Texas/Early-Career-Intern---Global-Security-Department_R-15519"/>
     <updated>2026-09-14T20:08:21Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security (general) · Houston, Texas · Python</summary>
@@ -758,53 +806,5 @@
     <updated>2026-09-08T23:40:19Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · USA - Georgia - Alpharetta - 30005 · Python, Java, C#, Ruby, Bash · sponsorship: no-sponsorship · H-1B track record: ~378 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:3117694</id>
-    <title>Amazon: System Dev Engineer I Co-op (Robotics), Autonomous AI Security</title>
-    <link href="https://www.amazon.jobs/en/jobs/3117694/system-dev-engineer-i-co-op-robotics-autonomous-ai-security"/>
-    <updated>2026-09-08T21:23:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Austin, Texas, USA · Python, C++, Computer Vision, AWS, Git · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:wasabi:5418393008</id>
-    <title>Wasabi Technologies: Cloud Tech Support Engineer - Co-op</title>
-    <link href="https://job-boards.greenhouse.io/wasabi/jobs/5418393008"/>
-    <updated>2026-09-08T21:23:54Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Cloud Platform · United States of America · $25/hr · AWS, Linux · status: closed · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:aoins:/job/Lansing-MI/IT-Security-Engineer-Internship---Summer-2027_R_14477</id>
-    <title>Auto-Owners Insurance: IT Security Engineer Internship - Summer 2027</title>
-    <link href="https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/IT-Security-Engineer-Internship---Summer-2027_R_14477"/>
-    <updated>2026-09-08T21:23:54Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Lansing, MI</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Lexington-MA/University---Systems-Engineer-Intern_R0248855</id>
-    <title>Booz Allen: University - Systems Engineer Intern 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/Confidential/job/Lexington-MA/University---Systems-Engineer-Intern_R0248855"/>
-    <updated>2026-09-08T21:23:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Lexington, MA · $108k/yr · Python, JavaScript, SQL, React, Node.js · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:blueorigin:/job/Los-Angeles-CA/Electronics-Electrical-Systems-Engineer-Co-Op_R71548</id>
-    <title>Blue Origin: Electronics/Electrical Systems Engineer Co-Op (Fixed Term) 🇺🇸</title>
-    <link href="https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Los-Angeles-CA/Electronics-Electrical-Systems-Engineer-Co-Op_R71548"/>
-    <updated>2026-09-08T21:23:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Los Angeles, CA · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:devonenergy:/job/Oklahoma-City-OK/Cyber-Security-Intern-2027_R26303-1</id>
-    <title>Devon Energy: Cyber Security Intern 2027</title>
-    <link href="https://wd5.myworkdaysite.com/recruiting/devonenergy/Careers/job/Oklahoma-City-OK/Cyber-Security-Intern-2027_R26303-1"/>
-    <updated>2026-09-08T21:23:54Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Oklahoma City, OK</summary>
   </entry>
 </feed>
