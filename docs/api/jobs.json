@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-16T05:02:15Z",
- "data_as_of": "2026-09-16T05:02:15Z",
- "rendered_at": "2026-09-16T05:02:15Z",
+ "generated_at": "2026-09-16T11:43:40Z",
+ "data_as_of": "2026-09-16T11:43:40Z",
+ "rendered_at": "2026-09-16T11:43:41Z",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "h1b_window": "FY2022–2023",
- "count": 394,
+ "count": 391,
  "jobs": [
   {
    "id": "oracle:hdhl.fa.us6.oraclecloud.com:1007774",
@@ -7828,54 +7828,6 @@
    "remote": false
   },
   {
-   "id": "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion-Systems-Engineer-I--Onsite-_01866833",
-   "company": "RTX",
-   "title": "Intern Conversion/Systems Engineer I (Onsite)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Systems & Cloud Infra",
-   "location": "US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion-Systems-Engineer-I--Onsite-_01866833",
-   "posted_at": "2026-08-17T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-18T07:15:34Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Linux"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion-Systems-Engineer-I--Onsite-_01866850",
-   "company": "RTX",
-   "title": "Intern Conversion/Systems Engineer I (Onsite)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Systems & Cloud Infra",
-   "location": "US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion-Systems-Engineer-I--Onsite-_01866850",
-   "posted_at": "2026-08-17T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-18T07:15:34Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Linux"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/RSE----Systems-Engineering-Intern-2027--Onsite-_01866779",
    "company": "RTX",
    "title": "RSE -- Systems Engineering Intern 2027 (Onsite)",
@@ -8477,27 +8429,6 @@
     "GCP",
     "Tableau"
    ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:volarisgroup:/job/United-States---TX/IT-Security-Intern_R69295",
-   "company": "AssetWorks",
-   "title": "IT/Security Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Security (general)",
-   "location": "United States - TX",
-   "url": "https://volarisgroup.wd3.myworkdayjobs.com/GoAssetWorks/job/United-States---TX/IT-Security-Intern_R69295",
-   "posted_at": "2026-08-17T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-17T19:08:31Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
    "source": "workday",
    "h1b_approvals": null,
    "program": "Internship",
