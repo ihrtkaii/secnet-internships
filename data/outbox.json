@@ -1,6 +1,24 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:ankura:/job/Dallas-TX/University-Intern--Risk-Advisory--Forensics_R105025-1",
+      "workday:ankura:/job/Washington-DC/University-Intern--Risk-Advisory--Forensics_R105029",
+      "workday:ankura:/job/New-York-NY/University-Intern--Risk-Advisory--Forensics_R105033",
+      "workday:kbr:/job/Sioux-Falls-South-Dakota/Data-Processing-Systems-Engineer-Intern_R2130060",
+      "greenhouse:rocketlab:7986956003",
+      "greenhouse:rocketlab:7986961003",
+      "greenhouse:rocketlab:7986874003",
+      "workday:valeo:/job/Troy-MI/Systems-Engineering-Co-Op--Software-_REQ2026071241"
+    ],
+    "telegram": [
+      "workday:ankura:/job/Dallas-TX/University-Intern--Risk-Advisory--Forensics_R105025-1",
+      "workday:ankura:/job/Washington-DC/University-Intern--Risk-Advisory--Forensics_R105029",
+      "workday:ankura:/job/New-York-NY/University-Intern--Risk-Advisory--Forensics_R105033",
+      "workday:kbr:/job/Sioux-Falls-South-Dakota/Data-Processing-Systems-Engineer-Intern_R2130060",
+      "greenhouse:rocketlab:7986956003",
+      "greenhouse:rocketlab:7986961003",
+      "greenhouse:rocketlab:7986874003",
+      "workday:valeo:/job/Troy-MI/Systems-Engineering-Co-Op--Software-_REQ2026071241"
+    ]
   }
 }

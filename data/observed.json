@@ -1233,9 +1233,12 @@
     "Summer 2027": {
      "first_posted": "2026-09-09",
      "role_ids": [
+      "greenhouse:rocketlab:7986874003",
+      "greenhouse:rocketlab:7986956003",
+      "greenhouse:rocketlab:7986961003",
       "greenhouse:rocketlab:7987046003"
      ],
-     "count": 1
+     "count": 4
     }
    }
   },
@@ -1535,5 +1538,5 @@
    }
   }
  },
- "updated_at": "2026-09-16T17:07:04Z"
+ "updated_at": "2026-09-16T21:30:31Z"
 }
