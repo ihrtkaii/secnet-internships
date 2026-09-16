@@ -1,24 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:ejia.fa.us6.oraclecloud.com:107256",
-      "workday:basspro:/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Cybersecurity-Intern-Summer-2027_R267444",
-      "workday:bah:/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0249565",
-      "workday:bah:/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0249566",
-      "workday:bah:/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0249564",
-      "workday:gfs:/job/Atlanta-Georgia/Cloud-DevOps-Internship_R-57259",
-      "workday:gfs:/job/Atlanta-Georgia/IT-Infrastructure-Project-Support-Internship_R-56286",
-      "greenhouse:robinhood:8207970"
-    ],
-    "telegram": [
-      "oracle:ejia.fa.us6.oraclecloud.com:107256",
-      "workday:basspro:/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Cybersecurity-Intern-Summer-2027_R267444",
-      "workday:bah:/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0249565",
-      "workday:bah:/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0249566",
-      "workday:bah:/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0249564",
-      "workday:gfs:/job/Atlanta-Georgia/Cloud-DevOps-Internship_R-57259",
-      "workday:gfs:/job/Atlanta-Georgia/IT-Infrastructure-Project-Support-Internship_R-56286",
-      "greenhouse:robinhood:8207970"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
