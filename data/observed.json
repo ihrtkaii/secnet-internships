@@ -262,6 +262,18 @@
     }
    }
   },
+  "bass pro shops": {
+   "name": "Bass Pro Shops",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "workday:basspro:/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Cybersecurity-Intern-Summer-2027_R267444"
+     ],
+     "count": 1
+    }
+   }
+  },
   "bedrock robotics": {
    "name": "Bedrock Robotics",
    "cycles": {
@@ -1191,6 +1203,18 @@
     }
    }
   },
+  "robinhood": {
+   "name": "Robinhood",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "greenhouse:robinhood:8207970"
+     ],
+     "count": 1
+    }
+   }
+  },
   "rocket companies": {
    "name": "Rocket Companies",
    "cycles": {
@@ -1250,6 +1274,18 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871444"
      ],
      "count": 15
+    }
+   }
+  },
+  "s c electric": {
+   "name": "S&C Electric Company",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "oracle:ejia.fa.us6.oraclecloud.com:107256"
+     ],
+     "count": 1
     }
    }
   },
@@ -1499,5 +1535,5 @@
    }
   }
  },
- "updated_at": "2026-09-16T11:43:40Z"
+ "updated_at": "2026-09-16T17:07:04Z"
 }

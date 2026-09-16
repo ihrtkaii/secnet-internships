@@ -5,8 +5,56 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-16T11:43:40Z</updated>
+  <updated>2026-09-16T17:07:04Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107256</id>
+    <title>S&amp;C Electric Company: Cyber Security Analyst- Intern</title>
+    <link href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107256"/>
+    <updated>2026-09-16T17:07:04Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Security (general) · Chicago, IL, United States · $22–$30/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:basspro:/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Cybersecurity-Intern-Summer-2027_R267444</id>
+    <title>Bass Pro Shops: Cybersecurity Intern Summer 2027</title>
+    <link href="https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Cybersecurity-Intern-Summer-2027_R267444"/>
+    <updated>2026-09-16T17:07:04Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Springfield, MO (Bass Pro Shops Base Camp)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0249564</id>
+    <title>Booz Allen: Systems Administrator Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/Confidential/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0249564"/>
+    <updated>2026-09-16T17:07:04Z</updated>
+    <category term="Not stated"/>
+    <summary>3 openings · Not stated · Systems &amp; Cloud Infra · Annapolis Junction, MD · $108k/yr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gfs:/job/Atlanta-Georgia/Cloud-DevOps-Internship_R-57259</id>
+    <title>Gordon Food Service: Cloud DevOps Internship</title>
+    <link href="https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Cloud-DevOps-Internship_R-57259"/>
+    <updated>2026-09-16T17:07:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Cloud Platform · Atlanta, Georgia · Python, Bash, GCP, Kubernetes, Docker · H-1B track record: ~21 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gfs:/job/Atlanta-Georgia/IT-Infrastructure-Project-Support-Internship_R-56286</id>
+    <title>Gordon Food Service: IT Infrastructure Project Support Internship</title>
+    <link href="https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/IT-Infrastructure-Project-Support-Internship_R-56286"/>
+    <updated>2026-09-16T17:07:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Atlanta, Georgia · H-1B track record: ~21 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:robinhood:8207970</id>
+    <title>Robinhood: Security Risk Management Intern (Summer 2027)</title>
+    <link href="https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src=&amp;gh_jid=8207970"/>
+    <updated>2026-09-16T17:07:04Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Menlo Park, CA · AWS</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007774</id>
     <title>Stantec: Transportation Engineering Intern - Infrastructure (Summer 2027)</title>
@@ -758,53 +806,5 @@
     <updated>2026-09-09T21:09:31Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Denver, CO, US · Python, Java, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:chartermfg:/job/Charter-Dura-Bar---Woodstock-IL/IT-Support-Technician-Intern--Year-Round-_R07769</id>
-    <title>Charter Manufacturing: IT Support Technician Intern (Year-Round)</title>
-    <link href="https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Dura-Bar---Woodstock-IL/IT-Support-Technician-Intern--Year-Round-_R07769"/>
-    <updated>2026-09-09T21:09:31Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · IT Support / Ops · Charter Dura-Bar - Woodstock, IL · $24.25/hr · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ntrs:/job/Chicago-IL/Risk-and-Compliance-Intern_R160771-1</id>
-    <title>Northern Trust: Risk and Compliance Intern 🛂</title>
-    <link href="https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Risk-and-Compliance-Intern_R160771-1"/>
-    <updated>2026-09-09T21:09:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · GRC / Risk · Chicago, IL · sponsorship: no-sponsorship · H-1B track record: ~144 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000148540185</id>
-    <title>Bosch: ERP/IT Intern- Summer 2027</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000148540185"/>
-    <updated>2026-09-09T16:53:25Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · IT Support / Ops · Lincolnshire, IL, United States · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com:15624</id>
-    <title>Zachry Group: Cyber Security Specialist I - Intern</title>
-    <link href="https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1029/job/15624"/>
-    <updated>2026-09-09T11:33:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Stonington, CT, United States; Charlotte, NC, United States · HTML/CSS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:allen-control-systems:9945f76d-6d03-45f0-b431-fc69d31f5476</id>
-    <title>Allen Control Systems: Systems Engineering Intern, 2027</title>
-    <link href="https://jobs.ashbyhq.com/allen-control-systems/9945f76d-6d03-45f0-b431-fc69d31f5476"/>
-    <updated>2026-09-08T23:40:19Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Austin, TX · Computer Vision</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:equifax:/job/USA---Georgia---Alpharetta---30005/Security-Intern_J00178958</id>
-    <title>Equifax: Security Intern 🛂</title>
-    <link href="https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Security-Intern_J00178958"/>
-    <updated>2026-09-08T23:40:19Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · USA - Georgia - Alpharetta - 30005 · Python, Java, C#, Ruby, Bash · sponsorship: no-sponsorship · H-1B track record: ~378 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
