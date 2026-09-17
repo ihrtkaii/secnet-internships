@@ -887,6 +887,18 @@
     }
    }
   },
+  "labcorp": {
+   "name": "LabCorp",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-17",
+     "role_ids": [
+      "workday:labcorp:/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795"
+     ],
+     "count": 1
+    }
+   }
+  },
   "land o lakes": {
    "name": "Land O'Lakes",
    "cycles": {
@@ -1261,9 +1273,12 @@
       "greenhouse:rocketlab:7986956003",
       "greenhouse:rocketlab:7986961003",
       "greenhouse:rocketlab:7986963003",
-      "greenhouse:rocketlab:7987046003"
+      "greenhouse:rocketlab:7987046003",
+      "greenhouse:rocketlab:7990138003",
+      "greenhouse:rocketlab:7990270003",
+      "greenhouse:rocketlab:7990272003"
      ],
-     "count": 5
+     "count": 8
     }
    }
   },
@@ -1564,5 +1579,5 @@
    }
   }
  },
- "updated_at": "2026-09-17T17:15:01Z"
+ "updated_at": "2026-09-17T21:35:28Z"
 }

@@ -1,6 +1,18 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:labcorp:/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795",
+      "greenhouse:rocketlab:7990272003",
+      "greenhouse:rocketlab:7990138003",
+      "greenhouse:rocketlab:7990270003",
+      "workday:valeo:/job/Troy-MI/Systems-Engineering-Co-Op_REQ2026080447"
+    ],
+    "telegram": [
+      "workday:labcorp:/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795",
+      "greenhouse:rocketlab:7990272003",
+      "greenhouse:rocketlab:7990138003",
+      "greenhouse:rocketlab:7990270003",
+      "workday:valeo:/job/Troy-MI/Systems-Engineering-Co-Op_REQ2026080447"
+    ]
   }
 }

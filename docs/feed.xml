@@ -5,15 +5,47 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-17T17:15:01Z</updated>
+  <updated>2026-09-17T21:35:28Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:theocc:/job/Dallas-TX/Year-Round-Intern---Application-Security_REQ-4838</id>
-    <title>OCC: Year-Round Intern - Application Security 🛂</title>
-    <link href="https://theocc.wd5.myworkdayjobs.com/careers/job/Dallas-TX/Year-Round-Intern---Application-Security_REQ-4838"/>
-    <updated>2026-09-17T17:15:01Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · AppSec / Product Sec · Dallas, TX · Python, Bash, LLMs, AWS, GCP · sponsorship: no-sponsorship · status: closed</summary>
+    <id>urn:intern-engine:workday:labcorp:/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795</id>
+    <title>LabCorp: Intern – Network Infrastructure &amp; Automation Engineering 🛂</title>
+    <link href="https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795"/>
+    <updated>2026-09-17T21:35:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Network / Telecom · Durham NC · Python, Linux, Git · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rocketlab:7990272003</id>
+    <title>Rocket Lab: Systems Engineering Intern Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7990272003"/>
+    <updated>2026-09-17T21:35:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Chantilly, VA · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rocketlab:7990138003</id>
+    <title>Rocket Lab: Systems Engineering Intern Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7990138003"/>
+    <updated>2026-09-17T21:35:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Pasadena, CA · Python, MATLAB, ROS · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rocketlab:7990270003</id>
+    <title>Rocket Lab: Systems Engineering Intern Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7990270003"/>
+    <updated>2026-09-17T21:35:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Tucson, AZ · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:valeo:/job/Troy-MI/Systems-Engineering-Co-Op_REQ2026080447</id>
+    <title>Valeo: Systems Engineering Co-Op 🛂</title>
+    <link href="https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Systems-Engineering-Co-Op_REQ2026080447"/>
+    <updated>2026-09-17T21:35:28Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Troy, MI · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260815</id>
@@ -22,6 +54,14 @@
     <updated>2026-09-17T17:15:01Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Arlington, TX, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:theocc:/job/Dallas-TX/Year-Round-Intern---Application-Security_REQ-4838</id>
+    <title>OCC: Year-Round Intern - Application Security 🛂</title>
+    <link href="https://theocc.wd5.myworkdayjobs.com/careers/job/Dallas-TX/Year-Round-Intern---Application-Security_REQ-4838"/>
+    <updated>2026-09-17T17:15:01Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · AppSec / Product Sec · Dallas, TX · Python, Bash, LLMs, AWS, GCP · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:rocketlab:7986963003</id>
@@ -766,45 +806,5 @@
     <updated>2026-09-10T21:09:34Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Huntsville, AL · $108k/yr · Python, Java, C++, JavaScript · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/McLean-VA/Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249131-1</id>
-    <title>Booz Allen: Enterprise Cybersecurity Data Loss Prevention Intern 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249131-1"/>
-    <updated>2026-09-10T21:09:34Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · McLean, VA · $108k/yr · AWS, GCP, Azure · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cox:/job/Atlanta-GA/Cybersecurity-Intern---Summer-2027_R202682288</id>
-    <title>Cox: Cybersecurity Intern - Summer 2027</title>
-    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Cybersecurity-Intern---Summer-2027_R202682288"/>
-    <updated>2026-09-10T21:09:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Atlanta GA · $24.23–$36.35/hr · Python, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cox:/job/Atlanta-GA/Infrastructure-Automation-Intern---Summer-2027_R202682338</id>
-    <title>Cox: Infrastructure Automation Intern - Summer 2027</title>
-    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Infrastructure-Automation-Intern---Summer-2027_R202682338"/>
-    <updated>2026-09-10T21:09:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Atlanta GA · $24.23–$36.35/hr · AWS, Azure, Terraform, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cox:/job/Atlanta-GA/Infrastructure-Operations-Intern---Summer-2027_R202682357</id>
-    <title>Cox: Infrastructure Operations Intern - Summer 2027</title>
-    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Infrastructure-Operations-Intern---Summer-2027_R202682357"/>
-    <updated>2026-09-10T21:09:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Atlanta GA · $24.23–$36.35/hr · SQL, AWS, Azure, Terraform, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:momentive:/job/US-WV-Friendly/Summer-2027-Silanes-Production---Energy-Systems-Engineer-Intern_R9776</id>
-    <title>Momentive: Summer 2027 Silanes Production &amp; Energy Systems Engineer Intern</title>
-    <link href="https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Summer-2027-Silanes-Production---Energy-Systems-Engineer-Intern_R9776"/>
-    <updated>2026-09-10T21:09:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · US WV Friendly · H-1B track record: ~44 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
