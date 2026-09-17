@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-17T00:06:47Z</updated>
+  <updated>2026-09-17T04:59:48Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rocketlab:7986963003</id>
+    <title>Rocket Lab: Security Analyst Intern Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7986963003"/>
+    <updated>2026-09-17T00:06:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Middle River, MD · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260834</id>
     <title>GM financial: Intern - IT Support Technician</title>
@@ -30,14 +38,6 @@
     <updated>2026-09-17T00:06:47Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security (general) · RTP, North Carolina, US · Python, Java, C++, AWS, GCP · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:7986963003</id>
-    <title>Rocket Lab: Security Analyst Intern Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7986963003"/>
-    <updated>2026-09-17T00:06:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Middle River, MD · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01874003</id>
@@ -147,9 +147,9 @@
     <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107256</id>
     <title>S&amp;C Electric Company: Cyber Security Analyst- Intern</title>
     <link href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107256"/>
-    <updated>2026-09-16T17:07:04Z</updated>
+    <updated>2026-09-17T04:59:48Z</updated>
     <category term="Fall 2026"/>
-    <summary>Fall 2026 · Security (general) · Chicago, IL, United States · $22–$30/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+    <summary>Fall 2026 · Security (general) · Chicago, IL, United States · $22–$30/hr · status: closed · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:bah:/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0249564</id>
@@ -418,7 +418,7 @@
   <entry>
     <id>urn:intern-engine:workday:invesco:/job/Houston-Texas/Early-Career-Intern---Global-Security-Department_R-15519-1</id>
     <title>Invesco: Early Career Intern - Global Security Department</title>
-    <link href="https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Houston-Texas/Early-Career-Intern---Global-Security-Department_R-15519"/>
+    <link href="https://invesco.wd1.myworkdayjobs.com/IVZ/job/Houston-Texas/Early-Career-Intern---Global-Security-Department_R-15519-1"/>
     <updated>2026-09-14T20:08:21Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security (general) · Houston, Texas · Python</summary>

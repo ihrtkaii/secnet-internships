@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/ihrtkaii/secnet-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/ihrtkaii/secnet-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fihrtkaii.github.io%2Fsecnet-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://ihrtkaii.github.io/secnet-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://ihrtkaii.github.io/secnet-internships/feed.xml)
 
-### 409 open roles (385 listed below) · 106 new this week
+### 408 open roles (384 listed below) · 102 new this week
 
-4,572 employers tracked · data as of Sep 17, 2026 at 00:06 UTC
+4,572 employers tracked · data as of Sep 17, 2026 at 04:59 UTC
 
-_275 have a cycle the employer stated · 134 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_274 have a cycle the employer stated · 134 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://ihrtkaii.github.io/secnet-internships/)** · **[📡 RSS](https://ihrtkaii.github.io/secnet-internships/feed.xml)** · **[⚙️ JSON API](https://ihrtkaii.github.io/secnet-internships/api/jobs.json)**
 
@@ -168,12 +168,11 @@ This tracks security and networking internships specifically, because the major 
 | Pentair | IT & Cybersecurity Leadership Development Internship Program -  Summer 2027 🛂 | Security (general) | Golden Valley, MN | No skills listed | Aug 04, 2026 | [Apply](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/IT---Cybersecurity-Leadership-Development-Internship-Program----Summer-2027_R23700) |
 | Appian ✓ | Information Security Engineer Intern 🛂 | Security (general) | McLean, Virginia | LLMs | Jul 27, 2026 | [Apply](https://job-boards.greenhouse.io/appian/jobs/8088496) |
 
-### Fall 2026  (5 employer-stated)
+### Fall 2026  (4 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
 | American Century Investments | Cybersecurity Intern 🛂 🆕 | Security (general) | Kansas City, Missouri | No skills listed | Sep 16, 2026 | [Apply](https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729) |
-| S&C Electric Company ✓ | Cyber Security Analyst- Intern 🆕 | Security (general) | Chicago, IL, United States | No skills listed | Sep 16, 2026 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107256) |
 | Louisiana Blue | CW Security Operation Center Engineer Intern (Fall 2026- Starting in December) | Security (general) | Corporate - Baton Rouge, LA | No skills listed | Sep 14, 2026 | [Apply](https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Security-Operation-Center-Engineer-Intern--Fall-2026--Starting-in-December-_R12127) |
 | Northrop Grumman | 2026 Part-Time Cyber Security Engineering Intern - Aurora CO 🇺🇸 | Security (general) | United States-Colorado-Aurora | No skills listed | Aug 31, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2026-Part-Time-Cyber-Security-Engineering-Intern---Aurora-CO_R10248520) |
 | Rocket Companies | Security Services Intern - Fall 2026 | Security (general) | Detroit, MI | No skills listed | Jul 30, 2026 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Security-Services-Intern---Fall-2026_R-082242) |
@@ -191,7 +190,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Buildertrend | Product Security Intern 🆕 | AppSec / Product Sec | Omaha, NE | Python, C#, JavaScript, Bash | Sep 15, 2026 | [Apply](https://buildertrend.wd108.myworkdayjobs.com/External_Careers/job/Omaha-NE/Product-Security-Intern_JR-000473-1) |
 | Texas Instruments ✓ | Information Technology Intern – Security 🛂 🆕 | Security (general) | Dallas, TX, United States | Python, Java, AWS, GCP | Sep 15, 2026 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017626) |
 | Tencent | Cyber Security Engineer Intern | Security (general) | US-California-Palo Alto | Python, Java, C++, Bash | Sep 14, 2026 | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Cyber-Security-Engineer-Intern_R108141-2) |
-| Invesco | Early Career Intern - Global Security Department | Security (general) | Houston, Texas | Python | Sep 14, 2026 | [Apply](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Houston-Texas/Early-Career-Intern---Global-Security-Department_R-15519) |
+| Invesco | Early Career Intern - Global Security Department | Security (general) | Houston, Texas | Python | Sep 14, 2026 | [Apply](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Houston-Texas/Early-Career-Intern---Global-Security-Department_R-15519-1) |
 | Wex ✓ 🆁 | Backend Software Engineer Intern - C#, Cloud Security & AI (Undergraduate) | Cloud & Infra Sec | US - Remote | C#, Python, AWS, Docker | Sep 14, 2026 | [Apply](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589) |
 | Fortune Brands | Product Management Intern, B2B Security | Security (general) | Deerfield +2 more | Tableau | Sep 11, 2026 | [Apply](https://jobs.smartrecruiters.com/FortuneBrands/744000149058098) |
 | SWBC | Security Operations & Compliance Intern | SOC / Detection | San Antonio, TX | No skills listed | Sep 11, 2026 | [Apply](https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Security-Operations---Compliance-Intern_R0015535-2) |
@@ -509,7 +508,7 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 | 🎯 Appian | Jul 27 | dropped Jul 27 | ✅ [open now](https://job-boards.greenhouse.io/appian/jobs/8088496) |
 | 🎯 Medtronic | Aug 03 | dropped Aug 03 | ✅ [open now](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1) |
 | 🎯 Pentair | Aug 04 | dropped Aug 04 | ✅ [open now](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/IT---Cybersecurity-Leadership-Development-Internship-Program----Summer-2027_R23700) |
-| 🎯 RTX | Aug 04 | dropped Aug 04 | ✅ [open now](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Secure-System-Engineering-Intern--Summer-2027-_01869964) |
+| 🎯 RTX | Aug 04 | dropped Aug 04 | ✅ [open now](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01874003) |
 | 🎯 Fifth Third Bank | Aug 06 | dropped Aug 06 | ✅ [open now](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582) |
 | 🎯 CNO Financial Group | Aug 03 | dropped Aug 03 · closed | 🗓️ dropped |
 | 🎯 MKS Instruments | Aug 26 | dropped Aug 26 · closed | 🗓️ dropped |
@@ -519,12 +518,13 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 _105 companies on the [full radar](https://ihrtkaii.github.io/secnet-internships/#radar). **105** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 8 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 9 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| S&C Electric Company | Cyber Security Analyst- Intern | Fall 2026 | 2026-09-17 | gone from feed |
 | Schroders | 2027 Schroders Capital Internship Program - Infrastructure | Summer 2027 | 2026-09-16 | gone from feed |
 | Duke Energy | Digital Forensics Summer Intern - 2027 | Summer 2027 | 2026-09-14 | gone from feed |
 | MKS Instruments | 2027 Summer BI/Data Analytics IT Intern | Summer 2027 | 2026-09-13 | gone from feed |
@@ -551,7 +551,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,414 of 4,828 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 1087.0s · 585 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,508 of 4,828 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 786.1s · 625 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
