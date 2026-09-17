@@ -5,24 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-17T21:35:28Z</updated>
+  <updated>2026-09-17T23:55:46Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:workday:labcorp:/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795</id>
-    <title>LabCorp: Intern – Network Infrastructure &amp; Automation Engineering 🛂</title>
-    <link href="https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795"/>
-    <updated>2026-09-17T21:35:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Network / Telecom · Durham NC · Python, Linux, Git · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:7990272003</id>
-    <title>Rocket Lab: Systems Engineering Intern Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7990272003"/>
-    <updated>2026-09-17T21:35:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Chantilly, VA · sponsorship: citizens-only</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:rocketlab:7990138003</id>
     <title>Rocket Lab: Systems Engineering Intern Summer 2027 🇺🇸</title>
@@ -38,6 +22,22 @@
     <updated>2026-09-17T21:35:28Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Tucson, AZ · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rocketlab:7990272003</id>
+    <title>Rocket Lab: Systems Engineering Intern Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7990272003"/>
+    <updated>2026-09-17T21:35:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Chantilly, VA · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:labcorp:/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795</id>
+    <title>LabCorp: Intern – Network Infrastructure &amp; Automation Engineering 🛂</title>
+    <link href="https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795"/>
+    <updated>2026-09-17T21:35:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Network / Telecom · Durham NC · Python, Linux, Git · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:valeo:/job/Troy-MI/Systems-Engineering-Co-Op_REQ2026080447</id>
