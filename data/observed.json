@@ -708,6 +708,18 @@
     }
    }
   },
+  "gm financial": {
+   "name": "GM financial",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-17",
+     "role_ids": [
+      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260815"
+     ],
+     "count": 1
+    }
+   }
+  },
   "grant thornton": {
    "name": "Grant Thornton",
    "cycles": {
@@ -1552,5 +1564,5 @@
    }
   }
  },
- "updated_at": "2026-09-17T11:53:11Z"
+ "updated_at": "2026-09-17T17:15:01Z"
 }

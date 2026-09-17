@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-17T11:53:11Z",
- "data_as_of": "2026-09-17T11:53:11Z",
- "rendered_at": "2026-09-17T11:53:11Z",
+ "generated_at": "2026-09-17T17:15:01Z",
+ "data_as_of": "2026-09-17T17:15:01Z",
+ "rendered_at": "2026-09-17T17:15:02Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -1906,6 +1906,25 @@
    }
   },
   {
+   "company": "GM financial",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260815",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-17"
+   }
+  },
+  {
    "company": "APEX Analytix",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -2000,5 +2019,5 @@
    }
   }
  ],
- "count": 105
+ "count": 106
 }
