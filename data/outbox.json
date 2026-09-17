@@ -1,18 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260834",
-      "workday:americancentury:/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729",
-      "workday:cisco:/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885",
-      "greenhouse:rocketlab:7986963003",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01874003"
-    ],
-    "telegram": [
-      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260834",
-      "workday:americancentury:/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729",
-      "workday:cisco:/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885",
-      "greenhouse:rocketlab:7986963003",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01874003"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
