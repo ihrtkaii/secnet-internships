@@ -1,10 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260815"
-    ],
-    "telegram": [
-      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260815"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
