@@ -5,63 +5,55 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-16T21:30:32Z</updated>
+  <updated>2026-09-17T00:06:47Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:wellington:/job/Boston-MA-United-States/Trading-Infrastructure-and-Risk--Alert-Specialist-Co-Op_R94819-1</id>
-    <title>Wellington Management: Trading Infrastructure and Risk, Alert Specialist Co Op</title>
-    <link href="https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Trading-Infrastructure-and-Risk--Alert-Specialist-Co-Op_R94819-1"/>
-    <updated>2026-09-16T21:30:31Z</updated>
-    <category term="Winter 2026"/>
-    <summary>Winter 2026 · Systems &amp; Cloud Infra · Boston, MA, United States · $19–$35/hr · status: closed · H-1B track record: ~112 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wellington:/job/Boston-MA-United-States/Trading-Infrastructure-Risk--Bond-Forward-Co-Op_R94823-1</id>
-    <title>Wellington Management: Trading Infrastructure Risk, Bond Forward Co Op</title>
-    <link href="https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Trading-Infrastructure-Risk--Bond-Forward-Co-Op_R94823-1"/>
-    <updated>2026-09-16T21:30:31Z</updated>
-    <category term="Winter 2026"/>
-    <summary>Winter 2026 · Systems &amp; Cloud Infra · Boston, MA, United States · $19–$35/hr · status: closed · H-1B track record: ~112 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wellington:/job/Boston-MA-United-States/Trading-Infrastructure-and-Risk--Currency-Forward-Specialist-Co-Op_R94821-1</id>
-    <title>Wellington Management: Trading Infrastructure and Risk, Currency Forward Specialist Co Op</title>
-    <link href="https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Trading-Infrastructure-and-Risk--Currency-Forward-Specialist-Co-Op_R94821-1"/>
-    <updated>2026-09-16T21:30:31Z</updated>
-    <category term="Winter 2026"/>
-    <summary>Winter 2026 · Systems &amp; Cloud Infra · Boston, MA, United States · $19–$35/hr · status: closed · H-1B track record: ~112 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ankura:/job/Dallas-TX/University-Intern--Risk-Advisory--Forensics_R105025-1</id>
-    <title>Ankura Consulting Group: University Intern, Risk Advisory, Forensics 🇺🇸</title>
-    <link href="https://ankura.wd5.myworkdayjobs.com/ankura/job/Dallas-TX/University-Intern--Risk-Advisory--Forensics_R105025-1"/>
-    <updated>2026-09-16T21:30:31Z</updated>
+    <id>urn:intern-engine:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260834</id>
+    <title>GM financial: Intern - IT Support Technician</title>
+    <link href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260834"/>
+    <updated>2026-09-17T00:06:47Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · SOC / Detection · Dallas, TX · $34/hr · sponsorship: citizens-only</summary>
+    <summary>Not stated · IT Support / Ops · Arlington, TX, United States</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:ankura:/job/Washington-DC/University-Intern--Risk-Advisory--Forensics_R105029</id>
-    <title>Ankura Consulting Group: University Intern, Risk Advisory, Forensics 🇺🇸</title>
-    <link href="https://ankura.wd5.myworkdayjobs.com/ankura/job/Washington-DC/University-Intern--Risk-Advisory--Forensics_R105029"/>
-    <updated>2026-09-16T21:30:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · SOC / Detection · Washington D.C. · $34/hr · sponsorship: citizens-only</summary>
+    <id>urn:intern-engine:workday:americancentury:/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729</id>
+    <title>American Century Investments: Cybersecurity Intern 🛂</title>
+    <link href="https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729"/>
+    <updated>2026-09-17T00:06:47Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Security (general) · Kansas City, Missouri · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:ankura:/job/New-York-NY/University-Intern--Risk-Advisory--Forensics_R105033</id>
-    <title>Ankura Consulting Group: University Intern, Risk Advisory, Forensics 🇺🇸</title>
-    <link href="https://ankura.wd5.myworkdayjobs.com/ankura/job/New-York-NY/University-Intern--Risk-Advisory--Forensics_R105033"/>
-    <updated>2026-09-16T21:30:31Z</updated>
+    <id>urn:intern-engine:workday:cisco:/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885</id>
+    <title>Cisco: Security Engineer I (Intern) - United States 🇺🇸</title>
+    <link href="https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885"/>
+    <updated>2026-09-17T00:06:47Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · SOC / Detection · New York, NY · $34/hr · sponsorship: citizens-only</summary>
+    <summary>Not stated · Security (general) · RTP, North Carolina, US · Python, Java, C++, AWS, GCP · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:kbr:/job/Sioux-Falls-South-Dakota/Data-Processing-Systems-Engineer-Intern_R2130060</id>
-    <title>KBR: Data Processing Systems Engineer Intern</title>
-    <link href="https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Data-Processing-Systems-Engineer-Intern_R2130060"/>
+    <id>urn:intern-engine:greenhouse:rocketlab:7986963003</id>
+    <title>Rocket Lab: Security Analyst Intern Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7986963003"/>
+    <updated>2026-09-17T00:06:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Middle River, MD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01874003</id>
+    <title>RTX: Systems Engineering Co-op (Summer/Fall 2027) - Onsite</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01874003"/>
+    <updated>2026-09-17T00:06:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rocketlab:7986874003</id>
+    <title>Rocket Lab: Security Analyst Intern Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7986874003"/>
     <updated>2026-09-16T21:30:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Sioux Falls, South Dakota · Python · H-1B track record: ~12 approvals (FY2022–2023)</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Albuquerque, NM · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:rocketlab:7986956003</id>
@@ -80,12 +72,36 @@
     <summary>Summer 2027 · Security (general) · Wallops Island, VA · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:7986874003</id>
-    <title>Rocket Lab: Security Analyst Intern Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7986874003"/>
+    <id>urn:intern-engine:workday:ankura:/job/Dallas-TX/University-Intern--Risk-Advisory--Forensics_R105025-1</id>
+    <title>Ankura Consulting Group: University Intern, Risk Advisory, Forensics 🇺🇸</title>
+    <link href="https://ankura.wd5.myworkdayjobs.com/ankura/job/Dallas-TX/University-Intern--Risk-Advisory--Forensics_R105025-1"/>
     <updated>2026-09-16T21:30:31Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Albuquerque, NM · sponsorship: citizens-only</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · SOC / Detection · Dallas, TX · $34/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ankura:/job/New-York-NY/University-Intern--Risk-Advisory--Forensics_R105033</id>
+    <title>Ankura Consulting Group: University Intern, Risk Advisory, Forensics 🇺🇸</title>
+    <link href="https://ankura.wd5.myworkdayjobs.com/ankura/job/New-York-NY/University-Intern--Risk-Advisory--Forensics_R105033"/>
+    <updated>2026-09-16T21:30:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · SOC / Detection · New York, NY · $34/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ankura:/job/Washington-DC/University-Intern--Risk-Advisory--Forensics_R105029</id>
+    <title>Ankura Consulting Group: University Intern, Risk Advisory, Forensics 🇺🇸</title>
+    <link href="https://ankura.wd5.myworkdayjobs.com/ankura/job/Washington-DC/University-Intern--Risk-Advisory--Forensics_R105029"/>
+    <updated>2026-09-16T21:30:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · SOC / Detection · Washington D.C. · $34/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:kbr:/job/Sioux-Falls-South-Dakota/Data-Processing-Systems-Engineer-Intern_R2130060</id>
+    <title>KBR: Data Processing Systems Engineer Intern</title>
+    <link href="https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Data-Processing-Systems-Engineer-Intern_R2130060"/>
+    <updated>2026-09-16T21:30:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Sioux Falls, South Dakota · Python · H-1B track record: ~12 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:valeo:/job/Troy-MI/Systems-Engineering-Co-Op--Software-_REQ2026071241</id>
@@ -94,6 +110,30 @@
     <updated>2026-09-16T21:30:31Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Systems &amp; Cloud Infra · Troy, MI · Python, C++, Linux · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wellington:/job/Boston-MA-United-States/Trading-Infrastructure-Risk--Bond-Forward-Co-Op_R94823-1</id>
+    <title>Wellington Management: Trading Infrastructure Risk, Bond Forward Co Op</title>
+    <link href="https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Trading-Infrastructure-Risk--Bond-Forward-Co-Op_R94823-1"/>
+    <updated>2026-09-16T21:30:31Z</updated>
+    <category term="Winter 2026"/>
+    <summary>Winter 2026 · Systems &amp; Cloud Infra · Boston, MA, United States · $19–$35/hr · status: closed · H-1B track record: ~112 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wellington:/job/Boston-MA-United-States/Trading-Infrastructure-and-Risk--Alert-Specialist-Co-Op_R94819-1</id>
+    <title>Wellington Management: Trading Infrastructure and Risk, Alert Specialist Co Op</title>
+    <link href="https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Trading-Infrastructure-and-Risk--Alert-Specialist-Co-Op_R94819-1"/>
+    <updated>2026-09-16T21:30:31Z</updated>
+    <category term="Winter 2026"/>
+    <summary>Winter 2026 · Systems &amp; Cloud Infra · Boston, MA, United States · $19–$35/hr · status: closed · H-1B track record: ~112 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wellington:/job/Boston-MA-United-States/Trading-Infrastructure-and-Risk--Currency-Forward-Specialist-Co-Op_R94821-1</id>
+    <title>Wellington Management: Trading Infrastructure and Risk, Currency Forward Specialist Co Op</title>
+    <link href="https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Trading-Infrastructure-and-Risk--Currency-Forward-Specialist-Co-Op_R94821-1"/>
+    <updated>2026-09-16T21:30:31Z</updated>
+    <category term="Winter 2026"/>
+    <summary>Winter 2026 · Systems &amp; Cloud Infra · Boston, MA, United States · $19–$35/hr · status: closed · H-1B track record: ~112 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:robinhood:8207970</id>
@@ -219,9 +259,9 @@
     <id>urn:intern-engine:greenhouse:ensco:5421861008</id>
     <title>ENSCO: Information Security Intern 🇺🇸</title>
     <link href="https://job-boards.greenhouse.io/ensco/jobs/5421861008"/>
-    <updated>2026-09-15T17:10:27Z</updated>
+    <updated>2026-09-17T00:06:47Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Endicott, New York, United States; Melbourne, Florida, United States; Vienna, Virginia, United States · Python · sponsorship: citizens-only</summary>
+    <summary>Not stated · Security (general) · Endicott, New York, United States; Melbourne, Florida, United States; Vienna, Virginia, United States · Python · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:rippling:apexanalytix-careers:c2519ae5-9e05-4182-a4ea-7c4cfae6840a</id>
@@ -378,7 +418,7 @@
   <entry>
     <id>urn:intern-engine:workday:invesco:/job/Houston-Texas/Early-Career-Intern---Global-Security-Department_R-15519-1</id>
     <title>Invesco: Early Career Intern - Global Security Department</title>
-    <link href="https://invesco.wd1.myworkdayjobs.com/IVZ/job/Houston-Texas/Early-Career-Intern---Global-Security-Department_R-15519-1"/>
+    <link href="https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Houston-Texas/Early-Career-Intern---Global-Security-Department_R-15519"/>
     <updated>2026-09-14T20:08:21Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security (general) · Houston, Texas · Python</summary>
@@ -766,45 +806,5 @@
     <updated>2026-09-10T16:39:20Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Columbus, OH · 25–30 USD/hr · AWS, GCP, Azure, Databricks, Snowflake</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:PilotCompany:744000148572860</id>
-    <title>Pilot Company: Program Intern, Network Operations</title>
-    <link href="https://jobs.smartrecruiters.com/PilotCompany/744000148572860"/>
-    <updated>2026-09-10T16:39:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Network / Telecom · Knoxville, TN, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:PilotCompany:744000148574954</id>
-    <title>Pilot Company: Program Intern, End User Service Desk</title>
-    <link href="https://jobs.smartrecruiters.com/PilotCompany/744000148574954"/>
-    <updated>2026-09-10T16:39:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · IT Support / Ops · Knoxville, TN, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:PilotCompany:744000148577368</id>
-    <title>Pilot Company: Program Intern, Infrastructure Support</title>
-    <link href="https://jobs.smartrecruiters.com/PilotCompany/744000148577368"/>
-    <updated>2026-09-10T16:39:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Knoxville, TN, United States · AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:PilotCompany:744000148578069</id>
-    <title>Pilot Company: Program Intern, Cloud Operations</title>
-    <link href="https://jobs.smartrecruiters.com/PilotCompany/744000148578069"/>
-    <updated>2026-09-10T16:39:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Cloud Platform · Knoxville, TN, United States · Python, AWS, Terraform, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cigna:/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/The-Cigna-Group-s-Technology-Development-Program-----Infrastructure---Cloud-Engineering-Track_26009529</id>
-    <title>Cigna Group: The Cigna Group's Technology Development Program  -  Infrastructure &amp; Cloud Engineering Track Summer Internship</title>
-    <link href="https://cigna.wd5.myworkdayjobs.com/cignacareers/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/The-Cigna-Group-s-Technology-Development-Program-----Infrastructure---Cloud-Engineering-Track_26009529"/>
-    <updated>2026-09-10T16:39:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Cloud Platform · CT, Bloomfield, 900 Cottage Grove Rd Wilde Bldg · $25–$33/hr · Python, Java, JavaScript, Bash, AWS</summary>
   </entry>
 </feed>

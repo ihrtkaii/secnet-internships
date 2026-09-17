@@ -141,6 +141,18 @@
     }
    }
   },
+  "american century investments": {
+   "name": "American Century Investments",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "workday:americancentury:/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729"
+     ],
+     "count": 1
+    }
+   }
+  },
   "american express": {
    "name": "American Express",
    "cycles": {
@@ -1236,9 +1248,10 @@
       "greenhouse:rocketlab:7986874003",
       "greenhouse:rocketlab:7986956003",
       "greenhouse:rocketlab:7986961003",
+      "greenhouse:rocketlab:7986963003",
       "greenhouse:rocketlab:7987046003"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -1260,6 +1273,7 @@
     "Summer 2027": {
      "first_posted": "2026-08-04",
      "role_ids": [
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01874003",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Secure-System-Engineering-Intern--Summer-2027-_01869964",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineer-Intern---Summer-2027--Onsite-_01864173",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Platform-System-Engineering-Co-op--2027----Onsite_01871078",
@@ -1276,7 +1290,7 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871442",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871444"
      ],
-     "count": 15
+     "count": 16
     }
    }
   },
@@ -1538,5 +1552,5 @@
    }
   }
  },
- "updated_at": "2026-09-16T21:30:31Z"
+ "updated_at": "2026-09-17T00:06:47Z"
 }
