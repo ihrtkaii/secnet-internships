@@ -5,15 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-18T21:09:01Z</updated>
+  <updated>2026-09-18T23:33:30Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
-    <id>urn:intern-engine:lever:acronaviation:eaebe6c7-a38f-404f-ba93-210861faf184</id>
-    <title>Acron Aviation: Systems Engineer Intern - St. Pete Site</title>
-    <link href="https://jobs.lever.co/acronaviation/eaebe6c7-a38f-404f-ba93-210861faf184"/>
-    <updated>2026-09-18T21:09:01Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · St Petersburg, FL</summary>
+    <id>urn:intern-engine:smartrecruiters:LLNL:3743990015408206</id>
+    <title>Lawrence Livermore National Laboratory (LLNL): Computing Undergraduate Student Intern: DevOps Internship Program - Summer 2027</title>
+    <link href="https://jobs.smartrecruiters.com/LLNL/3743990015408206"/>
+    <updated>2026-09-18T23:33:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Livermore, CA, United States · LLMs, Kubernetes, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:megazone:1d75a5d5-def9-43c0-9bf5-23e5bb65bf3f</id>
@@ -22,6 +22,22 @@
     <updated>2026-09-18T21:09:01Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Cloud Platform · Rochester, NY · $24 – $26 per hour • Offers Equity · Python, Bash, AWS, GCP, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:robinhood:8214142</id>
+    <title>Robinhood: Offensive Security Intern (Summer 2027)</title>
+    <link href="https://boards.greenhouse.io/robinhood/jobs/8214142?t=gh_src=&amp;gh_jid=8214142"/>
+    <updated>2026-09-18T21:09:01Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · AppSec / Product Sec · Bellevue, WA; Menlo Park, CA · Python, Kubernetes, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:acronaviation:eaebe6c7-a38f-404f-ba93-210861faf184</id>
+    <title>Acron Aviation: Systems Engineer Intern - St. Pete Site</title>
+    <link href="https://jobs.lever.co/acronaviation/eaebe6c7-a38f-404f-ba93-210861faf184"/>
+    <updated>2026-09-18T21:09:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · St Petersburg, FL</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:centene:/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514</id>
@@ -46,14 +62,6 @@
     <updated>2026-09-18T21:09:01Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · Chicago, IL, More... · Python, Java, LLMs, AWS, GCP · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:robinhood:8214142</id>
-    <title>Robinhood: Offensive Security Intern (Summer 2027)</title>
-    <link href="https://boards.greenhouse.io/robinhood/jobs/8214142?t=gh_src=&amp;gh_jid=8214142"/>
-    <updated>2026-09-18T21:09:01Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · AppSec / Product Sec · Bellevue, WA; Menlo Park, CA · Python, Kubernetes, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:pingwind:b799a47e-6076-4efb-8fd3-7cb0ebfd362e</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-11T16:40:09Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · United States · Python, Java, C++, JavaScript, Swift · H-1B track record: ~290 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hcgn.fa.us2.oraclecloud.com:49287</id>
-    <title>Citizens Financial Group: Network Engineer Summer 2027 Intern | Enterprise Technology &amp; Security Summer Internship Program</title>
-    <link href="https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49287"/>
-    <updated>2026-09-11T16:40:09Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · United States · Python, Java, JavaScript, SQL · H-1B track record: ~290 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
