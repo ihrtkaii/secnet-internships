@@ -5,15 +5,55 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-18T11:24:29Z</updated>
+  <updated>2026-09-18T16:38:32Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:ntst:/job/Overland-Park-KS/IT-System-Administrator-Intern---Summer-2027-Internship-_R015666</id>
-    <title>Netsmart: IT System Administrator Intern  (Summer 2027 Internship)</title>
-    <link href="https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/IT-System-Administrator-Intern---Summer-2027-Internship-_R015666"/>
-    <updated>2026-09-18T11:24:29Z</updated>
+    <id>urn:intern-engine:lever:pingwind:b799a47e-6076-4efb-8fd3-7cb0ebfd362e</id>
+    <title>PingWind: IT Intern</title>
+    <link href="https://jobs.lever.co/pingwind/b799a47e-6076-4efb-8fd3-7cb0ebfd362e"/>
+    <updated>2026-09-18T16:38:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · IT Support / Ops · Huntsville, AL · $22/hr · Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007804</id>
+    <title>Stantec: Transportation Engineering Intern - Infrastructure (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007804"/>
+    <updated>2026-09-18T16:38:32Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Overland Park, KS</summary>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Lexington, KY, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007850</id>
+    <title>Stantec: Transportation Engineering Co-op - Infrastructure (Fall 2026/Spring 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007850"/>
+    <updated>2026-09-18T16:38:32Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Systems &amp; Cloud Infra · Louisville, KY, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:greatamerica:/job/Cedar-Rapids-IA/Platform-Engineering-Intern_JR1240-1</id>
+    <title>GreatAmerica Financial Services: Platform Engineering Intern</title>
+    <link href="https://greatamerica.wd12.myworkdayjobs.com/greatamericacareers/job/Cedar-Rapids-IA/Platform-Engineering-Intern_JR1240-1"/>
+    <updated>2026-09-18T16:38:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Cedar Rapids, IA · Python, SQL, Bash, AWS, GCP</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:greatamerica:/job/Cedar-Rapids-IA/Service-Desk-Analyst-Intern_JR1239</id>
+    <title>GreatAmerica Financial Services: Service Desk Analyst Intern</title>
+    <link href="https://greatamerica.wd12.myworkdayjobs.com/greatamericacareers/job/Cedar-Rapids-IA/Service-Desk-Analyst-Intern_JR1239"/>
+    <updated>2026-09-18T16:38:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · IT Support / Ops · Cedar Rapids, IA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wattswater:/job/Andover-MA-Federal-Street/IT-Network-Intern--Summer-2027_10017567</id>
+    <title>Watts Water: IT Network Intern, Summer 2027</title>
+    <link href="https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Andover-MA-Federal-Street/IT-Network-Intern--Summer-2027_10017567"/>
+    <updated>2026-09-18T16:38:32Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Network / Telecom · Andover, MA Federal Street</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ntst:/job/Overland-Park-KS/Cloud-Engineer-Future---Summer-2027-Internship-_R015668</id>
@@ -22,6 +62,14 @@
     <updated>2026-09-18T11:24:29Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Cloud Platform · Overland Park, KS · Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ntst:/job/Overland-Park-KS/IT-System-Administrator-Intern---Summer-2027-Internship-_R015666</id>
+    <title>Netsmart: IT System Administrator Intern  (Summer 2027 Internship)</title>
+    <link href="https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/IT-System-Administrator-Intern---Summer-2027-Internship-_R015666"/>
+    <updated>2026-09-18T11:24:29Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Overland Park, KS</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ntst:/job/Overland-Park-KS/Security-Analyst-Future--Summer-2027-Internship-_R015669</id>
@@ -475,9 +523,9 @@
     <id>urn:intern-engine:oracle:ekbq.fa.em2.oraclecloud.com:2061</id>
     <title>Schroders: 2027 Schroders Capital Internship Program - Infrastructure</title>
     <link href="https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2061"/>
-    <updated>2026-09-16T21:30:31Z</updated>
+    <updated>2026-09-14T20:08:21Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · NEW YORK, NY, United States · status: closed</summary>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · NEW YORK, NY, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:bcbsla:/job/Corporate---Baton-Rouge-LA/CW-Security-Operation-Center-Engineer-Intern--Fall-2026--Starting-in-December-_R12127</id>
@@ -758,53 +806,5 @@
     <updated>2026-09-11T16:40:09Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security (general) · United States of America · $24.51/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:oshkoshcorporation:/job/Oshkosh-Wisconsin-United-States/Cyber-Security-Intern_R50267</id>
-    <title>Oshkosh: Cyber Security Intern</title>
-    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Cyber-Security-Intern_R50267"/>
-    <updated>2026-09-11T16:40:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Oshkosh, Wisconsin, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ttc:/job/Bloomington-MN/Electrical-Systems-Engineering-Intern---The-Toro-Company_JR17164</id>
-    <title>The Toro Company: Electrical Systems Engineering Intern - The Toro Company 🛂</title>
-    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Electrical-Systems-Engineering-Intern---The-Toro-Company_JR17164"/>
-    <updated>2026-09-11T16:40:09Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Bloomington, MN · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vermeer:/job/Piedmont-South-Carolina-USA/Systems-Engineer-Intern_REQ-22256</id>
-    <title>Vermeer: Systems Engineer Intern</title>
-    <link href="https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Piedmont-South-Carolina-USA/Systems-Engineer-Intern_REQ-22256"/>
-    <updated>2026-09-11T16:40:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Piedmont, South Carolina, USA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:WellmarkInc:744000148918178</id>
-    <title>Wellmark: Cyber Security Internship</title>
-    <link href="https://jobs.smartrecruiters.com/WellmarkInc/744000148918178"/>
-    <updated>2026-09-11T04:47:59Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Des Moines, IA, United States (Hybrid) · Python, Bash · H-1B track record: ~15 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:avav:/job/Moorpark-CA/Summer-2027-Systems-Engineering-Test-Intern_8552</id>
-    <title>Avav: Summer 2027 Systems Engineering/Test Intern 🇺🇸</title>
-    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Moorpark-CA/Summer-2027-Systems-Engineering-Test-Intern_8552"/>
-    <updated>2026-09-11T04:47:59Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Moorpark, CA · Python, MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:avav:/job/Petaluma-CA/Systems-Engineering-Intern_8592</id>
-    <title>Avav: Systems Engineering Intern 🇺🇸</title>
-    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Petaluma-CA/Systems-Engineering-Intern_8592"/>
-    <updated>2026-09-11T04:47:59Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Petaluma, CA · sponsorship: citizens-only</summary>
   </entry>
 </feed>

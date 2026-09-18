@@ -1,6 +1,28 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "lever:pingwind:b799a47e-6076-4efb-8fd3-7cb0ebfd362e",
+      "oracle:ekbq.fa.em2.oraclecloud.com:2061",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007804",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007850",
+      "workday:dukeenergy:/job/Charlotte-NC/Enterprise-Protective-Services--Threat-Intelligence-Intern---Summer-2027_R41379",
+      "workday:dukeenergy:/job/Charlotte-NC/Enterprise-Protective-Services--Corporate-Security-Intern---Summer-2027_R41381",
+      "workday:greatamerica:/job/Cedar-Rapids-IA/Platform-Engineering-Intern_JR1240-1",
+      "workday:greatamerica:/job/Cedar-Rapids-IA/Service-Desk-Analyst-Intern_JR1239",
+      "workday:mastercard:/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284876",
+      "workday:wattswater:/job/Andover-MA-Federal-Street/IT-Network-Intern--Summer-2027_10017567"
+    ],
+    "telegram": [
+      "lever:pingwind:b799a47e-6076-4efb-8fd3-7cb0ebfd362e",
+      "oracle:ekbq.fa.em2.oraclecloud.com:2061",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007804",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007850",
+      "workday:dukeenergy:/job/Charlotte-NC/Enterprise-Protective-Services--Threat-Intelligence-Intern---Summer-2027_R41379",
+      "workday:dukeenergy:/job/Charlotte-NC/Enterprise-Protective-Services--Corporate-Security-Intern---Summer-2027_R41381",
+      "workday:greatamerica:/job/Cedar-Rapids-IA/Platform-Engineering-Intern_JR1240-1",
+      "workday:greatamerica:/job/Cedar-Rapids-IA/Service-Desk-Analyst-Intern_JR1239",
+      "workday:mastercard:/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284876",
+      "workday:wattswater:/job/Andover-MA-Federal-Street/IT-Network-Intern--Summer-2027_10017567"
+    ]
   }
 }

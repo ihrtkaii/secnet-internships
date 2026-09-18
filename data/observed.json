@@ -990,9 +990,10 @@
       "workday:mastercard:/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284868",
       "workday:mastercard:/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284873",
       "workday:mastercard:/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284875",
+      "workday:mastercard:/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284876",
       "workday:mastercard:/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -1426,16 +1427,18 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1007589",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007774",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007776",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007777"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007777",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007804"
      ],
-     "count": 5
+     "count": 6
     },
     "Fall 2026": {
      "first_posted": "2026-09-02",
      "role_ids": [
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007497"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007497",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007850"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1569,6 +1572,18 @@
     }
    }
   },
+  "watts water": {
+   "name": "Watts Water",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-18",
+     "role_ids": [
+      "workday:wattswater:/job/Andover-MA-Federal-Street/IT-Network-Intern--Summer-2027_10017567"
+     ],
+     "count": 1
+    }
+   }
+  },
   "workiva": {
    "name": "Workiva",
    "cycles": {
@@ -1594,5 +1609,5 @@
    }
   }
  },
- "updated_at": "2026-09-18T11:24:29Z"
+ "updated_at": "2026-09-18T16:38:32Z"
 }
