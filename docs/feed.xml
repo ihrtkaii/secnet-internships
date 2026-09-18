@@ -5,8 +5,56 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-18T16:38:32Z</updated>
+  <updated>2026-09-18T21:09:01Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:lever:acronaviation:eaebe6c7-a38f-404f-ba93-210861faf184</id>
+    <title>Acron Aviation: Systems Engineer Intern - St. Pete Site</title>
+    <link href="https://jobs.lever.co/acronaviation/eaebe6c7-a38f-404f-ba93-210861faf184"/>
+    <updated>2026-09-18T21:09:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · St Petersburg, FL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:megazone:1d75a5d5-def9-43c0-9bf5-23e5bb65bf3f</id>
+    <title>MegazoneCloud: Cloud Operations Co-op 2027</title>
+    <link href="https://jobs.ashbyhq.com/megazone/1d75a5d5-def9-43c0-9bf5-23e5bb65bf3f"/>
+    <updated>2026-09-18T21:09:01Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Cloud Platform · Rochester, NY · $24 – $26 per hour • Offers Equity · Python, Bash, AWS, GCP, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:centene:/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514</id>
+    <title>Centene: Cybersecurity Summer 2027 Intern (Undergraduate)</title>
+    <link href="https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514"/>
+    <updated>2026-09-18T21:09:01Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Remote-MO · $21–$26/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:labcorp:/job/Indianapolis-IN/Intern---IT-Operations_2631321</id>
+    <title>LabCorp: Intern - IT Operations 🛂</title>
+    <link href="https://labcorp.wd1.myworkdayjobs.com/external/job/Indianapolis-IN/Intern---IT-Operations_2631321"/>
+    <updated>2026-09-18T21:09:01Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Other · Indianapolis IN · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:motorolasolutions:/job/Chicago-IL/Cyber-Security---2027-Summer-Internship--Chicago-Hybrid-_R68369</id>
+    <title>Motorola: Cyber Security - 2027 Summer Internship (Chicago Hybrid) 🛂</title>
+    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Cyber-Security---2027-Summer-Internship--Chicago-Hybrid-_R68369"/>
+    <updated>2026-09-18T21:09:01Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Chicago, IL, More... · Python, Java, LLMs, AWS, GCP · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:robinhood:8214142</id>
+    <title>Robinhood: Offensive Security Intern (Summer 2027)</title>
+    <link href="https://boards.greenhouse.io/robinhood/jobs/8214142?t=gh_src=&amp;gh_jid=8214142"/>
+    <updated>2026-09-18T21:09:01Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · AppSec / Product Sec · Bellevue, WA; Menlo Park, CA · Python, Kubernetes, Linux</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:pingwind:b799a47e-6076-4efb-8fd3-7cb0ebfd362e</id>
     <title>PingWind: IT Intern</title>
@@ -758,53 +806,5 @@
     <updated>2026-09-11T16:40:09Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · United States · Python, Java, JavaScript, SQL · H-1B track record: ~290 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hcgn.fa.us2.oraclecloud.com:49288</id>
-    <title>Citizens Financial Group: Tech Risk Analyst Summer 2027 Intern | Enterprise Technology &amp; Security Summer Internship Program</title>
-    <link href="https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49288"/>
-    <updated>2026-09-11T16:40:09Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · United States · Python, Java, C++, JavaScript, SQL · H-1B track record: ~290 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hcgn.fa.us2.oraclecloud.com:49289</id>
-    <title>Citizens Financial Group: Corporate Security &amp; Resilience Summer 2027 Intern | Enterprise Technology &amp; Security Summer Internship Program</title>
-    <link href="https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49289"/>
-    <updated>2026-09-11T16:40:09Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · United States · Linux · H-1B track record: ~290 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:KnobelsdorffEnterprises:744000148832985</id>
-    <title>Knobelsdorff Enterprises: IT Intern</title>
-    <link href="https://jobs.smartrecruiters.com/KnobelsdorffEnterprises/744000148832985"/>
-    <updated>2026-09-11T16:40:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · IT Support / Ops · Goodhue, MN, United States · $20–$25/hr · Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:KnobelsdorffEnterprises:744000148834584</id>
-    <title>Knobelsdorff Enterprises: Power Systems Engineer Intern</title>
-    <link href="https://jobs.smartrecruiters.com/KnobelsdorffEnterprises/744000148834584"/>
-    <updated>2026-09-11T16:40:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Eagan, MN, United States · $20–$25/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:abglobal:/job/Nashville-Tennessee/Infrastructure-Engineering-Summer-Intern_R0019749</id>
-    <title>AllianceBernstein: Infrastructure Engineering Summer Intern 🇺🇸</title>
-    <link href="https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Infrastructure-Engineering-Summer-Intern_R0019749"/>
-    <updated>2026-09-11T16:40:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Nashville, Tennessee · SQL, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:lego:/job/Temp-Richmond-Manufacturing/Security-Intern_0000035337</id>
-    <title>LEGO: Facility Security Intern</title>
-    <link href="https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Temp-Richmond-Manufacturing/Security-Intern_0000035337"/>
-    <updated>2026-09-11T16:40:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · United States of America · $24.51/hr</summary>
   </entry>
 </feed>

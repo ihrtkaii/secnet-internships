@@ -447,6 +447,18 @@
     }
    }
   },
+  "centene": {
+   "name": "Centene",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-18",
+     "role_ids": [
+      "workday:centene:/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514"
+     ],
+     "count": 1
+    }
+   }
+  },
   "charles river associates cra": {
    "name": "Charles River Associates (CRA)",
    "cycles": {
@@ -893,9 +905,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-17",
      "role_ids": [
-      "workday:labcorp:/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795"
+      "workday:labcorp:/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795",
+      "workday:labcorp:/job/Indianapolis-IN/Intern---IT-Operations_2631321"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1021,6 +1034,18 @@
     }
    }
   },
+  "megazonecloud": {
+   "name": "MegazoneCloud",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-18",
+     "role_ids": [
+      "ashby:megazone:1d75a5d5-def9-43c0-9bf5-23e5bb65bf3f"
+     ],
+     "count": 1
+    }
+   }
+  },
   "meijer": {
    "name": "Meijer",
    "cycles": {
@@ -1089,6 +1114,13 @@
      "first_posted": "2026-03-30",
      "role_ids": [
       "workday:motorolasolutions:/job/Los-Angeles-CA/R-D-Intern---Wireless-Systems-Engineer---2026_R62376"
+     ],
+     "count": 1
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-18",
+     "role_ids": [
+      "workday:motorolasolutions:/job/Chicago-IL/Cyber-Security---2027-Summer-Internship--Chicago-Hybrid-_R68369"
      ],
      "count": 1
     }
@@ -1260,9 +1292,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-16",
      "role_ids": [
-      "greenhouse:robinhood:8207970"
+      "greenhouse:robinhood:8207970",
+      "greenhouse:robinhood:8214142"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1609,5 +1642,5 @@
    }
   }
  },
- "updated_at": "2026-09-18T16:38:32Z"
+ "updated_at": "2026-09-18T21:09:01Z"
 }
