@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-17T23:55:46Z</updated>
+  <updated>2026-09-18T04:55:54Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Engineering-Intern--Summer-2027----Onsite_01871091</id>
+    <title>RTX: Flight Controls Systems Engineering Intern (Summer 2027) - Onsite</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Engineering-Intern--Summer-2027----Onsite_01871091"/>
+    <updated>2026-09-18T04:55:54Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193 · MATLAB</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:WellmarkInc:744000150269748</id>
+    <title>Wellmark: Security Analyst Internship</title>
+    <link href="https://jobs.smartrecruiters.com/WellmarkInc/744000150269748"/>
+    <updated>2026-09-18T04:55:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Des Moines, IA, United States (Hybrid) · SQL, Node.js, Angular, Azure, MongoDB · H-1B track record: ~15 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:rocketlab:7990138003</id>
     <title>Rocket Lab: Systems Engineering Intern Summer 2027 🇺🇸</title>
@@ -790,21 +806,5 @@
     <updated>2026-09-10T23:25:47Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Annapolis Junction, MD · $108k/yr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:testnisc:8191987</id>
-    <title>National Information Solutions Cooperative (NISC): Intern - Information Security (Cybersecurity)</title>
-    <link href="https://job-boards.greenhouse.io/testnisc/jobs/8191987"/>
-    <updated>2026-09-10T21:09:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Mandan, ND · Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Huntsville-AL/University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249188</id>
-    <title>Booz Allen: University - 2027 Summer Games Systems Engineer Intern - Huntsville, AL 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249188"/>
-    <updated>2026-09-10T21:09:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Huntsville, AL · $108k/yr · Python, Java, C++, JavaScript · sponsorship: citizens-only</summary>
   </entry>
 </feed>
