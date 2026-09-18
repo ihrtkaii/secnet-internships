@@ -5,15 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-18T04:55:54Z</updated>
+  <updated>2026-09-18T11:24:29Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Engineering-Intern--Summer-2027----Onsite_01871091</id>
-    <title>RTX: Flight Controls Systems Engineering Intern (Summer 2027) - Onsite</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Engineering-Intern--Summer-2027----Onsite_01871091"/>
-    <updated>2026-09-18T04:55:54Z</updated>
+    <id>urn:intern-engine:workday:ntst:/job/Overland-Park-KS/IT-System-Administrator-Intern---Summer-2027-Internship-_R015666</id>
+    <title>Netsmart: IT System Administrator Intern  (Summer 2027 Internship)</title>
+    <link href="https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/IT-System-Administrator-Intern---Summer-2027-Internship-_R015666"/>
+    <updated>2026-09-18T11:24:29Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193 · MATLAB</summary>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Overland Park, KS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ntst:/job/Overland-Park-KS/Cloud-Engineer-Future---Summer-2027-Internship-_R015668</id>
+    <title>Netsmart: Cloud Engineer Future  (Summer 2027 Internship)</title>
+    <link href="https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Cloud-Engineer-Future---Summer-2027-Internship-_R015668"/>
+    <updated>2026-09-18T11:24:29Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Cloud Platform · Overland Park, KS · Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ntst:/job/Overland-Park-KS/Security-Analyst-Future--Summer-2027-Internship-_R015669</id>
+    <title>Netsmart: Security Analyst Future (Summer 2027 Internship)</title>
+    <link href="https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Security-Analyst-Future--Summer-2027-Internship-_R015669"/>
+    <updated>2026-09-18T11:24:29Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Overland Park, KS · SQL, AWS, Azure</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:WellmarkInc:744000150269748</id>
@@ -22,6 +38,14 @@
     <updated>2026-09-18T04:55:54Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security (general) · Des Moines, IA, United States (Hybrid) · SQL, Node.js, Angular, Azure, MongoDB · H-1B track record: ~15 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Engineering-Intern--Summer-2027----Onsite_01871091</id>
+    <title>RTX: Flight Controls Systems Engineering Intern (Summer 2027) - Onsite</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Engineering-Intern--Summer-2027----Onsite_01871091"/>
+    <updated>2026-09-18T04:55:54Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193 · MATLAB</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:rocketlab:7990138003</id>
@@ -782,29 +806,5 @@
     <updated>2026-09-11T04:47:59Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Systems &amp; Cloud Infra · Petaluma, CA · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:bedrock-robotics:0331551e-c18e-428a-8e91-e6cb25c9c2e8</id>
-    <title>Bedrock Robotics: Internship 2027 Onboard Infrastructure Engineer, ML Inference</title>
-    <link href="https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8"/>
-    <updated>2026-09-10T23:25:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · San Francisco, CA · C++, Rust, PyTorch, LLMs, CUDA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:bedrock-robotics:d7da851b-55c2-45d4-bf8b-aa879282f25c</id>
-    <title>Bedrock Robotics: Internship 2027 Sensor Systems Engineer</title>
-    <link href="https://jobs.ashbyhq.com/bedrock-robotics/d7da851b-55c2-45d4-bf8b-aa879282f25c"/>
-    <updated>2026-09-10T23:25:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · San Francisco, CA · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Annapolis-Junction-MD/University---Summer-2027---Systems-Administrator-Intern_R0249226</id>
-    <title>Booz Allen: University - Summer 2027 - Systems Administrator Intern 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/Confidential/job/Annapolis-Junction-MD/University---Summer-2027---Systems-Administrator-Intern_R0249226"/>
-    <updated>2026-09-10T23:25:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Annapolis Junction, MD · $108k/yr · sponsorship: citizens-only</summary>
   </entry>
 </feed>

@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/ihrtkaii/secnet-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/ihrtkaii/secnet-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fihrtkaii.github.io%2Fsecnet-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://ihrtkaii.github.io/secnet-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://ihrtkaii.github.io/secnet-internships/feed.xml)
 
-### 416 open roles (392 listed below) · 85 new this week
+### 415 open roles (391 listed below) · 88 new this week
 
-4,582 employers tracked · data as of Sep 18, 2026 at 04:55 UTC
+4,582 employers tracked · data as of Sep 18, 2026 at 11:24 UTC
 
-_280 have a cycle the employer stated · 136 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_281 have a cycle the employer stated · 134 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://ihrtkaii.github.io/secnet-internships/)** · **[📡 RSS](https://ihrtkaii.github.io/secnet-internships/feed.xml)** · **[⚙️ JSON API](https://ihrtkaii.github.io/secnet-internships/api/jobs.json)**
 
@@ -69,10 +69,11 @@ This tracks security and networking internships specifically, because the major 
 
 ## 🔐 Security
 
-### Summer 2027  (94 employer-stated)
+### Summer 2027  (93 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Netsmart | Security Analyst Future (Summer 2027 Internship) 🆕 | Security (general) | Overland Park, KS | SQL, AWS, Azure | Sep 18, 2026 | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Security-Analyst-Future--Summer-2027-Internship-_R015669) |
 | Rocket Lab | Security Analyst Intern Summer 2027 🇺🇸 🆕 | Security (general) | Middle River, MD | No skills listed | Sep 16, 2026 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986963003) |
 | Rocket Lab | Security Analyst Intern Summer 2027 🇺🇸 🆕 | Security (general) | Albuquerque, NM | No skills listed | Sep 16, 2026 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986874003) |
 | Rocket Lab | Security Analyst Intern Summer 2027 🇺🇸 🆕 | Security (general) | Long Beach, CA | No skills listed | Sep 16, 2026 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986956003) |
@@ -104,8 +105,6 @@ This tracks security and networking internships specifically, because the major 
 | Merck | 2027 Future Talent Program - North America Regional Security Team - Intern 🛂 | Security (general) | USA - New Jersey - Rahway | No skills listed | Sep 08, 2026 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---North-America-Regional-Security-Team---Intern_R413091) |
 | Schonfeld | 2027 Cybersecurity Operations Intern | Security (general) | New York, New York, United States | No skills listed | Sep 04, 2026 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171696) |
 | Barclays | 2027 Compliance Analyst Summer Internship Program New York | GRC / Risk | New York, 745 7th Avenue | No skills listed | Sep 04, 2026 | [Apply](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/XMLNAME-2027-Compliance-Analyst-Summer-Internship-Program-New-York_JR-0000123191) |
-| Duke Energy | Enterprise Protective Services, Corporate Security Intern - Summer 2027 | Security (general) | Charlotte, NC | No skills listed | Sep 04, 2026 | [Apply](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Enterprise-Protective-Services--Corporate-Security-Intern---Summer-2027_R41381) |
-| Duke Energy | Enterprise Protective Services, Threat Intelligence Intern - Summer 2027 | SOC / Detection | Charlotte, NC | No skills listed | Sep 04, 2026 | [Apply](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Enterprise-Protective-Services--Threat-Intelligence-Intern---Summer-2027_R41379) |
 | Hy-Vee | Cyber Security Intern- Summer 2027 | Security (general) | Corporate Office +3 more | No skills listed | Sep 04, 2026 | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Cyber-Security-Intern--Summer-2027_R250153) |
 | Hy-Vee | IT Security Loss Prevention Intern - Summer 2027 | Security (general) | Corporate Office +3 more | No skills listed | Sep 04, 2026 | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/IT-Security-Loss-Prevention-Intern---Summer-2027_R250154) |
 | Sierra Nevada Corporation | Systems Security Engineering Intern (Summer 2027) 🇺🇸 | Security (general) | Hagerstown, MD | MATLAB | Sep 03, 2026 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Systems-Security-Engineering-Intern--Summer-2027-_R0030783) |
@@ -233,10 +232,12 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 ## 🌐 Network & Infrastructure
 
-### Summer 2027  (137 employer-stated)
+### Summer 2027  (139 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Netsmart | IT System Administrator Intern  (Summer 2027 Internship) 🆕 | Systems & Cloud Infra | Overland Park, KS | No skills listed | Sep 18, 2026 | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/IT-System-Administrator-Intern---Summer-2027-Internship-_R015666) |
+| Netsmart | Cloud Engineer Future  (Summer 2027 Internship) 🆕 | Cloud Platform | Overland Park, KS | Linux | Sep 18, 2026 | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Cloud-Engineer-Future---Summer-2027-Internship-_R015668) |
 | RTX | Flight Controls Systems Engineering Intern (Summer 2027) - Onsite 🆕 | Systems & Cloud Infra | US-IA-CEDAR RAPIDS-193 ~ 1120 Collins R… | MATLAB | Sep 17, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Engineering-Intern--Summer-2027----Onsite_01871091) |
 | Rocket Lab | Systems Engineering Intern Summer 2027 🇺🇸 🆕 | Systems & Cloud Infra | Pasadena, CA | Python, MATLAB, ROS | Sep 17, 2026 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990138003) |
 | Rocket Lab | Systems Engineering Intern Summer 2027 🇺🇸 🆕 | Systems & Cloud Infra | Tucson, AZ | No skills listed | Sep 17, 2026 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990270003) |
@@ -385,7 +386,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Hitachi Energy | Intern - Data Center Optimization | Systems & Cloud Infra | Santa Clara, California, United States | Python, PyTorch, TensorFlow, scikit-learn | Aug 18, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Intern---Data-Center-Optimization_R0142174) |
 | Motorola | R&D Intern - Wireless Systems Engineer - 2026 🇺🇸 | Network / Telecom | Los Angeles, CA | MATLAB | Mar 30, 2026 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/R-D-Intern---Wireless-Systems-Engineer---2026_R62376) |
 
-### Recently posted — cycle not stated  (80 roles)
+### Recently posted — cycle not stated  (79 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent tech internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
@@ -460,7 +461,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Meridian Partners | Network Engineer Graduate Co-op 🇺🇸 | Network / Telecom | Cambridge, MA | Python, Terraform | Aug 24, 2026 | [Apply](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968729003) |
 | RELX | Desktop Support Co-Op | IT Support / Ops | Dayton, OH | LLMs, HTML/CSS | Aug 24, 2026 | [Apply](https://relx.wd3.myworkdayjobs.com/relx/job/Dayton-OH/Desktop-Support-Co-Op_R117278-1) |
 | Heidelberg Materials | IT Intern | IT Support / Ops | Irving, TX | No skills listed | Aug 21, 2026 | [Apply](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/IT-Intern_JR10018243) |
-| Copart ✓ | Site Reliability Engineer Intern | Systems & Cloud Infra | Dallas, TX - Headquarters | Python, AWS, GCP, Kubernetes | Aug 19, 2026 | [Apply](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Site-Reliability-Engineer-Intern_JR110631) |
 | Vanguard | College to Corporate IT Internship - Risk & Security - Engineer  (PA) | Security (general) | Malvern, PA | No skills listed | Aug 17, 2026 | [Apply](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1) |
 | Booz Allen | AI RAN Telecommunications Engineer Intern 🇺🇸 _(2 openings)_ | Network / Telecom | McLean, VA | Python, C++, PyTorch, TensorFlow | Aug 11, 2026 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415) [#2](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869) |
 | Erickson Senior Living | IT Intern – Enterprise Applications | IT Support / Ops | Baltimore, MD | No skills listed | Aug 11, 2026 | [Apply](https://erickson.wd108.myworkdayjobs.com/external/job/Baltimore-MD/IT-Intern_R0101964-1) |
@@ -491,14 +491,13 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Vanguard | College to Corporate IT Internship - Data Analysis (PA) | Other | Malvern, PA | No skills listed | Aug 17, 2026 | [Apply](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Analysis--PA-_177679-1) |
 | Vanguard | College to Corporate IT Internship - Data Science (PA) _(2 openings)_ | Other | Malvern, PA | No skills listed | Aug 17, 2026 | [Apply](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_177680-1) [#2](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766) |
 
-### Recently posted — cycle not stated  (2 roles)
+### Recently posted — cycle not stated  (1 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent tech internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
 | Crest Industries | Enterprise Technology Operations Intern | Other | Pineville, Louisiana | Azure | Sep 09, 2026 | [Apply](https://jobs.lever.co/crestoperations/79751f7f-fd05-4b5a-8154-f8f2819cf900) |
-| Tencent | IT Operations Intern | Other | US-Washington-Bellevue | Tableau | Aug 19, 2026 | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/IT-Operations-Intern_R107720) |
 
 <a id="drop-radar"></a>
 
@@ -520,18 +519,20 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 | 🎯 Fifth Third Bank | Aug 06 | dropped Aug 06 | ✅ [open now](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582) |
 | 🎯 CNO Financial Group | Aug 03 | dropped Aug 03 · closed | 🗓️ dropped |
 | 🎯 MKS Instruments | Aug 26 | dropped Aug 26 · closed | 🗓️ dropped |
+| 🎯 Duke Energy | Aug 31 | dropped Aug 31 · closed | 🗓️ dropped |
 | 🎯 Ercot | Aug 31 | dropped Aug 31 · closed | 🗓️ dropped |
-| 🎯 Schroders | Sep 14 | dropped Sep 14 · closed | 🗓️ dropped |
 
-_107 companies on the [full radar](https://ihrtkaii.github.io/secnet-internships/#radar). **107** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
+_108 companies on the [full radar](https://ihrtkaii.github.io/secnet-internships/#radar). **108** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 6 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 8 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| Duke Energy | Enterprise Protective Services, Corporate Security Intern - Summer 2027 | Summer 2027 | 2026-09-18 | gone from feed |
+| Duke Energy | Enterprise Protective Services, Threat Intelligence Intern - Summer 2027 | Summer 2027 | 2026-09-18 | gone from feed |
 | S&C Electric Company | Cyber Security Analyst- Intern | Fall 2026 | 2026-09-17 | gone from feed |
 | Schroders | 2027 Schroders Capital Internship Program - Infrastructure | Summer 2027 | 2026-09-16 | gone from feed |
 | Duke Energy | Digital Forensics Summer Intern - 2027 | Summer 2027 | 2026-09-14 | gone from feed |
@@ -556,7 +557,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,459 of 4,838 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 1169.6s · 594 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,475 of 4,838 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 1021.8s · 611 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 

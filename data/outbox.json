@@ -1,6 +1,14 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:ntst:/job/Overland-Park-KS/IT-System-Administrator-Intern---Summer-2027-Internship-_R015666",
+      "workday:ntst:/job/Overland-Park-KS/Cloud-Engineer-Future---Summer-2027-Internship-_R015668",
+      "workday:ntst:/job/Overland-Park-KS/Security-Analyst-Future--Summer-2027-Internship-_R015669"
+    ],
+    "telegram": [
+      "workday:ntst:/job/Overland-Park-KS/IT-System-Administrator-Intern---Summer-2027-Internship-_R015666",
+      "workday:ntst:/job/Overland-Park-KS/Cloud-Engineer-Future---Summer-2027-Internship-_R015668",
+      "workday:ntst:/job/Overland-Park-KS/Security-Analyst-Future--Summer-2027-Internship-_R015669"
+    ]
   }
 }

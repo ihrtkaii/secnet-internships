@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-18T04:55:54Z",
- "data_as_of": "2026-09-18T04:55:54Z",
- "rendered_at": "2026-09-18T04:55:54Z",
+ "generated_at": "2026-09-18T11:24:29Z",
+ "data_as_of": "2026-09-18T11:24:29Z",
+ "rendered_at": "2026-09-18T11:24:29Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -872,25 +872,6 @@
    "days_until": -18,
    "status": "open",
    "url": "https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Cyber-Intern--Summer-2027_JR101407",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-31"
-   }
-  },
-  {
-   "company": "Duke Energy",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-31",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-31",
-   "days_until": -18,
-   "status": "open",
-   "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Enterprise-Protective-Services--Corporate-Security-Intern---Summer-2027_R41381",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1944,6 +1925,25 @@
    }
   },
   {
+   "company": "Netsmart",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-18",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-18",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/IT-System-Administrator-Intern---Summer-2027-Internship-_R015666",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-18"
+   }
+  },
+  {
    "company": "APEX Analytix",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -2000,6 +2000,25 @@
    }
   },
   {
+   "company": "Duke Energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -18,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
+   }
+  },
+  {
    "company": "Ercot",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
@@ -2038,5 +2057,5 @@
    }
   }
  ],
- "count": 107
+ "count": 108
 }

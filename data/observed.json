@@ -1105,6 +1105,20 @@
     }
    }
   },
+  "netsmart": {
+   "name": "Netsmart",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-18",
+     "role_ids": [
+      "workday:ntst:/job/Overland-Park-KS/Cloud-Engineer-Future---Summer-2027-Internship-_R015668",
+      "workday:ntst:/job/Overland-Park-KS/IT-System-Administrator-Intern---Summer-2027-Internship-_R015666",
+      "workday:ntst:/job/Overland-Park-KS/Security-Analyst-Future--Summer-2027-Internship-_R015669"
+     ],
+     "count": 3
+    }
+   }
+  },
   "northrop grumman": {
    "name": "Northrop Grumman",
    "cycles": {
@@ -1580,5 +1594,5 @@
    }
   }
  },
- "updated_at": "2026-09-18T04:55:54Z"
+ "updated_at": "2026-09-18T11:24:29Z"
 }
