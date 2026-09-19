@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/ihrtkaii/secnet-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/ihrtkaii/secnet-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fihrtkaii.github.io%2Fsecnet-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://ihrtkaii.github.io/secnet-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://ihrtkaii.github.io/secnet-internships/feed.xml)
 
-### 426 open roles (402 listed below) · 83 new this week
+### 427 open roles (403 listed below) · 84 new this week
 
-4,606 employers tracked · data as of Sep 19, 2026 at 16:09 UTC
+4,606 employers tracked · data as of Sep 19, 2026 at 20:50 UTC
 
-_289 have a cycle the employer stated · 137 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_290 have a cycle the employer stated · 137 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://ihrtkaii.github.io/secnet-internships/)** · **[📡 RSS](https://ihrtkaii.github.io/secnet-internships/feed.xml)** · **[⚙️ JSON API](https://ihrtkaii.github.io/secnet-internships/api/jobs.json)**
 
@@ -231,10 +231,11 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 ## 🌐 Network & Infrastructure
 
-### Summer 2027  (142 employer-stated)
+### Summer 2027  (143 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| RRS Group 🆁 | Associate IT Systems Administrator Intern - 2027 🆕 | Systems & Cloud Infra | San Francisco, , United States (Remote) | Python, Bash, Linux | Sep 19, 2026 | [Apply](https://jobs.smartrecruiters.com/RRSGroup/744000150509779) |
 | Lawrence Livermore National Laboratory (LLNL) | Computing Undergraduate Student Intern: DevOps Internship Program - Summer 2027 🆕 | Systems & Cloud Infra | Livermore, CA, United States | LLMs, Kubernetes, Git | Sep 18, 2026 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990015408206) |
 | MegazoneCloud | Cloud Operations Co-op 2027 🆕 | Cloud Platform | Rochester, NY | Python, Bash, AWS, GCP | Sep 18, 2026 | [Apply](https://jobs.ashbyhq.com/megazone/1d75a5d5-def9-43c0-9bf5-23e5bb65bf3f) |
 | Stantec | Transportation Engineering Intern - Infrastructure (Summer 2027) 🆕 | Systems & Cloud Infra | Lexington, KY, United States | No skills listed | Sep 18, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007804) |
@@ -246,7 +247,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Rocket Lab | Systems Engineering Intern Summer 2027 🇺🇸 🆕 | Systems & Cloud Infra | Tucson, AZ | No skills listed | Sep 17, 2026 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990270003) |
 | Rocket Lab | Systems Engineering Intern Summer 2027 🇺🇸 🆕 | Systems & Cloud Infra | Chantilly, VA | No skills listed | Sep 17, 2026 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990272003) |
 | LabCorp | Intern – Network Infrastructure & Automation Engineering 🛂 🆕 | Network / Telecom | Durham NC | Python, Linux, Git | Sep 17, 2026 | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795) |
-| GM financial | Intern - Business Systems Analyst 🆕 | Systems & Cloud Infra | Arlington, TX, United States | No skills listed | Sep 17, 2026 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260815) |
+| GM financial | Intern - Business Systems Analyst | Systems & Cloud Infra | Arlington, TX, United States | No skills listed | Sep 17, 2026 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260815) |
 | RTX | Systems Engineering Co-op (Summer/Fall 2027) - Onsite | Systems & Cloud Infra | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd… | No skills listed | Sep 16, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01874003) |
 | Stantec | Transportation Engineering Intern - Infrastructure (Summer 2027) | Systems & Cloud Infra | Houston, TX, United States | No skills listed | Sep 15, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007774) |
 | Stantec | Transportation Engineering Intern - Infrastructure (Summer 2027) | Systems & Cloud Infra | Plano, TX, United States | No skills listed | Sep 15, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007776) |
@@ -530,7 +531,7 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 | 🎯 Ercot | Aug 31 | dropped Aug 31 · closed | 🗓️ dropped |
 | 🎯 Citizens Financial Group | Sep 11 | dropped Sep 11 · closed | 🗓️ dropped |
 
-_113 companies on the [full radar](https://ihrtkaii.github.io/secnet-internships/#radar). **113** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
+_114 companies on the [full radar](https://ihrtkaii.github.io/secnet-internships/#radar). **114** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
 <summary><strong>Recently closed</strong> — 10 roles that left the list in the last 14 days</summary>
@@ -567,7 +568,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,461 of 4,862 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 1149.1s · 591 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,457 of 4,862 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 977.7s · 581 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 

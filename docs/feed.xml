@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-19T16:09:08Z</updated>
+  <updated>2026-09-19T20:50:39Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:RRSGroup:744000150509779</id>
+    <title>RRS Group: Associate IT Systems Administrator Intern - 2027</title>
+    <link href="https://jobs.smartrecruiters.com/RRSGroup/744000150509779"/>
+    <updated>2026-09-19T20:50:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · San Francisco, , United States (Remote) · Python, Bash, Linux</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:bbh:/job/New-York/XMLNAME-2027-Internal-Audit---Information-Technology---Cybersecurity-Summer-Internship_72899</id>
     <title>Brown Brothers Harriman: 2027 Internal Audit - Information Technology &amp; Cybersecurity Summer Internship</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-11T16:40:09Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Systems &amp; Cloud Infra · Dallas, TX, United States; Sugar Land, TX, United States · C++, MATLAB · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hcgn.fa.us2.oraclecloud.com:49284</id>
-    <title>Citizens Financial Group: Cloud Engineer Summer 2027 Intern | Enterprise Technology &amp; Security Summer Internship Program</title>
-    <link href="https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49284"/>
-    <updated>2026-09-19T11:10:56Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · United States · Python, Java, JavaScript, SQL, AWS · status: closed · H-1B track record: ~290 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
