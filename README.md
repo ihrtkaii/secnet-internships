@@ -8,7 +8,7 @@
 
 ### 427 open roles (403 listed below) · 84 new this week
 
-4,606 employers tracked · data as of Sep 19, 2026 at 20:50 UTC
+4,606 employers tracked · data as of Sep 19, 2026 at 23:14 UTC
 
 _290 have a cycle the employer stated · 137 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -243,10 +243,10 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Netsmart | Cloud Engineer Future  (Summer 2027 Internship) 🆕 | Cloud Platform | Overland Park, KS | Linux | Sep 18, 2026 | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Cloud-Engineer-Future---Summer-2027-Internship-_R015668) |
 | Netsmart | IT System Administrator Intern  (Summer 2027 Internship) 🆕 | Systems & Cloud Infra | Overland Park, KS | No skills listed | Sep 18, 2026 | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/IT-System-Administrator-Intern---Summer-2027-Internship-_R015666) |
 | RTX | Flight Controls Systems Engineering Intern (Summer 2027) - Onsite 🆕 | Systems & Cloud Infra | US-IA-CEDAR RAPIDS-193 ~ 1120 Collins R… | MATLAB | Sep 17, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Engineering-Intern--Summer-2027----Onsite_01871091) |
-| Rocket Lab | Systems Engineering Intern Summer 2027 🇺🇸 🆕 | Systems & Cloud Infra | Pasadena, CA | Python, MATLAB, ROS | Sep 17, 2026 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990138003) |
-| Rocket Lab | Systems Engineering Intern Summer 2027 🇺🇸 🆕 | Systems & Cloud Infra | Tucson, AZ | No skills listed | Sep 17, 2026 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990270003) |
-| Rocket Lab | Systems Engineering Intern Summer 2027 🇺🇸 🆕 | Systems & Cloud Infra | Chantilly, VA | No skills listed | Sep 17, 2026 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990272003) |
-| LabCorp | Intern – Network Infrastructure & Automation Engineering 🛂 🆕 | Network / Telecom | Durham NC | Python, Linux, Git | Sep 17, 2026 | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795) |
+| Rocket Lab | Systems Engineering Intern Summer 2027 🇺🇸 | Systems & Cloud Infra | Pasadena, CA | Python, MATLAB, ROS | Sep 17, 2026 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990138003) |
+| Rocket Lab | Systems Engineering Intern Summer 2027 🇺🇸 | Systems & Cloud Infra | Tucson, AZ | No skills listed | Sep 17, 2026 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990270003) |
+| Rocket Lab | Systems Engineering Intern Summer 2027 🇺🇸 | Systems & Cloud Infra | Chantilly, VA | No skills listed | Sep 17, 2026 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990272003) |
+| LabCorp | Intern – Network Infrastructure & Automation Engineering 🛂 | Network / Telecom | Durham NC | Python, Linux, Git | Sep 17, 2026 | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795) |
 | GM financial | Intern - Business Systems Analyst | Systems & Cloud Infra | Arlington, TX, United States | No skills listed | Sep 17, 2026 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260815) |
 | RTX | Systems Engineering Co-op (Summer/Fall 2027) - Onsite | Systems & Cloud Infra | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd… | No skills listed | Sep 16, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01874003) |
 | Stantec | Transportation Engineering Intern - Infrastructure (Summer 2027) | Systems & Cloud Infra | Houston, TX, United States | No skills listed | Sep 15, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007774) |
@@ -400,7 +400,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | PingWind | IT Intern 🆕 | IT Support / Ops | Huntsville, AL | Azure | Sep 18, 2026 | [Apply](https://jobs.lever.co/pingwind/b799a47e-6076-4efb-8fd3-7cb0ebfd362e) |
 | GreatAmerica Financial Services | Platform Engineering Intern 🆕 | Systems & Cloud Infra | Cedar Rapids, IA | Python, SQL, Bash, AWS | Sep 18, 2026 | [Apply](https://greatamerica.wd12.myworkdayjobs.com/greatamericacareers/job/Cedar-Rapids-IA/Platform-Engineering-Intern_JR1240-1) |
 | GreatAmerica Financial Services | Service Desk Analyst Intern 🆕 | IT Support / Ops | Cedar Rapids, IA | No skills listed | Sep 18, 2026 | [Apply](https://greatamerica.wd12.myworkdayjobs.com/greatamericacareers/job/Cedar-Rapids-IA/Service-Desk-Analyst-Intern_JR1239) |
-| Valeo | Systems Engineering Co-Op 🛂 🆕 | Systems & Cloud Infra | Troy, MI | No skills listed | Sep 17, 2026 | [Apply](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Systems-Engineering-Co-Op_REQ2026080447) |
+| Valeo | Systems Engineering Co-Op 🛂 | Systems & Cloud Infra | Troy, MI | No skills listed | Sep 17, 2026 | [Apply](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Systems-Engineering-Co-Op_REQ2026080447) |
 | GM financial | Intern - IT Support Technician | IT Support / Ops | Arlington, TX, United States | No skills listed | Sep 16, 2026 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260834) |
 | KBR ✓ | Data Processing Systems Engineer Intern | Systems & Cloud Infra | Sioux Falls, South Dakota | Python | Sep 16, 2026 | [Apply](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Data-Processing-Systems-Engineer-Intern_R2130060) |
 | Valeo | Systems Engineering Co-Op (Software) 🛂 | Systems & Cloud Infra | Troy, MI | Python, C++, Linux | Sep 16, 2026 | [Apply](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Systems-Engineering-Co-Op--Software-_REQ2026071241) |
@@ -568,7 +568,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,457 of 4,862 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 977.7s · 581 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,448 of 4,862 registered boards returned successfully across 12 ATS platforms (94% of boards attempted, 91% of the full registry) · completed in 1022.1s · 577 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
