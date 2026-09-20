@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-20T05:06:34Z",
- "data_as_of": "2026-09-20T05:06:34Z",
- "rendered_at": "2026-09-20T05:06:34Z",
+ "generated_at": "2026-09-20T11:33:49Z",
+ "data_as_of": "2026-09-20T11:33:49Z",
+ "rendered_at": "2026-09-20T11:33:50Z",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "h1b_window": "FY2022–2023",
- "count": 428,
+ "count": 427,
  "jobs": [
   {
    "id": "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering---Summer-Intern-2027---Onsite_01873971",
@@ -8292,27 +8292,6 @@
     "LLMs"
    ],
    "source": "oracle",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:heidelbergmaterials:/job/Irving-TX/IT-Intern_JR10018243",
-   "company": "Heidelberg Materials",
-   "title": "IT Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "IT Support / Ops",
-   "location": "Irving, TX",
-   "url": "https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/IT-Intern_JR10018243",
-   "posted_at": "2026-08-21T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-21T21:52:17Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false
