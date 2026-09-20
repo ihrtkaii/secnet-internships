@@ -1,49 +1,50 @@
 {
- "generated_at": "2026-09-20T11:33:49Z",
- "fetched_at": "2026-09-20T11:33:49Z",
- "duration_seconds": 1093.3,
- "companies_total": 4862,
+ "generated_at": "2026-09-20T16:15:36Z",
+ "fetched_at": "2026-09-20T16:15:36Z",
+ "duration_seconds": 964.6,
+ "companies_total": 4865,
  "companies_by_source": {
   "greenhouse": 1082,
   "lever": 404,
   "ashby": 745,
   "recruitee": 3,
-  "workday": 1819,
+  "workday": 1821,
   "smartrecruiters": 298,
   "rippling": 162,
   "workable": 177,
   "oracle": 158,
   "amazon": 1,
-  "breezy": 12,
+  "breezy": 13,
   "eightfold": 1
  },
- "quarantined": 302,
- "fetched_ok": 4449,
- "fetch_errors": 111,
+ "quarantined": 317,
+ "fetched_ok": 4532,
+ "fetch_errors": 16,
  "errors_by_source": {
-  "workday": 94,
-  "greenhouse": 1,
-  "ashby": 2,
-  "workable": 14
+  "workday": 11,
+  "greenhouse": 2,
+  "ashby": 1,
+  "workable": 2
  },
- "fetch_success_rate": 0.976,
- "fetch_success_rate_registry": 0.915,
- "snapshots_complete": 3859,
- "snapshots_partial": 590,
+ "fetch_success_rate": 0.996,
+ "fetch_success_rate_registry": 0.932,
+ "snapshots_complete": 3916,
+ "snapshots_partial": 616,
  "partial_by_reason": {
-  "result-cap": 590
+  "result-cap": 615,
+  "malformed-response": 1
  },
- "degraded_fetches": 0,
- "roles_matched": 335,
- "dropped_no_year_in_title": 99,
- "dropped_no_year_undated": 67,
+ "degraded_fetches": 1,
+ "roles_matched": 342,
+ "dropped_no_year_in_title": 100,
+ "dropped_no_year_undated": 68,
  "dropped_no_year_dated_too_old": 32,
  "dropped_no_year_dated_in_future": 0,
  "dropped_no_year_unparsable_date": 0,
  "dropped_no_year_inference_disabled": 0,
  "dropped_no_year_by_reason": {
   "dated-too-old": 32,
-  "undated": 67
+  "undated": 68
  },
  "dropped_offcycle_by_text": 95,
  "roles_cycle_inferred": 136,
@@ -88,5 +89,5 @@
   "median_days": 8.0,
   "sample_size": 30
  },
- "rendered_at": "2026-09-20T11:33:50Z"
+ "rendered_at": "2026-09-20T16:15:36Z"
 }
