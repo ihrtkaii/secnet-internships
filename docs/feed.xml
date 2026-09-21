@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-20T23:24:48Z</updated>
+  <updated>2026-09-21T05:06:39Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Systems-Engineer-Intern---Baltimore-MD_R10251094</id>
+    <title>Northrop Grumman: 2027 Systems Engineer Intern - Baltimore MD 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Systems-Engineer-Intern---Baltimore-MD_R10251094"/>
+    <updated>2026-09-21T05:06:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · United States-Maryland-Baltimore · $20.5–$37.25/hr · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering---Summer-Intern-2027---Onsite_01873971</id>
     <title>RTX: Systems Engineering - Summer Intern 2027 - Onsite 🛂</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-11T16:40:09Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Systems &amp; Cloud Infra · Dallas, TX, United States; Sugar Land, TX, United States; Knoxville, TN, United States · C++, MATLAB · H-1B track record: ~234 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017914</id>
-    <title>Texas Instruments: Systems Engineering Intern(SEM) - A&amp;D 🛂</title>
-    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017914"/>
-    <updated>2026-09-11T16:40:09Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Systems &amp; Cloud Infra · Dallas, TX, United States · C++, MATLAB · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
