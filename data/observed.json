@@ -212,6 +212,18 @@
     }
    }
   },
+  "assured guaranty": {
+   "name": "Assured Guaranty",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-21",
+     "role_ids": [
+      "greenhouse:assuredguaranty:8817718002"
+     ],
+     "count": 1
+    }
+   }
+  },
   "atkinsréalis": {
    "name": "AtkinsRéalis",
    "cycles": {
@@ -333,6 +345,7 @@
      "role_ids": [
       "workday:bah:/job/Annapolis-Junction-MD/University---2027-Summer-Games-Cyber-Security-Intern---Annapolis-Junction--MD_R0248414",
       "workday:bah:/job/Annapolis-Junction-MD/University---2027-Summer-Games-Systems-Engineer-Intern---Annapolis-Junction--MD_R0248384",
+      "workday:bah:/job/Annapolis-Junction-MD/University---2027-Summer-Games-Systems-Engineer-Intern---Annapolis-Junction--MD_R0249871",
       "workday:bah:/job/Annapolis-Junction-MD/University---Summer-2027---Systems-Administrator-Intern_R0249226",
       "workday:bah:/job/Atlanta-GA/University---2027-Summer-Games--Systems-Engineer-Intern---Atlanta--GA_R0248381",
       "workday:bah:/job/Atlanta-GA/University---2027-Summer-Games-Cyber-Security-Intern---Atlanta--GA_R0248139",
@@ -343,13 +356,17 @@
       "workday:bah:/job/Colorado-Springs-CO/University--2027-Summer-Games-Cybersecurity-Intern_R0248131",
       "workday:bah:/job/El-Segundo-CA/University---2027-Summer-Games-Cyber-Security-Intern---El-Segundo--CA_R0248047",
       "workday:bah:/job/El-Segundo-CA/University---2027-Summer-Games-Systems-Engineer-Intern---El-Segundo--CA_R0248366",
+      "workday:bah:/job/El-Segundo-CA/University---2027-Summer-Games-Systems-Engineer-Intern---El-Segundo--CA_R0249869",
+      "workday:bah:/job/El-Segundo-CA/University---2027-Summer-Games-Systems-Engineer-Intern---El-Segundo--CA_R0249870",
       "workday:bah:/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Cyber-Security-Intern---Ft-Walton-Beach--FL_R0248416",
       "workday:bah:/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Systems-Engineer-Intern---Ft-Walton-Beach--FL_R0248388",
       "workday:bah:/job/Honolulu-HI/University---2027-Summer-Games-Cyber-Security-Intern---Honolulu--HI_R0248411",
       "workday:bah:/job/Honolulu-HI/University---2027-Summer-Games-Systems-Engineer-Intern---Honolulu--HI_R0248370",
       "workday:bah:/job/Huntsville-AL/University---2027-Summer-Games-Cyber-Security-Intern---Huntsville--AL_R0248412",
       "workday:bah:/job/Huntsville-AL/University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249188",
+      "workday:bah:/job/Huntsville-AL/University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249876",
       "workday:bah:/job/McLean-VA/University---2027-Summer-Games-Cyber-Security-Intern---McLean--VA_R0248034",
+      "workday:bah:/job/McLean-VA/University---2027-Summer-Games-Cyber-Security-Intern---McLean--VA_R0249878",
       "workday:bah:/job/McLean-VA/University---2027-Summer-Games-Systems-Engineer-Intern---McLean--VA_R0248361",
       "workday:bah:/job/Rome-NY/University---2027-Summer-Games-Systems-Engineer-Intern---Rome--NY_R0248386",
       "workday:bah:/job/Rome-NY/University--2027-Summer-Games-Cyber-Security-Intern_R0248142",
@@ -357,7 +374,7 @@
       "workday:bah:/job/San-Diego-CA/University---2027-Summer-Games-Systems-Engineer-Intern---San-Diego--CA_R0248365",
       "workday:bah:/job/San-Diego-CA/University--2027-Summer-Games-Cyber-Security-Intern_R0248043"
      ],
-     "count": 25
+     "count": 30
     }
    }
   },
@@ -983,6 +1000,19 @@
     }
    }
   },
+  "live oak bank": {
+   "name": "Live Oak Bank",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-21",
+     "role_ids": [
+      "workday:liveoakbancshares:/job/Wilmington-NC/Summer-2027-Intern--IT-Support-Administrator_R-002627",
+      "workday:liveoakbancshares:/job/Wilmington-NC/Summer-2027-Intern--Information-Security_R-002647"
+     ],
+     "count": 2
+    }
+   }
+  },
   "louisiana blue": {
    "name": "Louisiana Blue",
    "cycles": {
@@ -1288,6 +1318,18 @@
     }
    }
   },
+  "protective life": {
+   "name": "Protective Life",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-21",
+     "role_ids": [
+      "lever:protective:32a8a257-c5d4-4b77-bf0b-d08dbb93b752"
+     ],
+     "count": 1
+    }
+   }
+  },
   "qts": {
    "name": "QTS",
    "cycles": {
@@ -1488,9 +1530,12 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1007774",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007776",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007777",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007804"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007804",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007837",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007876",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007905"
      ],
-     "count": 6
+     "count": 9
     },
     "Fall 2026": {
      "first_posted": "2026-09-02",
@@ -1644,6 +1689,18 @@
     }
    }
   },
+  "western alliance": {
+   "name": "Western Alliance",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-21",
+     "role_ids": [
+      "workday:westernalliancebank:/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---IT-Security_R13775"
+     ],
+     "count": 1
+    }
+   }
+  },
   "workiva": {
    "name": "Workiva",
    "cycles": {
@@ -1669,5 +1726,5 @@
    }
   }
  },
- "updated_at": "2026-09-21T13:00:02Z"
+ "updated_at": "2026-09-21T20:14:04Z"
 }
