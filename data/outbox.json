@@ -1,36 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "lever:protective:32a8a257-c5d4-4b77-bf0b-d08dbb93b752",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007837",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007876",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007905",
-      "greenhouse:assuredguaranty:8817718002",
-      "workday:bah:/job/McLean-VA/University---2027-Summer-Games-Cyber-Security-Intern---McLean--VA_R0249878",
-      "workday:bah:/job/Huntsville-AL/University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249876",
-      "workday:bah:/job/El-Segundo-CA/University---2027-Summer-Games-Systems-Engineer-Intern---El-Segundo--CA_R0249869",
-      "workday:bah:/job/El-Segundo-CA/University---2027-Summer-Games-Systems-Engineer-Intern---El-Segundo--CA_R0249870",
-      "workday:bah:/job/Annapolis-Junction-MD/University---2027-Summer-Games-Systems-Engineer-Intern---Annapolis-Junction--MD_R0249871",
-      "workday:cir:/job/Fairfield-IA/IT-Operations-Intern---Service-Desk--Infrastructure--Prod-Support_R-2025-235",
-      "workday:liveoakbancshares:/job/Wilmington-NC/Summer-2027-Intern--Information-Security_R-002647",
-      "workday:liveoakbancshares:/job/Wilmington-NC/Summer-2027-Intern--IT-Support-Administrator_R-002627",
-      "workday:westernalliancebank:/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---IT-Security_R13775"
-    ],
-    "telegram": [
-      "lever:protective:32a8a257-c5d4-4b77-bf0b-d08dbb93b752",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007837",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007876",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007905",
-      "greenhouse:assuredguaranty:8817718002",
-      "workday:bah:/job/McLean-VA/University---2027-Summer-Games-Cyber-Security-Intern---McLean--VA_R0249878",
-      "workday:bah:/job/Huntsville-AL/University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249876",
-      "workday:bah:/job/El-Segundo-CA/University---2027-Summer-Games-Systems-Engineer-Intern---El-Segundo--CA_R0249869",
-      "workday:bah:/job/El-Segundo-CA/University---2027-Summer-Games-Systems-Engineer-Intern---El-Segundo--CA_R0249870",
-      "workday:bah:/job/Annapolis-Junction-MD/University---2027-Summer-Games-Systems-Engineer-Intern---Annapolis-Junction--MD_R0249871",
-      "workday:cir:/job/Fairfield-IA/IT-Operations-Intern---Service-Desk--Infrastructure--Prod-Support_R-2025-235",
-      "workday:liveoakbancshares:/job/Wilmington-NC/Summer-2027-Intern--Information-Security_R-002647",
-      "workday:liveoakbancshares:/job/Wilmington-NC/Summer-2027-Intern--IT-Support-Administrator_R-002627",
-      "workday:westernalliancebank:/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---IT-Security_R13775"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
