@@ -1,24 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:119551",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007919",
-      "lever:xcimer:4b031cd4-5f45-4d53-9332-dd23bc349480",
-      "workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Secure-System-Engineering-Intern--Summer-2027-_01876180",
-      "greenhouse:tanium:8176398",
-      "workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship--Rutgers--NJIT--NYU--UT-Dallas--UT-Arlington--Texas-A-M_R-1101169",
-      "workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship_R-1101167"
-    ],
-    "telegram": [
-      "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:119551",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007919",
-      "lever:xcimer:4b031cd4-5f45-4d53-9332-dd23bc349480",
-      "workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Secure-System-Engineering-Intern--Summer-2027-_01876180",
-      "greenhouse:tanium:8176398",
-      "workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship--Rutgers--NJIT--NYU--UT-Dallas--UT-Arlington--Texas-A-M_R-1101169",
-      "workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship_R-1101167"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
