@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-22T11:48:05Z",
- "data_as_of": "2026-09-22T11:48:05Z",
- "rendered_at": "2026-09-22T11:48:06Z",
+ "generated_at": "2026-09-22T17:11:03Z",
+ "data_as_of": "2026-09-22T17:11:03Z",
+ "rendered_at": "2026-09-22T17:11:04Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -2153,6 +2153,44 @@
    }
   },
   {
+   "company": "Verizon Communications",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-22",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-22",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship--Rutgers--NJIT--NYU--UT-Dallas--UT-Arlington--Texas-A-M_R-1101169",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-22"
+   }
+  },
+  {
+   "company": "Xcimer Energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-22",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-22",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.lever.co/xcimer/4b031cd4-5f45-4d53-9332-dd23bc349480",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-22"
+   }
+  },
+  {
    "company": "APEX Analytix",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -2247,5 +2285,5 @@
    }
   }
  ],
- "count": 118
+ "count": 120
 }

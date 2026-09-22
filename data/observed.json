@@ -1210,6 +1210,7 @@
       "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Cybersecurity-Analyst-Intern----Boulder-CO_R10248677",
       "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027--Systems-Engineer-Intern---Colorado-Springs-CO_R10249777",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering_R10247434",
+      "workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Systems-Engineer-Intern---Baltimore-MD_R10251094",
       "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
       "workday:ngc:/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern---Systems-Engineering_R10248653",
@@ -1217,7 +1218,7 @@
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Engineering-Intern--Roy-UT_R10248475",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Security-Engineering-Intern---Roy-UT_R10249815"
      ],
-     "count": 13
+     "count": 14
     },
     "Fall 2026": {
      "first_posted": "2026-08-31",
@@ -1421,6 +1422,7 @@
      "role_ids": [
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering---Summer-Intern-2027---Onsite_01873971",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01874003",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Secure-System-Engineering-Intern--Summer-2027-_01876180",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Secure-System-Engineering-Intern--Summer-2027-_01869964",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineer-Intern---Summer-2027--Onsite-_01864173",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Platform-System-Engineering-Co-op--2027----Onsite_01871078",
@@ -1438,7 +1440,7 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871444",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Engineering-Intern--Summer-2027----Onsite_01871091"
      ],
-     "count": 18
+     "count": 19
     }
    }
   },
@@ -1536,9 +1538,10 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1007804",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007837",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007876",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007905"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007905",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007919"
      ],
-     "count": 9
+     "count": 10
     },
     "Fall 2026": {
      "first_posted": "2026-09-02",
@@ -1668,6 +1671,19 @@
     }
    }
   },
+  "verizon communications": {
+   "name": "Verizon Communications",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-22",
+     "role_ids": [
+      "workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship--Rutgers--NJIT--NYU--UT-Dallas--UT-Arlington--Texas-A-M_R-1101169",
+      "workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship_R-1101167"
+     ],
+     "count": 2
+    }
+   }
+  },
   "verkada": {
    "name": "Verkada",
    "cycles": {
@@ -1727,7 +1743,19 @@
      "count": 1
     }
    }
+  },
+  "xcimer energy": {
+   "name": "Xcimer Energy",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-22",
+     "role_ids": [
+      "lever:xcimer:4b031cd4-5f45-4d53-9332-dd23bc349480"
+     ],
+     "count": 1
+    }
+   }
   }
  },
- "updated_at": "2026-09-22T11:48:05Z"
+ "updated_at": "2026-09-22T17:11:03Z"
 }

@@ -5,8 +5,80 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-22T11:48:05Z</updated>
+  <updated>2026-09-22T17:11:03Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:wellington:/job/Boston-MA-United-States/Information-Security-Co-op_R94910</id>
+    <title>Wellington Management: Information Security Co-op</title>
+    <link href="https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Information-Security-Co-op_R94910"/>
+    <updated>2026-09-22T17:11:03Z</updated>
+    <category term="Winter 2026"/>
+    <summary>Winter 2026 · Security (general) · Boston, MA, United States · $19–$35/hr · status: closed · H-1B track record: ~112 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:119551</id>
+    <title>Howmet Aerospace: Cybersecurity Intern 🛂</title>
+    <link href="https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119551"/>
+    <updated>2026-09-22T17:11:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Pittsburgh, PA, United States · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007919</id>
+    <title>Stantec: Transportation Engineering Co-op/Intern - Infrastructure (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007919"/>
+    <updated>2026-09-22T17:11:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Portland, ME, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:xcimer:4b031cd4-5f45-4d53-9332-dd23bc349480</id>
+    <title>Xcimer Energy: Summer 2027 Internship - Controls Systems Engineering 🇺🇸</title>
+    <link href="https://jobs.lever.co/xcimer/4b031cd4-5f45-4d53-9332-dd23bc349480"/>
+    <updated>2026-09-22T17:11:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Denver, CO · 25–35 USD/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196</id>
+    <title>Northrop Grumman: 2027 Cyber Systems Engineer Intern-Tampa FL 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196"/>
+    <updated>2026-09-22T17:11:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · United States-Florida-Tampa · $18.5–$33.5/hr · Python, LLMs · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Secure-System-Engineering-Intern--Summer-2027-_01876180</id>
+    <title>RTX: Secure System Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Secure-System-Engineering-Intern--Summer-2027-_01876180"/>
+    <updated>2026-09-22T17:11:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-106 ~ 400 Collins Rd NE ~ BLDG 106 · Python, Linux, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:tanium:8176398</id>
+    <title>Tanium: Cloud Security Intern</title>
+    <link href="https://job-boards.greenhouse.io/tanium/jobs/8176398"/>
+    <updated>2026-09-22T17:11:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Cloud &amp; Infra Sec · Durham, NC (Hybrid) · AWS · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship--Rutgers--NJIT--NYU--UT-Dallas--UT-Arlington--Texas-A-M_R-1101169</id>
+    <title>Verizon Communications: Verizon Network and Technology: AI Science 2027 Internship: Rutgers, NJIT, NYU, UT Dallas, UT Arlington, Texas A&amp;M</title>
+    <link href="https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship--Rutgers--NJIT--NYU--UT-Dallas--UT-Arlington--Texas-A-M_R-1101169"/>
+    <updated>2026-09-22T17:11:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Network / Telecom · Basking Ridge, New Jersey · $27/hr · Python, Java</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship_R-1101167</id>
+    <title>Verizon Communications: Verizon Network and Technology: AI Science 2027 Internship</title>
+    <link href="https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship_R-1101167"/>
+    <updated>2026-09-22T17:11:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Network / Telecom · Basking Ridge, New Jersey · $27/hr · Python, Java</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:nvidia:/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098</id>
     <title>NVIDIA: PhD Research Intern, Networking - 2027</title>
@@ -734,77 +806,5 @@
     <updated>2026-09-14T20:08:21Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Network / Telecom · Wyoming, Michigan · H-1B track record: ~21 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:invesco:/job/Houston-Texas/Early-Career-Intern---Global-Security-Department_R-15519-1</id>
-    <title>Invesco: Early Career Intern - Global Security Department</title>
-    <link href="https://invesco.wd1.myworkdayjobs.com/IVZ/job/Houston-Texas/Early-Career-Intern---Global-Security-Department_R-15519-1"/>
-    <updated>2026-09-14T20:08:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Houston, Texas · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:slihrms:/job/USNVHenderson/Water-Infrastructure-Engineering-Intern---Summer-2027_R-160500-2</id>
-    <title>AtkinsRéalis: Water Infrastructure Engineering Intern - Summer 2027</title>
-    <link href="https://slihrms.wd3.myworkdayjobs.com/careers/job/USNVHenderson/Water-Infrastructure-Engineering-Intern---Summer-2027_R-160500-2"/>
-    <updated>2026-09-14T20:08:21Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · US.NV.Henderson</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589</id>
-    <title>Wex: Backend Software Engineer Intern - C#, Cloud Security &amp; AI (Undergraduate)</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589"/>
-    <updated>2026-09-14T20:08:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Cloud &amp; Infra Sec · US - Remote · C#, Python, AWS, Docker, Git · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/DevOps---Backend-Software-Engineer-Intern--Undergraduate-_R22584</id>
-    <title>Wex: DevOps &amp; Backend Software Engineer Intern (Undergraduate)</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/DevOps---Backend-Software-Engineer-Intern--Undergraduate-_R22584"/>
-    <updated>2026-09-14T20:08:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · US - Remote · Python, C#, Azure, Kubernetes, Docker · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cloud-DevOps_R_1510799</id>
-    <title>TD Bank: 2027 Summer Internship Program - Global Technology &amp; Solutions - Cloud/DevOps</title>
-    <link href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cloud-DevOps_R_1510799"/>
-    <updated>2026-09-14T05:05:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Cloud Platform · Mount Laurel, New Jersey · Terraform</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cyber-Security_R_1510795</id>
-    <title>TD Bank: 2027 Summer Internship Program - Global Technology &amp; Solutions - Cyber Security</title>
-    <link href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cyber-Security_R_1510795"/>
-    <updated>2026-09-14T05:05:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Mount Laurel, New Jersey</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology-Solutions---Business-Systems-Analyst--BSA-_R_1510802</id>
-    <title>TD Bank: 2027 Summer Internship Program - Global Technology Solutions - Business Systems Analyst (BSA)</title>
-    <link href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology-Solutions---Business-Systems-Analyst--BSA-_R_1510802"/>
-    <updated>2026-09-14T05:05:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Mount Laurel, New Jersey</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:FortuneBrands:744000149058098</id>
-    <title>Fortune Brands: Product Management Intern, B2B Security</title>
-    <link href="https://jobs.smartrecruiters.com/FortuneBrands/744000149058098"/>
-    <updated>2026-09-12T15:42:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Deerfield, ILLINOIS, United States (Hybrid) · Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Systems-Engineering-Co-op-Intern_JR100323</id>
-    <title>Bracco: Systems Engineering Co-op/Intern</title>
-    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Systems-Engineering-Co-op-Intern_JR100323"/>
-    <updated>2026-09-12T15:42:33Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr</summary>
   </entry>
 </feed>
