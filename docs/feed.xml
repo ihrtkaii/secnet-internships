@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-21T20:14:04Z</updated>
+  <updated>2026-09-22T00:16:28Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:nvidia:/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098</id>
+    <title>NVIDIA: PhD Research Intern, Networking - 2027</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098"/>
+    <updated>2026-09-22T00:16:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Network / Telecom · US, CA, Santa Clara · Python, C++, CUDA · H-1B track record: ~1.5k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:assuredguaranty:8817718002</id>
+    <title>Assured Guaranty: IT Helpdesk Intern - Summer 2027</title>
+    <link href="https://boards.greenhouse.io/assuredguaranty/jobs/8817718002?gh_jid=8817718002"/>
+    <updated>2026-09-21T20:14:04Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · IT Support / Ops · New York, NY, United States · $30/hr</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:protective:32a8a257-c5d4-4b77-bf0b-d08dbb93b752</id>
     <title>Protective Life: 2027 Summer IT Internship Program</title>
@@ -40,14 +56,6 @@
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Minneapolis, MN, United States; Milwaukee, WI, United States</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:assuredguaranty:8817718002</id>
-    <title>Assured Guaranty: IT Helpdesk Intern - Summer 2027</title>
-    <link href="https://boards.greenhouse.io/assuredguaranty/jobs/8817718002?gh_jid=8817718002"/>
-    <updated>2026-09-21T20:14:04Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · IT Support / Ops · New York, NY, United States · $30/hr</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:cir:/job/Fairfield-IA/IT-Operations-Intern---Service-Desk--Infrastructure--Prod-Support_R-2025-235</id>
     <title>Cambridge Investment Research: IT Operations Intern - Service Desk, Infrastructure, Prod Support</title>
     <link href="https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Fairfield-IA/IT-Operations-Intern---Service-Desk--Infrastructure--Prod-Support_R-2025-235"/>
@@ -56,20 +64,20 @@
     <summary>Not stated · Systems &amp; Cloud Infra · Fairfield, IA · $17–$26/hr</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:liveoakbancshares:/job/Wilmington-NC/Summer-2027-Intern--Information-Security_R-002647</id>
-    <title>Live Oak Bank: Summer 2027 Intern: Information Security</title>
-    <link href="https://liveoakbancshares.wd1.myworkdayjobs.com/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Information-Security_R-002647"/>
-    <updated>2026-09-21T20:14:04Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Wilmington, NC · $19.77–$32.12/hr · Python, AWS, GCP, Azure</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:liveoakbancshares:/job/Wilmington-NC/Summer-2027-Intern--IT-Support-Administrator_R-002627</id>
     <title>Live Oak Bank: Summer 2027 Intern: IT Support Administrator</title>
     <link href="https://liveoakbancshares.wd1.myworkdayjobs.com/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--IT-Support-Administrator_R-002627"/>
     <updated>2026-09-21T20:14:04Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · IT Support / Ops · Wilmington, NC · $19.77–$32.12/hr · AWS, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:liveoakbancshares:/job/Wilmington-NC/Summer-2027-Intern--Information-Security_R-002647</id>
+    <title>Live Oak Bank: Summer 2027 Intern: Information Security</title>
+    <link href="https://liveoakbancshares.wd1.myworkdayjobs.com/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Information-Security_R-002647"/>
+    <updated>2026-09-21T20:14:04Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Wilmington, NC · $19.77–$32.12/hr · Python, AWS, GCP, Azure</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:westernalliancebank:/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---IT-Security_R13775</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-12T15:42:33Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ascensushr:/job/Dresher-PA/Compliance-Analyst--College-Savings---Compliance_R0021928</id>
-    <title>Ascensus: Compliance Analyst, College Savings - Co-Op</title>
-    <link href="https://ascensushr.wd1.myworkdayjobs.com/ascensuscareers/job/Dresher-PA/Compliance-Analyst--College-Savings---Compliance_R0021928"/>
-    <updated>2026-09-16T21:30:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · GRC / Risk · Dresher, PA · status: closed · H-1B track record: ~18 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
