@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:bah:/job/McLean-VA/University---2027-Summer-Games-Cyber-Security-Intern---McLean--VA_R0249832",
-      "workday:bah:/job/Huntsville-AL/University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249877",
-      "workday:nvidia:/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098"
-    ],
-    "telegram": [
-      "workday:bah:/job/McLean-VA/University---2027-Summer-Games-Cyber-Security-Intern---McLean--VA_R0249832",
-      "workday:bah:/job/Huntsville-AL/University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249877",
-      "workday:nvidia:/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
