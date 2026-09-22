@@ -5,15 +5,63 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-22T17:11:03Z</updated>
+  <updated>2026-09-22T21:33:29Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:wellington:/job/Boston-MA-United-States/Information-Security-Co-op_R94910</id>
-    <title>Wellington Management: Information Security Co-op</title>
-    <link href="https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Information-Security-Co-op_R94910"/>
+    <id>urn:intern-engine:workday:chartermfg:/job/Charter-Manufacturing-Company-Inc---Mequon-WI/IT-Support-Technician-Intern--Year-Round-_R07626</id>
+    <title>Charter Manufacturing: IT Support Technician Intern (Year-Round)</title>
+    <link href="https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/IT-Support-Technician-Intern--Year-Round-_R07626"/>
+    <updated>2026-09-22T21:33:29Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · IT Support / Ops · Charter Manufacturing Company, Inc - Mequon, WI · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gfs:/job/Wyoming-Michigan/Identity-Analyst-IT-Internship_R-57499-1</id>
+    <title>Gordon Food Service: Identity Analyst IT Internship</title>
+    <link href="https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Identity-Analyst-IT-Internship_R-57499-1"/>
+    <updated>2026-09-22T21:33:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Cloud &amp; Infra Sec · Wyoming, Michigan · H-1B track record: ~21 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530</id>
+    <title>Northrop Grumman: 2027 Cyber Software Engineer Intern - Tampa FL 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530"/>
+    <updated>2026-09-22T21:33:29Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · United States-Florida-Tampa · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tencent:/job/US-California-Palo-Alto/IT-Operations-Intern_R108176-2</id>
+    <title>Tencent: IT Operations Intern</title>
+    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/IT-Operations-Intern_R108176-2"/>
+    <updated>2026-09-22T21:33:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Other · US-California-Palo Alto · $27.12–$51.93/hr · Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tencent:/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158-1</id>
+    <title>Tencent: Site Reliability Engineer (SRE) Intern — AI Infrastructure</title>
+    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158-1"/>
+    <updated>2026-09-22T21:33:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · US-California-Palo Alto · $27.12–$51.93/hr · Python, Bash, Kubernetes, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:tanium:8176398</id>
+    <title>Tanium: Cloud Security Intern</title>
+    <link href="https://job-boards.greenhouse.io/tanium/jobs/8176398"/>
     <updated>2026-09-22T17:11:03Z</updated>
-    <category term="Winter 2026"/>
-    <summary>Winter 2026 · Security (general) · Boston, MA, United States · $19–$35/hr · status: closed · H-1B track record: ~112 approvals (FY2022–2023)</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Cloud &amp; Infra Sec · Durham, NC (Hybrid) · AWS · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:xcimer:4b031cd4-5f45-4d53-9332-dd23bc349480</id>
+    <title>Xcimer Energy: Summer 2027 Internship - Controls Systems Engineering 🇺🇸</title>
+    <link href="https://jobs.lever.co/xcimer/4b031cd4-5f45-4d53-9332-dd23bc349480"/>
+    <updated>2026-09-22T17:11:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Denver, CO · 25–35 USD/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:119551</id>
@@ -32,22 +80,6 @@
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Portland, ME, United States</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:lever:xcimer:4b031cd4-5f45-4d53-9332-dd23bc349480</id>
-    <title>Xcimer Energy: Summer 2027 Internship - Controls Systems Engineering 🇺🇸</title>
-    <link href="https://jobs.lever.co/xcimer/4b031cd4-5f45-4d53-9332-dd23bc349480"/>
-    <updated>2026-09-22T17:11:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Denver, CO · 25–35 USD/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196</id>
-    <title>Northrop Grumman: 2027 Cyber Systems Engineer Intern-Tampa FL 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196"/>
-    <updated>2026-09-22T17:11:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · United States-Florida-Tampa · $18.5–$33.5/hr · Python, LLMs · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Secure-System-Engineering-Intern--Summer-2027-_01876180</id>
     <title>RTX: Secure System Engineering Intern (Summer 2027) 🇺🇸</title>
     <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Secure-System-Engineering-Intern--Summer-2027-_01876180"/>
@@ -56,12 +88,12 @@
     <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-106 ~ 400 Collins Rd NE ~ BLDG 106 · Python, Linux, Git · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:tanium:8176398</id>
-    <title>Tanium: Cloud Security Intern</title>
-    <link href="https://job-boards.greenhouse.io/tanium/jobs/8176398"/>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196</id>
+    <title>Northrop Grumman: 2027 Cyber Systems Engineer Intern-Tampa FL 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196"/>
     <updated>2026-09-22T17:11:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Cloud &amp; Infra Sec · Durham, NC (Hybrid) · AWS · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · United States-Florida-Tampa · $18.5–$33.5/hr · Python, LLMs · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship--Rutgers--NJIT--NYU--UT-Dallas--UT-Arlington--Texas-A-M_R-1101169</id>
@@ -78,6 +110,14 @@
     <updated>2026-09-22T17:11:03Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Network / Telecom · Basking Ridge, New Jersey · $27/hr · Python, Java</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wellington:/job/Boston-MA-United-States/Information-Security-Co-op_R94910</id>
+    <title>Wellington Management: Information Security Co-op</title>
+    <link href="https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Information-Security-Co-op_R94910"/>
+    <updated>2026-09-22T17:11:03Z</updated>
+    <category term="Winter 2026"/>
+    <summary>Winter 2026 · Security (general) · Boston, MA, United States · $19–$35/hr · status: closed · H-1B track record: ~112 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:nvidia:/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098</id>
@@ -766,45 +806,5 @@
     <updated>2026-09-15T00:06:47Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Systems &amp; Cloud Infra · US - Remote · Python, Bash, AWS, GCP, Azure · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ekbq.fa.em2.oraclecloud.com:2061</id>
-    <title>Schroders: 2027 Schroders Capital Internship Program - Infrastructure</title>
-    <link href="https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2061"/>
-    <updated>2026-09-14T20:08:21Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · NEW YORK, NY, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bcbsla:/job/Corporate---Baton-Rouge-LA/CW-Security-Operation-Center-Engineer-Intern--Fall-2026--Starting-in-December-_R12127</id>
-    <title>Louisiana Blue: CW Security Operation Center Engineer Intern (Fall 2026- Starting in December)</title>
-    <link href="https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Security-Operation-Center-Engineer-Intern--Fall-2026--Starting-in-December-_R12127"/>
-    <updated>2026-09-14T20:08:21Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Security (general) · Corporate - Baton Rouge, LA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:costar:/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727</id>
-    <title>CoStar Group: Security Engineer Intern - Arlington, VA 🛂</title>
-    <link href="https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727"/>
-    <updated>2026-09-14T20:08:21Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · US-VA Arlington · Python, Bash, Linux · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:costar:/job/US-VA-Richmond/Security-Engineer-Intern---Richmond--VA_R39726</id>
-    <title>CoStar Group: Security Engineer Intern - Richmond, VA 🛂</title>
-    <link href="https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond/Security-Engineer-Intern---Richmond--VA_R39726"/>
-    <updated>2026-09-14T20:08:21Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · US-VA Richmond · Python, Bash, Linux · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gfs:/job/Wyoming-Michigan/Inbound-Transportation-Network-Internship_R-57173</id>
-    <title>Gordon Food Service: Inbound Transportation Network Internship</title>
-    <link href="https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Inbound-Transportation-Network-Internship_R-57173"/>
-    <updated>2026-09-14T20:08:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Network / Telecom · Wyoming, Michigan · H-1B track record: ~21 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

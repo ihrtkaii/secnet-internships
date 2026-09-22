@@ -1,6 +1,16 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:gfs:/job/Wyoming-Michigan/Identity-Analyst-IT-Internship_R-57499-1",
+      "workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530",
+      "workday:tencent:/job/US-California-Palo-Alto/IT-Operations-Intern_R108176-2",
+      "workday:tencent:/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158-1"
+    ],
+    "telegram": [
+      "workday:gfs:/job/Wyoming-Michigan/Identity-Analyst-IT-Internship_R-57499-1",
+      "workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530",
+      "workday:tencent:/job/US-California-Palo-Alto/IT-Operations-Intern_R108176-2",
+      "workday:tencent:/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158-1"
+    ]
   }
 }
