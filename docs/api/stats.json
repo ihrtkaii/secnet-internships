@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-22T00:16:28Z",
- "fetched_at": "2026-09-22T00:16:28Z",
- "duration_seconds": 812.4,
+ "generated_at": "2026-09-22T05:06:54Z",
+ "fetched_at": "2026-09-22T05:06:54Z",
+ "duration_seconds": 1153.6,
  "companies_total": 4869,
  "companies_by_source": {
   "greenhouse": 1083,
@@ -17,37 +17,35 @@
   "breezy": 13,
   "eightfold": 1
  },
- "quarantined": 290,
- "fetched_ok": 4563,
- "fetch_errors": 16,
+ "quarantined": 302,
+ "fetched_ok": 4468,
+ "fetch_errors": 99,
  "errors_by_source": {
-  "greenhouse": 7,
+  "workday": 86,
   "lever": 2,
-  "workday": 3,
-  "ashby": 2,
-  "workable": 2
+  "workable": 11
  },
- "fetch_success_rate": 0.997,
- "fetch_success_rate_registry": 0.937,
- "snapshots_complete": 3926,
- "snapshots_partial": 637,
+ "fetch_success_rate": 0.978,
+ "fetch_success_rate_registry": 0.918,
+ "snapshots_complete": 3873,
+ "snapshots_partial": 595,
  "partial_by_reason": {
-  "result-cap": 622,
-  "malformed-response": 15
+  "result-cap": 582,
+  "malformed-response": 13
  },
- "degraded_fetches": 15,
- "roles_matched": 354,
- "dropped_no_year_in_title": 99,
- "dropped_no_year_undated": 69,
+ "degraded_fetches": 13,
+ "roles_matched": 341,
+ "dropped_no_year_in_title": 98,
+ "dropped_no_year_undated": 68,
  "dropped_no_year_dated_too_old": 30,
  "dropped_no_year_dated_in_future": 0,
  "dropped_no_year_unparsable_date": 0,
  "dropped_no_year_inference_disabled": 0,
  "dropped_no_year_by_reason": {
   "dated-too-old": 30,
-  "undated": 69
+  "undated": 68
  },
- "dropped_offcycle_by_text": 91,
+ "dropped_offcycle_by_text": 94,
  "roles_cycle_inferred": 137,
  "roles_by_source": {
   "amazon": 2,
@@ -74,10 +72,10 @@
   "offers": 1
  },
  "posted_date_coverage": 0.998,
- "enriched_this_run": 23,
- "enrichment_detail_fetches": 3,
+ "enriched_this_run": 20,
+ "enrichment_detail_fetches": 0,
  "purged_this_run": 0,
- "new_this_run": 3,
+ "new_this_run": 0,
  "open_total": 445,
  "detection_latency": {
   "median_minutes": 127.4,
@@ -90,5 +88,5 @@
   "median_days": 8.0,
   "sample_size": 30
  },
- "rendered_at": "2026-09-22T00:16:28Z"
+ "rendered_at": "2026-09-22T05:06:54Z"
 }
