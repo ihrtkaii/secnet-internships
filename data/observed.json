@@ -135,9 +135,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-27",
      "role_ids": [
-      "amazon:amazon:10517649"
+      "amazon:amazon:10517649",
+      "amazon:amazon:10557133"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -398,9 +399,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-03",
      "role_ids": [
+      "workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Product-Security-Engineering-Intern_JR100318",
       "workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Systems-Engineering-Co-op-Intern_JR100323"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1165,9 +1167,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-18",
      "role_ids": [
+      "workday:motorolasolutions:/job/Chicago-IL/Business-Systems-Analyst-Internship-Summer-2027_R68572",
       "workday:motorolasolutions:/job/Chicago-IL/Cyber-Security---2027-Summer-Internship--Chicago-Hybrid-_R68369"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1210,6 +1213,7 @@
       "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Cybersecurity-Analyst-Intern----Boulder-CO_R10248677",
       "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027--Systems-Engineer-Intern---Colorado-Springs-CO_R10249777",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering_R10247434",
+      "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Security-Cybersecurity-Engineer_R10252418",
       "workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530",
       "workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Systems-Engineer-Intern---Baltimore-MD_R10251094",
@@ -1219,7 +1223,7 @@
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Engineering-Intern--Roy-UT_R10248475",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Security-Engineering-Intern---Roy-UT_R10249815"
      ],
-     "count": 15
+     "count": 16
     },
     "Fall 2026": {
      "first_posted": "2026-08-31",
@@ -1758,5 +1762,5 @@
    }
   }
  },
- "updated_at": "2026-09-22T21:33:29Z"
+ "updated_at": "2026-09-23T00:05:02Z"
 }

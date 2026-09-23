@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-22T21:33:29Z</updated>
+  <updated>2026-09-23T00:05:02Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10557133</id>
+    <title>Amazon: Security Engineer Internship – 2027 (US)</title>
+    <link href="https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us"/>
+    <updated>2026-09-23T00:05:02Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Seattle, Washington, USA · Python, Java, C++, Ruby, AWS · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Product-Security-Engineering-Intern_JR100318</id>
+    <title>Bracco: Product Security Engineering Intern</title>
+    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Product-Security-Engineering-Intern_JR100318"/>
+    <updated>2026-09-23T00:05:02Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · AppSec / Product Sec · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr · Python, C++, C#, .NET</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:motorolasolutions:/job/Chicago-IL/Business-Systems-Analyst-Internship-Summer-2027_R68572</id>
+    <title>Motorola: Business Systems Analyst Internship Summer 2027</title>
+    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Business-Systems-Analyst-Internship-Summer-2027_R68572"/>
+    <updated>2026-09-23T00:05:02Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Chicago, IL · Python, SQL, scikit-learn, Pandas, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Security-Cybersecurity-Engineer_R10252418</id>
+    <title>Northrop Grumman: 2027 Intern - Systems Security/Cybersecurity Engineer 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Security-Cybersecurity-Engineer_R10252418"/>
+    <updated>2026-09-23T00:05:02Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · United States-Florida-Melbourne · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:chartermfg:/job/Charter-Manufacturing-Company-Inc---Mequon-WI/IT-Support-Technician-Intern--Year-Round-_R07626</id>
     <title>Charter Manufacturing: IT Support Technician Intern (Year-Round)</title>
@@ -774,37 +806,5 @@
     <updated>2026-09-15T00:06:47Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · IT Support / Ops · Houston, TX · Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tencent:/job/US-California-Palo-Alto/Cyber-Security-Engineer-Intern_R108141-2</id>
-    <title>Tencent: Cyber Security Engineer Intern</title>
-    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Cyber-Security-Engineer-Intern_R108141-2"/>
-    <updated>2026-09-15T00:06:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · US-California-Palo Alto · $27.12–$51.93/hr · Python, Java, C++, Bash, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055</id>
-    <title>Wex: AI &amp; Data Platform Engineering Intern (Undergraduate)</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055"/>
-    <updated>2026-09-15T00:06:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · US - Remote · Python, Java, SQL, LLMs, AWS · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/DevOps---AI-Engineering-Intern--Undergraduate-_R23056</id>
-    <title>Wex: DevOps &amp; AI Engineering Intern (Undergraduate)</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/DevOps---AI-Engineering-Intern--Undergraduate-_R23056"/>
-    <updated>2026-09-15T00:06:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · US - Remote · Python, Java, TypeScript, JavaScript, Bash · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/SRE---Application-Services-Intern--Graduate-Master-s-_R22494</id>
-    <title>Wex: SRE &amp; Application Services Intern (Graduate/Master's)</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/SRE---Application-Services-Intern--Graduate-Master-s-_R22494"/>
-    <updated>2026-09-15T00:06:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · US - Remote · Python, Bash, AWS, GCP, Azure · H-1B track record: ~22 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
