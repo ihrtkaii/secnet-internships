@@ -1,6 +1,14 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007956",
+      "workday:hitachi:/job/Pittsburgh-Pennsylvania-United-States/Intern---Network-Engineering_R0145672-1",
+      "workday:insulet:/job/San-Diego-California/Intern--DevOps-Engineer--June-August-2027--Onsite-_REQ-2026-18202"
+    ],
+    "telegram": [
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007956",
+      "workday:hitachi:/job/Pittsburgh-Pennsylvania-United-States/Intern---Network-Engineering_R0145672-1",
+      "workday:insulet:/job/San-Diego-California/Intern--DevOps-Engineer--June-August-2027--Onsite-_REQ-2026-18202"
+    ]
   }
 }

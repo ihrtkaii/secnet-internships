@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-23T17:09:40Z</updated>
+  <updated>2026-09-23T21:45:28Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:sonos:/job/Boston-MA/Audio-Systems-Engineering-Co-Op_R2827-2</id>
+    <title>Sonos: Audio Systems Engineering Co-Op 🛂</title>
+    <link href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Audio-Systems-Engineering-Co-Op_R2827-2"/>
+    <updated>2026-09-23T21:45:28Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Systems &amp; Cloud Infra · Boston, MA · sponsorship: no-sponsorship · status: closed · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:sonos:/job/Boston-MA/Radio-Systems-Engineering-Co-Op_R2825-2</id>
+    <title>Sonos: Radio Systems Engineering Co-Op 🛂</title>
+    <link href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Radio-Systems-Engineering-Co-Op_R2825-2"/>
+    <updated>2026-09-23T21:45:28Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Systems &amp; Cloud Infra · Boston, MA · Python · sponsorship: no-sponsorship · status: closed · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007956</id>
+    <title>Stantec: Civil Engineering Intern/Co-op - Infrastructure (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007956"/>
+    <updated>2026-09-23T21:45:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · New York, NY, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hitachi:/job/Pittsburgh-Pennsylvania-United-States/Intern---Network-Engineering_R0145672-1</id>
+    <title>Hitachi Energy: Intern – Network Engineering</title>
+    <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Network-Engineering_R0145672-1"/>
+    <updated>2026-09-23T21:45:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Network / Telecom · Pittsburgh, Pennsylvania, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:insulet:/job/San-Diego-California/Intern--DevOps-Engineer--June-August-2027--Onsite-_REQ-2026-18202</id>
+    <title>Insulet Corporation: Intern, DevOps Engineer: June-August 2027 (Onsite)</title>
+    <link href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/San-Diego-California/Intern--DevOps-Engineer--June-August-2027--Onsite-_REQ-2026-18202"/>
+    <updated>2026-09-23T21:45:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · San Diego, California · Python, Bash, AWS, Linux · H-1B track record: ~46 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:dxctechnology:/job/ITA---MI---MILAN/Cyber-Security-Intern_51583298</id>
     <title>DXC Technology: Cyber Security Intern</title>
@@ -16,20 +56,20 @@
     <summary>Not stated · Security (general) · ITA - MI - MILAN</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Cybersecurity-Associate-Internship_RQ228929-2</id>
-    <title>General Dynamics Information Technology: GDIT Summer Internship Program – Summer 2027 Cybersecurity Associate Internship 🇺🇸</title>
-    <link href="https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Cybersecurity-Associate-Internship_RQ228929-2"/>
-    <updated>2026-09-23T17:09:40Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · USA LA Bossier City · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2</id>
     <title>General Dynamics Information Technology: GDIT Summer Internship Program – Summer 2027 AI Network Engineering Internship 🇺🇸</title>
     <link href="https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2"/>
     <updated>2026-09-23T17:09:40Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Network / Telecom · USA LA Bossier City · Python, LLMs · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Cybersecurity-Associate-Internship_RQ228929-2</id>
+    <title>General Dynamics Information Technology: GDIT Summer Internship Program – Summer 2027 Cybersecurity Associate Internship 🇺🇸</title>
+    <link href="https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Cybersecurity-Associate-Internship_RQ228929-2"/>
+    <updated>2026-09-23T17:09:40Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · USA LA Bossier City · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:marvell:/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148-1</id>
@@ -766,45 +806,5 @@
     <updated>2026-09-15T21:33:11Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-107 ~ 400 Collins Rd NE ~ BLDG 107 · Python, Linux, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186</id>
-    <title>Northrop Grumman: 2027 Cyber Software Engineer Intern - Cincinnati OH 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186"/>
-    <updated>2026-09-15T21:33:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · United States-Ohio-Cincinnati · $19.5–$35.5/hr · Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:ensco:5421861008</id>
-    <title>ENSCO: Information Security Intern 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/ensco/jobs/5421861008"/>
-    <updated>2026-09-17T00:06:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Endicott, New York, United States; Melbourne, Florida, United States; Vienna, Virginia, United States · Python · sponsorship: citizens-only · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:rippling:apexanalytix-careers:c2519ae5-9e05-4182-a4ea-7c4cfae6840a</id>
-    <title>APEX Analytix: IT &amp; Cloud Intern (Summer 2027)</title>
-    <link href="https://ats.rippling.com/apexanalytix-careers/jobs/c2519ae5-9e05-4182-a4ea-7c4cfae6840a"/>
-    <updated>2026-09-15T17:10:27Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Cloud Platform · Greensboro, NC · H-1B track record: ~24 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:buildertrend:/job/Omaha-NE/Product-Security-Intern_JR-000473-1</id>
-    <title>Buildertrend: Product Security Intern</title>
-    <link href="https://buildertrend.wd108.myworkdayjobs.com/External_Careers/job/Omaha-NE/Product-Security-Intern_JR-000473-1"/>
-    <updated>2026-09-15T17:10:27Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · AppSec / Product Sec · Omaha, NE · $28/hr · Python, C#, JavaScript, Bash, GCP</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:micron:/job/Longmont-MAX--Office-CO/Intern---Data-Center-SSD-Firmware_JR111461</id>
-    <title>Micron Technology: Intern - Data Center SSD Firmware</title>
-    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---Data-Center-SSD-Firmware_JR111461"/>
-    <updated>2026-09-15T17:10:27Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Longmont-MAX- Office, CO · Python, C++, LLMs, Git · H-1B track record: ~489 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
