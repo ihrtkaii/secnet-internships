@@ -1,16 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "amazon:amazon:10557133",
-      "workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Product-Security-Engineering-Intern_JR100318",
-      "workday:motorolasolutions:/job/Chicago-IL/Business-Systems-Analyst-Internship-Summer-2027_R68572",
-      "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Security-Cybersecurity-Engineer_R10252418"
-    ],
-    "telegram": [
-      "amazon:amazon:10557133",
-      "workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Product-Security-Engineering-Intern_JR100318",
-      "workday:motorolasolutions:/job/Chicago-IL/Business-Systems-Analyst-Internship-Summer-2027_R68572",
-      "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Security-Cybersecurity-Engineer_R10252418"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
