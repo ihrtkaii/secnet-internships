@@ -740,6 +740,19 @@
     }
    }
   },
+  "general dynamics information technology": {
+   "name": "General Dynamics Information Technology",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-23",
+     "role_ids": [
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2",
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Cybersecurity-Associate-Internship_RQ228929-2"
+     ],
+     "count": 2
+    }
+   }
+  },
   "globalfoundries": {
    "name": "GlobalFoundries",
    "cycles": {
@@ -1036,6 +1049,18 @@
      "first_posted": "2026-08-24",
      "role_ids": [
       "workday:markelcorp:/job/Richmond-VA/Markel-2027-IT-Internship-Program_R0023805"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "marvell": {
+   "name": "Marvell",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-23",
+     "role_ids": [
+      "workday:marvell:/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148-1"
      ],
      "count": 1
     }
@@ -1764,5 +1789,5 @@
    }
   }
  },
- "updated_at": "2026-09-23T11:44:44Z"
+ "updated_at": "2026-09-23T17:09:40Z"
 }

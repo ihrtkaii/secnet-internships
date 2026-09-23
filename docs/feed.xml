@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-23T11:44:44Z</updated>
+  <updated>2026-09-23T17:09:40Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:dxctechnology:/job/ITA---MI---MILAN/Cyber-Security-Intern_51583298</id>
+    <title>DXC Technology: Cyber Security Intern</title>
+    <link href="https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ITA---MI---MILAN/Cyber-Security-Intern_51583298"/>
+    <updated>2026-09-23T17:09:40Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · ITA - MI - MILAN</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Cybersecurity-Associate-Internship_RQ228929-2</id>
+    <title>General Dynamics Information Technology: GDIT Summer Internship Program – Summer 2027 Cybersecurity Associate Internship 🇺🇸</title>
+    <link href="https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Cybersecurity-Associate-Internship_RQ228929-2"/>
+    <updated>2026-09-23T17:09:40Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · USA LA Bossier City · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2</id>
+    <title>General Dynamics Information Technology: GDIT Summer Internship Program – Summer 2027 AI Network Engineering Internship 🇺🇸</title>
+    <link href="https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2"/>
+    <updated>2026-09-23T17:09:40Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Network / Telecom · USA LA Bossier City · Python, LLMs · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:marvell:/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148-1</id>
+    <title>Marvell: Security Verification/Validation Engineer Intern, BS - Summer 2027</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148-1"/>
+    <updated>2026-09-23T17:09:40Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Chandler, AZ · Linux, Verilog</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:swbc:/job/San-Antonio-TX/Application-Security-Intern_R0015572-2</id>
+    <title>SWBC: Application Security Intern</title>
+    <link href="https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Application-Security-Intern_R0015572-2"/>
+    <updated>2026-09-23T17:09:40Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · AppSec / Product Sec · San Antonio, TX · Python, Git</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-California-Woodland-Hills/XMLNAME-2027-Systems-Engineer-Intern---Woodland-Hills-CA_R10249319-1</id>
     <title>Northrop Grumman: 2027 Systems Engineer Intern - Woodland Hills CA 🇺🇸</title>
@@ -766,45 +806,5 @@
     <updated>2026-09-15T17:10:27Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Systems &amp; Cloud Infra · Longmont-MAX- Office, CO · Python, C++, LLMs, Git · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471</id>
-    <title>Northrop Grumman: 2027 Cyber Systems Engineer Intern - Roy UT 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471"/>
-    <updated>2026-09-15T17:10:27Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · United States-Utah-Roy · $18.5–$33.5/hr · Python, Java, C++, C#, MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017626</id>
-    <title>Texas Instruments: Information Technology Intern – Security 🛂</title>
-    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017626"/>
-    <updated>2026-09-15T11:56:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Dallas, TX, United States · Python, Java, AWS, GCP, Azure · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cai:/job/California/Cybersecurity-Analyst-Intern_R8488</id>
-    <title>CAI: Cybersecurity Analyst Intern</title>
-    <link href="https://cai.wd5.myworkdayjobs.com/computer_aid/job/California/Cybersecurity-Analyst-Intern_R8488"/>
-    <updated>2026-09-15T11:56:45Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · California · Python, AWS, Azure, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Graduate-Intern_R016527</id>
-    <title>The Aerospace Corporation: 2027 Power Systems Engineering Graduate Intern 🇺🇸</title>
-    <link href="https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Graduate-Intern_R016527"/>
-    <updated>2026-09-15T05:05:35Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · El Segundo, CA · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Undergraduate-Intern_R016530</id>
-    <title>The Aerospace Corporation: 2027 Power Systems Engineering Undergraduate Intern 🇺🇸</title>
-    <link href="https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Undergraduate-Intern_R016530"/>
-    <updated>2026-09-15T05:05:35Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · El Segundo, CA · sponsorship: citizens-only</summary>
   </entry>
 </feed>

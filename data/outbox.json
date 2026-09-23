@@ -1,6 +1,18 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:dxctechnology:/job/ITA---MI---MILAN/Cyber-Security-Intern_51583298",
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Cybersecurity-Associate-Internship_RQ228929-2",
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2",
+      "workday:marvell:/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148-1",
+      "workday:swbc:/job/San-Antonio-TX/Application-Security-Intern_R0015572-2"
+    ],
+    "telegram": [
+      "workday:dxctechnology:/job/ITA---MI---MILAN/Cyber-Security-Intern_51583298",
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Cybersecurity-Associate-Internship_RQ228929-2",
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2",
+      "workday:marvell:/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148-1",
+      "workday:swbc:/job/San-Antonio-TX/Application-Security-Intern_R0015572-2"
+    ]
   }
 }
