@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-23T00:05:02Z</updated>
+  <updated>2026-09-23T04:54:27Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Avionics-Computer-Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872715</id>
+    <title>RTX: Avionics Computer Systems Engineering Co-op (Summer/Fall 2027) - Onsite</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Avionics-Computer-Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872715"/>
+    <updated>2026-09-23T04:54:27Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193 · Python</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10557133</id>
     <title>Amazon: Security Engineer Internship – 2027 (US)</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-15T00:06:47Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Systems &amp; Cloud Infra · Phoenix, AZ</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hmhw:/job/Houston-TX/IT-Intern_JR102416</id>
-    <title>HMH: IT Intern</title>
-    <link href="https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/IT-Intern_JR102416"/>
-    <updated>2026-09-15T00:06:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · IT Support / Ops · Houston, TX · Azure</summary>
   </entry>
 </feed>

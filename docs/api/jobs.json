@@ -1,11 +1,34 @@
 {
- "generated_at": "2026-09-23T00:05:02Z",
- "data_as_of": "2026-09-23T00:05:02Z",
- "rendered_at": "2026-09-23T00:05:02Z",
+ "generated_at": "2026-09-23T04:54:27Z",
+ "data_as_of": "2026-09-23T04:54:27Z",
+ "rendered_at": "2026-09-23T04:54:27Z",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "h1b_window": "FY2022–2023",
- "count": 456,
+ "count": 457,
  "jobs": [
+  {
+   "id": "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Avionics-Computer-Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872715",
+   "company": "RTX",
+   "title": "Avionics Computer Systems Engineering Co-op (Summer/Fall 2027) - Onsite",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Systems & Cloud Infra",
+   "location": "US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Avionics-Computer-Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872715",
+   "posted_at": "2026-09-22T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-23T04:54:27Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Co-op",
+   "remote": false
+  },
   {
    "id": "amazon:amazon:10557133",
    "company": "Amazon",
