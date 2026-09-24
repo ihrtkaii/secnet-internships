@@ -1,18 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:abb:/job/USA-NC-Cary/IS-Common-Infrastructure-Intern--Summer-2027_JR00047125",
-      "workday:adient:/job/Plymouth-MI/IT-Intern_R-29354",
-      "greenhouse:lexingtonmedical:5434143008",
-      "workday:relx:/job/Raleigh-NC/Desktop-Support-Co-Op_R118885",
-      "workday:sluhn:/job/Allentown-PA---1110-American-Parkway/Intern---Management-Engineering--Industrial-Systems-Engineering-_R146345"
-    ],
-    "telegram": [
-      "workday:abb:/job/USA-NC-Cary/IS-Common-Infrastructure-Intern--Summer-2027_JR00047125",
-      "workday:adient:/job/Plymouth-MI/IT-Intern_R-29354",
-      "greenhouse:lexingtonmedical:5434143008",
-      "workday:relx:/job/Raleigh-NC/Desktop-Support-Co-Op_R118885",
-      "workday:sluhn:/job/Allentown-PA---1110-American-Parkway/Intern---Management-Engineering--Industrial-Systems-Engineering-_R146345"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
