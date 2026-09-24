@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-24T11:56:57Z",
- "data_as_of": "2026-09-24T11:56:57Z",
- "rendered_at": "2026-09-24T11:56:58Z",
+ "generated_at": "2026-09-24T17:24:48Z",
+ "data_as_of": "2026-09-24T17:24:48Z",
+ "rendered_at": "2026-09-24T17:24:48Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -2049,7 +2049,7 @@
    "expected": "2026-09-19",
    "days_until": -5,
    "status": "open",
-   "url": "https://jobs.smartrecruiters.com/RRSGroup/744000150509779",
+   "url": "https://jobs.smartrecruiters.com/RRSGroup/744000151541069",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2267,6 +2267,44 @@
    }
   },
   {
+   "company": "ABB",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-24",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/IS-Common-Infrastructure-Intern--Summer-2027_JR00047125",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-24"
+   }
+  },
+  {
+   "company": "Adient",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-24",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://adient.wd3.myworkdayjobs.com/External/job/Plymouth-MI/IT-Intern_R-29354",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-24"
+   }
+  },
+  {
    "company": "APEX Analytix",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -2380,5 +2418,5 @@
    }
   }
  ],
- "count": 125
+ "count": 127
 }

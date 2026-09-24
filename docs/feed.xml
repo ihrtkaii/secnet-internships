@@ -5,8 +5,56 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-24T11:56:57Z</updated>
+  <updated>2026-09-24T17:24:48Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:abb:/job/USA-NC-Cary/IS-Common-Infrastructure-Intern--Summer-2027_JR00047125</id>
+    <title>ABB: IS Common Infrastructure Intern- Summer 2027 🛂</title>
+    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/IS-Common-Infrastructure-Intern--Summer-2027_JR00047125"/>
+    <updated>2026-09-24T17:24:48Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · USA, NC, Cary · $20–$34/hr · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:adient:/job/Plymouth-MI/IT-Intern_R-29354</id>
+    <title>Adient: IT Intern</title>
+    <link href="https://adient.wd3.myworkdayjobs.com/External/job/Plymouth-MI/IT-Intern_R-29354"/>
+    <updated>2026-09-24T17:24:48Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · IT Support / Ops · Plymouth, MI</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:lexingtonmedical:5434143008</id>
+    <title>Lexington Medical: Quality Systems Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/lexingtonmedical/jobs/5434143008"/>
+    <updated>2026-09-24T17:24:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Bedford, MA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:relx:/job/Raleigh-NC/Desktop-Support-Co-Op_R118885</id>
+    <title>LexisNexis Risk Solutions: Desktop Support Co-Op</title>
+    <link href="https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Desktop-Support-Co-Op_R118885"/>
+    <updated>2026-09-24T17:24:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · IT Support / Ops · Raleigh, NC · LLMs, HTML/CSS · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:sluhn:/job/Allentown-PA---1110-American-Parkway/Intern---Management-Engineering--Industrial-Systems-Engineering-_R146345</id>
+    <title>St. Luke's University Health Network: Intern - Management Engineering (Industrial Systems Engineering)</title>
+    <link href="https://sluhn.wd1.myworkdayjobs.com/SLUHN/job/Allentown-PA---1110-American-Parkway/Intern---Management-Engineering--Industrial-Systems-Engineering-_R146345"/>
+    <updated>2026-09-24T17:24:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Allentown, PA - 1110 American Parkway · Python, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:RRSGroup:744000151541069</id>
+    <title>RRS Group: Associate IT Systems Administrator Intern - 2027</title>
+    <link href="https://jobs.smartrecruiters.com/RRSGroup/744000151541069"/>
+    <updated>2026-09-24T11:56:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · San Francisco, , United States (Remote) · Python, Bash, Linux</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:graphcore:8841978002</id>
     <title>Graphcore: Systems Engineering Intern</title>
@@ -371,9 +419,9 @@
     <id>urn:intern-engine:smartrecruiters:RRSGroup:744000150509779</id>
     <title>RRS Group: Associate IT Systems Administrator Intern - 2027</title>
     <link href="https://jobs.smartrecruiters.com/RRSGroup/744000150509779"/>
-    <updated>2026-09-19T20:50:39Z</updated>
+    <updated>2026-09-24T17:24:48Z</updated>
     <category term="Summer 2027"/>
-    <summary>2 openings · Summer 2027 · Systems &amp; Cloud Infra · San Francisco, , United States (Remote) · Python, Bash, Linux</summary>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · San Francisco, , United States (Remote) · Python, Bash, Linux · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:bbh:/job/New-York/XMLNAME-2027-Internal-Audit---Information-Technology---Cybersecurity-Summer-Internship_72899</id>
@@ -758,53 +806,5 @@
     <updated>2026-09-16T17:07:04Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Cloud Platform · Atlanta, Georgia · Python, Bash, GCP, Kubernetes, Docker · H-1B track record: ~21 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gfs:/job/Atlanta-Georgia/IT-Infrastructure-Project-Support-Internship_R-56286</id>
-    <title>Gordon Food Service: IT Infrastructure Project Support Internship</title>
-    <link href="https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/IT-Infrastructure-Project-Support-Internship_R-56286"/>
-    <updated>2026-09-16T17:07:04Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Atlanta, Georgia · H-1B track record: ~21 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007774</id>
-    <title>Stantec: Transportation Engineering Intern - Infrastructure (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007774"/>
-    <updated>2026-09-15T23:57:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Houston, TX, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007776</id>
-    <title>Stantec: Transportation Engineering Intern - Infrastructure (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007776"/>
-    <updated>2026-09-15T23:57:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Plano, TX, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007777</id>
-    <title>Stantec: Transportation Engineering Intern - Infrastructure (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007777"/>
-    <updated>2026-09-15T23:57:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Austin, TX, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:aspentech:/job/Medina-Minnesota/Power-System-Engineering-Intern---Digital-Grid-Management---Summer-2027_R9458</id>
-    <title>AspenTech: Power System Engineering Intern - Digital Grid Management - Summer 2027</title>
-    <link href="https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Power-System-Engineering-Intern---Digital-Grid-Management---Summer-2027_R9458"/>
-    <updated>2026-09-15T23:57:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Medina, Minnesota · Python, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalfoundries:/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604044</id>
-    <title>GlobalFoundries: Systems Engineering Intern (Summer 2027)</title>
-    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604044"/>
-    <updated>2026-09-15T23:57:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · USA - Texas - Richardson · Python, C++, MATLAB, PyTorch, TensorFlow</summary>
   </entry>
 </feed>

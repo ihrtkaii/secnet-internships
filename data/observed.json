@@ -12,6 +12,18 @@
     }
    }
   },
+  "abb": {
+   "name": "ABB",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-24",
+     "role_ids": [
+      "workday:abb:/job/USA-NC-Cary/IS-Common-Infrastructure-Intern--Summer-2027_JR00047125"
+     ],
+     "count": 1
+    }
+   }
+  },
   "abbott": {
    "name": "Abbott",
    "cycles": {
@@ -38,6 +50,18 @@
       "smartrecruiters:AbbVie:3743990014900536"
      ],
      "count": 6
+    }
+   }
+  },
+  "adient": {
+   "name": "Adient",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-24",
+     "role_ids": [
+      "workday:adient:/job/Plymouth-MI/IT-Intern_R-29354"
+     ],
+     "count": 1
     }
    }
   },
@@ -1829,5 +1853,5 @@
    }
   }
  },
- "updated_at": "2026-09-24T11:56:57Z"
+ "updated_at": "2026-09-24T17:24:48Z"
 }
