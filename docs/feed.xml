@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-24T17:24:48Z</updated>
+  <updated>2026-09-24T21:45:05Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:audaxgroup:4737824005</id>
+    <title>Audax Group: IT Operations Co-Op NYC</title>
+    <link href="https://job-boards.greenhouse.io/audaxgroup/jobs/4737824005"/>
+    <updated>2026-09-24T21:45:05Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Other · New York, New York · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:eqtcorporation:5424757008</id>
+    <title>EQT Corporation: Water Infrastructure Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/eqtcorporation/jobs/5424757008"/>
+    <updated>2026-09-24T21:45:05Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Canonsburg, PA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:lexingtonmedical:5434143008</id>
+    <title>Lexington Medical: Quality Systems Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/lexingtonmedical/jobs/5434143008"/>
+    <updated>2026-09-24T17:24:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Bedford, MA</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:abb:/job/USA-NC-Cary/IS-Common-Infrastructure-Intern--Summer-2027_JR00047125</id>
     <title>ABB: IS Common Infrastructure Intern- Summer 2027 🛂</title>
@@ -22,14 +46,6 @@
     <updated>2026-09-24T17:24:48Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · IT Support / Ops · Plymouth, MI</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:lexingtonmedical:5434143008</id>
-    <title>Lexington Medical: Quality Systems Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/lexingtonmedical/jobs/5434143008"/>
-    <updated>2026-09-24T17:24:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Bedford, MA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:relx:/job/Raleigh-NC/Desktop-Support-Co-Op_R118885</id>
@@ -790,21 +806,5 @@
     <updated>2026-09-16T17:07:04Z</updated>
     <category term="Not stated"/>
     <summary>3 openings · Not stated · Systems &amp; Cloud Infra · Annapolis Junction, MD · $108k/yr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:basspro:/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Cybersecurity-Intern-Summer-2027_R267444</id>
-    <title>Bass Pro Shops: Cybersecurity Intern Summer 2027</title>
-    <link href="https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Cybersecurity-Intern-Summer-2027_R267444"/>
-    <updated>2026-09-16T17:07:04Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Springfield, MO (Bass Pro Shops Base Camp)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gfs:/job/Atlanta-Georgia/Cloud-DevOps-Internship_R-57259</id>
-    <title>Gordon Food Service: Cloud DevOps Internship</title>
-    <link href="https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Cloud-DevOps-Internship_R-57259"/>
-    <updated>2026-09-16T17:07:04Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Cloud Platform · Atlanta, Georgia · Python, Bash, GCP, Kubernetes, Docker · H-1B track record: ~21 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
