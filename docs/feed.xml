@@ -5,23 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-23T21:45:28Z</updated>
+  <updated>2026-09-24T00:14:03Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:sonos:/job/Boston-MA/Audio-Systems-Engineering-Co-Op_R2827-2</id>
-    <title>Sonos: Audio Systems Engineering Co-Op 🛂</title>
-    <link href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Audio-Systems-Engineering-Co-Op_R2827-2"/>
-    <updated>2026-09-23T21:45:28Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Systems &amp; Cloud Infra · Boston, MA · sponsorship: no-sponsorship · status: closed · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:greenhouse:graphcore:8841978002</id>
+    <title>Graphcore: Systems Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/graphcore/jobs/8841978002"/>
+    <updated>2026-09-24T00:14:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Austin, Texas, United States · Python, Bash, Linux</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:sonos:/job/Boston-MA/Radio-Systems-Engineering-Co-Op_R2825-2</id>
-    <title>Sonos: Radio Systems Engineering Co-Op 🛂</title>
-    <link href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Radio-Systems-Engineering-Co-Op_R2825-2"/>
-    <updated>2026-09-23T21:45:28Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Systems &amp; Cloud Infra · Boston, MA · Python · sponsorship: no-sponsorship · status: closed · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:greenhouse:muonspace:5247733007</id>
+    <title>Muon Space: Junior Help Desk Intern (Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/muonspace/jobs/5247733007"/>
+    <updated>2026-09-24T00:14:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · IT Support / Ops · Mountain View, CA · $40/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:snc:/job/Hagerstown-MD/Systems-Engineer-I--For-2026-Interns-Only-_R0030585</id>
+    <title>Sierra Nevada Corporation: Systems Engineer I (For 2026 Interns Only) 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Systems-Engineer-I--For-2026-Interns-Only-_R0030585"/>
+    <updated>2026-09-24T00:14:03Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Systems &amp; Cloud Infra · Hagerstown, MD · MATLAB · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007956</id>
@@ -46,6 +54,22 @@
     <updated>2026-09-23T21:45:28Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · San Diego, California · Python, Bash, AWS, Linux · H-1B track record: ~46 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:sonos:/job/Boston-MA/Audio-Systems-Engineering-Co-Op_R2827-2</id>
+    <title>Sonos: Audio Systems Engineering Co-Op 🛂</title>
+    <link href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Audio-Systems-Engineering-Co-Op_R2827-2"/>
+    <updated>2026-09-23T21:45:28Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Systems &amp; Cloud Infra · Boston, MA · sponsorship: no-sponsorship · status: closed · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:sonos:/job/Boston-MA/Radio-Systems-Engineering-Co-Op_R2825-2</id>
+    <title>Sonos: Radio Systems Engineering Co-Op 🛂</title>
+    <link href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Radio-Systems-Engineering-Co-Op_R2825-2"/>
+    <updated>2026-09-23T21:45:28Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Systems &amp; Cloud Infra · Boston, MA · Python · sponsorship: no-sponsorship · status: closed · H-1B track record: ~54 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:dxctechnology:/job/ITA---MI---MILAN/Cyber-Security-Intern_51583298</id>
@@ -782,29 +806,5 @@
     <updated>2026-09-15T23:57:34Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · USA - Texas - Richardson · Python, C++, MATLAB, PyTorch, TensorFlow</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:nvidia:/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1</id>
-    <title>NVIDIA: Product Management MBA Intern, Data Center GPU - Summer 2027</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1"/>
-    <updated>2026-09-15T23:57:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · US, CA, Santa Clara · H-1B track record: ~1.5k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:testnisc:8204131</id>
-    <title>National Information Solutions Cooperative (NISC): Intern - Platform Development (Systems Engineering)</title>
-    <link href="https://job-boards.greenhouse.io/testnisc/jobs/8204131"/>
-    <updated>2026-09-15T21:33:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Mandan, ND · Python, Java, Bash, AWS, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Secure-System-Engineering-Intern--Summer-2027-_01869964</id>
-    <title>RTX: Secure System Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Secure-System-Engineering-Intern--Summer-2027-_01869964"/>
-    <updated>2026-09-15T21:33:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-107 ~ 400 Collins Rd NE ~ BLDG 107 · Python, Linux, Git · sponsorship: citizens-only</summary>
   </entry>
 </feed>
