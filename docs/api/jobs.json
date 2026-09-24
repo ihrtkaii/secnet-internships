@@ -1,11 +1,36 @@
 {
- "generated_at": "2026-09-24T04:59:05Z",
- "data_as_of": "2026-09-24T04:59:05Z",
- "rendered_at": "2026-09-24T04:59:05Z",
+ "generated_at": "2026-09-24T11:56:57Z",
+ "data_as_of": "2026-09-24T11:56:57Z",
+ "rendered_at": "2026-09-24T11:56:58Z",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "h1b_window": "FY2022–2023",
  "count": 462,
  "jobs": [
+  {
+   "id": "smartrecruiters:RRSGroup:744000151541069",
+   "company": "RRS Group",
+   "title": "Associate IT Systems Administrator Intern - 2027",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Systems & Cloud Infra",
+   "location": "San Francisco, , United States (Remote)",
+   "url": "https://jobs.smartrecruiters.com/RRSGroup/744000151541069",
+   "posted_at": "2026-09-24T06:59:18.627Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-09-24T11:56:57Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Bash",
+    "Linux"
+   ],
+   "source": "smartrecruiters",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": true
+  },
   {
    "id": "greenhouse:graphcore:8841978002",
    "company": "Graphcore",
@@ -8549,31 +8574,6 @@
    ],
    "source": "smartrecruiters",
    "h1b_approvals": 303,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:copart:/job/US-Tech-InfraOps-729/Network-Engineering-Intern_JR110653",
-   "company": "Copart",
-   "title": "Network Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Network / Telecom",
-   "location": "US Tech Infra/Ops 729",
-   "url": "https://copart.wd12.myworkdayjobs.com/copart/job/US-Tech-InfraOps-729/Network-Engineering-Intern_JR110653",
-   "posted_at": "2026-08-25T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-26T02:09:21Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Bash",
-    "Linux"
-   ],
-   "source": "workday",
-   "h1b_approvals": 83,
    "program": "Internship",
    "remote": false
   },
