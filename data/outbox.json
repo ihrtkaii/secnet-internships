@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "greenhouse:graphcore:8841978002",
-      "greenhouse:muonspace:5247733007",
-      "workday:snc:/job/Hagerstown-MD/Systems-Engineer-I--For-2026-Interns-Only-_R0030585"
-    ],
-    "telegram": [
-      "greenhouse:graphcore:8841978002",
-      "greenhouse:muonspace:5247733007",
-      "workday:snc:/job/Hagerstown-MD/Systems-Engineer-I--For-2026-Interns-Only-_R0030585"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
