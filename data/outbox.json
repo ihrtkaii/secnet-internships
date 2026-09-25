@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "lever:palantir:3db7e40a-28e0-4ad1-96c5-93de5bc96aa9",
-      "lever:palantir:8f362a1f-1eff-4327-94c1-ff46e2101c69",
-      "lever:palantir:cf5f44ff-1b0b-4752-bcd4-2dc88798f25b"
-    ],
-    "telegram": [
-      "lever:palantir:3db7e40a-28e0-4ad1-96c5-93de5bc96aa9",
-      "lever:palantir:8f362a1f-1eff-4327-94c1-ff46e2101c69",
-      "lever:palantir:cf5f44ff-1b0b-4752-bcd4-2dc88798f25b"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
