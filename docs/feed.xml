@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-25T12:00:39Z</updated>
+  <updated>2026-09-25T17:26:10Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:abb:/job/USA-OH-Cleveland/Systems-Engineering-Intern---Summer-2027_JR00047388</id>
+    <title>ABB: Systems Engineering Intern – Summer 2027 🛂</title>
+    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-OH-Cleveland/Systems-Engineering-Intern---Summer-2027_JR00047388"/>
+    <updated>2026-09-25T17:26:10Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · USA, OH, Cleveland · $20–$34/hr · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:moog:/job/Torrance-CA/Intern--Systems-Engineering_R-26-19820-1</id>
+    <title>Moog: Intern, Systems Engineering</title>
+    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Systems-Engineering_R-26-19820-1"/>
+    <updated>2026-09-25T17:26:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Torrance, CA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:talentmanagementsolution:/job/Remote---USA/Cyber-Security-Intern_R52980-2</id>
+    <title>Perseus Group: Cyber Security Intern</title>
+    <link href="https://talentmanagementsolution.wd3.myworkdayjobs.com/perseus-careers/job/Remote---USA/Cyber-Security-Intern_R52980-2"/>
+    <updated>2026-09-25T17:26:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Remote - USA · $33/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:saabusa:/job/East-Syracuse-NY-Collamer/Co-Op--IT-Support-Professional-Summer-2027_R-03294-1</id>
+    <title>Saab: Co-Op, IT Support Professional Summer 2027 🇺🇸</title>
+    <link href="https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Co-Op--IT-Support-Professional-Summer-2027_R-03294-1"/>
+    <updated>2026-09-25T17:26:10Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · IT Support / Ops · East Syracuse, NY (Collamer) · $18.24–$20.27/hr · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:palantir:3db7e40a-28e0-4ad1-96c5-93de5bc96aa9</id>
     <title>Palantir: Forward Deployed Infrastructure Engineer, Internship - US Government 🇺🇸</title>
@@ -774,37 +806,5 @@
     <updated>2026-09-16T21:30:31Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · SOC / Detection · New York, NY · $34/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ankura:/job/Washington-DC/University-Intern--Risk-Advisory--Forensics_R105029</id>
-    <title>Ankura Consulting Group: University Intern, Risk Advisory, Forensics 🇺🇸</title>
-    <link href="https://ankura.wd5.myworkdayjobs.com/ankura/job/Washington-DC/University-Intern--Risk-Advisory--Forensics_R105029"/>
-    <updated>2026-09-16T21:30:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · SOC / Detection · Washington D.C. · $34/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:kbr:/job/Sioux-Falls-South-Dakota/Data-Processing-Systems-Engineer-Intern_R2130060</id>
-    <title>KBR: Data Processing Systems Engineer Intern</title>
-    <link href="https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Data-Processing-Systems-Engineer-Intern_R2130060"/>
-    <updated>2026-09-16T21:30:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Sioux Falls, South Dakota · Python · H-1B track record: ~12 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:valeo:/job/Troy-MI/Systems-Engineering-Co-Op--Software-_REQ2026071241</id>
-    <title>Valeo: Systems Engineering Co-Op (Software) 🛂</title>
-    <link href="https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Systems-Engineering-Co-Op--Software-_REQ2026071241"/>
-    <updated>2026-09-16T21:30:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Troy, MI · Python, C++, Linux · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wellington:/job/Boston-MA-United-States/Trading-Infrastructure-Risk--Bond-Forward-Co-Op_R94823-1</id>
-    <title>Wellington Management: Trading Infrastructure Risk, Bond Forward Co Op</title>
-    <link href="https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Trading-Infrastructure-Risk--Bond-Forward-Co-Op_R94823-1"/>
-    <updated>2026-09-16T21:30:31Z</updated>
-    <category term="Winter 2026"/>
-    <summary>Winter 2026 · Systems &amp; Cloud Infra · Boston, MA, United States · $19–$35/hr · status: closed · H-1B track record: ~112 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

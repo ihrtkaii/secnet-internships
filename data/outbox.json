@@ -1,6 +1,20 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:abb:/job/USA-OH-Cleveland/Systems-Engineering-Intern---Summer-2027_JR00047388",
+      "smartrecruiters:AbbVie:3743990015679346",
+      "smartrecruiters:AbbVie:3743990015679246",
+      "workday:moog:/job/Torrance-CA/Intern--Systems-Engineering_R-26-19820-1",
+      "workday:talentmanagementsolution:/job/Remote---USA/Cyber-Security-Intern_R52980-2",
+      "workday:saabusa:/job/East-Syracuse-NY-Collamer/Co-Op--IT-Support-Professional-Summer-2027_R-03294-1"
+    ],
+    "telegram": [
+      "workday:abb:/job/USA-OH-Cleveland/Systems-Engineering-Intern---Summer-2027_JR00047388",
+      "smartrecruiters:AbbVie:3743990015679346",
+      "smartrecruiters:AbbVie:3743990015679246",
+      "workday:moog:/job/Torrance-CA/Intern--Systems-Engineering_R-26-19820-1",
+      "workday:talentmanagementsolution:/job/Remote---USA/Cyber-Security-Intern_R52980-2",
+      "workday:saabusa:/job/East-Syracuse-NY-Collamer/Co-Op--IT-Support-Professional-Summer-2027_R-03294-1"
+    ]
   }
 }
