@@ -1,6 +1,30 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "smartrecruiters:AbbVie:3743990015684626",
+      "smartrecruiters:AbbVie:3743990015684556",
+      "workday:americancentury:/job/Kansas-City-Missouri/Infrastructure-Automation-Engineer-Intern_R0005750",
+      "workday:ceritypartners:/job/New-York-City-NY/Investment-Data---Technology-Analyst-Internship_R929",
+      "workday:micron:/job/Folsom-CA/Intern---AI-Agentic-Systems-Engineer_JR110474",
+      "workday:globalhr:/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/XMLNAME-2027-Network-Engineering-Intern_01877666",
+      "workday:tencent:/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R108186",
+      "workday:wattswater:/job/Blauvelt-NY/Systems-Engineer-Intern-Summer-2027_10017357",
+      "greenhouse:waymo:8231711",
+      "workday:elkay:/job/Milwaukee-WI/IT-Infrastructure-Intern--Summer-2027-_REQ-020160",
+      "workday:elkay:/job/Milwaukee-WI/IT-Infrastructure-Intern--Summer-2027-_REQ-020162"
+    ],
+    "telegram": [
+      "smartrecruiters:AbbVie:3743990015684626",
+      "smartrecruiters:AbbVie:3743990015684556",
+      "workday:americancentury:/job/Kansas-City-Missouri/Infrastructure-Automation-Engineer-Intern_R0005750",
+      "workday:ceritypartners:/job/New-York-City-NY/Investment-Data---Technology-Analyst-Internship_R929",
+      "workday:micron:/job/Folsom-CA/Intern---AI-Agentic-Systems-Engineer_JR110474",
+      "workday:globalhr:/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/XMLNAME-2027-Network-Engineering-Intern_01877666",
+      "workday:tencent:/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R108186",
+      "workday:wattswater:/job/Blauvelt-NY/Systems-Engineer-Intern-Summer-2027_10017357",
+      "greenhouse:waymo:8231711",
+      "workday:elkay:/job/Milwaukee-WI/IT-Infrastructure-Intern--Summer-2027-_REQ-020160",
+      "workday:elkay:/job/Milwaukee-WI/IT-Infrastructure-Intern--Summer-2027-_REQ-020162"
+    ]
   }
 }

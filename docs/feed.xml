@@ -5,8 +5,72 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-25T17:26:10Z</updated>
+  <updated>2026-09-25T21:52:16Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:americancentury:/job/Kansas-City-Missouri/Infrastructure-Automation-Engineer-Intern_R0005750</id>
+    <title>American Century Investments: Infrastructure Automation Engineer Intern 🛂</title>
+    <link href="https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Infrastructure-Automation-Engineer-Intern_R0005750"/>
+    <updated>2026-09-25T21:52:16Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Systems &amp; Cloud Infra · Kansas City, Missouri · Python, Bash, Terraform · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ceritypartners:/job/New-York-City-NY/Investment-Data---Technology-Analyst-Internship_R929</id>
+    <title>Cerity Partners: Investment Data &amp; Technology Analyst Internship</title>
+    <link href="https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Investment-Data---Technology-Analyst-Internship_R929"/>
+    <updated>2026-09-25T21:52:16Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · IT Support / Ops · New York City, NY · SQL, Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:micron:/job/Folsom-CA/Intern---AI-Agentic-Systems-Engineer_JR110474</id>
+    <title>Micron Technology: Intern - AI Agentic Systems Engineer</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---AI-Agentic-Systems-Engineer_JR110474"/>
+    <updated>2026-09-25T21:52:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Folsom, CA · Python, LLMs, AWS, GCP, Azure · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/XMLNAME-2027-Network-Engineering-Intern_01877666</id>
+    <title>RTX: 2027 Network Engineering Intern 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/XMLNAME-2027-Network-Engineering-Intern_01877666"/>
+    <updated>2026-09-25T21:52:16Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Network / Telecom · US-CO-COLORADO SPRINGS-9970-CUST ~ 9970 Federal Dr ~ FEDERAL (External Site) · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tencent:/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R108186</id>
+    <title>Tencent: Cloud Media Services Intern</title>
+    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R108186"/>
+    <updated>2026-09-25T21:52:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Cloud Platform · US-California-Palo Alto · $27.12–$51.93/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wattswater:/job/Blauvelt-NY/Systems-Engineer-Intern-Summer-2027_10017357</id>
+    <title>Watts Water: Systems Engineer Intern Summer 2027</title>
+    <link href="https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Blauvelt-NY/Systems-Engineer-Intern-Summer-2027_10017357"/>
+    <updated>2026-09-25T21:52:16Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Blauvelt, NY</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:waymo:8231711</id>
+    <title>Waymo: 2027 Summer Intern, MS/PhD, Systems Engineer, Autonomous Vehicle Networks &amp; Diagnostics</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8231711"/>
+    <updated>2026-09-25T21:52:16Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Network / Telecom · Mountain View, CA, USA · Python, ROS · H-1B track record: ~284 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:elkay:/job/Milwaukee-WI/IT-Infrastructure-Intern--Summer-2027-_REQ-020160</id>
+    <title>Zurn Elkay Water Solutions: IT Infrastructure Intern (Summer 2027)</title>
+    <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/IT-Infrastructure-Intern--Summer-2027-_REQ-020160"/>
+    <updated>2026-09-25T21:52:16Z</updated>
+    <category term="Summer 2027"/>
+    <summary>2 openings · Summer 2027 · Systems &amp; Cloud Infra · Milwaukee, WI</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:abb:/job/USA-OH-Cleveland/Systems-Engineering-Intern---Summer-2027_JR00047388</id>
     <title>ABB: Systems Engineering Intern – Summer 2027 🛂</title>
@@ -24,20 +88,20 @@
     <summary>Not stated · Systems &amp; Cloud Infra · Torrance, CA</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:talentmanagementsolution:/job/Remote---USA/Cyber-Security-Intern_R52980-2</id>
-    <title>Perseus Group: Cyber Security Intern</title>
-    <link href="https://talentmanagementsolution.wd3.myworkdayjobs.com/perseus-careers/job/Remote---USA/Cyber-Security-Intern_R52980-2"/>
-    <updated>2026-09-25T17:26:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Remote - USA · $33/hr</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:saabusa:/job/East-Syracuse-NY-Collamer/Co-Op--IT-Support-Professional-Summer-2027_R-03294-1</id>
     <title>Saab: Co-Op, IT Support Professional Summer 2027 🇺🇸</title>
     <link href="https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Co-Op--IT-Support-Professional-Summer-2027_R-03294-1"/>
     <updated>2026-09-25T17:26:10Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · IT Support / Ops · East Syracuse, NY (Collamer) · $18.24–$20.27/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:talentmanagementsolution:/job/Remote---USA/Cyber-Security-Intern_R52980-2</id>
+    <title>Perseus Group: Cyber Security Intern</title>
+    <link href="https://talentmanagementsolution.wd3.myworkdayjobs.com/perseus-careers/job/Remote---USA/Cyber-Security-Intern_R52980-2"/>
+    <updated>2026-09-25T17:26:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Remote - USA · $33/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:palantir:3db7e40a-28e0-4ad1-96c5-93de5bc96aa9</id>
@@ -742,69 +806,5 @@
     <updated>2026-09-17T00:06:47Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · IT Support / Ops · Arlington, TX, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:americancentury:/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729</id>
-    <title>American Century Investments: Cybersecurity Intern 🛂</title>
-    <link href="https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729"/>
-    <updated>2026-09-17T00:06:47Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Security (general) · Kansas City, Missouri · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cisco:/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885</id>
-    <title>Cisco: Security Engineer I (Intern) - United States 🇺🇸</title>
-    <link href="https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885"/>
-    <updated>2026-09-17T00:06:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · RTP, North Carolina, US · Python, Java, C++, AWS, GCP · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01874003</id>
-    <title>RTX: Systems Engineering Co-op (Summer/Fall 2027) - Onsite</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01874003"/>
-    <updated>2026-09-17T00:06:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:7986874003</id>
-    <title>Rocket Lab: Security Analyst Intern Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7986874003"/>
-    <updated>2026-09-16T21:30:31Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Albuquerque, NM · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:7986956003</id>
-    <title>Rocket Lab: Security Analyst Intern Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7986956003"/>
-    <updated>2026-09-16T21:30:31Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Long Beach, CA · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:7986961003</id>
-    <title>Rocket Lab: Security Analyst Intern Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7986961003"/>
-    <updated>2026-09-16T21:30:31Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Wallops Island, VA · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ankura:/job/Dallas-TX/University-Intern--Risk-Advisory--Forensics_R105025-1</id>
-    <title>Ankura Consulting Group: University Intern, Risk Advisory, Forensics 🇺🇸</title>
-    <link href="https://ankura.wd5.myworkdayjobs.com/ankura/job/Dallas-TX/University-Intern--Risk-Advisory--Forensics_R105025-1"/>
-    <updated>2026-09-16T21:30:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · SOC / Detection · Dallas, TX · $34/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ankura:/job/New-York-NY/University-Intern--Risk-Advisory--Forensics_R105033</id>
-    <title>Ankura Consulting Group: University Intern, Risk Advisory, Forensics 🇺🇸</title>
-    <link href="https://ankura.wd5.myworkdayjobs.com/ankura/job/New-York-NY/University-Intern--Risk-Advisory--Forensics_R105033"/>
-    <updated>2026-09-16T21:30:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · SOC / Detection · New York, NY · $34/hr · sponsorship: citizens-only</summary>
   </entry>
 </feed>

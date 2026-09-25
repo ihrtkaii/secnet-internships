@@ -50,9 +50,11 @@
       "smartrecruiters:AbbVie:3743990014900496",
       "smartrecruiters:AbbVie:3743990014900536",
       "smartrecruiters:AbbVie:3743990015679246",
-      "smartrecruiters:AbbVie:3743990015679346"
+      "smartrecruiters:AbbVie:3743990015679346",
+      "smartrecruiters:AbbVie:3743990015684556",
+      "smartrecruiters:AbbVie:3743990015684626"
      ],
-     "count": 8
+     "count": 10
     }
    }
   },
@@ -175,9 +177,10 @@
     "Fall 2026": {
      "first_posted": "2026-09-16",
      "role_ids": [
-      "workday:americancentury:/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729"
+      "workday:americancentury:/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729",
+      "workday:americancentury:/job/Kansas-City-Missouri/Infrastructure-Automation-Engineer-Intern_R0005750"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -514,6 +517,18 @@
      "first_posted": "2026-09-18",
      "role_ids": [
       "workday:centene:/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "cerity partners": {
+   "name": "Cerity Partners",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-25",
+     "role_ids": [
+      "workday:ceritypartners:/job/New-York-City-NY/Investment-Data---Technology-Analyst-Internship_R929"
      ],
      "count": 1
     }
@@ -1510,6 +1525,7 @@
     "Summer 2027": {
      "first_posted": "2026-08-04",
      "role_ids": [
+      "workday:globalhr:/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/XMLNAME-2027-Network-Engineering-Intern_01877666",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering---Summer-Intern-2027---Onsite_01873971",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-Op--Summer-Fall-2027-_01873117",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01874003",
@@ -1533,7 +1549,7 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Avionics-Computer-Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872715",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Engineering-Intern--Summer-2027----Onsite_01871091"
      ],
-     "count": 22
+     "count": 23
     }
    }
   },
@@ -1804,7 +1820,20 @@
     "Summer 2027": {
      "first_posted": "2026-09-18",
      "role_ids": [
-      "workday:wattswater:/job/Andover-MA-Federal-Street/IT-Network-Intern--Summer-2027_10017567"
+      "workday:wattswater:/job/Andover-MA-Federal-Street/IT-Network-Intern--Summer-2027_10017567",
+      "workday:wattswater:/job/Blauvelt-NY/Systems-Engineer-Intern-Summer-2027_10017357"
+     ],
+     "count": 2
+    }
+   }
+  },
+  "waymo": {
+   "name": "Waymo",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-25",
+     "role_ids": [
+      "greenhouse:waymo:8231711"
      ],
      "count": 1
     }
@@ -1857,7 +1886,20 @@
      "count": 1
     }
    }
+  },
+  "zurn elkay water solutions": {
+   "name": "Zurn Elkay Water Solutions",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-25",
+     "role_ids": [
+      "workday:elkay:/job/Milwaukee-WI/IT-Infrastructure-Intern--Summer-2027-_REQ-020160",
+      "workday:elkay:/job/Milwaukee-WI/IT-Infrastructure-Intern--Summer-2027-_REQ-020162"
+     ],
+     "count": 2
+    }
+   }
   }
  },
- "updated_at": "2026-09-25T17:26:10Z"
+ "updated_at": "2026-09-25T21:52:16Z"
 }
