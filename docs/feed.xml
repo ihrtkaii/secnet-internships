@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-25T00:18:44Z</updated>
+  <updated>2026-09-25T05:07:04Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:lever:palantir:3db7e40a-28e0-4ad1-96c5-93de5bc96aa9</id>
+    <title>Palantir: Forward Deployed Infrastructure Engineer, Internship - US Government 🇺🇸</title>
+    <link href="https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9"/>
+    <updated>2026-09-25T05:07:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Washington, D.C. · Python, Java, C++, TypeScript, JavaScript · sponsorship: citizens-only · H-1B track record: ~88 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:palantir:8f362a1f-1eff-4327-94c1-ff46e2101c69</id>
+    <title>Palantir: Forward Deployed Infrastructure Engineer, Internship - US Government 🇺🇸</title>
+    <link href="https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69"/>
+    <updated>2026-09-25T05:07:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Palo Alto, CA · Python, Java, C++, TypeScript, JavaScript · sponsorship: citizens-only · H-1B track record: ~88 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:palantir:cf5f44ff-1b0b-4752-bcd4-2dc88798f25b</id>
+    <title>Palantir: Forward Deployed Infrastructure Engineer, Internship - US Government 🇺🇸</title>
+    <link href="https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b"/>
+    <updated>2026-09-25T05:07:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · New York, NY · Python, Java, C++, TypeScript, JavaScript · sponsorship: citizens-only · H-1B track record: ~88 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-Op--Summer-Fall-2027-_01873117</id>
     <title>RTX: Systems Engineering Co-Op (Summer/Fall 2027)</title>
@@ -782,29 +806,5 @@
     <updated>2026-09-16T21:30:31Z</updated>
     <category term="Winter 2026"/>
     <summary>Winter 2026 · Systems &amp; Cloud Infra · Boston, MA, United States · $19–$35/hr · status: closed · H-1B track record: ~112 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wellington:/job/Boston-MA-United-States/Trading-Infrastructure-and-Risk--Alert-Specialist-Co-Op_R94819-1</id>
-    <title>Wellington Management: Trading Infrastructure and Risk, Alert Specialist Co Op</title>
-    <link href="https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Trading-Infrastructure-and-Risk--Alert-Specialist-Co-Op_R94819-1"/>
-    <updated>2026-09-16T21:30:31Z</updated>
-    <category term="Winter 2026"/>
-    <summary>Winter 2026 · Systems &amp; Cloud Infra · Boston, MA, United States · $19–$35/hr · status: closed · H-1B track record: ~112 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wellington:/job/Boston-MA-United-States/Trading-Infrastructure-and-Risk--Currency-Forward-Specialist-Co-Op_R94821-1</id>
-    <title>Wellington Management: Trading Infrastructure and Risk, Currency Forward Specialist Co Op</title>
-    <link href="https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Trading-Infrastructure-and-Risk--Currency-Forward-Specialist-Co-Op_R94821-1"/>
-    <updated>2026-09-16T21:30:31Z</updated>
-    <category term="Winter 2026"/>
-    <summary>Winter 2026 · Systems &amp; Cloud Infra · Boston, MA, United States · $19–$35/hr · status: closed · H-1B track record: ~112 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:robinhood:8207970</id>
-    <title>Robinhood: Security Risk Management Intern (Summer 2027)</title>
-    <link href="https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src=&amp;gh_jid=8207970"/>
-    <updated>2026-09-16T17:07:04Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Menlo Park, CA · AWS</summary>
   </entry>
 </feed>
