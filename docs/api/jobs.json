@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-25T05:07:04Z",
- "data_as_of": "2026-09-25T05:07:04Z",
- "rendered_at": "2026-09-25T05:07:04Z",
+ "generated_at": "2026-09-25T12:00:39Z",
+ "data_as_of": "2026-09-25T12:00:39Z",
+ "rendered_at": "2026-09-25T12:00:39Z",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "h1b_window": "FY2022–2023",
- "count": 470,
+ "count": 469,
  "jobs": [
   {
    "id": "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-Op--Summer-Fall-2027-_01873117",
@@ -8545,31 +8545,6 @@
    "skills": [],
    "source": "workday",
    "h1b_approvals": 141,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:nrel:/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394",
-   "company": "National Laboratory of the Rockies",
-   "title": "Undergraduate/graduate intern - software and data infrastructure for autonomous thin film experimentation (Year-Round)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Systems & Cloud Infra",
-   "location": "Golden, CO",
-   "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394",
-   "posted_at": "2026-08-26T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-26T20:15:49Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Computer Vision",
-    "Git"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
    "program": "Internship",
    "remote": false
   },

@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/ihrtkaii/secnet-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/ihrtkaii/secnet-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fihrtkaii.github.io%2Fsecnet-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://ihrtkaii.github.io/secnet-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://ihrtkaii.github.io/secnet-internships/feed.xml)
 
-### 470 open roles (431 listed below) · 78 new this week
+### 469 open roles (430 listed below) · 75 new this week
 
-4,629 employers tracked · data as of Sep 25, 2026 at 05:07 UTC
+4,629 employers tracked · data as of Sep 25, 2026 at 12:00 UTC
 
-_325 have a cycle the employer stated · 145 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_325 have a cycle the employer stated · 144 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://ihrtkaii.github.io/secnet-internships/)** · **[📡 RSS](https://ihrtkaii.github.io/secnet-internships/feed.xml)** · **[⚙️ JSON API](https://ihrtkaii.github.io/secnet-internships/api/jobs.json)**
 
@@ -250,7 +250,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Hitachi Energy | Intern – Network Engineering 🆕 | Network / Telecom | Pittsburgh, Pennsylvania, United States | No skills listed | Sep 23, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Network-Engineering_R0145672-1) |
 | Insulet Corporation ✓ | Intern, DevOps Engineer: June-August 2027 (Onsite) 🆕 | Systems & Cloud Infra | San Diego, California | Python, Bash, AWS, Linux | Sep 23, 2026 | [Apply](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/San-Diego-California/Intern--DevOps-Engineer--June-August-2027--Onsite-_REQ-2026-18202) |
 | General Dynamics Information Technology ✓ | GDIT Summer Internship Program – Summer 2027 AI Network Engineering Internship 🇺🇸 🆕 | Network / Telecom | USA LA Bossier City | Python, LLMs | Sep 23, 2026 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2) |
-| Northrop Grumman | 2027 Systems Engineer Intern - Woodland Hills CA 🇺🇸 🆕 | Systems & Cloud Infra | United States-California-Woodland Hills | No skills listed | Sep 23, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Systems-Engineer-Intern---Woodland-Hills-CA_R10249319-1) |
+| Northrop Grumman | 2027 Systems Engineer Intern - Woodland Hills CA 🇺🇸 | Systems & Cloud Infra | United States-California-Woodland Hills | No skills listed | Sep 23, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Systems-Engineer-Intern---Woodland-Hills-CA_R10249319-1) |
 | RTX | Avionics Computer Systems Engineering Co-op (Summer/Fall 2027) - Onsite | Systems & Cloud Infra | US-IA-CEDAR RAPIDS-193 ~ 1120 Collins R… | Python | Sep 22, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Avionics-Computer-Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872715) |
 | Motorola | Business Systems Analyst Internship Summer 2027 | Systems & Cloud Infra | Chicago, IL | Python, SQL, scikit-learn, Pandas | Sep 22, 2026 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Business-Systems-Analyst-Internship-Summer-2027_R68572) |
 | Xcimer Energy | Summer 2027 Internship - Controls Systems Engineering 🇺🇸 | Systems & Cloud Infra | Denver, CO | No skills listed | Sep 22, 2026 | [Apply](https://jobs.lever.co/xcimer/4b031cd4-5f45-4d53-9332-dd23bc349480) |
@@ -412,7 +412,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Hitachi Energy | Intern - Data Center Optimization | Systems & Cloud Infra | Santa Clara, California, United States | Python, PyTorch, TensorFlow, scikit-learn | Aug 18, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Intern---Data-Center-Optimization_R0142174) |
 | Motorola | R&D Intern - Wireless Systems Engineer - 2026 🇺🇸 | Network / Telecom | Los Angeles, CA | MATLAB | Mar 30, 2026 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/R-D-Intern---Wireless-Systems-Engineer---2026_R62376) |
 
-### Recently posted — cycle not stated  (87 roles)
+### Recently posted — cycle not stated  (86 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent tech internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
@@ -488,7 +488,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Leidos ✓ | Network Operations Intern 🇺🇸 | Network / Telecom | Shiloh, IL | No skills listed | Aug 26, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Network-Operations-Intern_R-00190660) |
 | Leidos ✓ | Network Operations Intern 🇺🇸 | Network / Telecom | Sunset, UT | No skills listed | Aug 26, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Sunset-UT/Network-Operations-Intern_R-00190657) |
 | Magna International ✓ | IT Intern | IT Support / Ops | Liberty, Missouri, US | No skills listed | Aug 26, 2026 | [Apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Liberty-Missouri-US/IT-Intern_R00258472) |
-| National Laboratory of the Rockies | Undergraduate/graduate intern - software and data infrastructure for autonomous thin film experimentation (Year-Round) | Systems & Cloud Infra | Golden, CO | Python, Computer Vision, Git | Aug 26, 2026 | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394) |
 | SHI International | Systems Engineer - Intern | Systems & Cloud Infra | Piscataway, NJ USA | Python, Linux | Aug 25, 2026 | [Apply](https://shi.wd12.myworkdayjobs.com/shicareers/job/Piscataway-NJ-USA/Systems-Engineer---Intern_JR3618) |
 | Meridian Partners | Network Engineer Graduate Co-op 🇺🇸 | Network / Telecom | Cambridge, MA | Python, Terraform | Aug 24, 2026 | [Apply](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968729003) |
 | RELX | Desktop Support Co-Op | IT Support / Ops | Dayton, OH | LLMs, HTML/CSS | Aug 24, 2026 | [Apply](https://relx.wd3.myworkdayjobs.com/relx/job/Dayton-OH/Desktop-Support-Co-Op_R117278-1) |
@@ -604,7 +603,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,448 of 4,889 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 1032.6s · 592 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,562 of 4,889 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 959.7s · 649 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
