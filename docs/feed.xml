@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-24T21:45:05Z</updated>
+  <updated>2026-09-25T00:18:44Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-Op--Summer-Fall-2027-_01873117</id>
+    <title>RTX: Systems Engineering Co-Op (Summer/Fall 2027)</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-Op--Summer-Fall-2027-_01873117"/>
+    <updated>2026-09-25T00:18:43Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 · Python, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Intern--Summer-2027-_01873116</id>
+    <title>RTX: Systems Engineering Intern (Summer 2027)</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Intern--Summer-2027-_01873116"/>
+    <updated>2026-09-25T00:18:43Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 · Python, C++</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:audaxgroup:4737824005</id>
     <title>Audax Group: IT Operations Co-Op NYC</title>
@@ -195,9 +211,9 @@
     <id>urn:intern-engine:amazon:amazon:10557133</id>
     <title>Amazon: Security Engineer Internship – 2027 (US)</title>
     <link href="https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us"/>
-    <updated>2026-09-23T00:05:02Z</updated>
+    <updated>2026-09-25T00:18:43Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Seattle, Washington, USA · Python, Java, C++, Ruby, AWS · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Security (general) · Seattle, Washington, USA · Python, Java, C++, Ruby, AWS · status: closed · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Product-Security-Engineering-Intern_JR100318</id>
@@ -790,21 +806,5 @@
     <updated>2026-09-16T17:07:04Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · Menlo Park, CA · AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107256</id>
-    <title>S&amp;C Electric Company: Cyber Security Analyst- Intern</title>
-    <link href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107256"/>
-    <updated>2026-09-17T04:59:48Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Security (general) · Chicago, IL, United States · $22–$30/hr · status: closed · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0249564</id>
-    <title>Booz Allen: Systems Administrator Intern 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/Confidential/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0249564"/>
-    <updated>2026-09-16T17:07:04Z</updated>
-    <category term="Not stated"/>
-    <summary>3 openings · Not stated · Systems &amp; Cloud Infra · Annapolis Junction, MD · $108k/yr · sponsorship: citizens-only</summary>
   </entry>
 </feed>
