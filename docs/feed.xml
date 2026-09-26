@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-25T21:52:16Z</updated>
+  <updated>2026-09-26T00:26:30Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:waymo:8231711</id>
+    <title>Waymo: 2027 Summer Intern, MS/PhD, Systems Engineer, Autonomous Vehicle Networks &amp; Diagnostics</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8231711"/>
+    <updated>2026-09-25T21:52:16Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Network / Telecom · Mountain View, CA, USA · Python, ROS · H-1B track record: ~284 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:americancentury:/job/Kansas-City-Missouri/Infrastructure-Automation-Engineer-Intern_R0005750</id>
     <title>American Century Investments: Infrastructure Automation Engineer Intern 🛂</title>
@@ -24,12 +32,12 @@
     <summary>Summer 2027 · IT Support / Ops · New York City, NY · SQL, Tableau</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:micron:/job/Folsom-CA/Intern---AI-Agentic-Systems-Engineer_JR110474</id>
-    <title>Micron Technology: Intern - AI Agentic Systems Engineer</title>
-    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---AI-Agentic-Systems-Engineer_JR110474"/>
+    <id>urn:intern-engine:workday:elkay:/job/Milwaukee-WI/IT-Infrastructure-Intern--Summer-2027-_REQ-020160</id>
+    <title>Zurn Elkay Water Solutions: IT Infrastructure Intern (Summer 2027)</title>
+    <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/IT-Infrastructure-Intern--Summer-2027-_REQ-020160"/>
     <updated>2026-09-25T21:52:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Folsom, CA · Python, LLMs, AWS, GCP, Azure · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+    <category term="Summer 2027"/>
+    <summary>2 openings · Summer 2027 · Systems &amp; Cloud Infra · Milwaukee, WI</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:globalhr:/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/XMLNAME-2027-Network-Engineering-Intern_01877666</id>
@@ -38,6 +46,14 @@
     <updated>2026-09-25T21:52:16Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Network / Telecom · US-CO-COLORADO SPRINGS-9970-CUST ~ 9970 Federal Dr ~ FEDERAL (External Site) · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:micron:/job/Folsom-CA/Intern---AI-Agentic-Systems-Engineer_JR110474</id>
+    <title>Micron Technology: Intern - AI Agentic Systems Engineer</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---AI-Agentic-Systems-Engineer_JR110474"/>
+    <updated>2026-09-25T21:52:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Folsom, CA · Python, LLMs, AWS, GCP, Azure · H-1B track record: ~489 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:tencent:/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R108186</id>
@@ -54,22 +70,6 @@
     <updated>2026-09-25T21:52:16Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Blauvelt, NY</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:waymo:8231711</id>
-    <title>Waymo: 2027 Summer Intern, MS/PhD, Systems Engineer, Autonomous Vehicle Networks &amp; Diagnostics</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8231711"/>
-    <updated>2026-09-25T21:52:16Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Network / Telecom · Mountain View, CA, USA · Python, ROS · H-1B track record: ~284 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:elkay:/job/Milwaukee-WI/IT-Infrastructure-Intern--Summer-2027-_REQ-020160</id>
-    <title>Zurn Elkay Water Solutions: IT Infrastructure Intern (Summer 2027)</title>
-    <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/IT-Infrastructure-Intern--Summer-2027-_REQ-020160"/>
-    <updated>2026-09-25T21:52:16Z</updated>
-    <category term="Summer 2027"/>
-    <summary>2 openings · Summer 2027 · Systems &amp; Cloud Infra · Milwaukee, WI</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:abb:/job/USA-OH-Cleveland/Systems-Engineering-Intern---Summer-2027_JR00047388</id>
