@@ -8,7 +8,7 @@
 
 ### 482 open roles (442 listed below) · 75 new this week
 
-4,648 employers tracked · data as of Sep 26, 2026 at 16:36 UTC
+4,648 employers tracked · data as of Sep 26, 2026 at 21:23 UTC
 
 _337 have a cycle the employer stated · 145 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -199,7 +199,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Buildertrend | Product Security Intern | AppSec / Product Sec | Omaha, NE | Python, C#, JavaScript, Bash | Sep 15, 2026 | [Apply](https://buildertrend.wd108.myworkdayjobs.com/External_Careers/job/Omaha-NE/Product-Security-Intern_JR-000473-1) |
 | Texas Instruments ✓ | Information Technology Intern – Security 🛂 | Security (general) | Dallas, TX, United States | Python, Java, AWS, GCP | Sep 15, 2026 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017626) |
 | Tencent | Cyber Security Engineer Intern | Security (general) | US-California-Palo Alto | Python, Java, C++, Bash | Sep 14, 2026 | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Cyber-Security-Engineer-Intern_R108141-2) |
-| Invesco | Early Career Intern - Global Security Department | Security (general) | Houston, Texas | Python | Sep 14, 2026 | [Apply](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Houston-Texas/Early-Career-Intern---Global-Security-Department_R-15519) |
+| Invesco | Early Career Intern - Global Security Department | Security (general) | Houston, Texas | Python | Sep 14, 2026 | [Apply](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Houston-Texas/Early-Career-Intern---Global-Security-Department_R-15519-1) |
 | Fortune Brands | Product Management Intern, B2B Security | Security (general) | Deerfield +2 more | Tableau | Sep 11, 2026 | [Apply](https://jobs.smartrecruiters.com/FortuneBrands/744000149058098) |
 | SWBC | Security Operations & Compliance Intern | SOC / Detection | San Antonio, TX | No skills listed | Sep 11, 2026 | [Apply](https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Security-Operations---Compliance-Intern_R0015535-2) |
 | Oshkosh | Cyber Security Intern | Security (general) | Oshkosh, Wisconsin, United States | No skills listed | Sep 11, 2026 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Cyber-Security-Intern_R50267) |
@@ -250,8 +250,8 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Saab | Co-Op, IT Support Professional Summer 2027 🇺🇸 🆕 | IT Support / Ops | East Syracuse, NY (Collamer) | No skills listed | Sep 25, 2026 | [Apply](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Co-Op--IT-Support-Professional-Summer-2027_R-03294-1) |
 | RTX | Systems Engineering Co-Op (Summer/Fall 2027) 🆕 | Systems & Cloud Infra | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd… | Python, C++ | Sep 24, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-Op--Summer-Fall-2027-_01873117) |
 | RTX | Systems Engineering Intern (Summer 2027) 🆕 | Systems & Cloud Infra | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd… | Python, C++ | Sep 24, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Intern--Summer-2027-_01873116) |
-| ABB ✓ | IS Common Infrastructure Intern- Summer 2027 🛂 🆕 | Systems & Cloud Infra | USA, NC, Cary | No skills listed | Sep 24, 2026 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/IS-Common-Infrastructure-Intern--Summer-2027_JR00047125) |
-| Adient | IT Intern 🆕 | IT Support / Ops | Plymouth, MI | No skills listed | Sep 24, 2026 | [Apply](https://adient.wd3.myworkdayjobs.com/External/job/Plymouth-MI/IT-Intern_R-29354) |
+| ABB ✓ | IS Common Infrastructure Intern- Summer 2027 🛂 | Systems & Cloud Infra | USA, NC, Cary | No skills listed | Sep 24, 2026 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/IS-Common-Infrastructure-Intern--Summer-2027_JR00047125) |
+| Adient | IT Intern | IT Support / Ops | Plymouth, MI | No skills listed | Sep 24, 2026 | [Apply](https://adient.wd3.myworkdayjobs.com/External/job/Plymouth-MI/IT-Intern_R-29354) |
 | Muon Space | Junior Help Desk Intern (Summer 2027) | IT Support / Ops | Mountain View, CA | No skills listed | Sep 23, 2026 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5247733007) |
 | Stantec | Civil Engineering Intern/Co-op - Infrastructure (Summer 2027) | Systems & Cloud Infra | New York, NY, United States | No skills listed | Sep 23, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007956) |
 | Hitachi Energy | Intern – Network Engineering | Network / Telecom | Pittsburgh, Pennsylvania, United States | No skills listed | Sep 23, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Network-Engineering_R0145672-1) |
@@ -429,9 +429,9 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Tencent | Cloud Media Services Intern 🆕 | Cloud Platform | US-California-Palo Alto | No skills listed | Sep 25, 2026 | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R108186) |
 | Moog | Intern, Systems Engineering 🆕 | Systems & Cloud Infra | Torrance, CA | No skills listed | Sep 25, 2026 | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Systems-Engineering_R-26-19820-1) |
 | EQT Corporation | Water Infrastructure Engineering Intern 🆕 | Systems & Cloud Infra | Canonsburg, PA | No skills listed | Sep 24, 2026 | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5424757008) |
-| Lexington Medical | Quality Systems Engineering Intern 🆕 | Systems & Cloud Infra | Bedford, MA | No skills listed | Sep 24, 2026 | [Apply](https://job-boards.greenhouse.io/lexingtonmedical/jobs/5434143008) |
-| LexisNexis Risk Solutions ✓ | Desktop Support Co-Op 🆕 | IT Support / Ops | Raleigh, NC | LLMs, HTML/CSS | Sep 24, 2026 | [Apply](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Desktop-Support-Co-Op_R118885) |
-| St. Luke's University Health Network | Intern - Management Engineering (Industrial Systems Engineering) 🆕 | Systems & Cloud Infra | Allentown, PA - 1110 American Parkway | Python, SQL | Sep 24, 2026 | [Apply](https://sluhn.wd1.myworkdayjobs.com/SLUHN/job/Allentown-PA---1110-American-Parkway/Intern---Management-Engineering--Industrial-Systems-Engineering-_R146345) |
+| Lexington Medical | Quality Systems Engineering Intern | Systems & Cloud Infra | Bedford, MA | No skills listed | Sep 24, 2026 | [Apply](https://job-boards.greenhouse.io/lexingtonmedical/jobs/5434143008) |
+| LexisNexis Risk Solutions ✓ | Desktop Support Co-Op | IT Support / Ops | Raleigh, NC | LLMs, HTML/CSS | Sep 24, 2026 | [Apply](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Desktop-Support-Co-Op_R118885) |
+| St. Luke's University Health Network | Intern - Management Engineering (Industrial Systems Engineering) | Systems & Cloud Infra | Allentown, PA - 1110 American Parkway | Python, SQL | Sep 24, 2026 | [Apply](https://sluhn.wd1.myworkdayjobs.com/SLUHN/job/Allentown-PA---1110-American-Parkway/Intern---Management-Engineering--Industrial-Systems-Engineering-_R146345) |
 | Graphcore | Systems Engineering Intern | Systems & Cloud Infra | Austin, Texas, United States | Python, Bash, Linux | Sep 23, 2026 | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8841978002) |
 | Tencent | Site Reliability Engineer (SRE) Intern — AI Infrastructure | Systems & Cloud Infra | US-California-Palo Alto | Python, Bash, Kubernetes, Linux | Sep 22, 2026 | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158-1) |
 | Tanium ✓ | Cloud Security Intern | Cloud & Infra Sec | Durham, NC (Hybrid) | AWS | Sep 22, 2026 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8176398) |
@@ -612,7 +612,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,485 of 4,910 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 1057.4s · 586 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,461 of 4,910 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 1125.6s · 584 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
