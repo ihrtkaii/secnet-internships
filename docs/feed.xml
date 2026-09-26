@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-26T05:40:27Z</updated>
+  <updated>2026-09-26T11:37:38Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
     <id>urn:intern-engine:greenhouse:waymo:8231711</id>
@@ -198,14 +198,6 @@
     <updated>2026-09-24T17:24:48Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Systems &amp; Cloud Infra · Allentown, PA - 1110 American Parkway · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:RRSGroup:744000151541069</id>
-    <title>RRS Group: Associate IT Systems Administrator Intern - 2027</title>
-    <link href="https://jobs.smartrecruiters.com/RRSGroup/744000151541069"/>
-    <updated>2026-09-24T11:56:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · San Francisco, , United States (Remote) · Python, Bash, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:graphcore:8841978002</id>
@@ -573,7 +565,7 @@
     <link href="https://jobs.smartrecruiters.com/RRSGroup/744000150509779"/>
     <updated>2026-09-24T17:24:48Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · San Francisco, , United States (Remote) · Python, Bash, Linux · status: closed</summary>
+    <summary>2 openings · Summer 2027 · Systems &amp; Cloud Infra · San Francisco, , United States (Remote) · Python, Bash, Linux · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:bbh:/job/New-York/XMLNAME-2027-Internal-Audit---Information-Technology---Cybersecurity-Summer-Internship_72899</id>
@@ -806,5 +798,13 @@
     <updated>2026-09-17T00:06:47Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · IT Support / Ops · Arlington, TX, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:americancentury:/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729</id>
+    <title>American Century Investments: Cybersecurity Intern 🛂</title>
+    <link href="https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729"/>
+    <updated>2026-09-17T00:06:47Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Security (general) · Kansas City, Missouri · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>

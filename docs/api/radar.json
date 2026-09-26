@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-26T05:40:27Z",
- "data_as_of": "2026-09-26T05:40:27Z",
- "rendered_at": "2026-09-26T05:40:27Z",
+ "generated_at": "2026-09-26T11:37:38Z",
+ "data_as_of": "2026-09-26T11:37:38Z",
+ "rendered_at": "2026-09-26T11:37:39Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -2039,25 +2039,6 @@
    }
   },
   {
-   "company": "RRS Group",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-19",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-19",
-   "days_until": -7,
-   "status": "open",
-   "url": "https://jobs.smartrecruiters.com/RRSGroup/744000151541069",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-19"
-   }
-  },
-  {
    "company": "Assured Guaranty",
    "last_cycle_posted": "",
    "posted_on": "2026-09-21",
@@ -2472,6 +2453,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-11"
+   }
+  },
+  {
+   "company": "RRS Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-19",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-19",
+   "days_until": -7,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-19"
    }
   }
  ],
