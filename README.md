@@ -6,9 +6,9 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/ihrtkaii/secnet-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/ihrtkaii/secnet-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fihrtkaii.github.io%2Fsecnet-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://ihrtkaii.github.io/secnet-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://ihrtkaii.github.io/secnet-internships/feed.xml)
 
-### 482 open roles (442 listed below) · 76 new this week
+### 482 open roles (442 listed below) · 75 new this week
 
-4,641 employers tracked · data as of Sep 26, 2026 at 11:37 UTC
+4,648 employers tracked · data as of Sep 26, 2026 at 16:36 UTC
 
 _337 have a cycle the employer stated · 145 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -34,7 +34,7 @@ Every link comes straight from the source — so it's real and current, not a st
 | 🛂 **Visa intel, computed** | 🇺🇸 / 🛂 flags detected automatically from every job description, plus ✓ for employers with a real H-1B track record (USCIS data, FY2022-23 — a history, not a promise). The big lists crowdsource this by hand; here it's code. Most postings say nothing either way, and those show as unknown rather than guessed. |
 | 📆 **A real date on nearly every role** | Taken from the job portal itself wherever the portal states one, so newest-first actually means newest. The exact coverage figure is printed at the bottom of this page every run. |
 | 🧰 **Skill tags + pay, extracted** | Every posting's text is scanned for the stack it wants (Python, C++, PyTorch, …) and the pay it states — searchable on the [dashboard](https://ihrtkaii.github.io/secnet-internships/), and included in the CSV and API. |
-| ⚙️ **An engine, not a spreadsheet** | 4,901 job-board endpoints (4,641 distinct employers; some run more than one board) polled every 3 hours across 12 ATS platforms. Full source and tests in this repo. |
+| ⚙️ **An engine, not a spreadsheet** | 4,910 job-board endpoints (4,648 distinct employers; some run more than one board) polled every 3 hours across 12 ATS platforms. Full source and tests in this repo. |
 
 ## Scope
 
@@ -199,7 +199,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Buildertrend | Product Security Intern | AppSec / Product Sec | Omaha, NE | Python, C#, JavaScript, Bash | Sep 15, 2026 | [Apply](https://buildertrend.wd108.myworkdayjobs.com/External_Careers/job/Omaha-NE/Product-Security-Intern_JR-000473-1) |
 | Texas Instruments ✓ | Information Technology Intern – Security 🛂 | Security (general) | Dallas, TX, United States | Python, Java, AWS, GCP | Sep 15, 2026 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017626) |
 | Tencent | Cyber Security Engineer Intern | Security (general) | US-California-Palo Alto | Python, Java, C++, Bash | Sep 14, 2026 | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Cyber-Security-Engineer-Intern_R108141-2) |
-| Invesco | Early Career Intern - Global Security Department | Security (general) | Houston, Texas | Python | Sep 14, 2026 | [Apply](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Houston-Texas/Early-Career-Intern---Global-Security-Department_R-15519-1) |
+| Invesco | Early Career Intern - Global Security Department | Security (general) | Houston, Texas | Python | Sep 14, 2026 | [Apply](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Houston-Texas/Early-Career-Intern---Global-Security-Department_R-15519) |
 | Fortune Brands | Product Management Intern, B2B Security | Security (general) | Deerfield +2 more | Tableau | Sep 11, 2026 | [Apply](https://jobs.smartrecruiters.com/FortuneBrands/744000149058098) |
 | SWBC | Security Operations & Compliance Intern | SOC / Detection | San Antonio, TX | No skills listed | Sep 11, 2026 | [Apply](https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Security-Operations---Compliance-Intern_R0015535-2) |
 | Oshkosh | Cyber Security Intern | Security (general) | Oshkosh, Wisconsin, United States | No skills listed | Sep 11, 2026 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Cyber-Security-Intern_R50267) |
@@ -612,7 +612,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,500 of 4,901 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 1205.3s · 598 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,485 of 4,910 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 1057.4s · 586 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
