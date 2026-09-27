@@ -6,9 +6,9 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/ihrtkaii/secnet-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/ihrtkaii/secnet-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fihrtkaii.github.io%2Fsecnet-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://ihrtkaii.github.io/secnet-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://ihrtkaii.github.io/secnet-internships/feed.xml)
 
-### 482 open roles (442 listed below) · 75 new this week
+### 482 open roles (442 listed below) · 74 new this week
 
-4,648 employers tracked · data as of Sep 26, 2026 at 23:51 UTC
+4,648 employers tracked · data as of Sep 27, 2026 at 05:30 UTC
 
 _337 have a cycle the employer stated · 145 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -248,8 +248,8 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Watts Water | Systems Engineer Intern Summer 2027 🆕 | Systems & Cloud Infra | Blauvelt, NY | No skills listed | Sep 25, 2026 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Blauvelt-NY/Systems-Engineer-Intern-Summer-2027_10017357) |
 | ABB ✓ | Systems Engineering Intern – Summer 2027 🛂 🆕 | Systems & Cloud Infra | USA, OH, Cleveland | No skills listed | Sep 25, 2026 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-OH-Cleveland/Systems-Engineering-Intern---Summer-2027_JR00047388) |
 | Saab | Co-Op, IT Support Professional Summer 2027 🇺🇸 🆕 | IT Support / Ops | East Syracuse, NY (Collamer) | No skills listed | Sep 25, 2026 | [Apply](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Co-Op--IT-Support-Professional-Summer-2027_R-03294-1) |
-| RTX | Systems Engineering Co-Op (Summer/Fall 2027) 🆕 | Systems & Cloud Infra | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd… | Python, C++ | Sep 24, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-Op--Summer-Fall-2027-_01873117) |
-| RTX | Systems Engineering Intern (Summer 2027) 🆕 | Systems & Cloud Infra | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd… | Python, C++ | Sep 24, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Intern--Summer-2027-_01873116) |
+| RTX | Systems Engineering Co-Op (Summer/Fall 2027) | Systems & Cloud Infra | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd… | Python, C++ | Sep 24, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-Op--Summer-Fall-2027-_01873117) |
+| RTX | Systems Engineering Intern (Summer 2027) | Systems & Cloud Infra | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd… | Python, C++ | Sep 24, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Intern--Summer-2027-_01873116) |
 | ABB ✓ | IS Common Infrastructure Intern- Summer 2027 🛂 | Systems & Cloud Infra | USA, NC, Cary | No skills listed | Sep 24, 2026 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/IS-Common-Infrastructure-Intern--Summer-2027_JR00047125) |
 | Adient | IT Intern | IT Support / Ops | Plymouth, MI | No skills listed | Sep 24, 2026 | [Apply](https://adient.wd3.myworkdayjobs.com/External/job/Plymouth-MI/IT-Intern_R-29354) |
 | Muon Space | Junior Help Desk Intern (Summer 2027) | IT Support / Ops | Mountain View, CA | No skills listed | Sep 23, 2026 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5247733007) |
@@ -508,9 +508,9 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Texas Instruments ✓ | Network Engineer - Encore Program Internship 🛂 | Network / Telecom | Dallas, TX, United States | Python, AWS, GCP, Azure | Jul 29, 2026 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016832) |
 | KOSTAL Group | Systems Engineering Intern | Systems & Cloud Infra | Troy, MI, United States | No skills listed | Jul 16, 2026 | [Apply](https://jobs.smartrecruiters.com/KOSTALGroup/744000138137225) |
 | DRW ✓ | Leadership Rotation Network Intern 🛂 | Network / Telecom | Chicago, IL | Python, SQL, Pandas, Git | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7993195) |
-| Palantir ✓ | Forward Deployed Infrastructure Engineer, Internship - US Government 🇺🇸 🆕 | Systems & Cloud Infra | Washington, D.C. | Python, Java, C++, TypeScript | Jul 10, 2026 | [Apply](https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9) |
-| Palantir ✓ | Forward Deployed Infrastructure Engineer, Internship - US Government 🇺🇸 🆕 | Systems & Cloud Infra | Palo Alto, CA | Python, Java, C++, TypeScript | Jul 10, 2026 | [Apply](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) |
-| Palantir ✓ | Forward Deployed Infrastructure Engineer, Internship - US Government 🇺🇸 🆕 | Systems & Cloud Infra | New York, NY | Python, Java, C++, TypeScript | Jul 10, 2026 | [Apply](https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b) |
+| Palantir ✓ | Forward Deployed Infrastructure Engineer, Internship - US Government 🇺🇸 | Systems & Cloud Infra | Washington, D.C. | Python, Java, C++, TypeScript | Jul 10, 2026 | [Apply](https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9) |
+| Palantir ✓ | Forward Deployed Infrastructure Engineer, Internship - US Government 🇺🇸 | Systems & Cloud Infra | Palo Alto, CA | Python, Java, C++, TypeScript | Jul 10, 2026 | [Apply](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) |
+| Palantir ✓ | Forward Deployed Infrastructure Engineer, Internship - US Government 🇺🇸 | Systems & Cloud Infra | New York, NY | Python, Java, C++, TypeScript | Jul 10, 2026 | [Apply](https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b) |
 | TransMarket Group | DevOps/SRE Intern | Systems & Cloud Infra | Chicago, Illinois, United States | Python, Docker, Git | Jun 02, 2026 | [Apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007) |
 
 ## 🗂️ Other
@@ -612,7 +612,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,476 of 4,910 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 960.6s · 586 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,502 of 4,910 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 1106.3s · 596 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
