@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-27T05:30:53Z",
- "data_as_of": "2026-09-27T05:30:53Z",
- "rendered_at": "2026-09-27T05:30:53Z",
+ "generated_at": "2026-09-27T12:15:17Z",
+ "data_as_of": "2026-09-27T12:15:17Z",
+ "rendered_at": "2026-09-27T12:15:18Z",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "h1b_window": "FY2022–2023",
- "count": 482,
+ "count": 480,
  "jobs": [
   {
    "id": "greenhouse:waymo:8231711",
@@ -8076,33 +8076,6 @@
    "remote": false
   },
   {
-   "id": "workday:bah:/job/McLean-VA/University---Summer-27--Cybersecurity-Analyst-Intern_R0248214",
-   "company": "Booz Allen",
-   "title": "University – Summer 27, Cybersecurity Analyst Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Security (general)",
-   "location": "McLean, VA",
-   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Summer-27--Cybersecurity-Analyst-Intern_R0248214",
-   "posted_at": "2026-08-28T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-01T21:15:28Z",
-   "sponsorship": "citizens-only",
-   "salary": "$108k/yr",
-   "skills": [
-    "Python",
-    "Java",
-    "C++",
-    "JavaScript",
-    "Bash"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:bah:/job/Rome-NY/University--2027-Summer-Games-Cyber-Security-Intern_R0248142",
    "company": "Booz Allen",
    "title": "University, 2027 Summer Games Cyber Security Intern - Rome, NY",
@@ -8212,27 +8185,6 @@
     "SQL",
     "Git"
    ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Intern---Systems-Engineer--Onsite-_01868046",
-   "company": "RTX",
-   "title": "Intern - Systems Engineer (Onsite)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Systems & Cloud Infra",
-   "location": "US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Intern---Systems-Engineer--Onsite-_01868046",
-   "posted_at": "2026-08-28T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-28T12:27:10Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [],
    "source": "workday",
    "h1b_approvals": null,
    "program": "Internship",
