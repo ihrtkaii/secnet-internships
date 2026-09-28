@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-28T05:35:43Z</updated>
+  <updated>2026-09-28T13:59:11Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:interdigital:/job/Conshohocken-PA/Intern--IT-Infrastructure_REQ26-1141</id>
+    <title>Interdigital: Intern, IT Infrastructure</title>
+    <link href="https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Conshohocken-PA/Intern--IT-Infrastructure_REQ26-1141"/>
+    <updated>2026-09-28T13:59:10Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Systems &amp; Cloud Infra · Conshohocken, PA · Python, AWS, Azure, Terraform, Linux · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260836</id>
+    <title>GM financial: Intern - Cybersecurity</title>
+    <link href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260836"/>
+    <updated>2026-09-28T13:59:10Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Arlington, TX, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260805</id>
+    <title>GM financial: Intern - Cybersecurity 🛂</title>
+    <link href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260805"/>
+    <updated>2026-09-28T13:59:10Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Irving, TX, United States · sponsorship: no-sponsorship</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:fox:/job/Chicago-Illinois-USA/Summer-2027-FOX-Sports---Big-Ten-Network---Internship-Program---Chicago--IL_R50033970</id>
     <title>FOX: Summer 2027 FOX Sports - Big Ten Network - Internship Program - Chicago, IL</title>
@@ -782,29 +806,5 @@
     <updated>2026-09-17T21:35:28Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Network / Telecom · Durham NC · Python, Linux, Git · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:valeo:/job/Troy-MI/Systems-Engineering-Co-Op_REQ2026080447</id>
-    <title>Valeo: Systems Engineering Co-Op 🛂</title>
-    <link href="https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Systems-Engineering-Co-Op_REQ2026080447"/>
-    <updated>2026-09-17T21:35:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Troy, MI · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260815</id>
-    <title>GM financial: Intern - Business Systems Analyst</title>
-    <link href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260815"/>
-    <updated>2026-09-17T17:15:01Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Arlington, TX, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:theocc:/job/Dallas-TX/Year-Round-Intern---Application-Security_REQ-4838</id>
-    <title>OCC: Year-Round Intern - Application Security 🛂</title>
-    <link href="https://theocc.wd5.myworkdayjobs.com/careers/job/Dallas-TX/Year-Round-Intern---Application-Security_REQ-4838"/>
-    <updated>2026-09-17T17:15:01Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · AppSec / Product Sec · Dallas, TX · Python, Bash, LLMs, AWS, GCP · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
 </feed>
