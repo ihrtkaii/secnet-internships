@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-28T00:14:21Z</updated>
+  <updated>2026-09-28T05:35:43Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:fox:/job/Chicago-Illinois-USA/Summer-2027-FOX-Sports---Big-Ten-Network---Internship-Program---Chicago--IL_R50033970</id>
+    <title>FOX: Summer 2027 FOX Sports - Big Ten Network - Internship Program - Chicago, IL</title>
+    <link href="https://fox.wd1.myworkdayjobs.com/Domestic/job/Chicago-Illinois-USA/Summer-2027-FOX-Sports---Big-Ten-Network---Internship-Program---Chicago--IL_R50033970"/>
+    <updated>2026-09-28T05:35:43Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Network / Telecom · Chicago, Illinois, USA · $20/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/A2G-2027-Summer-Fall-Co-op---Systems-Engineering---Onsite_01869258</id>
+    <title>RTX: A2G 2027 Summer/Fall Co-op - Systems Engineering - Onsite 🛂</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/A2G-2027-Summer-Fall-Co-op---Systems-Engineering---Onsite_01869258"/>
+    <updated>2026-09-28T05:35:43Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op---Systems-Engineering--Onsite-_01868438</id>
+    <title>RTX: 2027 Summer-Fall Co-op - Systems Engineering (Onsite)</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op---Systems-Engineering--Onsite-_01868438"/>
+    <updated>2026-09-28T05:35:43Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 · Python, C++, MATLAB</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:waymo:8231711</id>
     <title>Waymo: 2027 Summer Intern, MS/PhD, Systems Engineer, Autonomous Vehicle Networks &amp; Diagnostics</title>
@@ -782,29 +806,5 @@
     <updated>2026-09-17T17:15:01Z</updated>
     <category term="Winter 2027"/>
     <summary>Winter 2027 · AppSec / Product Sec · Dallas, TX · Python, Bash, LLMs, AWS, GCP · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:7986963003</id>
-    <title>Rocket Lab: Security Analyst Intern Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7986963003"/>
-    <updated>2026-09-17T00:06:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Middle River, MD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260834</id>
-    <title>GM financial: Intern - IT Support Technician</title>
-    <link href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260834"/>
-    <updated>2026-09-17T00:06:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · IT Support / Ops · Arlington, TX, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:americancentury:/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729</id>
-    <title>American Century Investments: Cybersecurity Intern 🛂</title>
-    <link href="https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729"/>
-    <updated>2026-09-17T00:06:47Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Security (general) · Kansas City, Missouri · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>

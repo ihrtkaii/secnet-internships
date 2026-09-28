@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-28T00:14:21Z",
- "data_as_of": "2026-09-28T00:14:21Z",
- "rendered_at": "2026-09-28T00:14:21Z",
+ "generated_at": "2026-09-28T05:35:43Z",
+ "data_as_of": "2026-09-28T05:35:43Z",
+ "rendered_at": "2026-09-28T05:35:44Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -2343,6 +2343,25 @@
    }
   },
   {
+   "company": "FOX",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-28",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-28",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/Chicago-Illinois-USA/Summer-2027-FOX-Sports---Big-Ten-Network---Internship-Program---Chicago--IL_R50033970",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-28"
+   }
+  },
+  {
    "company": "APEX Analytix",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -2475,5 +2494,5 @@
    }
   }
  ],
- "count": 130
+ "count": 131
 }
