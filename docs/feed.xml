@@ -5,15 +5,87 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-28T13:59:11Z</updated>
+  <updated>2026-09-28T21:31:18Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:interdigital:/job/Conshohocken-PA/Intern--IT-Infrastructure_REQ26-1141</id>
-    <title>Interdigital: Intern, IT Infrastructure</title>
-    <link href="https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Conshohocken-PA/Intern--IT-Infrastructure_REQ26-1141"/>
+    <id>urn:intern-engine:greenhouse:acluinternships:8842752002</id>
+    <title>ACLU Kentucky: Summer 2027 Undergraduate Intern, National Security Project</title>
+    <link href="https://job-boards.greenhouse.io/acluinternships/jobs/8842752002"/>
+    <updated>2026-09-28T21:31:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · New York, NY · $24/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:pae:/job/US-CO-Colorado-Springs/Service-Desk-Administrator-Internship-IRES---SSFB_R0171676</id>
+    <title>Amentum: Service Desk Administrator Internship IRES - SSFB 🇺🇸</title>
+    <link href="https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-CO-Colorado-Springs/Service-Desk-Administrator-Internship-IRES---SSFB_R0171676"/>
+    <updated>2026-09-28T21:31:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · IT Support / Ops · US-CO-Colorado Springs · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/6314-RemoteTeleworker-US/Data-Center-Design-Intern_R-00193261</id>
+    <title>Leidos: Data Center Design Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Data-Center-Design-Intern_R-00193261"/>
+    <updated>2026-09-28T21:31:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · 6314 Remote/Teleworker US · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:motorolasolutions:/job/Linthicum-MD/Presales-Systems-Engineer---2027-Internship_R69140</id>
+    <title>Motorola: Presales Systems Engineer - 2027 Internship 🛂</title>
+    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Linthicum-MD/Presales-Systems-Engineer---2027-Internship_R69140"/>
+    <updated>2026-09-28T21:31:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Linthicum, MD, More... · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Arizona-Chandler/XMLNAME-2027-Systems-Engineering-Intern---Chandler-AZ_R10253325</id>
+    <title>Northrop Grumman: 2027 Systems Engineering Intern - Chandler AZ 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Systems-Engineering-Intern---Chandler-AZ_R10253325"/>
+    <updated>2026-09-28T21:31:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · United States-Arizona-Chandler · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Research-Internship--Summer-2027----Onsite_01872177</id>
+    <title>RTX: Cyber Research Internship (Summer 2027) - Onsite 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Research-Internship--Summer-2027----Onsite_01872177"/>
+    <updated>2026-09-28T21:31:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · US-IA-CEDAR RAPIDS-166 ~ 855 35Th St NE ~ BLDG 166 · Python, C++ · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:upbound:/job/Plano-TX/Cybersecurity-Intern_R-100776</id>
+    <title>Upbound Group: Cybersecurity Intern</title>
+    <link href="https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Cybersecurity-Intern_R-100776"/>
+    <updated>2026-09-28T21:31:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Plano, TX · $23/hr · Python, SQL, Pandas, LLMs, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:waymo:8234670</id>
+    <title>Waymo: 2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8234670"/>
+    <updated>2026-09-28T21:31:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · SOC / Detection · San Francisco, California · Python, SQL · H-1B track record: ~284 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:xenergy:/job/Rockville-MD/Systems-Engineering-Internship---Summer-2027_R101358-1</id>
+    <title>X-energy: Systems Engineering Internship - Summer 2027</title>
+    <link href="https://xenergy.wd5.myworkdayjobs.com/X-energyUS/job/Rockville-MD/Systems-Engineering-Internship---Summer-2027_R101358-1"/>
+    <updated>2026-09-28T21:31:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Rockville, MD · $25/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260805</id>
+    <title>GM financial: Intern - Cybersecurity 🛂</title>
+    <link href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260805"/>
     <updated>2026-09-28T13:59:10Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Systems &amp; Cloud Infra · Conshohocken, PA · Python, AWS, Azure, Terraform, Linux · status: closed</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Irving, TX, United States · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260836</id>
@@ -24,12 +96,12 @@
     <summary>Summer 2027 · Security (general) · Arlington, TX, United States</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260805</id>
-    <title>GM financial: Intern - Cybersecurity 🛂</title>
-    <link href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260805"/>
+    <id>urn:intern-engine:workday:interdigital:/job/Conshohocken-PA/Intern--IT-Infrastructure_REQ26-1141</id>
+    <title>Interdigital: Intern, IT Infrastructure</title>
+    <link href="https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Conshohocken-PA/Intern--IT-Infrastructure_REQ26-1141"/>
     <updated>2026-09-28T13:59:10Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Irving, TX, United States · sponsorship: no-sponsorship</summary>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Systems &amp; Cloud Infra · Conshohocken, PA · Python, AWS, Azure, Terraform, Linux · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:fox:/job/Chicago-Illinois-USA/Summer-2027-FOX-Sports---Big-Ten-Network---Internship-Program---Chicago--IL_R50033970</id>
@@ -81,7 +153,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:workday:elkay:/job/Milwaukee-WI/IT-Infrastructure-Intern--Summer-2027-_REQ-020160</id>
-    <title>Zurn Elkay Water Solutions: IT Infrastructure Intern (Summer 2027)</title>
+    <title>Zurn Elkay Water Solutions: IT Infrastructure &amp; AI Enablement Intern (Summer 2027)</title>
     <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/IT-Infrastructure-Intern--Summer-2027-_REQ-020160"/>
     <updated>2026-09-25T21:52:16Z</updated>
     <category term="Summer 2027"/>
@@ -734,77 +806,5 @@
     <updated>2026-09-18T16:38:32Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Network / Telecom · Andover, MA Federal Street</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ntst:/job/Overland-Park-KS/Cloud-Engineer-Future---Summer-2027-Internship-_R015668</id>
-    <title>Netsmart: Cloud Engineer Future  (Summer 2027 Internship)</title>
-    <link href="https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Cloud-Engineer-Future---Summer-2027-Internship-_R015668"/>
-    <updated>2026-09-18T11:24:29Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Cloud Platform · Overland Park, KS · Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ntst:/job/Overland-Park-KS/IT-System-Administrator-Intern---Summer-2027-Internship-_R015666</id>
-    <title>Netsmart: IT System Administrator Intern  (Summer 2027 Internship)</title>
-    <link href="https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/IT-System-Administrator-Intern---Summer-2027-Internship-_R015666"/>
-    <updated>2026-09-18T11:24:29Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Overland Park, KS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ntst:/job/Overland-Park-KS/Security-Analyst-Future--Summer-2027-Internship-_R015669</id>
-    <title>Netsmart: Security Analyst Future (Summer 2027 Internship)</title>
-    <link href="https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Security-Analyst-Future--Summer-2027-Internship-_R015669"/>
-    <updated>2026-09-18T11:24:29Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Overland Park, KS · SQL, AWS, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:WellmarkInc:744000150269748</id>
-    <title>Wellmark: Security Analyst Internship</title>
-    <link href="https://jobs.smartrecruiters.com/WellmarkInc/744000150269748"/>
-    <updated>2026-09-18T04:55:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Des Moines, IA, United States (Hybrid) · SQL, Node.js, Angular, Azure, MongoDB · H-1B track record: ~15 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Engineering-Intern--Summer-2027----Onsite_01871091</id>
-    <title>RTX: Flight Controls Systems Engineering Intern (Summer 2027) - Onsite</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Engineering-Intern--Summer-2027----Onsite_01871091"/>
-    <updated>2026-09-18T04:55:54Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193 · MATLAB</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:7990138003</id>
-    <title>Rocket Lab: Systems Engineering Intern Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7990138003"/>
-    <updated>2026-09-17T21:35:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Pasadena, CA · Python, MATLAB, ROS · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:7990270003</id>
-    <title>Rocket Lab: Systems Engineering Intern Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7990270003"/>
-    <updated>2026-09-17T21:35:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Tucson, AZ · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:7990272003</id>
-    <title>Rocket Lab: Systems Engineering Intern Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7990272003"/>
-    <updated>2026-09-17T21:35:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Chantilly, VA · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:labcorp:/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795</id>
-    <title>LabCorp: Intern – Network Infrastructure &amp; Automation Engineering 🛂</title>
-    <link href="https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795"/>
-    <updated>2026-09-17T21:35:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Network / Telecom · Durham NC · Python, Linux, Git · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>

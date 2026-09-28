@@ -1,6 +1,26 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "greenhouse:acluinternships:8842752002",
+      "workday:pae:/job/US-CO-Colorado-Springs/Service-Desk-Administrator-Internship-IRES---SSFB_R0171676",
+      "workday:leidos:/job/6314-RemoteTeleworker-US/Data-Center-Design-Intern_R-00193261",
+      "workday:motorolasolutions:/job/Linthicum-MD/Presales-Systems-Engineer---2027-Internship_R69140",
+      "workday:ngc:/job/United-States-Arizona-Chandler/XMLNAME-2027-Systems-Engineering-Intern---Chandler-AZ_R10253325",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Research-Internship--Summer-2027----Onsite_01872177",
+      "workday:upbound:/job/Plano-TX/Cybersecurity-Intern_R-100776",
+      "greenhouse:waymo:8234670",
+      "workday:xenergy:/job/Rockville-MD/Systems-Engineering-Internship---Summer-2027_R101358-1"
+    ],
+    "telegram": [
+      "greenhouse:acluinternships:8842752002",
+      "workday:pae:/job/US-CO-Colorado-Springs/Service-Desk-Administrator-Internship-IRES---SSFB_R0171676",
+      "workday:leidos:/job/6314-RemoteTeleworker-US/Data-Center-Design-Intern_R-00193261",
+      "workday:motorolasolutions:/job/Linthicum-MD/Presales-Systems-Engineer---2027-Internship_R69140",
+      "workday:ngc:/job/United-States-Arizona-Chandler/XMLNAME-2027-Systems-Engineering-Intern---Chandler-AZ_R10253325",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Research-Internship--Summer-2027----Onsite_01872177",
+      "workday:upbound:/job/Plano-TX/Cybersecurity-Intern_R-100776",
+      "greenhouse:waymo:8234670",
+      "workday:xenergy:/job/Rockville-MD/Systems-Engineering-Internship---Summer-2027_R101358-1"
+    ]
   }
 }

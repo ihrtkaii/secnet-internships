@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-28T13:59:11Z",
- "data_as_of": "2026-09-28T13:59:11Z",
- "rendered_at": "2026-09-28T13:59:11Z",
+ "generated_at": "2026-09-28T21:31:18Z",
+ "data_as_of": "2026-09-28T21:31:18Z",
+ "rendered_at": "2026-09-28T21:31:19Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -1897,7 +1897,7 @@
    "expected": "2026-09-17",
    "days_until": -11,
    "status": "open",
-   "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260815",
+   "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260805",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2343,6 +2343,25 @@
    }
   },
   {
+   "company": "ACLU Kentucky",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-28",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-28",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/acluinternships/jobs/8842752002",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-28"
+   }
+  },
+  {
    "company": "FOX",
    "last_cycle_posted": "",
    "posted_on": "2026-09-28",
@@ -2354,6 +2373,44 @@
    "days_until": 0,
    "status": "open",
    "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/Chicago-Illinois-USA/Summer-2027-FOX-Sports---Big-Ten-Network---Internship-Program---Chicago--IL_R50033970",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-28"
+   }
+  },
+  {
+   "company": "Upbound Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-28",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-28",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Cybersecurity-Intern_R-100776",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-28"
+   }
+  },
+  {
+   "company": "X-energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-28",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-28",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://xenergy.wd5.myworkdayjobs.com/X-energyUS/job/Rockville-MD/Systems-Engineering-Internship---Summer-2027_R101358-1",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2494,5 +2551,5 @@
    }
   }
  ],
- "count": 131
+ "count": 134
 }

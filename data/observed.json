@@ -58,6 +58,18 @@
     }
    }
   },
+  "aclu kentucky": {
+   "name": "ACLU Kentucky",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-28",
+     "role_ids": [
+      "greenhouse:acluinternships:8842752002"
+     ],
+     "count": 1
+    }
+   }
+  },
   "adient": {
    "name": "Adient",
    "cycles": {
@@ -1268,9 +1280,10 @@
      "first_posted": "2026-09-18",
      "role_ids": [
       "workday:motorolasolutions:/job/Chicago-IL/Business-Systems-Analyst-Internship-Summer-2027_R68572",
-      "workday:motorolasolutions:/job/Chicago-IL/Cyber-Security---2027-Summer-Internship--Chicago-Hybrid-_R68369"
+      "workday:motorolasolutions:/job/Chicago-IL/Cyber-Security---2027-Summer-Internship--Chicago-Hybrid-_R68369",
+      "workday:motorolasolutions:/job/Linthicum-MD/Presales-Systems-Engineer---2027-Internship_R69140"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1319,6 +1332,7 @@
      "first_posted": "2026-08-24",
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Systems-Engineering-Intern--Huntsville-AL_R10249774",
+      "workday:ngc:/job/United-States-Arizona-Chandler/XMLNAME-2027-Systems-Engineering-Intern---Chandler-AZ_R10253325",
       "workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Systems-Engineer-Intern---Gilbert-AZ_R10249114-1",
       "workday:ngc:/job/United-States-California-Azusa/XMLNAME-2027-Systems-Engineer-Intern---Azusa-CA_R10249123",
       "workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-Systems-Engineer-Intern---Redondo-Beach-CA_R10249113",
@@ -1336,7 +1350,7 @@
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Engineering-Intern--Roy-UT_R10248475",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Security-Engineering-Intern---Roy-UT_R10249815"
      ],
-     "count": 17
+     "count": 18
     },
     "Fall 2026": {
      "first_posted": "2026-08-31",
@@ -1562,10 +1576,11 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871278",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871442",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871444",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Research-Internship--Summer-2027----Onsite_01872177",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Avionics-Computer-Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872715",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Engineering-Intern--Summer-2027----Onsite_01871091"
      ],
-     "count": 25
+     "count": 26
     }
    }
   },
@@ -1775,6 +1790,18 @@
     }
    }
   },
+  "upbound group": {
+   "name": "Upbound Group",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-28",
+     "role_ids": [
+      "workday:upbound:/job/Plano-TX/Cybersecurity-Intern_R-100776"
+     ],
+     "count": 1
+    }
+   }
+  },
   "vanguard": {
    "name": "Vanguard",
    "cycles": {
@@ -1849,9 +1876,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-25",
      "role_ids": [
-      "greenhouse:waymo:8231711"
+      "greenhouse:waymo:8231711",
+      "greenhouse:waymo:8234670"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1874,6 +1902,18 @@
      "first_posted": "2026-08-27",
      "role_ids": [
       "workday:workiva:/job/USA---Remote/Spring---Summer-2027-Intern---Security---GRC_R12353"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "x energy": {
+   "name": "X-energy",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-28",
+     "role_ids": [
+      "workday:xenergy:/job/Rockville-MD/Systems-Engineering-Internship---Summer-2027_R101358-1"
      ],
      "count": 1
     }
@@ -1917,5 +1957,5 @@
    }
   }
  },
- "updated_at": "2026-09-28T13:59:11Z"
+ "updated_at": "2026-09-28T21:31:18Z"
 }
