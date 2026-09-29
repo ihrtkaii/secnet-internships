@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-29T09:59:47Z",
- "data_as_of": "2026-09-29T09:59:47Z",
- "rendered_at": "2026-09-29T09:59:48Z",
+ "generated_at": "2026-09-29T18:22:32Z",
+ "data_as_of": "2026-09-29T18:22:32Z",
+ "rendered_at": "2026-09-29T18:22:32Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -2039,25 +2039,6 @@
    }
   },
   {
-   "company": "Live Oak Bank",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-21",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-21",
-   "days_until": -8,
-   "status": "open",
-   "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--IT-Support-Administrator_R-002627",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-21"
-   }
-  },
-  {
    "company": "Protective Life",
    "last_cycle_posted": "",
    "posted_on": "2026-09-21",
@@ -2548,6 +2529,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-19"
+   }
+  },
+  {
+   "company": "Live Oak Bank",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-21",
+   "days_until": -8,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-21"
    }
   }
  ],
