@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-28T21:31:18Z</updated>
+  <updated>2026-09-29T01:33:08Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
     <id>urn:intern-engine:greenhouse:acluinternships:8842752002</id>
@@ -16,12 +16,20 @@
     <summary>Summer 2027 · Security (general) · New York, NY · $24/hr</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:pae:/job/US-CO-Colorado-Springs/Service-Desk-Administrator-Internship-IRES---SSFB_R0171676</id>
-    <title>Amentum: Service Desk Administrator Internship IRES - SSFB 🇺🇸</title>
-    <link href="https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-CO-Colorado-Springs/Service-Desk-Administrator-Internship-IRES---SSFB_R0171676"/>
+    <id>urn:intern-engine:greenhouse:waymo:8234670</id>
+    <title>Waymo: 2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8234670"/>
     <updated>2026-09-28T21:31:18Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · IT Support / Ops · US-CO-Colorado Springs · sponsorship: citizens-only</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · SOC / Detection · San Francisco, California · Python, SQL · H-1B track record: ~284 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Research-Internship--Summer-2027----Onsite_01872177</id>
+    <title>RTX: Cyber Research Internship (Summer 2027) - Onsite 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Research-Internship--Summer-2027----Onsite_01872177"/>
+    <updated>2026-09-28T21:31:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · US-IA-CEDAR RAPIDS-166 ~ 855 35Th St NE ~ BLDG 166 · Python, C++ · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:leidos:/job/6314-RemoteTeleworker-US/Data-Center-Design-Intern_R-00193261</id>
@@ -48,12 +56,12 @@
     <summary>Summer 2027 · Systems &amp; Cloud Infra · United States-Arizona-Chandler · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Research-Internship--Summer-2027----Onsite_01872177</id>
-    <title>RTX: Cyber Research Internship (Summer 2027) - Onsite 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Research-Internship--Summer-2027----Onsite_01872177"/>
+    <id>urn:intern-engine:workday:pae:/job/US-CO-Colorado-Springs/Service-Desk-Administrator-Internship-IRES---SSFB_R0171676</id>
+    <title>Amentum: Service Desk Administrator Internship IRES - SSFB 🇺🇸</title>
+    <link href="https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-CO-Colorado-Springs/Service-Desk-Administrator-Internship-IRES---SSFB_R0171676"/>
     <updated>2026-09-28T21:31:18Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · US-IA-CEDAR RAPIDS-166 ~ 855 35Th St NE ~ BLDG 166 · Python, C++ · sponsorship: citizens-only</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · IT Support / Ops · US-CO-Colorado Springs · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:upbound:/job/Plano-TX/Cybersecurity-Intern_R-100776</id>
@@ -62,14 +70,6 @@
     <updated>2026-09-28T21:31:18Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · Plano, TX · $23/hr · Python, SQL, Pandas, LLMs, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:waymo:8234670</id>
-    <title>Waymo: 2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8234670"/>
-    <updated>2026-09-28T21:31:18Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · SOC / Detection · San Francisco, California · Python, SQL · H-1B track record: ~284 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:xenergy:/job/Rockville-MD/Systems-Engineering-Internship---Summer-2027_R101358-1</id>
