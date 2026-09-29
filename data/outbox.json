@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008077",
-      "workday:marvell:/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1",
-      "workday:valeo:/job/Troy-MI/Systems-Engineering-Co-Op_REQ2026080361"
-    ],
-    "telegram": [
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008077",
-      "workday:marvell:/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1",
-      "workday:valeo:/job/Troy-MI/Systems-Engineering-Co-Op_REQ2026080361"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
