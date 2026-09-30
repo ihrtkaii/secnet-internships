@@ -5,8 +5,64 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-30T12:44:50Z</updated>
+  <updated>2026-09-30T18:25:07Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40648</id>
+    <title>Nokia: Optical System Engineer Co-Op</title>
+    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40648"/>
+    <updated>2026-09-30T18:25:07Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Network / Telecom · United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008053</id>
+    <title>Stantec: Project Coordinator Intern - Infrastructure (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008053"/>
+    <updated>2026-09-30T18:25:07Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Raleigh, NC, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008055</id>
+    <title>Stantec: Project Coordinator Intern - Infrastructure (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008055"/>
+    <updated>2026-09-30T18:25:07Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Burlington, MA, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008052</id>
+    <title>Stantec: Data Science Intern - Infrastructure (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008052"/>
+    <updated>2026-09-30T18:25:07Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Orlando, FL, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:caci:/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895</id>
+    <title>CACI: Software/Network Engineering Intern - Summer 2027</title>
+    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895"/>
+    <updated>2026-09-30T18:25:07Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Network / Telecom · Florham Park, NJ, US · Python, C++, JavaScript, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rfsmart:5425409008</id>
+    <title>RF-SMART: Service Delivery Intern (IT Helpdesk) - Summer 2027 🛂</title>
+    <link href="https://job-boards.greenhouse.io/rfsmart/jobs/5425409008"/>
+    <updated>2026-09-30T18:25:07Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · IT Support / Ops · Jacksonville, Florida, United States · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineering-Co-op---Boeing-Platforms-Displays--Summer-Fall-_01871761</id>
+    <title>RTX: Systems Engineering Co-op - Boeing Platforms Displays (Summer/Fall) 🛂</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineering-Co-op---Boeing-Platforms-Displays--Summer-Fall-_01871761"/>
+    <updated>2026-09-30T18:25:07Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 · sponsorship: no-sponsorship</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:mill:4735328005</id>
     <title>Mill: Systems Engineering Intern, Fall/Winter 2026 🛂</title>
@@ -750,61 +806,5 @@
     <updated>2026-09-21T05:06:39Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · United States-Maryland-Baltimore · $20.5–$37.25/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering---Summer-Intern-2027---Onsite_01873971</id>
-    <title>RTX: Systems Engineering - Summer Intern 2027 - Onsite 🛂</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering---Summer-Intern-2027---Onsite_01873971"/>
-    <updated>2026-09-20T05:06:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 · Python · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:RRSGroup:744000150509779</id>
-    <title>RRS Group: Associate IT Systems Administrator Intern - 2027</title>
-    <link href="https://jobs.smartrecruiters.com/RRSGroup/744000150509779"/>
-    <updated>2026-09-24T17:24:48Z</updated>
-    <category term="Summer 2027"/>
-    <summary>2 openings · Summer 2027 · Systems &amp; Cloud Infra · San Francisco, , United States (Remote) · Python, Bash, Linux · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bbh:/job/New-York/XMLNAME-2027-Internal-Audit---Information-Technology---Cybersecurity-Summer-Internship_72899</id>
-    <title>Brown Brothers Harriman: 2027 Internal Audit - Information Technology &amp; Cybersecurity Summer Internship</title>
-    <link href="https://bbh.wd5.myworkdayjobs.com/BBH/job/New-York/XMLNAME-2027-Internal-Audit---Information-Technology---Cybersecurity-Summer-Internship_72899"/>
-    <updated>2026-09-19T16:09:08Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · New York · $25/hr · SQL, Linux · H-1B track record: ~24 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Medical-Device-Cybersecurity-Co-Op_R-099388</id>
-    <title>Johnson &amp; Johnson: Medical Device Cybersecurity Co-Op 🛂</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Medical-Device-Cybersecurity-Co-Op_R-099388"/>
-    <updated>2026-09-19T04:52:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Danvers, Massachusetts, United States of America · $23.5/hr · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:LLNL:3743990015408206</id>
-    <title>Lawrence Livermore National Laboratory (LLNL): Computing Undergraduate Student Intern: DevOps Internship Program - Summer 2027</title>
-    <link href="https://jobs.smartrecruiters.com/LLNL/3743990015408206"/>
-    <updated>2026-09-18T23:33:30Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Livermore, CA, United States · LLMs, Kubernetes, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:megazone:1d75a5d5-def9-43c0-9bf5-23e5bb65bf3f</id>
-    <title>MegazoneCloud: Cloud Operations Co-op 2027</title>
-    <link href="https://jobs.ashbyhq.com/megazone/1d75a5d5-def9-43c0-9bf5-23e5bb65bf3f"/>
-    <updated>2026-09-18T21:09:01Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Cloud Platform · Rochester, NY · $24 – $26 per hour • Offers Equity · Python, Bash, AWS, GCP, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:robinhood:8214142</id>
-    <title>Robinhood: Offensive Security Intern (Summer 2027)</title>
-    <link href="https://boards.greenhouse.io/robinhood/jobs/8214142?t=gh_src=&amp;gh_jid=8214142"/>
-    <updated>2026-09-18T21:09:01Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · AppSec / Product Sec · Bellevue, WA; Menlo Park, CA · Python, Kubernetes, Linux</summary>
   </entry>
 </feed>

@@ -503,10 +503,11 @@
      "first_posted": "2026-09-01",
      "role_ids": [
       "workday:caci:/job/Denver-CO-US/DevOps-Software-Engineering-Intern---Summer-2027_331798",
+      "workday:caci:/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895",
       "workday:caci:/job/Sarasota-FL-US/AWS-Cloud-Engineering-Intern---Summer-2027_331437",
       "workday:caci:/job/Sterling-VA-US/DevOps-Software-Engineering-Intern---Summer-2027_331466"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -1492,6 +1493,18 @@
     }
    }
   },
+  "rf smart": {
+   "name": "RF-SMART",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-29",
+     "role_ids": [
+      "greenhouse:rfsmart:5425409008"
+     ],
+     "count": 1
+    }
+   }
+  },
   "robinhood": {
    "name": "Robinhood",
    "cycles": {
@@ -1706,9 +1719,12 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1007905",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007919",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007956",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008052",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008053",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008055",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008077"
      ],
-     "count": 12
+     "count": 15
     },
     "Fall 2026": {
      "first_posted": "2026-09-02",
@@ -1977,5 +1993,5 @@
    }
   }
  },
- "updated_at": "2026-09-30T12:44:50Z"
+ "updated_at": "2026-09-30T18:25:07Z"
 }

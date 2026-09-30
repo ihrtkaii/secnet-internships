@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-30T12:44:50Z",
- "data_as_of": "2026-09-30T12:44:50Z",
- "rendered_at": "2026-09-30T12:44:50Z",
+ "generated_at": "2026-09-30T18:25:07Z",
+ "data_as_of": "2026-09-30T18:25:07Z",
+ "rendered_at": "2026-09-30T18:25:07Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -2381,6 +2381,25 @@
    }
   },
   {
+   "company": "RF-SMART",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-29",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5425409008",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-29"
+   }
+  },
+  {
    "company": "APEX Analytix",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -2551,5 +2570,5 @@
    }
   }
  ],
- "count": 134
+ "count": 135
 }
