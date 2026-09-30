@@ -1,22 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:kla:/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532-1",
-      "workday:motorolasolutions:/job/Linthicum-MD/Presales-Systems-Engineer---2027-Internship_R68801",
-      "workday:snc:/job/Plano-TX/Systems-Engineer-I--For-2026-Interns-Only-_R0030603",
-      "workday:snc:/job/Plano-TX/Systems-Engineer-I--For-2026-Interns-Only-_R0030611",
-      "workday:snc:/job/Dayton-OH/Systems-Engineer-I--For-2026-Interns-Only-_R0030589",
-      "workday:snc:/job/Lone-Tree-CO/Systems-Security-Engineer-I--For-2026-Interns-Only-_R0030608",
-      "workday:uva:/job/Charlottesville-VA/Network-Engineering-Intern--Student-Wage-_R0087677"
-    ],
-    "telegram": [
-      "workday:kla:/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532-1",
-      "workday:motorolasolutions:/job/Linthicum-MD/Presales-Systems-Engineer---2027-Internship_R68801",
-      "workday:snc:/job/Plano-TX/Systems-Engineer-I--For-2026-Interns-Only-_R0030603",
-      "workday:snc:/job/Plano-TX/Systems-Engineer-I--For-2026-Interns-Only-_R0030611",
-      "workday:snc:/job/Dayton-OH/Systems-Engineer-I--For-2026-Interns-Only-_R0030589",
-      "workday:snc:/job/Lone-Tree-CO/Systems-Security-Engineer-I--For-2026-Interns-Only-_R0030608",
-      "workday:uva:/job/Charlottesville-VA/Network-Engineering-Intern--Student-Wage-_R0087677"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
