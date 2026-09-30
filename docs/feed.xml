@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-29T22:29:11Z</updated>
+  <updated>2026-09-30T05:42:03Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:mill:4735328005</id>
+    <title>Mill: Systems Engineering Intern, Fall/Winter 2026 🛂</title>
+    <link href="https://job-boards.greenhouse.io/mill/jobs/4735328005"/>
+    <updated>2026-09-30T05:42:03Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Systems &amp; Cloud Infra · San Bruno, California · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Systems-Engineer-Intern---Rolling-Meadows-IL_R10252497</id>
+    <title>Northrop Grumman: 2027 Systems Engineer Intern – Rolling Meadows IL 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Systems-Engineer-Intern---Rolling-Meadows-IL_R10252497"/>
+    <updated>2026-09-30T05:42:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · United States-Illinois-Rolling Meadows · $20.5–$37.25/hr · Python, Java, MATLAB, CUDA, Git · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:nike:/job/Beaverton-Oregon/NIKE--Inc-Innovation-Underfoot-Systems-Engineer-Graduate-Internship_R-94431</id>
     <title>Nike: NIKE, Inc. Innovation Underfoot Systems Engineer Graduate Internship</title>
@@ -387,9 +403,9 @@
     <id>urn:intern-engine:greenhouse:graphcore:8841978002</id>
     <title>Graphcore: Systems Engineering Intern</title>
     <link href="https://job-boards.greenhouse.io/graphcore/jobs/8841978002"/>
-    <updated>2026-09-24T00:14:03Z</updated>
+    <updated>2026-09-30T05:42:03Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Austin, Texas, United States · Python, Bash, Linux</summary>
+    <summary>Not stated · Systems &amp; Cloud Infra · Austin, Texas, United States · Python, Bash, Linux · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:muonspace:5247733007</id>
@@ -790,21 +806,5 @@
     <updated>2026-09-18T21:09:01Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · AppSec / Product Sec · Bellevue, WA; Menlo Park, CA · Python, Kubernetes, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:acronaviation:eaebe6c7-a38f-404f-ba93-210861faf184</id>
-    <title>Acron Aviation: Systems Engineer Intern - St. Pete Site</title>
-    <link href="https://jobs.lever.co/acronaviation/eaebe6c7-a38f-404f-ba93-210861faf184"/>
-    <updated>2026-09-18T21:09:01Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · St Petersburg, FL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:centene:/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514</id>
-    <title>Centene: Cybersecurity Summer 2027 Intern (Undergraduate)</title>
-    <link href="https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514"/>
-    <updated>2026-09-18T21:09:01Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Remote-MO · $21–$26/hr</summary>
   </entry>
 </feed>
