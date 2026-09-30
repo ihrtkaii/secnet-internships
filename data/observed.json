@@ -1295,9 +1295,10 @@
      "role_ids": [
       "workday:motorolasolutions:/job/Chicago-IL/Business-Systems-Analyst-Internship-Summer-2027_R68572",
       "workday:motorolasolutions:/job/Chicago-IL/Cyber-Security---2027-Summer-Internship--Chicago-Hybrid-_R68369",
+      "workday:motorolasolutions:/job/Linthicum-MD/Presales-Systems-Engineer---2027-Internship_R68801",
       "workday:motorolasolutions:/job/Linthicum-MD/Presales-Systems-Engineer---2027-Internship_R69140"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -1684,9 +1685,13 @@
     "Fall 2026": {
      "first_posted": "2026-09-23",
      "role_ids": [
-      "workday:snc:/job/Hagerstown-MD/Systems-Engineer-I--For-2026-Interns-Only-_R0030585"
+      "workday:snc:/job/Dayton-OH/Systems-Engineer-I--For-2026-Interns-Only-_R0030589",
+      "workday:snc:/job/Hagerstown-MD/Systems-Engineer-I--For-2026-Interns-Only-_R0030585",
+      "workday:snc:/job/Lone-Tree-CO/Systems-Security-Engineer-I--For-2026-Interns-Only-_R0030608",
+      "workday:snc:/job/Plano-TX/Systems-Engineer-I--For-2026-Interns-Only-_R0030603",
+      "workday:snc:/job/Plano-TX/Systems-Engineer-I--For-2026-Interns-Only-_R0030611"
      ],
-     "count": 1
+     "count": 5
     }
    }
   },
@@ -1821,6 +1826,18 @@
       "workday:hcmportal:/job/US---UPS-TECHNOLOGY-HEADQUARTERS--DATACENTER-NJRAR/UPS-Information-Security-Summer-2027-Internship---NJ_R26029761"
      ],
      "count": 2
+    }
+   }
+  },
+  "university of virginia": {
+   "name": "University of Virginia",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-30",
+     "role_ids": [
+      "workday:uva:/job/Charlottesville-VA/Network-Engineering-Intern--Student-Wage-_R0087677"
+     ],
+     "count": 1
     }
    }
   },
@@ -1993,5 +2010,5 @@
    }
   }
  },
- "updated_at": "2026-09-30T18:25:07Z"
+ "updated_at": "2026-09-30T22:33:49Z"
 }
