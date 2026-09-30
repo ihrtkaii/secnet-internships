@@ -1,24 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40648",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008053",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008055",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008052",
-      "workday:caci:/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895",
-      "greenhouse:rfsmart:5425409008",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineering-Co-op---Boeing-Platforms-Displays--Summer-Fall-_01871761",
-      "smartrecruiters:WellmarkInc:744000152694203"
-    ],
-    "telegram": [
-      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40648",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008053",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008055",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008052",
-      "workday:caci:/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895",
-      "greenhouse:rfsmart:5425409008",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineering-Co-op---Boeing-Platforms-Displays--Summer-Fall-_01871761",
-      "smartrecruiters:WellmarkInc:744000152694203"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
