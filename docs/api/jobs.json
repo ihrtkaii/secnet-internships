@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-30T05:42:03Z",
- "data_as_of": "2026-09-30T05:42:03Z",
- "rendered_at": "2026-09-30T05:42:03Z",
+ "generated_at": "2026-09-30T12:44:50Z",
+ "data_as_of": "2026-09-30T12:44:50Z",
+ "rendered_at": "2026-09-30T12:44:50Z",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "h1b_window": "FY2022–2023",
- "count": 497,
+ "count": 496,
  "jobs": [
   {
    "id": "workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Systems-Engineer-Intern---Rolling-Meadows-IL_R10252497",
@@ -8529,31 +8529,6 @@
    "skills": [],
    "source": "workday",
    "h1b_approvals": 14,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:tiaa:/job/New-York-NY-USA/Churchill-Summer-Internship--Investment-Infrastructure---Technology--IIT-_R260800515-1",
-   "company": "TIAA",
-   "title": "Churchill Summer Internship: Investment Infrastructure & Technology (IIT)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Systems & Cloud Infra",
-   "location": "New York, NY, USA",
-   "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/New-York-NY-USA/Churchill-Summer-Internship--Investment-Infrastructure---Technology--IIT-_R260800515-1",
-   "posted_at": "2026-08-28T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-28T22:52:11Z",
-   "sponsorship": "unknown",
-   "salary": "$30/hr",
-   "skills": [
-    "Python",
-    "SQL",
-    "Git"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
    "program": "Internship",
    "remote": false
   },
