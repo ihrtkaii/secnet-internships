@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-30T22:33:49Z",
- "data_as_of": "2026-09-30T22:33:49Z",
- "rendered_at": "2026-09-30T22:33:49Z",
+ "generated_at": "2026-10-01T06:01:50Z",
+ "data_as_of": "2026-10-01T06:01:50Z",
+ "rendered_at": "2026-10-01T06:01:50Z",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "h1b_window": "FY2022–2023",
- "count": 507,
+ "count": 506,
  "jobs": [
   {
    "id": "workday:kla:/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532-1",
@@ -43,52 +43,6 @@
    "sponsorship": "no-sponsorship",
    "salary": null,
    "skills": [],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:snc:/job/Plano-TX/Systems-Engineer-I--For-2026-Interns-Only-_R0030603",
-   "company": "Sierra Nevada Corporation",
-   "title": "Systems Engineer I (For 2026 Interns Only)",
-   "season": "Fall 2026",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Systems & Cloud Infra",
-   "location": "Plano, TX",
-   "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Systems-Engineer-I--For-2026-Interns-Only-_R0030603",
-   "posted_at": "2026-09-30T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-30T22:33:49Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [
-    "MATLAB"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:snc:/job/Plano-TX/Systems-Engineer-I--For-2026-Interns-Only-_R0030611",
-   "company": "Sierra Nevada Corporation",
-   "title": "Systems Engineer I (For 2026 Interns Only)",
-   "season": "Fall 2026",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Systems & Cloud Infra",
-   "location": "Plano, TX",
-   "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Systems-Engineer-I--For-2026-Interns-Only-_R0030611",
-   "posted_at": "2026-09-30T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-30T22:33:49Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [
-    "MATLAB"
-   ],
    "source": "workday",
    "h1b_approvals": null,
    "program": "Internship",
@@ -141,15 +95,57 @@
    "remote": false
   },
   {
+   "id": "workday:snc:/job/Plano-TX/Systems-Engineer-I--For-2026-Interns-Only-_R0030603",
+   "company": "Sierra Nevada Corporation",
+   "title": "Systems Engineer I (For 2026 Interns Only)",
+   "season": "Fall 2026",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Systems & Cloud Infra",
+   "location": "Plano, TX",
+   "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Systems-Engineer-I--For-2026-Interns-Only-_R0030603",
+   "posted_at": "2026-09-30T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-30T22:33:49Z",
+   "sponsorship": "citizens-only",
+   "salary": null,
+   "skills": [
+    "MATLAB"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workday:snc:/job/Plano-TX/Systems-Engineer-I--For-2026-Interns-Only-_R0030611",
+   "company": "Sierra Nevada Corporation",
+   "title": "Systems Engineer I (For 2026 Interns Only)",
+   "season": "Fall 2026",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Systems & Cloud Infra",
+   "location": "Plano, TX",
+   "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Systems-Engineer-I--For-2026-Interns-Only-_R0030611",
+   "posted_at": "2026-09-30T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-30T22:33:49Z",
+   "sponsorship": "citizens-only",
+   "salary": null,
+   "skills": [
+    "MATLAB"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
    "id": "workday:uva:/job/Charlottesville-VA/Network-Engineering-Intern--Student-Wage-_R0087677",
    "company": "University of Virginia",
    "title": "Network Engineering Intern (Student Wage)",
    "season": "Fall 2026",
-   "seasons": [
-    "Fall 2026",
-    "Spring 2026",
-    "Summer 2026"
-   ],
+   "seasons": null,
    "season_inferred": false,
    "category": "Network / Telecom",
    "location": "Charlottesville, VA",
@@ -11640,31 +11636,6 @@
    ],
    "source": "lever",
    "h1b_approvals": 88,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:transmarketgroup:5151577007",
-   "company": "TransMarket Group",
-   "title": "DevOps/SRE Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Systems & Cloud Infra",
-   "location": "Chicago, Illinois, United States",
-   "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007",
-   "posted_at": "2026-06-02T11:14:23-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-08-16T15:47:21Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Docker",
-    "Git"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": null,
    "program": "Internship",
    "remote": false
   },

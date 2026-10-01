@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-09-30T22:33:49Z</updated>
+  <updated>2026-10-01T06:01:50Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
     <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532-1</id>
@@ -14,14 +14,6 @@
     <updated>2026-09-30T22:33:49Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Systems &amp; Cloud Infra · Milpitas, CA · $26–$50/hr · H-1B track record: ~369 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:snc:/job/Plano-TX/Systems-Engineer-I--For-2026-Interns-Only-_R0030603</id>
-    <title>Sierra Nevada Corporation: Systems Engineer I (For 2026 Interns Only) 🇺🇸</title>
-    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Systems-Engineer-I--For-2026-Interns-Only-_R0030603"/>
-    <updated>2026-09-30T22:33:49Z</updated>
-    <category term="Fall 2026"/>
-    <summary>2 openings · Fall 2026 · Systems &amp; Cloud Infra · Plano, TX · MATLAB · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:snc:/job/Dayton-OH/Systems-Engineer-I--For-2026-Interns-Only-_R0030589</id>
@@ -38,6 +30,14 @@
     <updated>2026-09-30T22:33:49Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Security (general) · Lone Tree, CO · Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:snc:/job/Plano-TX/Systems-Engineer-I--For-2026-Interns-Only-_R0030603</id>
+    <title>Sierra Nevada Corporation: Systems Engineer I (For 2026 Interns Only) 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Systems-Engineer-I--For-2026-Interns-Only-_R0030603"/>
+    <updated>2026-09-30T22:33:49Z</updated>
+    <category term="Fall 2026"/>
+    <summary>2 openings · Fall 2026 · Systems &amp; Cloud Infra · Plano, TX · MATLAB · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:uva:/job/Charlottesville-VA/Network-Engineering-Intern--Student-Wage-_R0087677</id>
