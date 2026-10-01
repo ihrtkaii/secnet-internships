@@ -1883,6 +1883,18 @@
     }
    }
   },
+  "varda space": {
+   "name": "Varda Space",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-01",
+     "role_ids": [
+      "greenhouse:vardaspace:8005821003"
+     ],
+     "count": 1
+    }
+   }
+  },
   "verizon communications": {
    "name": "Verizon Communications",
    "cycles": {
@@ -2010,5 +2022,5 @@
    }
   }
  },
- "updated_at": "2026-10-01T06:01:50Z"
+ "updated_at": "2026-10-01T13:20:11Z"
 }
