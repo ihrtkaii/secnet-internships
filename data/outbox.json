@@ -1,6 +1,26 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008089",
+      "workday:abb:/job/USA-OH-Cleveland/Systems-Engineering-Intern---Summer-2027_JR00048328",
+      "workday:globalfoundries:/job/USA---Texas---Austin/End-Markets-Intern--Communications-Infrastructure-and-Datacenter--Summer-2027-_JR-2604224",
+      "workday:moog:/job/Buffalo-NY/Intern--Systems-Engineering_R-26-20392",
+      "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering---Nuclear-Survivability-Ionizing-Radiation_R10251198",
+      "workday:rb:/job/Chicago-IL/Summer-2027-Intern-Cloud-Engineering_R-0000033614",
+      "workday:rb:/job/Cleveland-OH/TS---Application-Security-Intern---2027_R-0000033625",
+      "workday:rb:/job/Chicago-IL/Summer-2027-Intern-Networking-and-Computer-Engineering_R-0000033610",
+      "workday:rb:/job/Chicago-IL/Summer-2027-Intern-Cybersecurity-and-Information-Security_R-0000033612-1"
+    ],
+    "telegram": [
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008089",
+      "workday:abb:/job/USA-OH-Cleveland/Systems-Engineering-Intern---Summer-2027_JR00048328",
+      "workday:globalfoundries:/job/USA---Texas---Austin/End-Markets-Intern--Communications-Infrastructure-and-Datacenter--Summer-2027-_JR-2604224",
+      "workday:moog:/job/Buffalo-NY/Intern--Systems-Engineering_R-26-20392",
+      "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering---Nuclear-Survivability-Ionizing-Radiation_R10251198",
+      "workday:rb:/job/Chicago-IL/Summer-2027-Intern-Cloud-Engineering_R-0000033614",
+      "workday:rb:/job/Cleveland-OH/TS---Application-Security-Intern---2027_R-0000033625",
+      "workday:rb:/job/Chicago-IL/Summer-2027-Intern-Networking-and-Computer-Engineering_R-0000033610",
+      "workday:rb:/job/Chicago-IL/Summer-2027-Intern-Cybersecurity-and-Information-Security_R-0000033612-1"
+    ]
   }
 }

@@ -5,15 +5,71 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-10-01T13:20:11Z</updated>
+  <updated>2026-10-01T20:37:57Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:avav:/job/Simi-Valley-CA/XMLNAME--Digital-Business-Technology-Infrastructure--DBT--Intern_8885</id>
-    <title>Avav: Digital Business Technology Infrastructure (DBT) Intern 🇺🇸</title>
-    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/XMLNAME--Digital-Business-Technology-Infrastructure--DBT--Intern_8885"/>
-    <updated>2026-10-01T13:20:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Simi Valley, CA · dbt, AWS · sponsorship: citizens-only</summary>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008089</id>
+    <title>Stantec: Transportation Engineering Intern - Infrastructure (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008089"/>
+    <updated>2026-10-01T20:37:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Atlanta, GA, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalfoundries:/job/USA---Texas---Austin/End-Markets-Intern--Communications-Infrastructure-and-Datacenter--Summer-2027-_JR-2604224</id>
+    <title>GlobalFoundries: End Markets Intern, Communications Infrastructure and Datacenter (Summer 2027)</title>
+    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/End-Markets-Intern--Communications-Infrastructure-and-Datacenter--Summer-2027-_JR-2604224"/>
+    <updated>2026-10-01T20:37:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · USA - Texas - Austin</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:moog:/job/Buffalo-NY/Intern--Systems-Engineering_R-26-20392</id>
+    <title>Moog: Intern, Systems Engineering</title>
+    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Systems-Engineering_R-26-20392"/>
+    <updated>2026-10-01T20:37:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Buffalo, NY</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering---Nuclear-Survivability-Ionizing-Radiation_R10251198</id>
+    <title>Northrop Grumman: 2027 Intern - Systems Engineering - Nuclear Survivability/Ionizing Radiation 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering---Nuclear-Survivability-Ionizing-Radiation_R10251198"/>
+    <updated>2026-10-01T20:37:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · United States-Florida-Melbourne · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:rb:/job/Chicago-IL/Summer-2027-Intern-Cloud-Engineering_R-0000033614</id>
+    <title>The Federal Reserve System: Summer 2027 Intern-Cloud Engineering 🛂</title>
+    <link href="https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern-Cloud-Engineering_R-0000033614"/>
+    <updated>2026-10-01T20:37:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Cloud Platform · Chicago, IL · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:rb:/job/Cleveland-OH/TS---Application-Security-Intern---2027_R-0000033625</id>
+    <title>The Federal Reserve System: TS - Application Security Intern - 2027 🇺🇸</title>
+    <link href="https://rb.wd5.myworkdayjobs.com/FRS/job/Cleveland-OH/TS---Application-Security-Intern---2027_R-0000033625"/>
+    <updated>2026-10-01T20:37:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · AppSec / Product Sec · Cleveland, OH · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:rb:/job/Chicago-IL/Summer-2027-Intern-Networking-and-Computer-Engineering_R-0000033610</id>
+    <title>The Federal Reserve System: Summer 2027 Intern-Networking and Computer Engineering 🛂</title>
+    <link href="https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern-Networking-and-Computer-Engineering_R-0000033610"/>
+    <updated>2026-10-01T20:37:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Network / Telecom · Chicago, IL · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:rb:/job/Chicago-IL/Summer-2027-Intern-Cybersecurity-and-Information-Security_R-0000033612-1</id>
+    <title>The Federal Reserve System: Summer 2027 Intern-Cybersecurity and Information Security 🛂</title>
+    <link href="https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern-Cybersecurity-and-Information-Security_R-0000033612-1"/>
+    <updated>2026-10-01T20:37:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Chicago, IL · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:vardaspace:8005821003</id>
@@ -22,6 +78,14 @@
     <updated>2026-10-01T13:20:11Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · El Segundo, California, United States · Python, Bash · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:avav:/job/Simi-Valley-CA/XMLNAME--Digital-Business-Technology-Infrastructure--DBT--Intern_8885</id>
+    <title>Avav: Digital Business Technology Infrastructure (DBT) Intern 🇺🇸</title>
+    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/XMLNAME--Digital-Business-Technology-Infrastructure--DBT--Intern_8885"/>
+    <updated>2026-10-01T13:20:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Simi Valley, CA · dbt, AWS · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532-1</id>
@@ -397,7 +461,7 @@
     <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-OH-Cleveland/Systems-Engineering-Intern---Summer-2027_JR00047388"/>
     <updated>2026-09-25T17:26:10Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · USA, OH, Cleveland · $20–$34/hr · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+    <summary>2 openings · Summer 2027 · Systems &amp; Cloud Infra · USA, OH, Cleveland · $20–$34/hr · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:moog:/job/Torrance-CA/Intern--Systems-Engineering_R-26-19820-1</id>
@@ -742,69 +806,5 @@
     <updated>2026-09-22T17:11:03Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Portland, ME, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Secure-System-Engineering-Intern--Summer-2027-_01876180</id>
-    <title>RTX: Secure System Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Secure-System-Engineering-Intern--Summer-2027-_01876180"/>
-    <updated>2026-09-22T17:11:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-106 ~ 400 Collins Rd NE ~ BLDG 106 · Python, Linux, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196</id>
-    <title>Northrop Grumman: 2027 Cyber Systems Engineer Intern-Tampa FL 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196"/>
-    <updated>2026-09-22T17:11:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · United States-Florida-Tampa · $18.5–$33.5/hr · Python, LLMs · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship--Rutgers--NJIT--NYU--UT-Dallas--UT-Arlington--Texas-A-M_R-1101169</id>
-    <title>Verizon Communications: Verizon Network and Technology: AI Science 2027 Internship: Rutgers, NJIT, NYU, UT Dallas, UT Arlington, Texas A&amp;M</title>
-    <link href="https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship--Rutgers--NJIT--NYU--UT-Dallas--UT-Arlington--Texas-A-M_R-1101169"/>
-    <updated>2026-09-22T17:11:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Network / Telecom · Basking Ridge, New Jersey · $27/hr · Python, Java</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship_R-1101167</id>
-    <title>Verizon Communications: Verizon Network and Technology: AI Science 2027 Internship</title>
-    <link href="https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship_R-1101167"/>
-    <updated>2026-09-22T17:11:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Network / Telecom · Basking Ridge, New Jersey · $27/hr · Python, Java</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wellington:/job/Boston-MA-United-States/Information-Security-Co-op_R94910</id>
-    <title>Wellington Management: Information Security Co-op</title>
-    <link href="https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Information-Security-Co-op_R94910"/>
-    <updated>2026-09-22T17:11:03Z</updated>
-    <category term="Winter 2026"/>
-    <summary>Winter 2026 · Security (general) · Boston, MA, United States · $19–$35/hr · status: closed · H-1B track record: ~112 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:nvidia:/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098</id>
-    <title>NVIDIA: PhD Research Intern, Networking - 2027</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098"/>
-    <updated>2026-09-22T00:16:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Network / Telecom · US, CA, Santa Clara · Python, C++, CUDA · H-1B track record: ~1.5k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:assuredguaranty:8817718002</id>
-    <title>Assured Guaranty: IT Helpdesk Intern - Summer 2027</title>
-    <link href="https://boards.greenhouse.io/assuredguaranty/jobs/8817718002?gh_jid=8817718002"/>
-    <updated>2026-09-21T20:14:04Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · IT Support / Ops · New York, NY, United States · $30/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:protective:32a8a257-c5d4-4b77-bf0b-d08dbb93b752</id>
-    <title>Protective Life: 2027 Summer IT Internship Program</title>
-    <link href="https://jobs.lever.co/protective/32a8a257-c5d4-4b77-bf0b-d08dbb93b752"/>
-    <updated>2026-09-21T20:14:04Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Other · Birmingham, AL · 22 USD/hr</summary>
   </entry>
 </feed>

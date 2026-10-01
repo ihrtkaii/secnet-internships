@@ -19,9 +19,10 @@
      "first_posted": "2026-09-24",
      "role_ids": [
       "workday:abb:/job/USA-NC-Cary/IS-Common-Infrastructure-Intern--Summer-2027_JR00047125",
-      "workday:abb:/job/USA-OH-Cleveland/Systems-Engineering-Intern---Summer-2027_JR00047388"
+      "workday:abb:/job/USA-OH-Cleveland/Systems-Engineering-Intern---Summer-2027_JR00047388",
+      "workday:abb:/job/USA-OH-Cleveland/Systems-Engineering-Intern---Summer-2027_JR00048328"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -742,6 +743,21 @@
     }
    }
   },
+  "federal reserve system": {
+   "name": "The Federal Reserve System",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-01",
+     "role_ids": [
+      "workday:rb:/job/Chicago-IL/Summer-2027-Intern-Cloud-Engineering_R-0000033614",
+      "workday:rb:/job/Chicago-IL/Summer-2027-Intern-Cybersecurity-and-Information-Security_R-0000033612-1",
+      "workday:rb:/job/Chicago-IL/Summer-2027-Intern-Networking-and-Computer-Engineering_R-0000033610",
+      "workday:rb:/job/Cleveland-OH/TS---Application-Security-Intern---2027_R-0000033625"
+     ],
+     "count": 4
+    }
+   }
+  },
   "fifth third bank": {
    "name": "Fifth Third Bank",
    "cycles": {
@@ -827,9 +843,10 @@
      "first_posted": "2026-08-25",
      "role_ids": [
       "workday:globalfoundries:/job/USA---New-York---Malta/Cybersecurity-Intern--Summer-2027-_JR-2604459",
+      "workday:globalfoundries:/job/USA---Texas---Austin/End-Markets-Intern--Communications-Infrastructure-and-Datacenter--Summer-2027-_JR-2604224",
       "workday:globalfoundries:/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604044"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1280,6 +1297,18 @@
     }
    }
   },
+  "moog": {
+   "name": "Moog",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-01",
+     "role_ids": [
+      "workday:moog:/job/Buffalo-NY/Intern--Systems-Engineering_R-26-20392"
+     ],
+     "count": 1
+    }
+   }
+  },
   "motorola": {
    "name": "Motorola",
    "cycles": {
@@ -1354,6 +1383,7 @@
       "workday:ngc:/job/United-States-California-Woodland-Hills/XMLNAME-2027-Systems-Engineer-Intern---Woodland-Hills-CA_R10249319-1",
       "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Cybersecurity-Analyst-Intern----Boulder-CO_R10248677",
       "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027--Systems-Engineer-Intern---Colorado-Springs-CO_R10249777",
+      "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering---Nuclear-Survivability-Ionizing-Radiation_R10251198",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering_R10247434",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Security-Cybersecurity-Engineer_R10252418",
       "workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530",
@@ -1366,7 +1396,7 @@
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Engineering-Intern--Roy-UT_R10248475",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Security-Engineering-Intern---Roy-UT_R10249815"
      ],
-     "count": 19
+     "count": 20
     },
     "Fall 2026": {
      "first_posted": "2026-08-31",
@@ -1727,9 +1757,10 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1008052",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008053",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008055",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008077"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008077",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008089"
      ],
-     "count": 15
+     "count": 16
     },
     "Fall 2026": {
      "first_posted": "2026-09-02",
@@ -2022,5 +2053,5 @@
    }
   }
  },
- "updated_at": "2026-10-01T13:20:11Z"
+ "updated_at": "2026-10-01T20:37:57Z"
 }
