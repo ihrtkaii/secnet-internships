@@ -515,12 +515,16 @@
     "Summer 2027": {
      "first_posted": "2026-09-01",
      "role_ids": [
+      "workday:caci:/job/Ashburn-VA-US/Systems-Engineer-Intern---Summer-2027_333048",
       "workday:caci:/job/Denver-CO-US/DevOps-Software-Engineering-Intern---Summer-2027_331798",
       "workday:caci:/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895",
+      "workday:caci:/job/High-Point-NC-US/Network---Cybersecurity-Intern---Summer-2027_333001",
+      "workday:caci:/job/High-Point-NC-US/Network---Cybersecurity-Intern---Summer-2027_333034-1",
       "workday:caci:/job/Sarasota-FL-US/AWS-Cloud-Engineering-Intern---Summer-2027_331437",
+      "workday:caci:/job/Springfield-VA-US/Cyber-Security-Intern---Summer-2027_333046",
       "workday:caci:/job/Sterling-VA-US/DevOps-Software-Engineering-Intern---Summer-2027_331466"
      ],
-     "count": 4
+     "count": 8
     }
    }
   },
@@ -1675,9 +1679,10 @@
     "Fall 2026": {
      "first_posted": "2026-09-16",
      "role_ids": [
-      "oracle:ejia.fa.us6.oraclecloud.com:107256"
+      "oracle:ejia.fa.us6.oraclecloud.com:107256",
+      "oracle:ejia.fa.us6.oraclecloud.com:107322"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1923,6 +1928,8 @@
       "workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Analyst---NC-_181764",
       "workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Engineer---NC-_177688-1",
       "workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship---Technology-Operations--NC-_177674-1",
+      "workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship-Application-Development--NC-_182781",
+      "workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship-Risk---Security-Engineer--NC-_182785",
       "workday:vanguard:/job/DallasFt-Worth-TX/College-to-Corporate-IT-Internship---Application-Development---TX-_181846",
       "workday:vanguard:/job/DallasFt-Worth-TX/College-to-Corporate-IT-Internship---Risk---Security---Engineer_181851",
       "workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Analysis--PA-_177679-1",
@@ -1932,9 +1939,12 @@
       "workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Analyst---PA-_177690-1",
       "workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Analyst---PA-_181762",
       "workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Technology-Operations--PA-_177670-1",
-      "workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Technology-Operations--PA-_181788"
+      "workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship---Technology-Operations--PA-_181788",
+      "workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757",
+      "workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship-Investment-Systems--PA-_182782",
+      "workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship-Risk---Security-Engineer--PA-_182784"
      ],
-     "count": 19
+     "count": 24
     }
    }
   },
@@ -2077,5 +2087,5 @@
    }
   }
  },
- "updated_at": "2026-10-02T09:59:44Z"
+ "updated_at": "2026-10-02T18:08:07Z"
 }

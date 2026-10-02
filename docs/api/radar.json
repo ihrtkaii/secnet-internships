@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-02T09:59:44Z",
- "data_as_of": "2026-10-02T09:59:44Z",
- "rendered_at": "2026-10-02T09:59:45Z",
+ "generated_at": "2026-10-02T18:08:07Z",
+ "data_as_of": "2026-10-02T18:08:07Z",
+ "rendered_at": "2026-10-02T18:08:07Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -701,25 +701,6 @@
    "days_until": -36,
    "status": "open",
    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Cyber-Security-Intern---Annapolis-Junction--MD_R0248414",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-27"
-   }
-  },
-  {
-   "company": "Workiva",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-27",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-27",
-   "days_until": -36,
-   "status": "open",
-   "url": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Spring---Summer-2027-Intern---Security---GRC_R12353",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2491,6 +2472,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-08-26"
+   }
+  },
+  {
+   "company": "Workiva",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-27",
+   "days_until": -36,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-27"
    }
   },
   {

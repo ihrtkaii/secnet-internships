@@ -5,8 +5,72 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-10-02T09:59:44Z</updated>
+  <updated>2026-10-02T18:08:07Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107322</id>
+    <title>S&amp;C Electric Company: Jr Systems Administrator Co-Op</title>
+    <link href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107322"/>
+    <updated>2026-10-02T18:08:07Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Systems &amp; Cloud Infra · Chicago, IL, United States · $22–$30/hr · Azure · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aba:/job/US-DC-Main-Office/Intern--Cybersecurity-Policy-Analyst_R611</id>
+    <title>American Bankers Association: Intern, Cybersecurity Policy Analyst</title>
+    <link href="https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Cybersecurity-Policy-Analyst_R611"/>
+    <updated>2026-10-02T18:08:07Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · GRC / Risk · US DC Main Office · $30/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:caci:/job/Ashburn-VA-US/Systems-Engineer-Intern---Summer-2027_333048</id>
+    <title>CACI: Systems Engineer Intern - Summer 2027</title>
+    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Systems-Engineer-Intern---Summer-2027_333048"/>
+    <updated>2026-10-02T18:08:07Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Ashburn, VA, US</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:caci:/job/Springfield-VA-US/Cyber-Security-Intern---Summer-2027_333046</id>
+    <title>CACI: Cyber Security Intern - Summer 2027 🇺🇸</title>
+    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Springfield-VA-US/Cyber-Security-Intern---Summer-2027_333046"/>
+    <updated>2026-10-02T18:08:07Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Springfield, VA, US · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:caci:/job/High-Point-NC-US/Network---Cybersecurity-Intern---Summer-2027_333001</id>
+    <title>CACI: Network / Cybersecurity Intern - Summer 2027</title>
+    <link href="https://caci.wd1.myworkdayjobs.com/external/job/High-Point-NC-US/Network---Cybersecurity-Intern---Summer-2027_333001"/>
+    <updated>2026-10-02T18:08:07Z</updated>
+    <category term="Summer 2027"/>
+    <summary>2 openings · Summer 2027 · Security (general) · High Point, NC, US</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hcsc:/job/TX---Richardson/Early-Careers---Vulnerability-Management-Intern_R0059514</id>
+    <title>HCSC: Early Careers - Vulnerability Management Intern 🛂</title>
+    <link href="https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TX---Richardson/Early-Careers---Vulnerability-Management-Intern_R0059514"/>
+    <updated>2026-10-02T18:08:07Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · TX - Richardson · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757</id>
+    <title>Vanguard: College to Corporate IT Internship-Application Development (PA) 🛂</title>
+    <link href="https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757"/>
+    <updated>2026-10-02T18:08:07Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Other · Malvern, PA · Python, Java, JavaScript · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship-Risk---Security-Engineer--PA-_182784</id>
+    <title>Vanguard: College to Corporate IT Internship-Risk &amp; Security Engineer (PA)</title>
+    <link href="https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Risk---Security-Engineer--PA-_182784"/>
+    <updated>2026-10-02T18:08:07Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Malvern, PA</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:memx:5441811008</id>
     <title>MEMX: Enterprise IT Intern, Summer 2027 (Hybrid)</title>
@@ -742,69 +806,5 @@
     <updated>2026-09-23T00:05:02Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Chicago, IL · Python, SQL, scikit-learn, Pandas, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Security-Cybersecurity-Engineer_R10252418</id>
-    <title>Northrop Grumman: 2027 Intern - Systems Security/Cybersecurity Engineer 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Security-Cybersecurity-Engineer_R10252418"/>
-    <updated>2026-09-23T00:05:02Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · United States-Florida-Melbourne · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:chartermfg:/job/Charter-Manufacturing-Company-Inc---Mequon-WI/IT-Support-Technician-Intern--Year-Round-_R07626</id>
-    <title>Charter Manufacturing: IT Support Technician Intern (Year-Round)</title>
-    <link href="https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/IT-Support-Technician-Intern--Year-Round-_R07626"/>
-    <updated>2026-09-22T21:33:29Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · IT Support / Ops · Charter Manufacturing Company, Inc - Mequon, WI · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gfs:/job/Wyoming-Michigan/Identity-Analyst-IT-Internship_R-57499-1</id>
-    <title>Gordon Food Service: Identity Analyst IT Internship</title>
-    <link href="https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Identity-Analyst-IT-Internship_R-57499-1"/>
-    <updated>2026-09-22T21:33:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Cloud &amp; Infra Sec · Wyoming, Michigan · H-1B track record: ~21 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530</id>
-    <title>Northrop Grumman: 2027 Cyber Software Engineer Intern - Tampa FL 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530"/>
-    <updated>2026-09-22T21:33:29Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · United States-Florida-Tampa · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tencent:/job/US-California-Palo-Alto/IT-Operations-Intern_R108176-2</id>
-    <title>Tencent: IT Operations Intern</title>
-    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/IT-Operations-Intern_R108176-2"/>
-    <updated>2026-09-22T21:33:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Other · US-California-Palo Alto · $27.12–$51.93/hr · Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tencent:/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158-1</id>
-    <title>Tencent: Site Reliability Engineer (SRE) Intern — AI Infrastructure</title>
-    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158-1"/>
-    <updated>2026-09-22T21:33:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · US-California-Palo Alto · $27.12–$51.93/hr · Python, Bash, Kubernetes, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:tanium:8176398</id>
-    <title>Tanium: Cloud Security Intern</title>
-    <link href="https://job-boards.greenhouse.io/tanium/jobs/8176398"/>
-    <updated>2026-09-22T17:11:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Cloud &amp; Infra Sec · Durham, NC (Hybrid) · AWS · H-1B track record: ~11 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:xcimer:4b031cd4-5f45-4d53-9332-dd23bc349480</id>
-    <title>Xcimer Energy: Summer 2027 Internship - Controls Systems Engineering 🇺🇸</title>
-    <link href="https://jobs.lever.co/xcimer/4b031cd4-5f45-4d53-9332-dd23bc349480"/>
-    <updated>2026-09-22T17:11:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Denver, CO · 25–35 USD/hr · sponsorship: citizens-only</summary>
   </entry>
 </feed>
