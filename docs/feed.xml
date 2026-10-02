@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-10-01T20:37:57Z</updated>
+  <updated>2026-10-02T00:55:25Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:atcllc:/job/Pewaukee-WI/Intern---Cyber-Security-Summer-2027_R0003307</id>
+    <title>ATC: Intern - Cyber Security Summer 2027</title>
+    <link href="https://atcllc.wd5.myworkdayjobs.com/atcllc/job/Pewaukee-WI/Intern---Cyber-Security-Summer-2027_R0003307"/>
+    <updated>2026-10-02T00:55:25Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Pewaukee, WI · $23–$27/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:memx:5441811008</id>
+    <title>MEMX: Enterprise IT Intern, Summer 2027 (Hybrid)</title>
+    <link href="https://job-boards.greenhouse.io/memx/jobs/5441811008"/>
+    <updated>2026-10-02T00:55:25Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · IT Support / Ops · United States</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008089</id>
     <title>Stantec: Transportation Engineering Intern - Infrastructure (Summer 2027)</title>
@@ -48,12 +64,12 @@
     <summary>Summer 2027 · Cloud Platform · Chicago, IL · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:rb:/job/Cleveland-OH/TS---Application-Security-Intern---2027_R-0000033625</id>
-    <title>The Federal Reserve System: TS - Application Security Intern - 2027 🇺🇸</title>
-    <link href="https://rb.wd5.myworkdayjobs.com/FRS/job/Cleveland-OH/TS---Application-Security-Intern---2027_R-0000033625"/>
+    <id>urn:intern-engine:workday:rb:/job/Chicago-IL/Summer-2027-Intern-Cybersecurity-and-Information-Security_R-0000033612-1</id>
+    <title>The Federal Reserve System: Summer 2027 Intern-Cybersecurity and Information Security 🛂</title>
+    <link href="https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern-Cybersecurity-and-Information-Security_R-0000033612-1"/>
     <updated>2026-10-01T20:37:57Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · AppSec / Product Sec · Cleveland, OH · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Security (general) · Chicago, IL · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:rb:/job/Chicago-IL/Summer-2027-Intern-Networking-and-Computer-Engineering_R-0000033610</id>
@@ -64,12 +80,12 @@
     <summary>Summer 2027 · Network / Telecom · Chicago, IL · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:rb:/job/Chicago-IL/Summer-2027-Intern-Cybersecurity-and-Information-Security_R-0000033612-1</id>
-    <title>The Federal Reserve System: Summer 2027 Intern-Cybersecurity and Information Security 🛂</title>
-    <link href="https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern-Cybersecurity-and-Information-Security_R-0000033612-1"/>
+    <id>urn:intern-engine:workday:rb:/job/Cleveland-OH/TS---Application-Security-Intern---2027_R-0000033625</id>
+    <title>The Federal Reserve System: TS - Application Security Intern - 2027 🇺🇸</title>
+    <link href="https://rb.wd5.myworkdayjobs.com/FRS/job/Cleveland-OH/TS---Application-Security-Intern---2027_R-0000033625"/>
     <updated>2026-10-01T20:37:57Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Chicago, IL · sponsorship: no-sponsorship</summary>
+    <summary>Summer 2027 · AppSec / Product Sec · Cleveland, OH · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:vardaspace:8005821003</id>
@@ -547,9 +563,9 @@
     <id>urn:intern-engine:greenhouse:lexingtonmedical:5434143008</id>
     <title>Lexington Medical: Quality Systems Engineering Intern</title>
     <link href="https://job-boards.greenhouse.io/lexingtonmedical/jobs/5434143008"/>
-    <updated>2026-09-24T17:24:48Z</updated>
+    <updated>2026-10-02T00:55:25Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Bedford, MA</summary>
+    <summary>Not stated · Systems &amp; Cloud Infra · Bedford, MA · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:abb:/job/USA-NC-Cary/IS-Common-Infrastructure-Intern--Summer-2027_JR00047125</id>
@@ -790,21 +806,5 @@
     <updated>2026-09-22T17:11:03Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Denver, CO · 25–35 USD/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:119551</id>
-    <title>Howmet Aerospace: Cybersecurity Intern 🛂</title>
-    <link href="https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119551"/>
-    <updated>2026-09-22T17:11:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Pittsburgh, PA, United States · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007919</id>
-    <title>Stantec: Transportation Engineering Co-op/Intern - Infrastructure (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007919"/>
-    <updated>2026-09-22T17:11:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Portland, ME, United States</summary>
   </entry>
 </feed>

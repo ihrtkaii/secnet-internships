@@ -268,6 +268,18 @@
     }
    }
   },
+  "atc": {
+   "name": "ATC",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-01",
+     "role_ids": [
+      "workday:atcllc:/job/Pewaukee-WI/Intern---Cyber-Security-Summer-2027_R0003307"
+     ],
+     "count": 1
+    }
+   }
+  },
   "atkinsréalis": {
    "name": "AtkinsRéalis",
    "cycles": {
@@ -1236,6 +1248,18 @@
     }
    }
   },
+  "memx": {
+   "name": "MEMX",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-01",
+     "role_ids": [
+      "greenhouse:memx:5441811008"
+     ],
+     "count": 1
+    }
+   }
+  },
   "merck": {
    "name": "Merck",
    "cycles": {
@@ -2053,5 +2077,5 @@
    }
   }
  },
- "updated_at": "2026-10-01T20:37:57Z"
+ "updated_at": "2026-10-02T00:55:25Z"
 }
