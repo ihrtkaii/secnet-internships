@@ -1,32 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:ejia.fa.us6.oraclecloud.com:107322",
-      "workday:aba:/job/US-DC-Main-Office/Intern--Cybersecurity-Policy-Analyst_R611",
-      "workday:caci:/job/Ashburn-VA-US/Systems-Engineer-Intern---Summer-2027_333048",
-      "workday:caci:/job/Springfield-VA-US/Cyber-Security-Intern---Summer-2027_333046",
-      "workday:caci:/job/High-Point-NC-US/Network---Cybersecurity-Intern---Summer-2027_333034-1",
-      "workday:caci:/job/High-Point-NC-US/Network---Cybersecurity-Intern---Summer-2027_333001",
-      "workday:hcsc:/job/TX---Richardson/Early-Careers---Vulnerability-Management-Intern_R0059514",
-      "workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757",
-      "workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship-Application-Development--NC-_182781",
-      "workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship-Investment-Systems--PA-_182782",
-      "workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship-Risk---Security-Engineer--PA-_182784",
-      "workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship-Risk---Security-Engineer--NC-_182785"
-    ],
-    "telegram": [
-      "oracle:ejia.fa.us6.oraclecloud.com:107322",
-      "workday:aba:/job/US-DC-Main-Office/Intern--Cybersecurity-Policy-Analyst_R611",
-      "workday:caci:/job/Ashburn-VA-US/Systems-Engineer-Intern---Summer-2027_333048",
-      "workday:caci:/job/Springfield-VA-US/Cyber-Security-Intern---Summer-2027_333046",
-      "workday:caci:/job/High-Point-NC-US/Network---Cybersecurity-Intern---Summer-2027_333034-1",
-      "workday:caci:/job/High-Point-NC-US/Network---Cybersecurity-Intern---Summer-2027_333001",
-      "workday:hcsc:/job/TX---Richardson/Early-Careers---Vulnerability-Management-Intern_R0059514",
-      "workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757",
-      "workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship-Application-Development--NC-_182781",
-      "workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship-Investment-Systems--PA-_182782",
-      "workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship-Risk---Security-Engineer--PA-_182784",
-      "workday:vanguard:/job/Charlotte-NC/College-to-Corporate-IT-Internship-Risk---Security-Engineer--NC-_182785"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
