@@ -1,12 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:generac:/job/USA---CO-Fort-Collins/Micro-Grid-Systems-Engineering-Co-Op---Summer-Intern_JR17249",
-      "workday:labcorp:/job/Durham-NC/Intern---AWS-PostgreSQL-Database-Administrator_2632108"
-    ],
-    "telegram": [
-      "workday:generac:/job/USA---CO-Fort-Collins/Micro-Grid-Systems-Engineering-Co-Op---Summer-Intern_JR17249",
-      "workday:labcorp:/job/Durham-NC/Intern---AWS-PostgreSQL-Database-Administrator_2632108"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
