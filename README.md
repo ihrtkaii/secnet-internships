@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/ihrtkaii/secnet-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/ihrtkaii/secnet-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fihrtkaii.github.io%2Fsecnet-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://ihrtkaii.github.io/secnet-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://ihrtkaii.github.io/secnet-internships/feed.xml)
 
-### 509 open roles (455 listed below) · 73 new this week
+### 508 open roles (454 listed below) · 70 new this week
 
-4,665 employers tracked · data as of Oct 02, 2026 at 00:55 UTC
+4,665 employers tracked · data as of Oct 02, 2026 at 09:59 UTC
 
-_370 have a cycle the employer stated · 139 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_370 have a cycle the employer stated · 138 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://ihrtkaii.github.io/secnet-internships/)** · **[📡 RSS](https://ihrtkaii.github.io/secnet-internships/feed.xml)** · **[⚙️ JSON API](https://ihrtkaii.github.io/secnet-internships/api/jobs.json)**
 
@@ -255,7 +255,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Stantec | Project Coordinator Intern - Infrastructure (Summer 2027) 🆕 | Systems & Cloud Infra | Raleigh, NC, United States | No skills listed | Sep 30, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008053) |
 | Stantec | Project Coordinator Intern - Infrastructure (Summer 2027) 🆕 | Systems & Cloud Infra | Burlington, MA, United States | No skills listed | Sep 30, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008055) |
 | CACI | Software/Network Engineering Intern - Summer 2027 🆕 | Network / Telecom | Florham Park, NJ, US | Python, C++, JavaScript, Linux | Sep 30, 2026 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895) |
-| Northrop Grumman | 2027 Systems Engineer Intern – Rolling Meadows IL 🇺🇸 🆕 | Systems & Cloud Infra | United States-Illinois-Rolling Meadows | Python, Java, MATLAB, CUDA | Sep 30, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Systems-Engineer-Intern---Rolling-Meadows-IL_R10252497) |
+| Northrop Grumman | 2027 Systems Engineer Intern – Rolling Meadows IL 🇺🇸 | Systems & Cloud Infra | United States-Illinois-Rolling Meadows | Python, Java, MATLAB, CUDA | Sep 30, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Systems-Engineer-Intern---Rolling-Meadows-IL_R10252497) |
 | RF-SMART | Service Delivery Intern (IT Helpdesk) - Summer 2027 🛂 🆕 | IT Support / Ops | Jacksonville, Florida, United States | No skills listed | Sep 29, 2026 | [Apply](https://job-boards.greenhouse.io/rfsmart/jobs/5425409008) |
 | Stantec | Structural Engineering Intern/Co-op – Infrastructure (Summer 2027) | Systems & Cloud Infra | New Haven +5 more | No skills listed | Sep 29, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008077) |
 | Marvell | AI-Native Development Platform Engineer Intern, MS - Summer 2027 | Systems & Cloud Infra | Santa Clara, CA | Python, Java, C#, TypeScript | Sep 29, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1) |
@@ -426,7 +426,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Sierra Nevada Corporation | Systems Engineer I (For 2026 Interns Only) 🇺🇸 🆕 | Systems & Cloud Infra | Dayton, OH | MATLAB | Sep 30, 2026 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Systems-Engineer-I--For-2026-Interns-Only-_R0030589) |
 | Sierra Nevada Corporation | Systems Engineer I (For 2026 Interns Only) 🇺🇸 🆕 _(2 openings)_ | Systems & Cloud Infra | Plano, TX | MATLAB | Sep 30, 2026 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Systems-Engineer-I--For-2026-Interns-Only-_R0030603) [#2](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Systems-Engineer-I--For-2026-Interns-Only-_R0030611) |
 | University of Virginia ✓ | Network Engineering Intern (Student Wage) 🆕 | Network / Telecom | Charlottesville, VA | Python, Bash | Sep 30, 2026 | [Apply](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Network-Engineering-Intern--Student-Wage-_R0087677) |
-| Mill | Systems Engineering Intern, Fall/Winter 2026 🛂 🆕 | Systems & Cloud Infra | San Bruno, California | No skills listed | Sep 29, 2026 | [Apply](https://job-boards.greenhouse.io/mill/jobs/4735328005) |
+| Mill | Systems Engineering Intern, Fall/Winter 2026 🛂 | Systems & Cloud Infra | San Bruno, California | No skills listed | Sep 29, 2026 | [Apply](https://job-boards.greenhouse.io/mill/jobs/4735328005) |
 | American Century Investments | Infrastructure Automation Engineer Intern 🛂 | Systems & Cloud Infra | Kansas City, Missouri | Python, Bash, Terraform | Sep 25, 2026 | [Apply](https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Infrastructure-Automation-Engineer-Intern_R0005750) |
 | Sierra Nevada Corporation | Systems Engineer I (For 2026 Interns Only) 🇺🇸 | Systems & Cloud Infra | Hagerstown, MD | MATLAB | Sep 23, 2026 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Systems-Engineer-I--For-2026-Interns-Only-_R0030585) |
 | Stantec | Transportation Engineering Co-op - Infrastructure (Fall 2026/Spring 2027) | Systems & Cloud Infra | Louisville, KY, United States | No skills listed | Sep 18, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007850) |
@@ -435,7 +435,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Hitachi Energy | Intern - Data Center Optimization | Systems & Cloud Infra | Santa Clara, California, United States | Python, PyTorch, TensorFlow, scikit-learn | Aug 18, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Intern---Data-Center-Optimization_R0142174) |
 | Motorola | R&D Intern - Wireless Systems Engineer - 2026 🇺🇸 | Network / Telecom | Los Angeles, CA | MATLAB | Mar 30, 2026 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/R-D-Intern---Wireless-Systems-Engineer---2026_R62376) |
 
-### Recently posted — cycle not stated  (83 roles)
+### Recently posted — cycle not stated  (82 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent tech internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
@@ -470,7 +470,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | National Information Solutions Cooperative (NISC) | Intern - Platform Development (Systems Engineering) | Systems & Cloud Infra | Mandan, ND | Python, Java, Bash, AWS | Sep 15, 2026 | [Apply](https://job-boards.greenhouse.io/testnisc/jobs/8204131) |
 | Micron Technology ✓ | Intern - Data Center SSD Firmware | Systems & Cloud Infra | Longmont-MAX- Office, CO | Python, C++, LLMs, Git | Sep 15, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---Data-Center-SSD-Firmware_JR111461) |
 | Acron Aviation | Systems Engineer Intern - Phoenix Site | Systems & Cloud Infra | Phoenix, AZ | No skills listed | Sep 14, 2026 | [Apply](https://jobs.lever.co/acronaviation/6c0066e6-ed85-43c9-b1ec-911709dafca9) |
-| Wex ✓ 🆁 | AI & Data Platform Engineering Intern (Undergraduate) | Systems & Cloud Infra | US - Remote | Python, Java, SQL, LLMs | Sep 14, 2026 | [Apply](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055) |
 | Gordon Food Service ✓ | Inbound Transportation Network Internship | Network / Telecom | Wyoming, Michigan | No skills listed | Sep 14, 2026 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Inbound-Transportation-Network-Internship_R-57173) |
 | Erickson Senior Living | Corporate IT Intern | IT Support / Ops | Baltimore, MD | No skills listed | Sep 11, 2026 | [Apply](https://erickson.wd108.myworkdayjobs.com/external/job/Baltimore-MD/College-Intern-Corporate_R0103863-1) |
 | Magna International ✓ | Magna Engineered Glass: IT Intern (part-time) | IT Support / Ops | Holland, Michigan, US | Python, JavaScript, HTML/CSS | Sep 11, 2026 | [Apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Holland-Michigan-US/Magna-Engineered-Glass--IT-Intern--part-time-_R00261528) |
@@ -631,7 +630,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,637 of 4,931 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 94% of the full registry) · completed in 737.9s · 641 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,395 of 4,931 registered boards returned successfully across 12 ATS platforms (90% of boards attempted, 89% of the full registry) · completed in 1188.5s · 583 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
