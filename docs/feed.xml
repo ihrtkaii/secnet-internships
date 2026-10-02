@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-10-02T18:08:07Z</updated>
+  <updated>2026-10-02T22:30:03Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:generac:/job/USA---CO-Fort-Collins/Micro-Grid-Systems-Engineering-Co-Op---Summer-Intern_JR17249</id>
+    <title>Generac: Micro-Grid Systems Engineering Co-Op / Summer Intern</title>
+    <link href="https://generac.wd5.myworkdayjobs.com/external/job/USA---CO-Fort-Collins/Micro-Grid-Systems-Engineering-Co-Op---Summer-Intern_JR17249"/>
+    <updated>2026-10-02T22:30:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · USA - CO Fort Collins</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:labcorp:/job/Durham-NC/Intern---AWS-PostgreSQL-Database-Administrator_2632108</id>
+    <title>LabCorp: Intern - AWS PostgreSQL Database Administrator 🛂</title>
+    <link href="https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---AWS-PostgreSQL-Database-Administrator_2632108"/>
+    <updated>2026-10-02T22:30:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Cloud Platform · Durham NC · AWS, PostgreSQL, Terraform · sponsorship: no-sponsorship</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107322</id>
     <title>S&amp;C Electric Company: Jr Systems Administrator Co-Op</title>
@@ -32,20 +48,20 @@
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Ashburn, VA, US</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:caci:/job/Springfield-VA-US/Cyber-Security-Intern---Summer-2027_333046</id>
-    <title>CACI: Cyber Security Intern - Summer 2027 🇺🇸</title>
-    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Springfield-VA-US/Cyber-Security-Intern---Summer-2027_333046"/>
-    <updated>2026-10-02T18:08:07Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Springfield, VA, US · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:caci:/job/High-Point-NC-US/Network---Cybersecurity-Intern---Summer-2027_333001</id>
     <title>CACI: Network / Cybersecurity Intern - Summer 2027</title>
     <link href="https://caci.wd1.myworkdayjobs.com/external/job/High-Point-NC-US/Network---Cybersecurity-Intern---Summer-2027_333001"/>
     <updated>2026-10-02T18:08:07Z</updated>
     <category term="Summer 2027"/>
     <summary>2 openings · Summer 2027 · Security (general) · High Point, NC, US</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:caci:/job/Springfield-VA-US/Cyber-Security-Intern---Summer-2027_333046</id>
+    <title>CACI: Cyber Security Intern - Summer 2027 🇺🇸</title>
+    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Springfield-VA-US/Cyber-Security-Intern---Summer-2027_333046"/>
+    <updated>2026-10-02T18:08:07Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Springfield, VA, US · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:hcsc:/job/TX---Richardson/Early-Careers---Vulnerability-Management-Intern_R0059514</id>
@@ -790,21 +806,5 @@
     <updated>2026-09-25T00:18:43Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · Seattle, Washington, USA · Python, Java, C++, Ruby, AWS · status: closed · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Product-Security-Engineering-Intern_JR100318</id>
-    <title>Bracco: Product Security Engineering Intern</title>
-    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Product-Security-Engineering-Intern_JR100318"/>
-    <updated>2026-09-23T00:05:02Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · AppSec / Product Sec · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr · Python, C++, C#, .NET</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:motorolasolutions:/job/Chicago-IL/Business-Systems-Analyst-Internship-Summer-2027_R68572</id>
-    <title>Motorola: Business Systems Analyst Internship Summer 2027</title>
-    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Business-Systems-Analyst-Internship-Summer-2027_R68572"/>
-    <updated>2026-09-23T00:05:02Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Chicago, IL · Python, SQL, scikit-learn, Pandas, LLMs</summary>
   </entry>
 </feed>
