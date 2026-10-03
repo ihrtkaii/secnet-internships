@@ -663,10 +663,11 @@
      "first_posted": "2026-09-10",
      "role_ids": [
       "workday:cox:/job/Atlanta-GA/Cybersecurity-Intern---Summer-2027_R202682288",
+      "workday:cox:/job/Atlanta-GA/Cybersecurity-Intern---Summer-2027_R202683372",
       "workday:cox:/job/Atlanta-GA/Infrastructure-Automation-Intern---Summer-2027_R202682338",
       "workday:cox:/job/Atlanta-GA/Infrastructure-Operations-Intern---Summer-2027_R202682357"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -2088,5 +2089,5 @@
    }
   }
  },
- "updated_at": "2026-10-02T22:30:03Z"
+ "updated_at": "2026-10-03T05:30:03Z"
 }
