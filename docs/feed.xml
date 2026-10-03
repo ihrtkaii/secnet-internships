@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-10-03T16:30:27Z</updated>
+  <updated>2026-10-03T21:29:32Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
     <id>urn:intern-engine:workday:generac:/job/USA---CO-Fort-Collins/Micro-Grid-Systems-Engineering-Co-Op---Summer-Intern_JR17249</id>
@@ -680,6 +680,14 @@
     <summary>Not stated · Systems &amp; Cloud Infra · Allentown, PA - 1110 American Parkway · Python, SQL</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:smartrecruiters:RRSGroup:744000151541069</id>
+    <title>RRS Group: Associate IT Systems Administrator Intern - 2027</title>
+    <link href="https://jobs.smartrecruiters.com/RRSGroup/744000151541069"/>
+    <updated>2026-09-26T11:37:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · San Francisco, , United States (Remote) · Python, Bash, Linux · status: closed</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:greenhouse:graphcore:8841978002</id>
     <title>Graphcore: Systems Engineering Intern</title>
     <link href="https://job-boards.greenhouse.io/graphcore/jobs/8841978002"/>
@@ -798,13 +806,5 @@
     <updated>2026-09-23T04:54:27Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193 · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10557133</id>
-    <title>Amazon: Security Engineer Internship – 2027 (US)</title>
-    <link href="https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us"/>
-    <updated>2026-09-25T00:18:43Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Seattle, Washington, USA · Python, Java, C++, Ruby, AWS · status: closed · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
   </entry>
 </feed>
