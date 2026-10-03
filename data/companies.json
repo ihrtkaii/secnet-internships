@@ -1774,6 +1774,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Anthony & Sylvan Pools",
+    "slug": "anthony-sylvan-pools",
+    "ats": "rippling"
+  },
+  {
     "name": "Anthropic",
     "slug": "anthropic",
     "ats": "greenhouse"
@@ -3833,6 +3838,11 @@
   {
     "name": "Bloxd",
     "slug": "bloxd",
+    "ats": "ashby"
+  },
+  {
+    "name": "blp",
+    "slug": "blp-digital",
     "ats": "ashby"
   },
   {
@@ -8011,6 +8021,11 @@
     "site": "careers"
   },
   {
+    "name": "DISA Technologies",
+    "slug": "disa-technologies",
+    "ats": "workable"
+  },
+  {
     "name": "Discord",
     "slug": "discord",
     "ats": "greenhouse"
@@ -11271,6 +11286,11 @@
     "site": "TSYS"
   },
   {
+    "name": "Global Web Index",
+    "slug": "globalwebindex",
+    "ats": "greenhouse"
+  },
+  {
     "name": "GlobalFoundries",
     "slug": "globalfoundries",
     "ats": "workday",
@@ -12274,6 +12294,11 @@
     "name": "Hightouch",
     "slug": "hightouch",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Hightouch",
+    "slug": "hightouch",
+    "ats": "ashby"
   },
   {
     "name": "Hiive",
@@ -13723,6 +13748,11 @@
     "name": "Iterable",
     "slug": "iterable",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Iterable",
+    "slug": "iterable",
+    "ats": "ashby"
   },
   {
     "name": "Iteris",
@@ -19226,6 +19256,11 @@
     "site": "panwexternalcareers"
   },
   {
+    "name": "Palomar Holdings",
+    "slug": "plmrcareers",
+    "ats": "rippling"
+  },
+  {
     "name": "PanAgora",
     "slug": "empower",
     "ats": "workday",
@@ -19293,6 +19328,11 @@
     "name": "Paramount",
     "slug": "paramount",
     "ats": "rippling"
+  },
+  {
+    "name": "Parasail",
+    "slug": "parasail",
+    "ats": "ashby"
   },
   {
     "name": "ParetoHealth",
@@ -22526,6 +22566,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Scout Clean Energy",
+    "slug": "scout-clean-energy",
+    "ats": "workable"
+  },
+  {
     "name": "Scout Motors",
     "slug": "scoutmotors",
     "ats": "greenhouse"
@@ -23667,6 +23712,13 @@
     "name": "Sparksoft",
     "slug": "sparksoftcorporation",
     "ats": "greenhouse"
+  },
+  {
+    "name": "SpartanNash",
+    "slug": "spartannash",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "SpartanNash_Careers"
   },
   {
     "name": "SpawGlass",
@@ -25339,6 +25391,11 @@
     "name": "The Scion Group",
     "slug": "thesciongroupllc",
     "ats": "greenhouse"
+  },
+  {
+    "name": "The Shipyard",
+    "slug": "theshipyard",
+    "ats": "workable"
   },
   {
     "name": "The Toro Company",
@@ -27644,6 +27701,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "careers"
+  },
+  {
+    "name": "Watershed",
+    "slug": "watershed",
+    "ats": "ashby"
   },
   {
     "name": "Watney",
