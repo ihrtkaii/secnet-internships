@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-03T05:30:03Z",
- "data_as_of": "2026-10-03T05:30:03Z",
- "rendered_at": "2026-10-03T05:30:04Z",
+ "generated_at": "2026-10-03T11:52:06Z",
+ "data_as_of": "2026-10-03T11:52:06Z",
+ "rendered_at": "2026-10-03T11:52:06Z",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "h1b_window": "FY2022–2023",
  "count": 518,
@@ -56,10 +56,7 @@
    "company": "LabCorp",
    "title": "Intern - AWS PostgreSQL Database Administrator",
    "season": "Summer 2027",
-   "seasons": [
-    "Summer 2027",
-    "Winter 2027"
-   ],
+   "seasons": null,
    "season_inferred": false,
    "category": "Cloud Platform",
    "location": "Durham NC",
