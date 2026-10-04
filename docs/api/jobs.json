@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-04T06:03:21Z",
- "data_as_of": "2026-10-04T06:03:21Z",
- "rendered_at": "2026-10-04T06:03:22Z",
+ "generated_at": "2026-10-04T12:33:18Z",
+ "data_as_of": "2026-10-04T12:33:18Z",
+ "rendered_at": "2026-10-04T12:33:19Z",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "h1b_window": "FY2022–2023",
- "count": 519,
+ "count": 518,
  "jobs": [
   {
    "id": "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Avionics-Test-Engineering--Systems-Engineer-Intern--Onsite-_01876518",
@@ -6498,27 +6498,6 @@
     "Bash"
    ],
    "source": "greenhouse",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:cna:/job/Chicago-IL-USA/Technology-Internship-Program--Cybersecurity-_R-8130-1",
-   "company": "CNA Insurance",
-   "title": "Technology Internship Program (Cybersecurity)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Security (general)",
-   "location": "Chicago, IL, USA",
-   "url": "https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Cybersecurity-_R-8130-1",
-   "posted_at": "2026-09-04T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-05T04:34:11Z",
-   "sponsorship": "no-sponsorship",
-   "salary": "$35k–$65k/yr",
-   "skills": [],
-   "source": "workday",
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false
