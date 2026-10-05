@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-05T06:28:30Z",
- "data_as_of": "2026-10-05T06:28:30Z",
- "rendered_at": "2026-10-05T06:28:30Z",
+ "generated_at": "2026-10-05T15:32:01Z",
+ "data_as_of": "2026-10-05T15:32:01Z",
+ "rendered_at": "2026-10-05T15:32:01Z",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "h1b_window": "FY2022–2023",
- "count": 518,
+ "count": 519,
  "jobs": [
   {
    "id": "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Avionics-Test-Engineering--Systems-Engineer-Intern--Onsite-_01876518",
@@ -4685,6 +4685,33 @@
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false
+  },
+  {
+   "id": "workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589",
+   "company": "Wex",
+   "title": "Backend Software Engineer Intern - C#, Cloud Security & AI (Undergraduate)",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Cloud & Infra Sec",
+   "location": "US - Remote",
+   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589",
+   "posted_at": "2026-09-14T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-14T20:08:21Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "C#",
+    "Python",
+    "AWS",
+    "Docker",
+    "Git"
+   ],
+   "source": "workday",
+   "h1b_approvals": 22,
+   "program": "Internship",
+   "remote": true
   },
   {
    "id": "workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cloud-DevOps_R_1510799",
