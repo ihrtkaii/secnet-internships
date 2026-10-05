@@ -520,11 +520,12 @@
       "workday:caci:/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895",
       "workday:caci:/job/High-Point-NC-US/Network---Cybersecurity-Intern---Summer-2027_333001",
       "workday:caci:/job/High-Point-NC-US/Network---Cybersecurity-Intern---Summer-2027_333034-1",
+      "workday:caci:/job/High-Point-NC-US/Network-Engineer-Intern---Summer-2027_332843",
       "workday:caci:/job/Sarasota-FL-US/AWS-Cloud-Engineering-Intern---Summer-2027_331437",
       "workday:caci:/job/Springfield-VA-US/Cyber-Security-Intern---Summer-2027_333046",
       "workday:caci:/job/Sterling-VA-US/DevOps-Software-Engineering-Intern---Summer-2027_331466"
      ],
-     "count": 8
+     "count": 9
     }
    }
   },
@@ -755,6 +756,18 @@
      "first_posted": "2026-08-31",
      "role_ids": [
       "workday:ercot:/job/Taylor-TX/Summer-Intern----Cyber-Security_R2404"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "expedia group": {
+   "name": "Expedia Group",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-05",
+     "role_ids": [
+      "workday:expedia:/job/Washington---Seattle-Campus/Security-Engineering-Intern---2027---Seattle_R-110310"
      ],
      "count": 1
     }
@@ -1051,6 +1064,19 @@
       "workday:insulet:/job/San-Diego-California/Intern--DevOps-Engineer--June-August-2027--Onsite-_REQ-2026-18202"
      ],
      "count": 1
+    }
+   }
+  },
+  "ispace": {
+   "name": "ispace",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-02",
+     "role_ids": [
+      "lever:ispace-inc:558fdfe2-4083-42ea-8eeb-0551c80cbc8a",
+      "lever:ispace-inc:82a22878-8955-4626-a778-5c246faae222"
+     ],
+     "count": 2
     }
    }
   },
@@ -1789,9 +1815,10 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1008053",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008055",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008077",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008089"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008089",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008180"
      ],
-     "count": 16
+     "count": 17
     },
     "Fall 2026": {
      "first_posted": "2026-09-02",
@@ -2089,5 +2116,5 @@
    }
   }
  },
- "updated_at": "2026-10-05T15:32:01Z"
+ "updated_at": "2026-10-05T22:27:28Z"
 }
