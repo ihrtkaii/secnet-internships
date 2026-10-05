@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-10-05T00:27:10Z</updated>
+  <updated>2026-10-05T06:28:30Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:nc:/job/Wake-County-NC/IT-Service-Desk-Intern_JR-125278</id>
+    <title>State of North Carolina: IT Service Desk Intern</title>
+    <link href="https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/IT-Service-Desk-Intern_JR-125278"/>
+    <updated>2026-10-05T06:28:29Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · IT Support / Ops · Wake County, NC · status: closed</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Avionics-Test-Engineering--Systems-Engineer-Intern--Onsite-_01876518</id>
     <title>RTX: Avionics Test Engineering -Systems Engineer Intern (Onsite) 🇺🇸</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-23T17:09:40Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · AppSec / Product Sec · San Antonio, TX · Python, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-California-Woodland-Hills/XMLNAME-2027-Systems-Engineer-Intern---Woodland-Hills-CA_R10249319-1</id>
-    <title>Northrop Grumman: 2027 Systems Engineer Intern - Woodland Hills CA 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Systems-Engineer-Intern---Woodland-Hills-CA_R10249319-1"/>
-    <updated>2026-09-23T11:44:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · United States-California-Woodland Hills · $21.5–$39/hr · sponsorship: citizens-only</summary>
   </entry>
 </feed>
