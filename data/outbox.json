@@ -1,18 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "greenhouse:andurilindustries:5257690007",
-      "workday:hpe:/job/San-Jose-California-United-States-of-America/Cloud-Developer-Intern_1214950",
-      "workday:hpe:/job/Bloomington-Minnesota-United-States-of-America/Infrastructure-Deployment-Automation-Intern_1213406",
-      "workday:mastercard:/job/OFallon-Missouri/Corporate-Security-Operations-Intern--Summer-2027---St-Louis--MO--US_R-284925",
-      "workday:mastercard:/job/OFallon-Missouri/Security-Engineering---Enablement-Intern--Summer-2027---St-Louis--MO--US_R-284927"
-    ],
-    "telegram": [
-      "greenhouse:andurilindustries:5257690007",
-      "workday:hpe:/job/San-Jose-California-United-States-of-America/Cloud-Developer-Intern_1214950",
-      "workday:hpe:/job/Bloomington-Minnesota-United-States-of-America/Infrastructure-Deployment-Automation-Intern_1213406",
-      "workday:mastercard:/job/OFallon-Missouri/Corporate-Security-Operations-Intern--Summer-2027---St-Louis--MO--US_R-284925",
-      "workday:mastercard:/job/OFallon-Missouri/Security-Engineering---Enablement-Intern--Summer-2027---St-Louis--MO--US_R-284927"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
