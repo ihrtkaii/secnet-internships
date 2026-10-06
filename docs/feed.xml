@@ -5,31 +5,55 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-10-05T22:27:28Z</updated>
+  <updated>2026-10-06T06:32:10Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
-    <id>urn:intern-engine:lever:ispace-inc:82a22878-8955-4626-a778-5c246faae222</id>
-    <title>ispace: 2027 Summer Internship  - IT Support 🇺🇸</title>
-    <link href="https://jobs.lever.co/ispace-inc/82a22878-8955-4626-a778-5c246faae222"/>
-    <updated>2026-10-05T22:27:28Z</updated>
+    <id>urn:intern-engine:greenhouse:andurilindustries:5257690007</id>
+    <title>Anduril: 2027 Systems Engineer Intern</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007"/>
+    <updated>2026-10-06T06:32:10Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · IT Support / Ops · Englewood, Colorado · $28/hr · sponsorship: citizens-only · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Boston, Massachusetts, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Reston, Virginia, United States; Seattle, Washington, United States · MATLAB, Computer Vision, Linux</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:lever:ispace-inc:558fdfe2-4083-42ea-8eeb-0551c80cbc8a</id>
-    <title>ispace: 2027 Summer Internship - Systems Engineer 🇺🇸</title>
-    <link href="https://jobs.lever.co/ispace-inc/558fdfe2-4083-42ea-8eeb-0551c80cbc8a"/>
-    <updated>2026-10-05T22:27:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Englewood, Colorado · $28/hr · sponsorship: citizens-only · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:workday:hpe:/job/San-Jose-California-United-States-of-America/Cloud-Developer-Intern_1214950</id>
+    <title>Hewlett Packard Enterprise: Cloud Developer Intern</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Cloud-Developer-Intern_1214950"/>
+    <updated>2026-10-06T06:32:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Cloud Platform · San Jose, California, United States of America · Python, scikit-learn, LLMs, HTML/CSS, Spark · H-1B track record: ~499 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008180</id>
-    <title>Stantec: Civil Engineering Internship - Infrastructure (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008180"/>
-    <updated>2026-10-05T22:27:28Z</updated>
+    <id>urn:intern-engine:workday:hpe:/job/Bloomington-Minnesota-United-States-of-America/Infrastructure-Deployment-Automation-Intern_1213406</id>
+    <title>Hewlett Packard Enterprise: Infrastructure Deployment Automation Intern</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Infrastructure-Deployment-Automation-Intern_1213406"/>
+    <updated>2026-10-06T06:32:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Bloomington, Minnesota, United States of America · Python, Bash, HTML/CSS, Linux · H-1B track record: ~499 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:mastercard:/job/OFallon-Missouri/Corporate-Security-Operations-Intern--Summer-2027---St-Louis--MO--US_R-284925</id>
+    <title>Mastercard: Corporate Security Operations Intern, Summer 2027 – St. Louis, MO, US</title>
+    <link href="https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Corporate-Security-Operations-Intern--Summer-2027---St-Louis--MO--US_R-284925"/>
+    <updated>2026-10-06T06:32:10Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Okemos, MI, United States</summary>
+    <summary>Summer 2027 · SOC / Detection · O'Fallon, Missouri · $25–$30/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:mastercard:/job/OFallon-Missouri/Security-Engineering---Enablement-Intern--Summer-2027---St-Louis--MO--US_R-284927</id>
+    <title>Mastercard: Security Engineering &amp; Enablement Intern, Summer 2027 – St. Louis, MO, US</title>
+    <link href="https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Security-Engineering---Enablement-Intern--Summer-2027---St-Louis--MO--US_R-284927"/>
+    <updated>2026-10-06T06:32:10Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · O'Fallon, Missouri · $27–$34/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:tensorwave:8ec8b715-f9ad-48a7-869e-ed9d455119a5</id>
+    <title>TensorWave: Security Engineer Intern</title>
+    <link href="https://jobs.ashbyhq.com/tensorwave/8ec8b715-f9ad-48a7-869e-ed9d455119a5"/>
+    <updated>2026-10-05T22:27:28Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Las Vegas, Nevada · Python, Bash</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:tensorwave:b98359ff-2f74-4e48-a57a-81bb5f5ef7f5</id>
@@ -40,12 +64,28 @@
     <summary>Not stated · IT Support / Ops · Las Vegas, Nevada</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:ashby:tensorwave:8ec8b715-f9ad-48a7-869e-ed9d455119a5</id>
-    <title>TensorWave: Security Engineer Intern</title>
-    <link href="https://jobs.ashbyhq.com/tensorwave/8ec8b715-f9ad-48a7-869e-ed9d455119a5"/>
+    <id>urn:intern-engine:lever:ispace-inc:558fdfe2-4083-42ea-8eeb-0551c80cbc8a</id>
+    <title>ispace: 2027 Summer Internship - Systems Engineer 🇺🇸</title>
+    <link href="https://jobs.lever.co/ispace-inc/558fdfe2-4083-42ea-8eeb-0551c80cbc8a"/>
     <updated>2026-10-05T22:27:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Las Vegas, Nevada · Python, Bash</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Englewood, Colorado · $28/hr · sponsorship: citizens-only · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:ispace-inc:82a22878-8955-4626-a778-5c246faae222</id>
+    <title>ispace: 2027 Summer Internship  - IT Support 🇺🇸</title>
+    <link href="https://jobs.lever.co/ispace-inc/82a22878-8955-4626-a778-5c246faae222"/>
+    <updated>2026-10-05T22:27:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · IT Support / Ops · Englewood, Colorado · $28/hr · sponsorship: citizens-only · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008180</id>
+    <title>Stantec: Civil Engineering Internship - Infrastructure (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008180"/>
+    <updated>2026-10-05T22:27:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Okemos, MI, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:caci:/job/High-Point-NC-US/Network-Engineer-Intern---Summer-2027_332843</id>
@@ -766,45 +806,5 @@
     <updated>2026-09-24T17:24:48Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · IT Support / Ops · Raleigh, NC · LLMs, HTML/CSS · H-1B track record: ~69 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:sluhn:/job/Allentown-PA---1110-American-Parkway/Intern---Management-Engineering--Industrial-Systems-Engineering-_R146345</id>
-    <title>St. Luke's University Health Network: Intern - Management Engineering (Industrial Systems Engineering)</title>
-    <link href="https://sluhn.wd1.myworkdayjobs.com/SLUHN/job/Allentown-PA---1110-American-Parkway/Intern---Management-Engineering--Industrial-Systems-Engineering-_R146345"/>
-    <updated>2026-09-24T17:24:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Allentown, PA - 1110 American Parkway · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:RRSGroup:744000151541069</id>
-    <title>RRS Group: Associate IT Systems Administrator Intern - 2027</title>
-    <link href="https://jobs.smartrecruiters.com/RRSGroup/744000151541069"/>
-    <updated>2026-09-26T11:37:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · San Francisco, , United States (Remote) · Python, Bash, Linux · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:graphcore:8841978002</id>
-    <title>Graphcore: Systems Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/graphcore/jobs/8841978002"/>
-    <updated>2026-09-30T05:42:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Austin, Texas, United States · Python, Bash, Linux · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:muonspace:5247733007</id>
-    <title>Muon Space: Junior Help Desk Intern (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/muonspace/jobs/5247733007"/>
-    <updated>2026-09-24T00:14:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · IT Support / Ops · Mountain View, CA · $40/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:snc:/job/Hagerstown-MD/Systems-Engineer-I--For-2026-Interns-Only-_R0030585</id>
-    <title>Sierra Nevada Corporation: Systems Engineer I (For 2026 Interns Only) 🇺🇸</title>
-    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Systems-Engineer-I--For-2026-Interns-Only-_R0030585"/>
-    <updated>2026-09-24T00:14:03Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Systems &amp; Cloud Infra · Hagerstown, MD · MATLAB · sponsorship: citizens-only</summary>
   </entry>
 </feed>
