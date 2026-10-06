@@ -1,6 +1,44 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:dmainc:/job/Fort-Wayne-IN/Cybersecurity-Intern---Summer-2027_REQ742",
+      "ashby:tensorwave:27d0af24-e945-4abe-ac7c-56db3c0e636d",
+      "ashby:tensorwave:a75bda20-d28d-443c-987f-53c4478fe940",
+      "greenhouse:asteraearlycareer2027:4731591005",
+      "workday:borgwarner:/job/Auburn-Hills---Michigan---USA/System-Engineering-Intern--Year-Round-_R2026-3983",
+      "workday:caci:/job/Ashburn-VA-US/Cyber-Analyst-Intern---Summer-2027_333161",
+      "workday:dukeenergy:/job/Huntersville-NC/Local-IT-Support-Internship--Huntersville--NC----Summer-2027_R41895",
+      "workday:granite:/job/Santa-Maria-California/IT-Intern_R0000008253-1",
+      "greenhouse:iex-interns:8173713",
+      "greenhouse:iex-interns:8171127",
+      "workday:leidos:/job/Arlington-VA/Systems-Engineer-Intern_R-00193940",
+      "greenhouse:memx:5445236008",
+      "workday:midlandsb:/job/St-Louis-MO/Intern---Security-Analyst_JR1473",
+      "workday:midlandsb:/job/Effingham-IL/Intern---IT-Infrastructure_JR1471",
+      "workday:midlandsb:/job/St-Louis-MO/Intern---Financial-Services-Cloud-Admin---Salesforce_JR1470",
+      "workday:nordsonhcm:/job/USA---Rhode-Island---East-Providence/Application-System-Engineer-I-Intern_REQ53032",
+      "workday:philips:/job/Bothell-Washington-United-States/Intern--Systems-Engineering--Oral-Healthcare---Bothell--WA---Summer-2027_592938",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Co-Op-Systems-Engineering_01879621"
+    ],
+    "telegram": [
+      "workday:dmainc:/job/Fort-Wayne-IN/Cybersecurity-Intern---Summer-2027_REQ742",
+      "ashby:tensorwave:27d0af24-e945-4abe-ac7c-56db3c0e636d",
+      "ashby:tensorwave:a75bda20-d28d-443c-987f-53c4478fe940",
+      "greenhouse:asteraearlycareer2027:4731591005",
+      "workday:borgwarner:/job/Auburn-Hills---Michigan---USA/System-Engineering-Intern--Year-Round-_R2026-3983",
+      "workday:caci:/job/Ashburn-VA-US/Cyber-Analyst-Intern---Summer-2027_333161",
+      "workday:dukeenergy:/job/Huntersville-NC/Local-IT-Support-Internship--Huntersville--NC----Summer-2027_R41895",
+      "workday:granite:/job/Santa-Maria-California/IT-Intern_R0000008253-1",
+      "greenhouse:iex-interns:8173713",
+      "greenhouse:iex-interns:8171127",
+      "workday:leidos:/job/Arlington-VA/Systems-Engineer-Intern_R-00193940",
+      "greenhouse:memx:5445236008",
+      "workday:midlandsb:/job/St-Louis-MO/Intern---Security-Analyst_JR1473",
+      "workday:midlandsb:/job/Effingham-IL/Intern---IT-Infrastructure_JR1471",
+      "workday:midlandsb:/job/St-Louis-MO/Intern---Financial-Services-Cloud-Admin---Salesforce_JR1470",
+      "workday:nordsonhcm:/job/USA---Rhode-Island---East-Providence/Application-System-Engineer-I-Intern_REQ53032",
+      "workday:philips:/job/Bothell-Washington-United-States/Intern--Systems-Engineering--Oral-Healthcare---Bothell--WA---Summer-2027_592938",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Co-Op-Systems-Engineering_01879621"
+    ]
   }
 }

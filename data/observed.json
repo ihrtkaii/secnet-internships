@@ -527,6 +527,7 @@
     "Summer 2027": {
      "first_posted": "2026-09-01",
      "role_ids": [
+      "workday:caci:/job/Ashburn-VA-US/Cyber-Analyst-Intern---Summer-2027_333161",
       "workday:caci:/job/Ashburn-VA-US/Systems-Engineer-Intern---Summer-2027_333048",
       "workday:caci:/job/Denver-CO-US/DevOps-Software-Engineering-Intern---Summer-2027_331798",
       "workday:caci:/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895",
@@ -537,7 +538,7 @@
       "workday:caci:/job/Springfield-VA-US/Cyber-Security-Intern---Summer-2027_333046",
       "workday:caci:/job/Sterling-VA-US/DevOps-Software-Engineering-Intern---Summer-2027_331466"
      ],
-     "count": 9
+     "count": 10
     }
    }
   },
@@ -702,9 +703,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-24",
      "role_ids": [
+      "workday:dmainc:/job/Fort-Wayne-IN/Cybersecurity-Intern---Summer-2027_REQ742",
       "workday:dmainc:/job/Indianapolis-IN/IT-Support-Intern---Summer-2027_REQ638-1"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -730,9 +732,10 @@
      "role_ids": [
       "workday:dukeenergy:/job/Charlotte-NC/Digital-Forensics-Summer-Intern---2027_R41195",
       "workday:dukeenergy:/job/Charlotte-NC/Enterprise-Protective-Services--Corporate-Security-Intern---Summer-2027_R41381",
-      "workday:dukeenergy:/job/Charlotte-NC/Enterprise-Protective-Services--Threat-Intelligence-Intern---Summer-2027_R41379"
+      "workday:dukeenergy:/job/Charlotte-NC/Enterprise-Protective-Services--Threat-Intelligence-Intern---Summer-2027_R41379",
+      "workday:dukeenergy:/job/Huntersville-NC/Local-IT-Support-Internship--Huntersville--NC----Summer-2027_R41895"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -1162,6 +1165,7 @@
      "role_ids": [
       "workday:leidos:/job/6314-RemoteTeleworker-US/SharePoint---Systems-Engineering-Intern_R-00190982",
       "workday:leidos:/job/Alexandria-VA/Cybersecurity-Analyst-Intern_R-00190671",
+      "workday:leidos:/job/Arlington-VA/Systems-Engineer-Intern_R-00193940",
       "workday:leidos:/job/Bethesda-MD/Cybersecurity-Engineer-Co-op_R-00190764",
       "workday:leidos:/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00190663",
       "workday:leidos:/job/Odenton-MD/Systems-Engineering-Intern_R-00190647",
@@ -1174,7 +1178,7 @@
       "workday:leidos:/job/Tampa-FL/Network-Operations-Intern_R-00190651",
       "workday:leidos:/job/Whitehall-OH/Cybersecurity-Analyst-Intern_R-00190669"
      ],
-     "count": 13
+     "count": 14
     }
    }
   },
@@ -1300,9 +1304,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-01",
      "role_ids": [
-      "greenhouse:memx:5441811008"
+      "greenhouse:memx:5441811008",
+      "greenhouse:memx:5445236008"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1316,6 +1321,20 @@
       "workday:msd:/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---North-America-Regional-Security-Team---Intern_R413091"
      ],
      "count": 2
+    }
+   }
+  },
+  "midland states bank": {
+   "name": "Midland States Bank",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-05",
+     "role_ids": [
+      "workday:midlandsb:/job/Effingham-IL/Intern---IT-Infrastructure_JR1471",
+      "workday:midlandsb:/job/St-Louis-MO/Intern---Financial-Services-Cloud-Admin---Salesforce_JR1470",
+      "workday:midlandsb:/job/St-Louis-MO/Intern---Security-Analyst_JR1473"
+     ],
+     "count": 3
     }
    }
   },
@@ -1550,6 +1569,18 @@
      "first_posted": "2026-08-04",
      "role_ids": [
       "workday:pentair:/job/Golden-Valley-MN/IT---Cybersecurity-Leadership-Development-Internship-Program----Summer-2027_R23700"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "philips": {
+   "name": "Philips",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-06",
+     "role_ids": [
+      "workday:philips:/job/Bothell-Washington-United-States/Intern--Systems-Engineering--Oral-Healthcare---Bothell--WA---Summer-2027_592938"
      ],
      "count": 1
     }
@@ -2130,5 +2161,5 @@
    }
   }
  },
- "updated_at": "2026-10-06T13:50:47Z"
+ "updated_at": "2026-10-06T20:29:41Z"
 }
