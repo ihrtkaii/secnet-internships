@@ -5,15 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-10-06T20:29:41Z</updated>
+  <updated>2026-10-07T00:57:38Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:dmainc:/job/Fort-Wayne-IN/Cybersecurity-Intern---Summer-2027_REQ742</id>
-    <title>Dmainc: Cybersecurity Intern - Summer 2027</title>
-    <link href="https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Cybersecurity-Intern---Summer-2027_REQ742"/>
-    <updated>2026-10-06T20:29:41Z</updated>
+    <id>urn:intern-engine:greenhouse:memx:5446002008</id>
+    <title>MEMX: Network Engineering Intern, Summer 2027 (Hybrid)</title>
+    <link href="https://job-boards.greenhouse.io/memx/jobs/5446002008"/>
+    <updated>2026-10-07T00:57:38Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Fort Wayne, IN</summary>
+    <summary>Summer 2027 · Network / Telecom · United States · Python, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:tensorwave:27d0af24-e945-4abe-ac7c-56db3c0e636d</id>
@@ -40,6 +40,30 @@
     <summary>Not stated · Other · San Jose, CA · $35/hr · Python, C++, Linux, Git · H-1B track record: ~29 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:greenhouse:iex-interns:8171127</id>
+    <title>IEX: Platform Engineer Intern</title>
+    <link href="https://job-boards.greenhouse.io/iex-interns/jobs/8171127"/>
+    <updated>2026-10-06T20:29:41Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · New York · $45/hr · Python, Rust, Bash, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:iex-interns:8173713</id>
+    <title>IEX: Cyber Security Analyst Intern</title>
+    <link href="https://job-boards.greenhouse.io/iex-interns/jobs/8173713"/>
+    <updated>2026-10-06T20:29:41Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · New York · $35/hr · Python, Ruby, Bash</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:memx:5445236008</id>
+    <title>MEMX: Information Security Intern, Summer 2027 (Hybrid)</title>
+    <link href="https://job-boards.greenhouse.io/memx/jobs/5445236008"/>
+    <updated>2026-10-06T20:29:41Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · United States · AWS, Azure</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:borgwarner:/job/Auburn-Hills---Michigan---USA/System-Engineering-Intern--Year-Round-_R2026-3983</id>
     <title>BorgWarner: System Engineering Intern (Year-Round)</title>
     <link href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/System-Engineering-Intern--Year-Round-_R2026-3983"/>
@@ -56,12 +80,28 @@
     <summary>Summer 2027 · Security (general) · Ashburn, VA, US · Linux</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:dmainc:/job/Fort-Wayne-IN/Cybersecurity-Intern---Summer-2027_REQ742</id>
+    <title>Dmainc: Cybersecurity Intern - Summer 2027</title>
+    <link href="https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Cybersecurity-Intern---Summer-2027_REQ742"/>
+    <updated>2026-10-06T20:29:41Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Fort Wayne, IN</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:dukeenergy:/job/Huntersville-NC/Local-IT-Support-Internship--Huntersville--NC----Summer-2027_R41895</id>
     <title>Duke Energy: Local IT Support Internship (Huntersville, NC) - Summer 2027</title>
     <link href="https://dukeenergy.wd1.myworkdayjobs.com/search/job/Huntersville-NC/Local-IT-Support-Internship--Huntersville--NC----Summer-2027_R41895"/>
     <updated>2026-10-06T20:29:41Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · IT Support / Ops · Huntersville, NC</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Co-Op-Systems-Engineering_01879621</id>
+    <title>RTX: Co-Op Systems Engineering 🛂</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Co-Op-Systems-Engineering_01879621"/>
+    <updated>2026-10-06T20:29:41Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:granite:/job/Santa-Maria-California/IT-Intern_R0000008253-1</id>
@@ -72,44 +112,12 @@
     <summary>Not stated · IT Support / Ops · Santa Maria, California</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:iex-interns:8173713</id>
-    <title>IEX: Cyber Security Analyst Intern</title>
-    <link href="https://job-boards.greenhouse.io/iex-interns/jobs/8173713"/>
-    <updated>2026-10-06T20:29:41Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · New York · $35/hr · Python, Ruby, Bash</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:iex-interns:8171127</id>
-    <title>IEX: Platform Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/iex-interns/jobs/8171127"/>
-    <updated>2026-10-06T20:29:41Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · New York · $45/hr · Python, Rust, Bash, Linux, Git</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:leidos:/job/Arlington-VA/Systems-Engineer-Intern_R-00193940</id>
     <title>Leidos: Systems Engineer Intern 🇺🇸</title>
     <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Systems-Engineer-Intern_R-00193940"/>
     <updated>2026-10-06T20:29:41Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Arlington, VA · Computer Vision, Git · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:memx:5445236008</id>
-    <title>MEMX: Information Security Intern, Summer 2027 (Hybrid)</title>
-    <link href="https://job-boards.greenhouse.io/memx/jobs/5445236008"/>
-    <updated>2026-10-06T20:29:41Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · United States · AWS, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:midlandsb:/job/St-Louis-MO/Intern---Security-Analyst_JR1473</id>
-    <title>Midland States Bank: Intern - Security Analyst</title>
-    <link href="https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/St-Louis-MO/Intern---Security-Analyst_JR1473"/>
-    <updated>2026-10-06T20:29:41Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · St. Louis, MO</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:midlandsb:/job/Effingham-IL/Intern---IT-Infrastructure_JR1471</id>
@@ -128,6 +136,14 @@
     <summary>Summer 2027 · Cloud Platform · St. Louis, MO</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:midlandsb:/job/St-Louis-MO/Intern---Security-Analyst_JR1473</id>
+    <title>Midland States Bank: Intern - Security Analyst</title>
+    <link href="https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/St-Louis-MO/Intern---Security-Analyst_JR1473"/>
+    <updated>2026-10-06T20:29:41Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · St. Louis, MO</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:nordsonhcm:/job/USA---Rhode-Island---East-Providence/Application-System-Engineer-I-Intern_REQ53032</id>
     <title>Nordson: Application/System Engineer I Intern</title>
     <link href="https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Rhode-Island---East-Providence/Application-System-Engineer-I-Intern_REQ53032"/>
@@ -142,14 +158,6 @@
     <updated>2026-10-06T20:29:41Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Bothell, Washington, United States · Python, MATLAB</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Co-Op-Systems-Engineering_01879621</id>
-    <title>RTX: Co-Op Systems Engineering 🛂</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Co-Op-Systems-Engineering_01879621"/>
-    <updated>2026-10-06T20:29:41Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:andurilindustries:5257690007</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-25T21:52:16Z</updated>
     <category term="Summer 2027"/>
     <summary>2 openings · Summer 2027 · Systems &amp; Cloud Infra · Milwaukee, WI</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/XMLNAME-2027-Network-Engineering-Intern_01877666</id>
-    <title>RTX: 2027 Network Engineering Intern 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/XMLNAME-2027-Network-Engineering-Intern_01877666"/>
-    <updated>2026-09-25T21:52:16Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Network / Telecom · US-CO-COLORADO SPRINGS-9970-CUST ~ 9970 Federal Dr ~ FEDERAL (External Site) · sponsorship: citizens-only</summary>
   </entry>
 </feed>
