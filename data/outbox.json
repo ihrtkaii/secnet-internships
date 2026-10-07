@@ -1,18 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:emit.fa.ca3.oraclecloud.com:97071",
-      "workday:jabil:/job/St-PetersburgTampa-FL/Computer-Systems-Analyst-Intern_J2464586-1",
-      "workday:markelcorp:/job/Richmond-VA/Markel-2027-IT-Internship-Program_R0023805",
-      "workday:mastercard:/job/Arlington-Virginia/Security-Infrastructure-Engineering---Architecture-Intern--Summer-2027---Arlington--VA--US_R-284924",
-      "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering_R10254930"
-    ],
-    "telegram": [
-      "oracle:emit.fa.ca3.oraclecloud.com:97071",
-      "workday:jabil:/job/St-PetersburgTampa-FL/Computer-Systems-Analyst-Intern_J2464586-1",
-      "workday:markelcorp:/job/Richmond-VA/Markel-2027-IT-Internship-Program_R0023805",
-      "workday:mastercard:/job/Arlington-Virginia/Security-Infrastructure-Engineering---Architecture-Intern--Summer-2027---Arlington--VA--US_R-284924",
-      "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering_R10254930"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
