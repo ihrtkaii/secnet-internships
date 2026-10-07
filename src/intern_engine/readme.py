@@ -277,7 +277,7 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         f"(https://github.com/{repo}/actions/workflows/ci.yml)&nbsp;"
         f"[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles"
         f"&query=open_total&url={stats_url}&color=2f81f7&style=flat-square)]({pages}/)&nbsp;"
-        "![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950"
+        "![Updates](https://img.shields.io/badge/updates-every%203%20hours-3fb950"
         "?style=flat-square)&nbsp;"
         f"[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)]"
         f"({pages}/feed.xml)",
@@ -297,9 +297,10 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         "",
         "</div>",
         "",
-        "Instead of refreshing a dozen career pages by hand, it reads company "
-        "hiring feeds directly and keeps one live list — newest roles on top, "
-        "refreshed automatically throughout the day.",
+        "This is my version of an open-source internship tracker, filtered to "
+        "security, networking, and infrastructure roles. It reads company hiring "
+        "feeds every 3 hours and keeps one list with the newest roles on top. "
+        f"Browse and search it on the [live dashboard]({pages}/).",
         "",
         "---",
         "",
@@ -309,8 +310,8 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         "every 3 hours, finds the internships, removes duplicates, and "
         "rebuilds this page on its own.",
         "",
-        "Every link comes straight from the source — so it's real and current, "
-        "not a stale list someone forgot to update. Speed matters.",
+        "Every link comes straight from the employer's own job board, so it "
+        "points to a live posting.",
         "",
         "## What makes this different",
         "",
@@ -326,7 +327,7 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
            "verified. |"] if has_radar else []),
         "| 🛂 **Visa intel, computed** | 🇺🇸 / 🛂 flags detected automatically from "
         "every job description, plus ✓ for employers with a real H-1B track "
-        "record (USCIS data, FY2022-23 — a history, not a promise). The big "
+        "record (USCIS data, FY2022-23: a history, not a promise). The big "
         "lists crowdsource this by hand; here it's code. Most postings say "
         "nothing either way, and those show as unknown rather than guessed. |",
         "| 📆 **A real date on nearly every role** | Taken from the job portal "
@@ -335,7 +336,7 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         "page every run. |",
         "| 🧰 **Skill tags + pay, extracted** | Every posting's text is scanned "
         "for the stack it wants (Python, C++, PyTorch, …) and the pay it "
-        f"states — searchable on the [dashboard]({pages}/), and included in the "
+        f"states, searchable on the [dashboard]({pages}/), and included in the "
         "CSV and API. |",
         f"| ⚙️ **An engine, not a spreadsheet** | {companies:,} job-board "
         f"endpoints ({(employers or companies):,} distinct employers; some run "
@@ -367,7 +368,7 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         # Collapsed by default: it's a reference legend, and expanded it pushed
         # the first actual role most of a screen further down.
         "<details>",
-        "<summary><b>Reading the table — flags, dates, and the cycle split</b>"
+        "<summary><b>Reading the table: flags, dates, and the cycle split</b>"
         " (click to expand)</summary>",
         "",
         "- Roles are grouped by cycle below - **newest posting on top, oldest at the bottom.**",
@@ -383,7 +384,7 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         "so they're linked individually (**Apply**, then **#2**, **#3**) "
         "instead of repeating the row. Counts still count requisitions, and "
         "the CSV export is never grouped.",
-        f"- **{REMOTE_MARK} after a company name** = **this role is remote** — "
+        f"- **{REMOTE_MARK} after a company name** = **this role is remote**: "
         "the posting's own location or title says so. It marks the role on that "
         "row, not the whole company.",
         "- **Flags after a role title:** 🇺🇸 = requires U.S. citizenship or a "
@@ -438,7 +439,7 @@ def _footer() -> list[str]:
         "## How this list is built",
         "",
         "[METHODOLOGY.md](METHODOLOGY.md) documents exactly what every label "
-        "claims — what separates a stated cycle from an inferred one, what the ✓ "
+        "claims: what separates a stated cycle from an inferred one, what the ✓ "
         "H-1B badge does and doesn't mean, how a role gets closed, and which "
         "limitations are known. Anything on this page that doesn't match the "
         "code is a bug worth reporting.",
@@ -448,7 +449,7 @@ def _footer() -> list[str]:
         "Adding a company takes one line, see [CONTRIBUTING.md](CONTRIBUTING.md), "
         "or just [open a request](../../issues/new?template=add-company.yml) with "
         "the board URL. **Spotted something wrong?** "
-        "[Report the exact field](../../issues/new?template=wrong-data.yml) — "
+        "[Report the exact field](../../issues/new?template=wrong-data.yml): "
         "wrong country, wrong cycle, closed role, bad sponsorship flag. Those "
         "reports usually fix a rule, which fixes every other role too.",
         "",
@@ -456,7 +457,7 @@ def _footer() -> list[str]:
         "[ARCHITECTURE.md](ARCHITECTURE.md) · [MIT licensed](LICENSE).",
         "",
         "Built by one student with AI assistance, in the open. The part that "
-        "matters isn't who typed it — it's that the rules, the tests, and every "
+        "matters isn't who typed it. It's that the rules, the tests, and every "
         "run's output are all public and checkable.",
         "",
         "## Note on dates",
@@ -542,11 +543,11 @@ def _radar_section(store_data: dict, cycle: str, cap: int = 30,
     lines = [
         '<a id="drop-radar"></a>',
         "",
-        f"## 📅 Drop Radar — when companies usually post for {cycle}",
+        f"## 📅 Drop Radar: when companies usually post for {cycle}",
         "",
         "Stop refreshing career pages. 🎯 = the employer's **own posted date**, "
         "read from their careers API. (We may have discovered the role after it "
-        "went live — the date is the employer's, not our discovery time.) "
+        "went live. The date is the employer's, not our discovery time.) "
         "The rest are typical opening "
         "**months**, hand-checked against each company's careers page and "
         "public recruiting guides. ✅ = already live in the list above.",
@@ -602,14 +603,14 @@ def _closed_section(store_data: dict, cycles: list[str],
     closed = closed[:cap]
     lines = [
         "<details>",
-        f"<summary><strong>Recently closed</strong> — {len(closed)} roles that "
+        f"<summary><strong>Recently closed</strong>: {len(closed)} roles that "
         f"left the list in the last {days} days</summary>",
         "",
         "_Why each one left is in the last column, because the two reasons carry "
         "different evidence. **Gone from feed** = two consecutive complete reads "
         "of the employer's board no longer returned it (strong, but not the "
         "employer telling us directly). **Out of scope** = still posted, but it no longer "
-        "passes our filters — our call, not theirs. **Not recorded** = closed "
+        "passes our filters. That's our call, not theirs. **Not recorded** = closed "
         "before we started tracking the reason._",
         "",
         "| Company | Role | Cycle | Closed | Why |",
@@ -720,8 +721,8 @@ def generate(store_data: dict, data_as_of: str | None = None) -> dict:
             lines.extend([
                 f"### Recently posted — cycle not stated  ({len(track_rolling)} roles)",
                 "",
-                "These postings never name a cycle — not in the title, not in the "
-                "posting text — so neither do we. They're recent tech internships "
+                "These postings never name a cycle, not in the title and not in the "
+                "posting text, so neither do we. They're recent tech internships "
                 "(posted within the last few weeks), often exactly the early drops "
                 "worth applying to first; we just can't tell you which cycle "
                 "they're for, and we'd rather say so than guess. The moment a "
