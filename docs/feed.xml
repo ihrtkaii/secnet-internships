@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-10-07T10:28:10Z</updated>
+  <updated>2026-10-07T19:14:57Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:97071</id>
+    <title>WSP: Electrical Engineering Intern (Mission Critical/Data Center) - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97071"/>
+    <updated>2026-10-07T19:14:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Herndon, VA, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jabil:/job/St-PetersburgTampa-FL/Computer-Systems-Analyst-Intern_J2464586-1</id>
+    <title>Jabil: Computer Systems Analyst Intern</title>
+    <link href="https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Computer-Systems-Analyst-Intern_J2464586-1"/>
+    <updated>2026-10-07T19:14:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · St. Petersburg/Tampa, FL · Python, SQL, GraphQL · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:mastercard:/job/Arlington-Virginia/Security-Infrastructure-Engineering---Architecture-Intern--Summer-2027---Arlington--VA--US_R-284924</id>
+    <title>Mastercard: Security Infrastructure Engineering &amp; Architecture Intern, Summer 2027 – Arlington, VA, US</title>
+    <link href="https://mastercard.wd1.myworkdayjobs.com/Campus/job/Arlington-Virginia/Security-Infrastructure-Engineering---Architecture-Intern--Summer-2027---Arlington--VA--US_R-284924"/>
+    <updated>2026-10-07T19:14:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Arlington, Virginia · $35–$46/hr · Python, Java</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:tenstorrentuniversity:5256686007</id>
     <title>Tenstorrent: AI SW Intern, Cloud, Infrastructure &amp; Data Centre Deployment</title>
@@ -782,29 +806,5 @@
     <updated>2026-09-28T05:35:43Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 · Python, C++, MATLAB</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:waymo:8231711</id>
-    <title>Waymo: 2027 Summer Intern, MS/PhD, Systems Engineer, Autonomous Vehicle Networks &amp; Diagnostics</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8231711"/>
-    <updated>2026-09-25T21:52:16Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Network / Telecom · Mountain View, CA, USA · Python, ROS · H-1B track record: ~284 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:americancentury:/job/Kansas-City-Missouri/Infrastructure-Automation-Engineer-Intern_R0005750</id>
-    <title>American Century Investments: Infrastructure Automation Engineer Intern 🛂</title>
-    <link href="https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Infrastructure-Automation-Engineer-Intern_R0005750"/>
-    <updated>2026-09-25T21:52:16Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Systems &amp; Cloud Infra · Kansas City, Missouri · Python, Bash, Terraform · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ceritypartners:/job/New-York-City-NY/Investment-Data---Technology-Analyst-Internship_R929</id>
-    <title>Cerity Partners: Investment Data &amp; Technology Analyst Internship</title>
-    <link href="https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Investment-Data---Technology-Analyst-Internship_R929"/>
-    <updated>2026-09-25T21:52:16Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · IT Support / Ops · New York City, NY · SQL, Tableau</summary>
   </entry>
 </feed>

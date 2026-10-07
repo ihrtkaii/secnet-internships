@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-07T10:28:10Z",
- "data_as_of": "2026-10-07T10:28:10Z",
- "rendered_at": "2026-10-07T10:28:10Z",
+ "generated_at": "2026-10-07T19:14:57Z",
+ "data_as_of": "2026-10-07T19:14:57Z",
+ "rendered_at": "2026-10-07T19:14:57Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -454,6 +454,25 @@
    "days_until": -44,
    "status": "open",
    "url": "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Cybersecurity-Intern---Summer-2027_REQ742",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-24"
+   }
+  },
+  {
+   "company": "Markel Group, Inc.",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-24",
+   "days_until": -44,
+   "status": "open",
+   "url": "https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Richmond-VA/Markel-2027-IT-Internship-Program_R0023805",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2476,6 +2495,44 @@
    }
   },
   {
+   "company": "Jabil",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-07",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Computer-Systems-Analyst-Intern_J2464586-1",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-07"
+   }
+  },
+  {
+   "company": "WSP",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-07",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97071",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-07"
+   }
+  },
+  {
    "company": "APEX Analytix",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -2510,25 +2567,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-08-03"
-   }
-  },
-  {
-   "company": "Markel Group, Inc.",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-24",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-24",
-   "days_until": -44,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-24"
    }
   },
   {
@@ -2760,5 +2798,5 @@
    }
   }
  ],
- "count": 145
+ "count": 147
 }

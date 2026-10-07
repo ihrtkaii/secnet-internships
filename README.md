@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/ihrtkaii/secnet-internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/ihrtkaii/secnet-internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fihrtkaii.github.io%2Fsecnet-internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://ihrtkaii.github.io/secnet-internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://ihrtkaii.github.io/secnet-internships/feed.xml)
 
-### 552 open roles (492 listed below) · 79 new this week
+### 557 open roles (496 listed below) · 75 new this week
 
-4,713 employers tracked · data as of Oct 07, 2026 at 10:28 UTC
+4,719 employers tracked · data as of Oct 07, 2026 at 19:14 UTC
 
-_393 have a cycle the employer stated · 159 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_398 have a cycle the employer stated · 159 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://ihrtkaii.github.io/secnet-internships/)** · **[📡 RSS](https://ihrtkaii.github.io/secnet-internships/feed.xml)** · **[⚙️ JSON API](https://ihrtkaii.github.io/secnet-internships/api/jobs.json)**
 
@@ -34,7 +34,7 @@ Every link comes straight from the source — so it's real and current, not a st
 | 🛂 **Visa intel, computed** | 🇺🇸 / 🛂 flags detected automatically from every job description, plus ✓ for employers with a real H-1B track record (USCIS data, FY2022-23 — a history, not a promise). The big lists crowdsource this by hand; here it's code. Most postings say nothing either way, and those show as unknown rather than guessed. |
 | 📆 **A real date on nearly every role** | Taken from the job portal itself wherever the portal states one, so newest-first actually means newest. The exact coverage figure is printed at the bottom of this page every run. |
 | 🧰 **Skill tags + pay, extracted** | Every posting's text is scanned for the stack it wants (Python, C++, PyTorch, …) and the pay it states — searchable on the [dashboard](https://ihrtkaii.github.io/secnet-internships/), and included in the CSV and API. |
-| ⚙️ **An engine, not a spreadsheet** | 4,991 job-board endpoints (4,713 distinct employers; some run more than one board) polled every 3 hours across 12 ATS platforms. Full source and tests in this repo. |
+| ⚙️ **An engine, not a spreadsheet** | 4,997 job-board endpoints (4,719 distinct employers; some run more than one board) polled every 3 hours across 12 ATS platforms. Full source and tests in this repo. |
 
 ## Scope
 
@@ -69,10 +69,11 @@ This tracks security and networking internships specifically, because the major 
 
 ## 🔐 Security
 
-### Summer 2027  (104 employer-stated)
+### Summer 2027  (105 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Mastercard | Security Infrastructure Engineering & Architecture Intern, Summer 2027 – Arlington, VA, US 🆕 | Security (general) | Arlington, Virginia | Python, Java | Oct 07, 2026 | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/Arlington-Virginia/Security-Infrastructure-Engineering---Architecture-Intern--Summer-2027---Arlington--VA--US_R-284924) |
 | MEMX | Information Security Intern, Summer 2027 (Hybrid) 🆕 | Security (general) | United States | AWS, Azure | Oct 06, 2026 | [Apply](https://job-boards.greenhouse.io/memx/jobs/5445236008) |
 | CACI | Cyber Analyst Intern - Summer 2027 🆕 | Security (general) | Ashburn, VA, US | Linux | Oct 06, 2026 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Cyber-Analyst-Intern---Summer-2027_333161) |
 | Dmainc | Cybersecurity Intern - Summer 2027 🆕 | Security (general) | Fort Wayne, IN | No skills listed | Oct 06, 2026 | [Apply](https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Cybersecurity-Intern---Summer-2027_REQ742) |
@@ -249,10 +250,13 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 ## 🌐 Network & Infrastructure
 
-### Summer 2027  (186 employer-stated)
+### Summer 2027  (189 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| WSP | Electrical Engineering Intern (Mission Critical/Data Center) - Summer 2027 🆕 | Systems & Cloud Infra | Herndon, VA, United States | No skills listed | Oct 07, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97071) |
+| Jabil ✓ | Computer Systems Analyst Intern 🆕 | Systems & Cloud Infra | St. Petersburg/Tampa, FL | Python, SQL, GraphQL | Oct 07, 2026 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Computer-Systems-Analyst-Intern_J2464586-1) |
+| Mastercard | Security Infrastructure Engineering & Architecture Intern, Summer 2027 – Arlington, VA, US 🆕 | Security (general) | Arlington, Virginia | Python, Java | Oct 07, 2026 | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/Arlington-Virginia/Security-Infrastructure-Engineering---Architecture-Intern--Summer-2027---Arlington--VA--US_R-284924) |
 | MEMX | Network Engineering Intern, Summer 2027 (Hybrid) 🆕 | Network / Telecom | United States | Python, Linux | Oct 06, 2026 | [Apply](https://job-boards.greenhouse.io/memx/jobs/5446002008) |
 | Duke Energy | Local IT Support Internship (Huntersville, NC) - Summer 2027 🆕 | IT Support / Ops | Huntersville, NC | No skills listed | Oct 06, 2026 | [Apply](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Huntersville-NC/Local-IT-Support-Internship--Huntersville--NC----Summer-2027_R41895) |
 | Leidos ✓ | Systems Engineer Intern 🇺🇸 🆕 | Systems & Cloud Infra | Arlington, VA | Computer Vision, Git | Oct 06, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Systems-Engineer-Intern_R-00193940) |
@@ -566,7 +570,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 ## 🗂️ Other
 
-### Summer 2027  (11 employer-stated)
+### Summer 2027  (12 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -577,6 +581,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | TJX | IT Engineer Internship - Summer 2027 | Other | Marlborough, MA 01752 | No skills listed | Sep 04, 2026 | [Apply](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Marlborough-MA-01752/IT-Engineer-Internship---Summer-2027_REQ153160) |
 | Vanguard | College to Corporate IT Internship - Application Development  (TX) 🛂 | Other | Dallas/Ft. Worth, TX | Python, Java, JavaScript | Sep 01, 2026 | [Apply](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/DallasFt-Worth-TX/College-to-Corporate-IT-Internship---Application-Development---TX-_181846) |
 | Elanco | Junior IT Engineer – Information Technology Intern (Summer 2027) | Other | Indianapolis, IN | No skills listed | Aug 31, 2026 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Junior-IT-Engineer---Information-Technology-Intern--Summer-2027-_R0026986-1) |
+| Markel Group, Inc. | Markel 2027 IT Internship Program 🛂 | Other | Richmond, VA | No skills listed | Aug 24, 2026 | [Apply](https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Richmond-VA/Markel-2027-IT-Internship-Program_R0023805) |
 | Vanguard | College to Corporate IT Internship - Technology Operations (NC) | Other | Charlotte, NC | No skills listed | Aug 17, 2026 | [Apply](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Technology-Operations--NC-_177674-1) |
 | Vanguard | College to Corporate IT Internship - Application Development (NC) _(2 openings)_ | Other | Charlotte, NC | No skills listed | Aug 17, 2026 | [Apply](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Application-Development--NC-_177681-1) [#2](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship-Application-Development--NC-_182781) |
 | Vanguard | College to Corporate IT Internship - Data Analyst (NC) _(2 openings)_ | Other | Charlotte, NC | No skills listed | Aug 17, 2026 | [Apply](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_177677-1) [#2](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_181767) |
@@ -611,14 +616,14 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 | 🎯 RTX | Aug 04 | dropped Aug 04 | ✅ [open now](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/XMLNAME-2027-Network-Engineering-Intern_01877666) |
 | 🎯 Fifth Third Bank | Aug 06 | dropped Aug 06 | ✅ [open now](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582) |
 | 🎯 CNO Financial Group | Aug 03 | dropped Aug 03 · closed | 🗓️ dropped |
-| 🎯 Markel Group, Inc. | Aug 24 | dropped Aug 24 · closed | 🗓️ dropped |
 | 🎯 Grant Thornton | Aug 25 | dropped Aug 25 · closed | 🗓️ dropped |
 | 🎯 MKS Instruments | Aug 26 | dropped Aug 26 · closed | 🗓️ dropped |
+| 🎯 Workiva | Aug 27 | dropped Aug 27 · closed | 🗓️ dropped |
 
-_145 companies on the [full radar](https://ihrtkaii.github.io/secnet-internships/#radar). **145** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
+_147 companies on the [full radar](https://ihrtkaii.github.io/secnet-internships/#radar). **147** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 23 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 22 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
@@ -627,7 +632,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | Robinhood | Offensive Security Intern (Summer 2027) | Summer 2027 | 2026-10-07 | gone from feed |
 | Olsson | Electrical Engineering Internship - Federal Infrastructure | Summer 2027 | 2026-10-07 | gone from feed |
 | Mastercard | Platform Engineering Intern, Summer 2027 – St. Louis, MO, US | Summer 2027 | 2026-10-06 | gone from feed |
-| Markel Group, Inc. | Markel 2027 IT Internship Program | Summer 2027 | 2026-10-05 | gone from feed |
 | Brown Brothers Harriman | 2027 Internal Audit - Information Technology & Cybersecurity Summer Internship | Summer 2027 | 2026-10-03 | gone from feed |
 | CoStar Group | Security Engineer Intern - Arlington, VA | Summer 2027 | 2026-10-02 | gone from feed |
 | Workiva | Spring & Summer 2027 Intern - Security & GRC | Summer 2027 | 2026-10-02 | gone from feed |
@@ -665,7 +669,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,504 of 4,991 registered boards returned successfully across 12 ATS platforms (96% of boards attempted, 90% of the full registry) · completed in 1089.2s · 591 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,582 of 4,997 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 1281.8s · 620 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 

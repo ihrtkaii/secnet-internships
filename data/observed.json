@@ -1095,6 +1095,18 @@
     }
    }
   },
+  "jabil": {
+   "name": "Jabil",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-07",
+     "role_ids": [
+      "workday:jabil:/job/St-PetersburgTampa-FL/Computer-Systems-Analyst-Intern_J2464586-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "keybank": {
    "name": "KeyBank",
    "cycles": {
@@ -1238,6 +1250,7 @@
     "Summer 2027": {
      "first_posted": "2026-08-31",
      "role_ids": [
+      "workday:mastercard:/job/Arlington-Virginia/Security-Infrastructure-Engineering---Architecture-Intern--Summer-2027---Arlington--VA--US_R-284924",
       "workday:mastercard:/job/OFallon-Missouri/Corporate-Security-Operations-Intern--Summer-2027---St-Louis--MO--US_R-284925",
       "workday:mastercard:/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284868",
       "workday:mastercard:/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284873",
@@ -1246,7 +1259,7 @@
       "workday:mastercard:/job/OFallon-Missouri/Security-Engineering---Enablement-Intern--Summer-2027---St-Louis--MO--US_R-284927",
       "workday:mastercard:/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -1475,6 +1488,7 @@
       "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027--Systems-Engineer-Intern---Colorado-Springs-CO_R10249777",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering---Nuclear-Survivability-Ionizing-Radiation_R10251198",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering_R10247434",
+      "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering_R10254930",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Security-Cybersecurity-Engineer_R10252418",
       "workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530",
       "workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196",
@@ -1486,7 +1500,7 @@
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Engineering-Intern--Roy-UT_R10248475",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Security-Engineering-Intern---Roy-UT_R10249815"
      ],
-     "count": 20
+     "count": 21
     },
     "Fall 2026": {
      "first_posted": "2026-08-31",
@@ -2112,6 +2126,18 @@
     }
    }
   },
+  "wsp": {
+   "name": "WSP",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-07",
+     "role_ids": [
+      "oracle:emit.fa.ca3.oraclecloud.com:97071"
+     ],
+     "count": 1
+    }
+   }
+  },
   "x energy": {
    "name": "X-energy",
    "cycles": {
@@ -2162,5 +2188,5 @@
    }
   }
  },
- "updated_at": "2026-10-07T10:28:10Z"
+ "updated_at": "2026-10-07T19:14:57Z"
 }
