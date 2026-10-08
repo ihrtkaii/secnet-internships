@@ -1,18 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:hcsc:/job/IL---Downers-Grove/Early-Careers---Systems-Analyst-Intern--Downers-Grove-_R0059499",
-      "workday:hpe:/job/Sunnyvale-California-United-States-of-America/Networking--Power--Intern_1214229",
-      "workday:alliance:/job/Canton-Mississippi---United-States-of-America/Systems-Engineer-Intern---Summer-2027---Canton--MS_R00214882",
-      "workday:alliance:/job/Franklin-Tennessee---United-States-of-America/IS-IT-Intern---Summer-2027---Franklin--TN_R00214212",
-      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Network-Systems-Grad-Intern_R016836"
-    ],
-    "telegram": [
-      "workday:hcsc:/job/IL---Downers-Grove/Early-Careers---Systems-Analyst-Intern--Downers-Grove-_R0059499",
-      "workday:hpe:/job/Sunnyvale-California-United-States-of-America/Networking--Power--Intern_1214229",
-      "workday:alliance:/job/Canton-Mississippi---United-States-of-America/Systems-Engineer-Intern---Summer-2027---Canton--MS_R00214882",
-      "workday:alliance:/job/Franklin-Tennessee---United-States-of-America/IS-IT-Intern---Summer-2027---Franklin--TN_R00214212",
-      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Network-Systems-Grad-Intern_R016836"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
