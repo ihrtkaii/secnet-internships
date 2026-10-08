@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-10-07T19:14:57Z</updated>
+  <updated>2026-10-08T01:16:28Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:hcsc:/job/IL---Downers-Grove/Early-Careers---Systems-Analyst-Intern--Downers-Grove-_R0059499</id>
+    <title>HCSC: Early Careers - Systems Analyst Intern (Downers Grove) 🛂</title>
+    <link href="https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Downers-Grove/Early-Careers---Systems-Analyst-Intern--Downers-Grove-_R0059499"/>
+    <updated>2026-10-08T01:16:28Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · IL - Downers Grove · Python, Java · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hpe:/job/Sunnyvale-California-United-States-of-America/Networking--Power--Intern_1214229</id>
+    <title>Hewlett Packard Enterprise: Networking (Power) Intern</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Networking--Power--Intern_1214229"/>
+    <updated>2026-10-08T01:16:28Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Network / Telecom · Sunnyvale, California, United States of America · Python, Java, C++, HTML/CSS · H-1B track record: ~499 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:alliance:/job/Canton-Mississippi---United-States-of-America/Systems-Engineer-Intern---Summer-2027---Canton--MS_R00214882</id>
+    <title>Nissan: Systems Engineer Intern - Summer 2027 - Canton, MS 🛂</title>
+    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Canton-Mississippi---United-States-of-America/Systems-Engineer-Intern---Summer-2027---Canton--MS_R00214882"/>
+    <updated>2026-10-08T01:16:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Canton, Mississippi - United States of America · Python, C#, SQL · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:alliance:/job/Franklin-Tennessee---United-States-of-America/IS-IT-Intern---Summer-2027---Franklin--TN_R00214212</id>
+    <title>Nissan: IS/IT Intern - Summer 2027 - Franklin, TN 🛂</title>
+    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/IS-IT-Intern---Summer-2027---Franklin--TN_R00214212"/>
+    <updated>2026-10-08T01:16:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · IT Support / Ops · Franklin, Tennessee - United States of America · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Network-Systems-Grad-Intern_R016836</id>
+    <title>The Aerospace Corporation: 2027 Network Systems Grad Intern 🇺🇸</title>
+    <link href="https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Network-Systems-Grad-Intern_R016836"/>
+    <updated>2026-10-08T01:16:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Network / Telecom · El Segundo, CA · Python, C++ · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:97071</id>
     <title>WSP: Electrical Engineering Intern (Mission Critical/Data Center) - Summer 2027</title>
@@ -766,45 +806,5 @@
     <updated>2026-09-28T13:59:10Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · Irving, TX, United States · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260836</id>
-    <title>GM financial: Intern - Cybersecurity</title>
-    <link href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260836"/>
-    <updated>2026-09-28T13:59:10Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Arlington, TX, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:interdigital:/job/Conshohocken-PA/Intern--IT-Infrastructure_REQ26-1141</id>
-    <title>Interdigital: Intern, IT Infrastructure</title>
-    <link href="https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Conshohocken-PA/Intern--IT-Infrastructure_REQ26-1141"/>
-    <updated>2026-09-28T13:59:10Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Systems &amp; Cloud Infra · Conshohocken, PA · Python, AWS, Azure, Terraform, Linux · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:fox:/job/Chicago-Illinois-USA/Summer-2027-FOX-Sports---Big-Ten-Network---Internship-Program---Chicago--IL_R50033970</id>
-    <title>FOX: Summer 2027 FOX Sports - Big Ten Network - Internship Program - Chicago, IL</title>
-    <link href="https://fox.wd1.myworkdayjobs.com/Domestic/job/Chicago-Illinois-USA/Summer-2027-FOX-Sports---Big-Ten-Network---Internship-Program---Chicago--IL_R50033970"/>
-    <updated>2026-09-28T05:35:43Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Network / Telecom · Chicago, Illinois, USA · $20/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/A2G-2027-Summer-Fall-Co-op---Systems-Engineering---Onsite_01869258</id>
-    <title>RTX: A2G 2027 Summer/Fall Co-op - Systems Engineering - Onsite 🛂</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/A2G-2027-Summer-Fall-Co-op---Systems-Engineering---Onsite_01869258"/>
-    <updated>2026-09-28T05:35:43Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op---Systems-Engineering--Onsite-_01868438</id>
-    <title>RTX: 2027 Summer-Fall Co-op - Systems Engineering (Onsite)</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op---Systems-Engineering--Onsite-_01868438"/>
-    <updated>2026-09-28T05:35:43Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 · Python, C++, MATLAB</summary>
   </entry>
 </feed>

@@ -109,10 +109,11 @@
     "Summer 2027": {
      "first_posted": "2026-09-14",
      "role_ids": [
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Network-Systems-Grad-Intern_R016836",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Graduate-Intern_R016527",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Undergraduate-Intern_R016530"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1472,6 +1473,19 @@
     }
    }
   },
+  "nissan": {
+   "name": "Nissan",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-07",
+     "role_ids": [
+      "workday:alliance:/job/Canton-Mississippi---United-States-of-America/Systems-Engineer-Intern---Summer-2027---Canton--MS_R00214882",
+      "workday:alliance:/job/Franklin-Tennessee---United-States-of-America/IS-IT-Intern---Summer-2027---Franklin--TN_R00214212"
+     ],
+     "count": 2
+    }
+   }
+  },
   "northrop grumman": {
    "name": "Northrop Grumman",
    "cycles": {
@@ -2188,5 +2202,5 @@
    }
   }
  },
- "updated_at": "2026-10-07T19:14:57Z"
+ "updated_at": "2026-10-08T01:16:28Z"
 }
