@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-08T01:16:28Z",
- "data_as_of": "2026-10-08T01:16:28Z",
- "rendered_at": "2026-10-08T01:16:29Z",
+ "generated_at": "2026-10-08T10:44:26Z",
+ "data_as_of": "2026-10-08T10:44:26Z",
+ "rendered_at": "2026-10-08T10:44:26Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -1669,7 +1669,7 @@
    "expected": "2026-09-14",
    "days_until": -24,
    "status": "open",
-   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Graduate-Intern_R016527",
+   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Network-Systems-Grad-Intern_R016836",
    "note": "",
    "provenance": {
     "type": "engine-observed",
