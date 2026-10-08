@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-08T10:44:26Z",
- "data_as_of": "2026-10-08T10:44:26Z",
- "rendered_at": "2026-10-08T10:44:26Z",
+ "generated_at": "2026-10-08T19:05:45Z",
+ "data_as_of": "2026-10-08T19:05:45Z",
+ "rendered_at": "2026-10-08T19:05:46Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -2476,6 +2476,25 @@
    }
   },
   {
+   "company": "Apple Bank",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-07",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/XMLNAME-2027-Summer-Intern--Information-Security_2026-1416",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-07"
+   }
+  },
+  {
    "company": "Jabil",
    "last_cycle_posted": "",
    "posted_on": "2026-10-07",
@@ -2817,5 +2836,5 @@
    }
   }
  ],
- "count": 148
+ "count": 149
 }

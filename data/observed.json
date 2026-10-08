@@ -241,6 +241,18 @@
     }
    }
   },
+  "apple bank": {
+   "name": "Apple Bank",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-07",
+     "role_ids": [
+      "workday:applebank:/job/New-York-NY/XMLNAME-2027-Summer-Intern--Information-Security_2026-1416"
+     ],
+     "count": 1
+    }
+   }
+  },
   "armanino": {
    "name": "Armanino",
    "cycles": {
@@ -1496,6 +1508,7 @@
       "workday:ngc:/job/United-States-Arizona-Chandler/XMLNAME-2027-Systems-Engineering-Intern---Chandler-AZ_R10253325",
       "workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Systems-Engineer-Intern---Gilbert-AZ_R10249114-1",
       "workday:ngc:/job/United-States-California-Azusa/XMLNAME-2027-Systems-Engineer-Intern---Azusa-CA_R10249123",
+      "workday:ngc:/job/United-States-California-McClellan/XMLNAME-2027-Systems-Engineer-Intern---McClellan-CA_R10255163",
       "workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-Systems-Engineer-Intern---Redondo-Beach-CA_R10249113",
       "workday:ngc:/job/United-States-California-Woodland-Hills/XMLNAME-2027-Systems-Engineer-Intern---Woodland-Hills-CA_R10249319-1",
       "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Cybersecurity-Analyst-Intern----Boulder-CO_R10248677",
@@ -1515,7 +1528,7 @@
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Engineering-Intern--Roy-UT_R10248475",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Security-Engineering-Intern---Roy-UT_R10249815"
      ],
-     "count": 22
+     "count": 23
     },
     "Fall 2026": {
      "first_posted": "2026-08-31",
@@ -1891,9 +1904,10 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1008055",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008077",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008089",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008180"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008180",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008210"
      ],
-     "count": 17
+     "count": 18
     },
     "Fall 2026": {
      "first_posted": "2026-09-02",
@@ -2203,5 +2217,5 @@
    }
   }
  },
- "updated_at": "2026-10-08T10:44:26Z"
+ "updated_at": "2026-10-08T19:05:45Z"
 }
