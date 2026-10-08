@@ -1,20 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008210",
-      "workday:applebank:/job/New-York-NY/XMLNAME-2027-Summer-Intern--Information-Security_2026-1416",
-      "workday:rhsc:/job/Okemos-MI/Internship--Government-Programs-Network_JR101489-1",
-      "workday:gfs:/job/Wyoming-Michigan/Software-Engineer-Intern--Transportation-Routing--_R-58374",
-      "workday:hcsc:/job/TX---Richardson/Early-Careers---Security-Data-Classification-Intern_R0059513",
-      "workday:ngc:/job/United-States-California-McClellan/XMLNAME-2027-Systems-Engineer-Intern---McClellan-CA_R10255163"
-    ],
-    "telegram": [
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008210",
-      "workday:applebank:/job/New-York-NY/XMLNAME-2027-Summer-Intern--Information-Security_2026-1416",
-      "workday:rhsc:/job/Okemos-MI/Internship--Government-Programs-Network_JR101489-1",
-      "workday:gfs:/job/Wyoming-Michigan/Software-Engineer-Intern--Transportation-Routing--_R-58374",
-      "workday:hcsc:/job/TX---Richardson/Early-Careers---Security-Data-Classification-Intern_R0059513",
-      "workday:ngc:/job/United-States-California-McClellan/XMLNAME-2027-Systems-Engineer-Intern---McClellan-CA_R10255163"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
