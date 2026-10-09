@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-10-08T19:05:45Z</updated>
+  <updated>2026-10-09T01:27:18Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
     <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008210</id>
@@ -22,14 +22,6 @@
     <updated>2026-10-08T19:05:45Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · New York, NY · $24/hr · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:rhsc:/job/Okemos-MI/Internship--Government-Programs-Network_JR101489-1</id>
-    <title>Delta Dental: Internship- Government Programs Network</title>
-    <link href="https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship--Government-Programs-Network_JR101489-1"/>
-    <updated>2026-10-08T19:05:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Network / Telecom · Okemos, MI</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:gfs:/job/Wyoming-Michigan/Software-Engineer-Intern--Transportation-Routing--_R-58374</id>
@@ -54,6 +46,14 @@
     <updated>2026-10-08T19:05:45Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · United States-California-McClellan · $21.5–$39/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:rhsc:/job/Okemos-MI/Internship--Government-Programs-Network_JR101489-1</id>
+    <title>Delta Dental: Internship- Government Programs Network</title>
+    <link href="https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship--Government-Programs-Network_JR101489-1"/>
+    <updated>2026-10-08T19:05:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Network / Telecom · Okemos, MI</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Electrical-Systems-Engineer-Intern---Baltimore-MD_R10255010</id>
