@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-10-09T01:27:18Z</updated>
+  <updated>2026-10-09T10:44:39Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:cva.fa.us1.oraclecloud.com:10479</id>
+    <title>Standard Aero: Intern, IT Analyst: Summer</title>
+    <link href="https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10479"/>
+    <updated>2026-10-09T10:44:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Other · Cincinnati, OH, United States · SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:cva.fa.us1.oraclecloud.com:10255</id>
+    <title>Standard Aero: Co-op, IT Analyst: Spring</title>
+    <link href="https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10255"/>
+    <updated>2026-10-09T10:44:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Other · Cincinnati, OH, United States · SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hpe:/job/San-Jose-California-United-States-of-America/Wireless-Networking-Intern_1214969</id>
+    <title>Hewlett Packard Enterprise: Wireless Networking Intern</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Wireless-Networking-Intern_1214969"/>
+    <updated>2026-10-09T10:44:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Network / Telecom · San Jose, California, United States of America · Python, SQL, Bash, PyTorch, TensorFlow · H-1B track record: ~499 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008210</id>
     <title>Stantec: Civil/Transportation Engineering Intern - Infrastructure (Summer 2027)</title>
@@ -782,29 +806,5 @@
     <updated>2026-09-29T09:59:47Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Network / Telecom · Irving, Texas · LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:acluinternships:8842752002</id>
-    <title>ACLU Kentucky: Summer 2027 Undergraduate Intern, National Security Project</title>
-    <link href="https://job-boards.greenhouse.io/acluinternships/jobs/8842752002"/>
-    <updated>2026-09-28T21:31:18Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · New York, NY · $24/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:waymo:8234670</id>
-    <title>Waymo: 2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8234670"/>
-    <updated>2026-09-28T21:31:18Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · SOC / Detection · San Francisco, California · Python, SQL · H-1B track record: ~284 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Research-Internship--Summer-2027----Onsite_01872177</id>
-    <title>RTX: Cyber Research Internship (Summer 2027) - Onsite 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Research-Internship--Summer-2027----Onsite_01872177"/>
-    <updated>2026-09-28T21:31:18Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · US-IA-CEDAR RAPIDS-166 ~ 855 35Th St NE ~ BLDG 166 · Python, C++ · sponsorship: citizens-only</summary>
   </entry>
 </feed>

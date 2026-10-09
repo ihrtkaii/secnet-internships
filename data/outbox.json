@@ -1,6 +1,14 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:cva.fa.us1.oraclecloud.com:10479",
+      "oracle:cva.fa.us1.oraclecloud.com:10255",
+      "workday:hpe:/job/San-Jose-California-United-States-of-America/Wireless-Networking-Intern_1214969"
+    ],
+    "telegram": [
+      "oracle:cva.fa.us1.oraclecloud.com:10479",
+      "oracle:cva.fa.us1.oraclecloud.com:10255",
+      "workday:hpe:/job/San-Jose-California-United-States-of-America/Wireless-Networking-Intern_1214969"
+    ]
   }
 }
