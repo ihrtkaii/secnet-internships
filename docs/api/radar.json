@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-09T10:44:39Z",
- "data_as_of": "2026-10-09T10:44:39Z",
- "rendered_at": "2026-10-09T10:44:40Z",
+ "generated_at": "2026-10-09T18:38:39Z",
+ "data_as_of": "2026-10-09T18:38:39Z",
+ "rendered_at": "2026-10-09T18:38:40Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -2552,6 +2552,25 @@
    }
   },
   {
+   "company": "Allison Transmission",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-09",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/IT-Security-Analyst-Internship---Summer-2027_R008295",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-09"
+   }
+  },
+  {
    "company": "APEX Analytix",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -2836,5 +2855,5 @@
    }
   }
  ],
- "count": 149
+ "count": 150
 }

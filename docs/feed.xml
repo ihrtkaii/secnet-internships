@@ -5,20 +5,68 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-10-09T10:44:39Z</updated>
+  <updated>2026-10-09T18:38:39Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
   <entry>
-    <id>urn:intern-engine:oracle:cva.fa.us1.oraclecloud.com:10479</id>
-    <title>Standard Aero: Intern, IT Analyst: Summer</title>
-    <link href="https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10479"/>
-    <updated>2026-10-09T10:44:39Z</updated>
+    <id>urn:intern-engine:ashby:eightsleep:0ae8cdbe-8100-4f59-b702-16d836ab5550</id>
+    <title>Eight Sleep: Security &amp; IT Intern 🛂</title>
+    <link href="https://jobs.ashbyhq.com/eightsleep/0ae8cdbe-8100-4f59-b702-16d836ab5550"/>
+    <updated>2026-10-09T18:38:39Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Other · Cincinnati, OH, United States · SQL</summary>
+    <summary>Not stated · Security (general) · Remote - US · Python, Git · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:allisontransmission:/job/Indianapolis-IN/IT-Security-Analyst-Internship---Summer-2027_R008295</id>
+    <title>Allison Transmission: IT Security Analyst Internship - Summer 2027</title>
+    <link href="https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/IT-Security-Analyst-Internship---Summer-2027_R008295"/>
+    <updated>2026-10-09T18:38:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Indianapolis, IN · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:arcesiumllc:5257199007</id>
+    <title>Arcesium: Infrastructure Engineer Intern</title>
+    <link href="https://job-boards.greenhouse.io/arcesiumllc/jobs/5257199007"/>
+    <updated>2026-10-09T18:38:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · New York · Python, Java, LLMs, AWS, Kubernetes · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000154757409</id>
+    <title>Bosch: Information Security and Privacy Intern</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000154757409"/>
+    <updated>2026-10-09T18:38:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Farmington Hills, MI, United States · LLMs · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:alliance:/job/Franklin-Tennessee---United-States-of-America/EA---Cloud-Intern---Summer-2027---Franklin--TN_R00214214</id>
+    <title>Nissan: EA &amp; Cloud Intern - Summer 2027 - Franklin, TN 🛂</title>
+    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/EA---Cloud-Intern---Summer-2027---Franklin--TN_R00214214"/>
+    <updated>2026-10-09T18:38:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Cloud Platform · Franklin, Tennessee - United States of America · Python, LLMs, AWS, Git · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:alliance:/job/Franklin-Tennessee---United-States-of-America/Corporate-Security-Intern---Summer-2027---Franklin--TN_R00214220</id>
+    <title>Nissan: Corporate Security Intern - Summer 2027 - Franklin, TN 🛂</title>
+    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Corporate-Security-Intern---Summer-2027---Franklin--TN_R00214220"/>
+    <updated>2026-10-09T18:38:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Franklin, Tennessee - United States of America · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:cva.fa.us1.oraclecloud.com:10255</id>
     <title>Standard Aero: Co-op, IT Analyst: Spring</title>
     <link href="https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10255"/>
+    <updated>2026-10-09T10:44:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Other · Cincinnati, OH, United States · SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:cva.fa.us1.oraclecloud.com:10479</id>
+    <title>Standard Aero: Intern, IT Analyst: Summer</title>
+    <link href="https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10479"/>
     <updated>2026-10-09T10:44:39Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Other · Cincinnati, OH, United States · SQL</summary>
@@ -153,7 +201,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:tenstorrentuniversity:5256686007</id>
-    <title>Tenstorrent: AI SW Intern, Cloud, Infrastructure &amp; Data Centre Deployment</title>
+    <title>Tenstorrent: AI Software Intern - Cloud, Infrastructure &amp; Data Centre Deployment (USA)</title>
     <link href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256686007"/>
     <updated>2026-10-07T10:28:10Z</updated>
     <category term="Not stated"/>
@@ -758,53 +806,5 @@
     <updated>2026-09-29T18:22:32Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · New Haven, CT, United States; Hartford, CT, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:marvell:/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1</id>
-    <title>Marvell: AI-Native Development Platform Engineer Intern, MS - Summer 2027</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1"/>
-    <updated>2026-09-29T18:22:32Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Santa Clara, CA · Python, Java, C#, TypeScript, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Display-Systems-Engineering-Co-Op--Summer-Fall-2027----Onsite_01868917</id>
-    <title>RTX: Display Systems Engineering Co-Op (Summer/Fall 2027) - Onsite</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Display-Systems-Engineering-Co-Op--Summer-Fall-2027----Onsite_01868917"/>
-    <updated>2026-09-29T09:59:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-106 ~ 400 Collins Rd NE ~ BLDG 106 · Python, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Display-Systems-Engineering-Co-op--Spring-Summer-2027----Onsite_01870090</id>
-    <title>RTX: Display Systems Engineering Co-op (Spring/Summer 2027) - Onsite</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Display-Systems-Engineering-Co-op--Spring-Summer-2027----Onsite_01870090"/>
-    <updated>2026-09-29T09:59:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-106 ~ 400 Collins Rd NE ~ BLDG 106 · Python, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineer---Spring-Summer-Co-op-2027----Onsite-_01871506</id>
-    <title>RTX: Systems Engineer - Spring/Summer Co-op 2027 - (Onsite)</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineer---Spring-Summer-Co-op-2027----Onsite-_01871506"/>
-    <updated>2026-09-29T09:59:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:verizon:/job/Irving-Texas/Verizon-Network-and-Technology--Business-Intelligence-Summer-2027-Internship_R-1101387</id>
-    <title>Verizon Communications: Verizon Network and Technology: Business Intelligence Summer 2027 Internship</title>
-    <link href="https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Business-Intelligence-Summer-2027-Internship_R-1101387"/>
-    <updated>2026-09-29T09:59:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Network / Telecom · Irving, Texas · LLMs, GCP, Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:verizon:/job/Irving-Texas/Verizon-Network-and-Technology--Data-Science-Summer-2027-Internship_R-1101384</id>
-    <title>Verizon Communications: Verizon Network and Technology: Data Science Summer 2027 Internship</title>
-    <link href="https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Data-Science-Summer-2027-Internship_R-1101384"/>
-    <updated>2026-09-29T09:59:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Network / Telecom · Irving, Texas · LLMs</summary>
   </entry>
 </feed>

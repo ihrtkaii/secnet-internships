@@ -1,6 +1,20 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "ashby:eightsleep:0ae8cdbe-8100-4f59-b702-16d836ab5550",
+      "workday:allisontransmission:/job/Indianapolis-IN/IT-Security-Analyst-Internship---Summer-2027_R008295",
+      "greenhouse:arcesiumllc:5257199007",
+      "smartrecruiters:BoschGroup:744000154757409",
+      "workday:alliance:/job/Franklin-Tennessee---United-States-of-America/EA---Cloud-Intern---Summer-2027---Franklin--TN_R00214214",
+      "workday:alliance:/job/Franklin-Tennessee---United-States-of-America/Corporate-Security-Intern---Summer-2027---Franklin--TN_R00214220"
+    ],
+    "telegram": [
+      "ashby:eightsleep:0ae8cdbe-8100-4f59-b702-16d836ab5550",
+      "workday:allisontransmission:/job/Indianapolis-IN/IT-Security-Analyst-Internship---Summer-2027_R008295",
+      "greenhouse:arcesiumllc:5257199007",
+      "smartrecruiters:BoschGroup:744000154757409",
+      "workday:alliance:/job/Franklin-Tennessee---United-States-of-America/EA---Cloud-Intern---Summer-2027---Franklin--TN_R00214214",
+      "workday:alliance:/job/Franklin-Tennessee---United-States-of-America/Corporate-Security-Intern---Summer-2027---Franklin--TN_R00214220"
+    ]
   }
 }
