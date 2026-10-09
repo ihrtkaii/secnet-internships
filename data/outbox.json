@@ -1,6 +1,12 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "greenhouse:affirm:8011375003",
+      "greenhouse:memx:5449276008"
+    ],
+    "telegram": [
+      "greenhouse:affirm:8011375003",
+      "greenhouse:memx:5449276008"
+    ]
   }
 }

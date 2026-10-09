@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/secnet-internships/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/secnet-internships"/>
-  <updated>2026-10-09T18:38:39Z</updated>
+  <updated>2026-10-09T23:11:25Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/secnet-internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:affirm:8011375003</id>
+    <title>Affirm: IT Engineer Intern (Early Careers Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/affirm/jobs/8011375003"/>
+    <updated>2026-10-09T23:11:25Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Other · San Francisco, California, United States · Python, Java, C++, JavaScript, React · H-1B track record: ~158 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:memx:5449276008</id>
+    <title>MEMX: Data Center Operations Intern, Summer 2027 (Hybrid, NYC)</title>
+    <link href="https://job-boards.greenhouse.io/memx/jobs/5449276008"/>
+    <updated>2026-10-09T23:11:25Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · United States · Linux</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:eightsleep:0ae8cdbe-8100-4f59-b702-16d836ab5550</id>
     <title>Eight Sleep: Security &amp; IT Intern 🛂</title>
@@ -14,14 +30,6 @@
     <updated>2026-10-09T18:38:39Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security (general) · Remote - US · Python, Git · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:allisontransmission:/job/Indianapolis-IN/IT-Security-Analyst-Internship---Summer-2027_R008295</id>
-    <title>Allison Transmission: IT Security Analyst Internship - Summer 2027</title>
-    <link href="https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/IT-Security-Analyst-Internship---Summer-2027_R008295"/>
-    <updated>2026-10-09T18:38:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Indianapolis, IN · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:arcesiumllc:5257199007</id>
@@ -40,6 +48,14 @@
     <summary>Not stated · Security (general) · Farmington Hills, MI, United States · LLMs · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:alliance:/job/Franklin-Tennessee---United-States-of-America/Corporate-Security-Intern---Summer-2027---Franklin--TN_R00214220</id>
+    <title>Nissan: Corporate Security Intern - Summer 2027 - Franklin, TN 🛂</title>
+    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Corporate-Security-Intern---Summer-2027---Franklin--TN_R00214220"/>
+    <updated>2026-10-09T18:38:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Franklin, Tennessee - United States of America · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:alliance:/job/Franklin-Tennessee---United-States-of-America/EA---Cloud-Intern---Summer-2027---Franklin--TN_R00214214</id>
     <title>Nissan: EA &amp; Cloud Intern - Summer 2027 - Franklin, TN 🛂</title>
     <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/EA---Cloud-Intern---Summer-2027---Franklin--TN_R00214214"/>
@@ -48,12 +64,12 @@
     <summary>Summer 2027 · Cloud Platform · Franklin, Tennessee - United States of America · Python, LLMs, AWS, Git · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:alliance:/job/Franklin-Tennessee---United-States-of-America/Corporate-Security-Intern---Summer-2027---Franklin--TN_R00214220</id>
-    <title>Nissan: Corporate Security Intern - Summer 2027 - Franklin, TN 🛂</title>
-    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Corporate-Security-Intern---Summer-2027---Franklin--TN_R00214220"/>
+    <id>urn:intern-engine:workday:allisontransmission:/job/Indianapolis-IN/IT-Security-Analyst-Internship---Summer-2027_R008295</id>
+    <title>Allison Transmission: IT Security Analyst Internship - Summer 2027</title>
+    <link href="https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/IT-Security-Analyst-Internship---Summer-2027_R008295"/>
     <updated>2026-10-09T18:38:39Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Franklin, Tennessee - United States of America · sponsorship: no-sponsorship</summary>
+    <summary>Summer 2027 · Security (general) · Indianapolis, IN · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:cva.fa.us1.oraclecloud.com:10255</id>
@@ -163,9 +179,9 @@
     <id>urn:intern-engine:workday:hcsc:/job/IL---Downers-Grove/Early-Careers---Systems-Analyst-Intern--Downers-Grove-_R0059499</id>
     <title>HCSC: Early Careers - Systems Analyst Intern (Downers Grove) 🛂</title>
     <link href="https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Downers-Grove/Early-Careers---Systems-Analyst-Intern--Downers-Grove-_R0059499"/>
-    <updated>2026-10-08T01:16:28Z</updated>
+    <updated>2026-10-09T23:11:25Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · IL - Downers Grove · Python, Java · sponsorship: no-sponsorship</summary>
+    <summary>Not stated · Systems &amp; Cloud Infra · IL - Downers Grove · Python, Java · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:hpe:/job/Sunnyvale-California-United-States-of-America/Networking--Power--Intern_1214229</id>
@@ -555,9 +571,9 @@
     <id>urn:intern-engine:workday:hcsc:/job/TX---Richardson/Early-Careers---Vulnerability-Management-Intern_R0059514</id>
     <title>HCSC: Early Careers - Vulnerability Management Intern 🛂</title>
     <link href="https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TX---Richardson/Early-Careers---Vulnerability-Management-Intern_R0059514"/>
-    <updated>2026-10-02T18:08:07Z</updated>
+    <updated>2026-10-09T23:11:25Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Security (general) · TX - Richardson · sponsorship: no-sponsorship</summary>
+    <summary>Not stated · Security (general) · TX - Richardson · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757</id>
@@ -790,21 +806,5 @@
     <updated>2026-09-30T05:42:03Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · United States-Illinois-Rolling Meadows · $20.5–$37.25/hr · Python, Java, MATLAB, CUDA, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:nike:/job/Beaverton-Oregon/NIKE--Inc-Innovation-Underfoot-Systems-Engineer-Graduate-Internship_R-94431</id>
-    <title>Nike: NIKE, Inc. Innovation Underfoot Systems Engineer Graduate Internship</title>
-    <link href="https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Innovation-Underfoot-Systems-Engineer-Graduate-Internship_R-94431"/>
-    <updated>2026-09-29T22:29:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Beaverton, Oregon · H-1B track record: ~484 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008077</id>
-    <title>Stantec: Structural Engineering Intern/Co-op – Infrastructure (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008077"/>
-    <updated>2026-09-29T18:22:32Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · New Haven, CT, United States; Hartford, CT, United States</summary>
   </entry>
 </feed>

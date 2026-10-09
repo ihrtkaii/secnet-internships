@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-09T18:38:39Z",
- "data_as_of": "2026-10-09T18:38:39Z",
- "rendered_at": "2026-10-09T18:38:40Z",
+ "generated_at": "2026-10-09T23:11:25Z",
+ "data_as_of": "2026-10-09T23:11:25Z",
+ "rendered_at": "2026-10-09T23:11:25Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -776,7 +776,7 @@
    "expected": "2026-08-30",
    "days_until": -40,
    "status": "open",
-   "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Security-Intern_J00178958",
+   "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer-Intern_J00178674",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2552,6 +2552,25 @@
    }
   },
   {
+   "company": "Affirm",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-09",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8011375003",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-09"
+   }
+  },
+  {
    "company": "Allison Transmission",
    "last_cycle_posted": "",
    "posted_on": "2026-10-09",
@@ -2855,5 +2874,5 @@
    }
   }
  ],
- "count": 150
+ "count": 151
 }

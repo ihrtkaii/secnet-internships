@@ -117,6 +117,18 @@
     }
    }
   },
+  "affirm": {
+   "name": "Affirm",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-09",
+     "role_ids": [
+      "greenhouse:affirm:8011375003"
+     ],
+     "count": 1
+    }
+   }
+  },
   "air products": {
    "name": "Air Products",
    "cycles": {
@@ -1344,9 +1356,10 @@
      "role_ids": [
       "greenhouse:memx:5441811008",
       "greenhouse:memx:5445236008",
-      "greenhouse:memx:5446002008"
+      "greenhouse:memx:5446002008",
+      "greenhouse:memx:5449276008"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -2231,5 +2244,5 @@
    }
   }
  },
- "updated_at": "2026-10-09T18:38:39Z"
+ "updated_at": "2026-10-09T23:11:25Z"
 }
