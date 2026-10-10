@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-09T23:11:25Z",
- "data_as_of": "2026-10-09T23:11:25Z",
- "rendered_at": "2026-10-09T23:11:25Z",
+ "generated_at": "2026-10-10T06:02:42Z",
+ "data_as_of": "2026-10-10T06:02:42Z",
+ "rendered_at": "2026-10-10T06:02:42Z",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "h1b_window": "FY2022–2023",
- "count": 562,
+ "count": 561,
  "jobs": [
   {
    "id": "greenhouse:affirm:8011375003",
@@ -5893,27 +5893,6 @@
    "h1b_approvals": 22,
    "program": "Internship",
    "remote": true
-  },
-  {
-   "id": "oracle:ekbq.fa.em2.oraclecloud.com:2061",
-   "company": "Schroders",
-   "title": "2027 Schroders Capital Internship Program - Infrastructure",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Systems & Cloud Infra",
-   "location": "NEW YORK, NY, United States",
-   "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2061",
-   "posted_at": "2026-09-14",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-14T20:08:21Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "oracle",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
   },
   {
    "id": "workday:bcbsla:/job/Corporate---Baton-Rouge-LA/CW-Security-Operation-Center-Engineer-Intern--Fall-2026--Starting-in-December-_R12127",
