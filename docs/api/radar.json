@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-10T12:40:10Z",
- "data_as_of": "2026-10-10T12:40:10Z",
- "rendered_at": "2026-10-10T12:40:10Z",
+ "generated_at": "2026-10-10T17:43:05Z",
+ "data_as_of": "2026-10-10T17:43:05Z",
+ "rendered_at": "2026-10-10T17:43:05Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/secnet-internships",
  "companies": [
@@ -2571,6 +2571,25 @@
    }
   },
   {
+   "company": "Workday",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-09",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Cybersecurity-Engineer-Intern_JR-0110809",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-09"
+   }
+  },
+  {
    "company": "APEX Analytix",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -2874,5 +2893,5 @@
    }
   }
  ],
- "count": 151
+ "count": 152
 }

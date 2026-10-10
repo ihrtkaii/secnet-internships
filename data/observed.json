@@ -2170,6 +2170,18 @@
     }
    }
   },
+  "workday": {
+   "name": "Workday",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-09",
+     "role_ids": [
+      "workday:workday:/job/USA-CA-Pleasanton/Cybersecurity-Engineer-Intern_JR-0110809"
+     ],
+     "count": 1
+    }
+   }
+  },
   "workiva": {
    "name": "Workiva",
    "cycles": {
@@ -2244,5 +2256,5 @@
    }
   }
  },
- "updated_at": "2026-10-10T12:40:10Z"
+ "updated_at": "2026-10-10T17:43:05Z"
 }
