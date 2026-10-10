@@ -8,7 +8,7 @@
 
 ### 561 open roles (493 listed below) · 62 new this week
 
-4,732 employers tracked · data as of Oct 10, 2026 at 06:02 UTC
+4,732 employers tracked · data as of Oct 10, 2026 at 12:40 UTC
 
 _407 have a cycle the employer stated · 154 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -254,7 +254,7 @@ These postings never name a cycle, not in the title and not in the posting text,
 | Nissan | EA & Cloud Intern - Summer 2027 - Franklin, TN 🛂 🆕 | Cloud Platform | Franklin +1 more | Python, LLMs, AWS, Git | Oct 09, 2026 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/EA---Cloud-Intern---Summer-2027---Franklin--TN_R00214214) |
 | Stantec | Civil/Transportation Engineering Intern - Infrastructure (Summer 2027) 🆕 | Systems & Cloud Infra | Charleston +5 more | No skills listed | Oct 08, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008210) |
 | Northrop Grumman | 2027-Systems Engineer Intern - McClellan CA 🇺🇸 🆕 | Systems & Cloud Infra | United States-California-McClellan | No skills listed | Oct 08, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Systems-Engineer-Intern---McClellan-CA_R10255163) |
-| Northrop Grumman | 2027 Electrical/Systems Engineer Intern - Baltimore MD 🇺🇸 🆕 | Systems & Cloud Infra | United States-Maryland-Baltimore | No skills listed | Oct 08, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Electrical-Systems-Engineer-Intern---Baltimore-MD_R10255010) |
+| Northrop Grumman | 2027 Electrical/Systems Engineer Intern - Baltimore MD 🇺🇸 | Systems & Cloud Infra | United States-Maryland-Baltimore | No skills listed | Oct 08, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Electrical-Systems-Engineer-Intern---Baltimore-MD_R10255010) |
 | The Aerospace Corporation | 2027 Network Systems Grad Intern 🇺🇸 | Network / Telecom | El Segundo, CA | Python, C++ | Oct 07, 2026 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Network-Systems-Grad-Intern_R016836) |
 | Nissan | Systems Engineer Intern - Summer 2027 - Canton, MS 🛂 | Systems & Cloud Infra | Canton +1 more | Python, C#, SQL | Oct 07, 2026 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Canton-Mississippi---United-States-of-America/Systems-Engineer-Intern---Summer-2027---Canton--MS_R00214882) |
 | Nissan | IS/IT Intern - Summer 2027 - Franklin, TN 🛂 | IT Support / Ops | Franklin +1 more | No skills listed | Oct 07, 2026 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/IS-IT-Intern---Summer-2027---Franklin--TN_R00214212) |
@@ -484,7 +484,7 @@ These postings never name a cycle, not in the title and not in the posting text,
 | Texas A&M International University | Intern- Information Technology (OIT- Help Desk) | IT Support / Ops | Laredo, TX | No skills listed | Oct 05, 2026 | [Apply](https://tamus.wd1.myworkdayjobs.com/TAMIU_Student_Employment/job/Laredo-TX/Intern--Information-Technology--OIT--Help-Desk-_R-097705) |
 | RTX | Avionics Test Engineering -Systems Engineer Intern (Onsite) 🇺🇸 | Systems & Cloud Infra | US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd… | MATLAB | Oct 03, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Avionics-Test-Engineering--Systems-Engineer-Intern--Onsite-_01876518) |
 | Generac | Micro-Grid Systems Engineering Co-Op | Systems & Cloud Infra | USA - CO Fort Collins | No skills listed | Oct 02, 2026 | [Apply](https://generac.wd5.myworkdayjobs.com/external/job/USA---CO-Fort-Collins/Micro-Grid-Systems-Engineering-Co-Op---Summer-Intern_JR17249) |
-| KLA ✓ | Mechatronics/Systems Engineering Internship | Systems & Cloud Infra | Milpitas, CA | No skills listed | Sep 30, 2026 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532-1) |
+| KLA ✓ | Mechatronics/Systems Engineering Internship | Systems & Cloud Infra | Milpitas, CA | No skills listed | Sep 30, 2026 | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532) |
 | Nokia | Optical System Engineer Co-Op | Network / Telecom | United States | No skills listed | Sep 30, 2026 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40648) |
 | RTX | Systems Engineering Co-op - Boeing Platforms Displays (Summer/Fall) 🛂 | Systems & Cloud Infra | US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE… | No skills listed | Sep 30, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineering-Co-op---Boeing-Platforms-Displays--Summer-Fall-_01871761) |
 | Avav | Digital Business Technology Infrastructure (DBT) Intern 🇺🇸 | Systems & Cloud Infra | Simi Valley, CA | dbt, AWS | Sep 29, 2026 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/XMLNAME--Digital-Business-Technology-Infrastructure--DBT--Intern_8885) |
@@ -621,7 +621,7 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 _151 companies on the [full radar](https://ihrtkaii.github.io/secnet-internships/#radar). **151** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong>: 21 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong>: 20 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters. That's our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
@@ -647,7 +647,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | Mastercard | Platform Engineering Intern, Summer 2027 – St. Louis, MO, US | Summer 2027 | 2026-09-29 | gone from feed |
 | Lawrence Livermore National Laboratory (LLNL) | Energy Systems Analyst Graduate Intern - Fall 2026 | Fall 2026 | 2026-09-29 | gone from feed |
 | BlueCross BlueShield of Nebraska | Cyber Intern: Summer 2027 | Summer 2027 | 2026-09-29 | gone from feed |
-| RRS Group | Associate IT Systems Administrator Intern - 2027 | Summer 2027 | 2026-09-26 | gone from feed |
 
 </details>
 
@@ -666,7 +665,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,524 of 5,012 registered boards returned successfully across 12 ATS platforms (95% of boards attempted, 90% of the full registry) · completed in 1125.2s · 587 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,496 of 5,012 registered boards returned successfully across 12 ATS platforms (96% of boards attempted, 89% of the full registry) · completed in 958.8s · 562 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
