@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:ehpv.fa.em2.oraclecloud.com:27404",
-      "smartrecruiters:AECOM2:744000156887619",
-      "workday:jabil:/job/St-PetersburgTampa-FL/IT-Audit-Intern_J2468699"
-    ],
-    "telegram": [
-      "oracle:ehpv.fa.em2.oraclecloud.com:27404",
-      "smartrecruiters:AECOM2:744000156887619",
-      "workday:jabil:/job/St-PetersburgTampa-FL/IT-Audit-Intern_J2468699"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
