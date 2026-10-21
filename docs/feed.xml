@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-10-21T17:23:53Z</updated>
+  <updated>2026-10-21T21:55:06Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:ehpv.fa.em2.oraclecloud.com:27404</id>
+    <title>DP World: Information Security Intern 🛂</title>
+    <link href="https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27404"/>
+    <updated>2026-10-21T21:55:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Charlotte, NC, United States · Linux · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:AECOM2:744000156887619</id>
+    <title>AECOM: Digital Infrastructure / Telecommunications Engineering Intern</title>
+    <link href="https://jobs.smartrecruiters.com/AECOM2/744000156887619"/>
+    <updated>2026-10-21T21:55:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Network / Telecom · Philadelphia, PA, United States (Hybrid)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jabil:/job/St-PetersburgTampa-FL/IT-Audit-Intern_J2468699</id>
+    <title>Jabil: IT Audit Intern</title>
+    <link href="https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/IT-Audit-Intern_J2468699"/>
+    <updated>2026-10-21T21:55:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · GRC / Risk · St. Petersburg/Tampa, FL · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:ehpv.fa.em2.oraclecloud.com:27403</id>
     <title>DP World: Network Engineering Intern 🛂</title>
@@ -32,6 +56,14 @@
     <summary>Not stated · Network / Telecom · 6314 Remote/Teleworker US · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:werner:/job/Omaha-NE/IT-Cloud-Engineering-Intern_JR23745</id>
+    <title>Werner: IT Cloud Engineering Intern</title>
+    <link href="https://werner.wd501.myworkdayjobs.com/werner/job/Omaha-NE/IT-Cloud-Engineering-Intern_JR23745"/>
+    <updated>2026-10-21T17:23:53Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Cloud Platform · Omaha, NE · GCP, Azure, Linux, Git</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:werner:/job/Omaha-NE/Information-Security-Intern_JR23746</id>
     <title>Werner: Information Security Intern</title>
     <link href="https://werner.wd501.myworkdayjobs.com/werner/job/Omaha-NE/Information-Security-Intern_JR23746"/>
@@ -46,14 +78,6 @@
     <updated>2026-10-21T17:23:53Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Network / Telecom · Omaha, NE</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:werner:/job/Omaha-NE/IT-Cloud-Engineering-Intern_JR23745</id>
-    <title>Werner: IT Cloud Engineering Intern</title>
-    <link href="https://werner.wd501.myworkdayjobs.com/werner/job/Omaha-NE/IT-Cloud-Engineering-Intern_JR23745"/>
-    <updated>2026-10-21T17:23:53Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Cloud Platform · Omaha, NE · GCP, Azure, Linux, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:smithnephew:/job/Andover-MA/Intern-Systems-Engineering_R92955-1</id>
@@ -782,29 +806,5 @@
     <updated>2026-10-08T19:05:45Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · New York, NY · $24/hr · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gfs:/job/Wyoming-Michigan/Software-Engineer-Intern--Transportation-Routing--_R-58374</id>
-    <title>Gordon Food Service: Software Engineer Intern (Transportation Routing )</title>
-    <link href="https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Transportation-Routing--_R-58374"/>
-    <updated>2026-10-08T19:05:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Network / Telecom · Wyoming, Michigan · LLMs · H-1B track record: ~21 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hcsc:/job/TX---Richardson/Early-Careers---Security-Data-Classification-Intern_R0059513</id>
-    <title>HCSC: Early Careers - Security Data Classification Intern 🛂</title>
-    <link href="https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TX---Richardson/Early-Careers---Security-Data-Classification-Intern_R0059513"/>
-    <updated>2026-10-08T19:05:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · TX - Richardson · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-California-McClellan/XMLNAME-2027-Systems-Engineer-Intern---McClellan-CA_R10255163</id>
-    <title>Northrop Grumman: 2027-Systems Engineer Intern - McClellan CA 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Systems-Engineer-Intern---McClellan-CA_R10255163"/>
-    <updated>2026-10-08T19:05:45Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · United States-California-McClellan · $21.5–$39/hr · sponsorship: citizens-only</summary>
   </entry>
 </feed>
