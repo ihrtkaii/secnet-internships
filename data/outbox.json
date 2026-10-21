@@ -1,6 +1,22 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:ehpv.fa.em2.oraclecloud.com:27403",
+      "workday:cmu:/job/Pittsburgh-PA/AI-Security-Research-Intern---Summer-2027_2025199-1",
+      "workday:dukeenergy:/job/Hartsville-SC/Nuclear-Cybersecurity-2027-Summer-Internship_R42099",
+      "workday:leidos:/job/6314-RemoteTeleworker-US/Network-Site-Design-Intern_R-00195057",
+      "workday:werner:/job/Omaha-NE/Information-Security-Intern_JR23746",
+      "workday:werner:/job/Omaha-NE/Telecom-Support-Intern_JR23743",
+      "workday:werner:/job/Omaha-NE/IT-Cloud-Engineering-Intern_JR23745"
+    ],
+    "telegram": [
+      "oracle:ehpv.fa.em2.oraclecloud.com:27403",
+      "workday:cmu:/job/Pittsburgh-PA/AI-Security-Research-Intern---Summer-2027_2025199-1",
+      "workday:dukeenergy:/job/Hartsville-SC/Nuclear-Cybersecurity-2027-Summer-Internship_R42099",
+      "workday:leidos:/job/6314-RemoteTeleworker-US/Network-Site-Design-Intern_R-00195057",
+      "workday:werner:/job/Omaha-NE/Information-Security-Intern_JR23746",
+      "workday:werner:/job/Omaha-NE/Telecom-Support-Intern_JR23743",
+      "workday:werner:/job/Omaha-NE/IT-Cloud-Engineering-Intern_JR23745"
+    ]
   }
 }

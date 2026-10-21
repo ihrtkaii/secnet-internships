@@ -808,6 +808,18 @@
     }
    }
   },
+  "dp world": {
+   "name": "DP World",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-21",
+     "role_ids": [
+      "oracle:ehpv.fa.em2.oraclecloud.com:27403"
+     ],
+     "count": 1
+    }
+   }
+  },
   "draper": {
    "name": "Draper",
    "cycles": {
@@ -843,9 +855,10 @@
       "workday:dukeenergy:/job/Charlotte-NC/Digital-Forensics-Summer-Intern---2027_R41195",
       "workday:dukeenergy:/job/Charlotte-NC/Enterprise-Protective-Services--Corporate-Security-Intern---Summer-2027_R41381",
       "workday:dukeenergy:/job/Charlotte-NC/Enterprise-Protective-Services--Threat-Intelligence-Intern---Summer-2027_R41379",
+      "workday:dukeenergy:/job/Hartsville-SC/Nuclear-Cybersecurity-2027-Summer-Internship_R42099",
       "workday:dukeenergy:/job/Huntersville-NC/Local-IT-Support-Internship--Huntersville--NC----Summer-2027_R41895"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -2513,5 +2526,5 @@
    }
   }
  },
- "updated_at": "2026-10-21T11:59:33Z"
+ "updated_at": "2026-10-21T17:23:53Z"
 }
