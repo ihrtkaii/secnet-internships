@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-10-22T12:03:33Z</updated>
+  <updated>2026-10-22T17:25:47Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Huntsville-AL/Systems-Engineering-Intern_R-00195148</id>
+    <title>Leidos: Systems Engineering Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Systems-Engineering-Intern_R-00195148"/>
+    <updated>2026-10-22T17:25:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Huntsville, AL · Python, C++, C#, MATLAB, Linux · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:motorolasolutions:/job/Brooklyn-NY/Presale-Systems-Engineer---Summer-2027-Internship_R69755</id>
+    <title>Motorola: Presale Systems Engineer - Summer 2027 Internship 🛂</title>
+    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Brooklyn-NY/Presale-Systems-Engineer---Summer-2027-Internship_R69755"/>
+    <updated>2026-10-22T17:25:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Brooklyn, NY, More... · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Cyber-Security-Intern---Summer-2027---Smyrna--TN_R00214879</id>
+    <title>Nissan: Cyber Security Intern - Summer 2027 - Smyrna, TN 🛂</title>
+    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Cyber-Security-Intern---Summer-2027---Smyrna--TN_R00214879"/>
+    <updated>2026-10-22T17:25:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Smyrna, Tennessee - United States of America · sponsorship: no-sponsorship</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:dtna:/job/Portland-OR-US/BEV-Systems-Engineering-Intern---Energy--Thermal---Analytics-Intern_DT-20328</id>
     <title>Daimler Truck: BEV Systems Engineering Intern — Energy, Thermal &amp; Analytics Intern</title>
@@ -525,7 +549,7 @@
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10256037"/>
     <updated>2026-10-14T17:21:18Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · United States-Texas-San Antonio · $17.5–$31.5/hr · Git · sponsorship: citizens-only</summary>
+    <summary>2 openings · Summer 2027 · Security (general) · United States-Texas-San Antonio · $17.5–$31.5/hr · Git · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:paloaltonetworks:/job/Office---USA---CA---Headquarters/Intern---Security-Researcher--PhD-_JR-022416</id>
@@ -782,29 +806,5 @@
     <updated>2026-10-09T18:38:39Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · Indianapolis, IN · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:cva.fa.us1.oraclecloud.com:10255</id>
-    <title>Standard Aero: Co-op, IT Analyst: Spring</title>
-    <link href="https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10255"/>
-    <updated>2026-10-09T10:44:39Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Other · Cincinnati, OH, United States · SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:cva.fa.us1.oraclecloud.com:10479</id>
-    <title>Standard Aero: Intern, IT Analyst: Summer</title>
-    <link href="https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10479"/>
-    <updated>2026-10-09T10:44:39Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Other · Cincinnati, OH, United States · SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hpe:/job/San-Jose-California-United-States-of-America/Wireless-Networking-Intern_1214969</id>
-    <title>Hewlett Packard Enterprise: Wireless Networking Intern</title>
-    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Wireless-Networking-Intern_1214969"/>
-    <updated>2026-10-09T10:44:39Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Network / Telecom · San Jose, California, United States of America · Python, SQL, Bash, PyTorch, TensorFlow · H-1B track record: ~499 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
