@@ -1,18 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:chrobinson:/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322",
-      "workday:leidos:/job/Huntsville-AL/Systems-Engineering-Intern_R-00195148",
-      "workday:motorolasolutions:/job/Brooklyn-NY/Presale-Systems-Engineer---Summer-2027-Internship_R69755",
-      "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Cyber-Security-Intern---Summer-2027---Smyrna--TN_R00214879",
-      "workday:ngc:/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311"
-    ],
-    "telegram": [
-      "workday:chrobinson:/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322",
-      "workday:leidos:/job/Huntsville-AL/Systems-Engineering-Intern_R-00195148",
-      "workday:motorolasolutions:/job/Brooklyn-NY/Presale-Systems-Engineer---Summer-2027-Internship_R69755",
-      "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Cyber-Security-Intern---Summer-2027---Smyrna--TN_R00214879",
-      "workday:ngc:/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
