@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-10-21T21:55:06Z</updated>
+  <updated>2026-10-22T00:31:18Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:dtna:/job/Portland-OR-US/BEV-Systems-Engineering-Intern---Energy--Thermal---Analytics-Intern_DT-20328</id>
+    <title>Daimler Truck: BEV Systems Engineering Intern — Energy, Thermal &amp; Analytics Intern</title>
+    <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/BEV-Systems-Engineering-Intern---Energy--Thermal---Analytics-Intern_DT-20328"/>
+    <updated>2026-10-22T00:31:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Portland, OR US · $21–$29/hr · Python, MATLAB</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:intel:/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588</id>
+    <title>Intel: Information Security Engineer Undergraduate Intern</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588"/>
+    <updated>2026-10-22T00:31:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · US, California, Folsom · Python, JavaScript, SQL, LLMs, Linux · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:ehpv.fa.em2.oraclecloud.com:27404</id>
     <title>DP World: Information Security Intern 🛂</title>
@@ -790,21 +806,5 @@
     <updated>2026-10-09T10:44:39Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Network / Telecom · San Jose, California, United States of America · Python, SQL, Bash, PyTorch, TensorFlow · H-1B track record: ~499 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008210</id>
-    <title>Stantec: Civil/Transportation Engineering Intern - Infrastructure (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008210"/>
-    <updated>2026-10-08T19:05:45Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Charleston, SC, United States; Columbia, SC, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:applebank:/job/New-York-NY/XMLNAME-2027-Summer-Intern--Information-Security_2026-1416</id>
-    <title>Apple Bank: 2027 Summer Intern- Information Security 🛂</title>
-    <link href="https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/XMLNAME-2027-Summer-Intern--Information-Security_2026-1416"/>
-    <updated>2026-10-08T19:05:45Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · New York, NY · $24/hr · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>
