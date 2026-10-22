@@ -5,8 +5,88 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-10-22T17:25:47Z</updated>
+  <updated>2026-10-22T21:48:24Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Huntsville-AL/Missile-Systems-Engineer-Intern_R-00195265</id>
+    <title>Leidos: Missile Systems Engineer Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Missile-Systems-Engineer-Intern_R-00195265"/>
+    <updated>2026-10-22T21:48:24Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Systems &amp; Cloud Infra · Huntsville, AL · sponsorship: citizens-only · status: closed · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10585775</id>
+    <title>Amazon: Associate Delivery Consultant Intern, National Security, AWS Professional Services</title>
+    <link href="https://www.amazon.jobs/en/jobs/10585775/associate-delivery-consultant-intern-national-security-aws-professional-services"/>
+    <updated>2026-10-22T21:48:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Arlington, Virginia, USA · AWS, Python, Java, C++, Go · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10585774</id>
+    <title>Amazon: Associate Delivery Consultant Intern, AWS Professional Services</title>
+    <link href="https://www.amazon.jobs/en/jobs/10585774/associate-delivery-consultant-intern-aws-professional-services"/>
+    <updated>2026-10-22T21:48:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Cloud Platform · Arlington, Virginia, USA · AWS, Python, Java, C++, Go · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:pattern:5c0c1963-87c5-48d7-8da9-0c79121fe443</id>
+    <title>Pattern: AI Infrastructure Engineer Intern</title>
+    <link href="https://jobs.lever.co/pattern/5c0c1963-87c5-48d7-8da9-0c79121fe443"/>
+    <updated>2026-10-22T21:48:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Lehi, UT, US · Python, Java, TypeScript, LLMs, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:LLNL:3743990016356816</id>
+    <title>Lawrence Livermore National Laboratory (LLNL): Business Systems Analyst Undergraduate Intern - 2027</title>
+    <link href="https://jobs.smartrecruiters.com/LLNL/3743990016356816"/>
+    <updated>2026-10-22T21:48:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Livermore, CA, United States (Hybrid)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Florida-Cape-Canaveral/XMLNAME-2027-Systems-Engineer-Intern---Cape-Canaveral-FL_R10251849</id>
+    <title>Northrop Grumman: 2027 Systems Engineer Intern - Cape Canaveral FL 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Cape-Canaveral/XMLNAME-2027-Systems-Engineer-Intern---Cape-Canaveral-FL_R10251849"/>
+    <updated>2026-10-22T21:48:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · United States-Florida-Cape Canaveral · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423</id>
+    <title>Northrop Grumman: 2027 Systems Engineering Internship (AI Experience) - Dulles VA 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423"/>
+    <updated>2026-10-22T21:48:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · United States-Virginia-Dulles · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:snc:/job/Lone-Tree-CO/Systems-Engineer-Intern--Summer-2027-_R0031176</id>
+    <title>Sierra Nevada Corporation: Systems Engineer Intern (Summer 2027)</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Systems-Engineer-Intern--Summer-2027-_R0031176"/>
+    <updated>2026-10-22T21:48:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Lone Tree, CO · MATLAB</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:snc:/job/Hagerstown-MD/Systems-Security-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0030540</id>
+    <title>Sierra Nevada Corporation: Systems Security Engineer Intern - Summer 2027 (For SNC Summer 2026 Interns Only) 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Systems-Security-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0030540"/>
+    <updated>2026-10-22T21:48:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Hagerstown, MD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Cyber-Security-Intern---Summer-2027---Smyrna--TN_R00214879</id>
+    <title>Nissan: Cyber Security Intern - Summer 2027 - Smyrna, TN 🛂</title>
+    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Cyber-Security-Intern---Summer-2027---Smyrna--TN_R00214879"/>
+    <updated>2026-10-22T17:25:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Smyrna, Tennessee - United States of America · sponsorship: no-sponsorship</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:leidos:/job/Huntsville-AL/Systems-Engineering-Intern_R-00195148</id>
     <title>Leidos: Systems Engineering Intern 🇺🇸</title>
@@ -22,14 +102,6 @@
     <updated>2026-10-22T17:25:47Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Brooklyn, NY, More... · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Cyber-Security-Intern---Summer-2027---Smyrna--TN_R00214879</id>
-    <title>Nissan: Cyber Security Intern - Summer 2027 - Smyrna, TN 🛂</title>
-    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Cyber-Security-Intern---Summer-2027---Smyrna--TN_R00214879"/>
-    <updated>2026-10-22T17:25:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Smyrna, Tennessee - United States of America · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:dtna:/job/Portland-OR-US/BEV-Systems-Engineering-Intern---Energy--Thermal---Analytics-Intern_DT-20328</id>
@@ -734,77 +806,5 @@
     <updated>2026-10-11T19:49:58Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · SOC / Detection · Pittsburgh, PA · Python, C++ · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:workday:/job/USA-CA-Pleasanton/Cybersecurity-Engineer-Intern_JR-0110809</id>
-    <title>Workday: Cybersecurity Engineer Intern 🛂</title>
-    <link href="https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Cybersecurity-Engineer-Intern_JR-0110809"/>
-    <updated>2026-10-10T17:43:05Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · USA, CA, Pleasanton · Python, Java, TypeScript, JavaScript, AWS · sponsorship: no-sponsorship · H-1B track record: ~581 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:affirm:8011375003</id>
-    <title>Affirm: IT Engineer Intern (Early Careers Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/affirm/jobs/8011375003"/>
-    <updated>2026-10-09T23:11:25Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Other · San Francisco, California, United States · Python, Java, C++, JavaScript, React · H-1B track record: ~158 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:memx:5449276008</id>
-    <title>MEMX: Data Center Operations Intern, Summer 2027 (Hybrid, NYC)</title>
-    <link href="https://job-boards.greenhouse.io/memx/jobs/5449276008"/>
-    <updated>2026-10-09T23:11:25Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · United States · Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:eightsleep:0ae8cdbe-8100-4f59-b702-16d836ab5550</id>
-    <title>Eight Sleep: Security &amp; IT Intern 🛂</title>
-    <link href="https://jobs.ashbyhq.com/eightsleep/0ae8cdbe-8100-4f59-b702-16d836ab5550"/>
-    <updated>2026-10-09T18:38:39Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Remote - US · Python, Git · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:arcesiumllc:5257199007</id>
-    <title>Arcesium: Infrastructure Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/arcesiumllc/jobs/5257199007"/>
-    <updated>2026-10-09T18:38:39Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · New York · Python, Java, LLMs, AWS, Kubernetes · H-1B track record: ~11 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000154757409</id>
-    <title>Bosch: Information Security and Privacy Intern</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000154757409"/>
-    <updated>2026-10-09T18:38:39Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Security (general) · Farmington Hills, MI, United States · LLMs · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:alliance:/job/Franklin-Tennessee---United-States-of-America/Corporate-Security-Intern---Summer-2027---Franklin--TN_R00214220</id>
-    <title>Nissan: Corporate Security Intern - Summer 2027 - Franklin, TN 🛂</title>
-    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Corporate-Security-Intern---Summer-2027---Franklin--TN_R00214220"/>
-    <updated>2026-10-09T18:38:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Franklin, Tennessee - United States of America · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:alliance:/job/Franklin-Tennessee---United-States-of-America/EA---Cloud-Intern---Summer-2027---Franklin--TN_R00214214</id>
-    <title>Nissan: EA &amp; Cloud Intern - Summer 2027 - Franklin, TN 🛂</title>
-    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/EA---Cloud-Intern---Summer-2027---Franklin--TN_R00214214"/>
-    <updated>2026-10-09T18:38:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Cloud Platform · Franklin, Tennessee - United States of America · Python, LLMs, AWS, Git · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:allisontransmission:/job/Indianapolis-IN/IT-Security-Analyst-Internship---Summer-2027_R008295</id>
-    <title>Allison Transmission: IT Security Analyst Internship - Summer 2027</title>
-    <link href="https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/IT-Security-Analyst-Internship---Summer-2027_R008295"/>
-    <updated>2026-10-09T18:38:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Indianapolis, IN · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

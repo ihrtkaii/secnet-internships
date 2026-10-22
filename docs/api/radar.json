@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-22T17:25:47Z",
- "data_as_of": "2026-10-22T17:25:47Z",
- "rendered_at": "2026-10-22T17:25:47Z",
+ "generated_at": "2026-10-22T21:48:24Z",
+ "data_as_of": "2026-10-22T21:48:24Z",
+ "rendered_at": "2026-10-22T21:48:24Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/test-1",
  "companies": [
@@ -1184,25 +1184,6 @@
    }
   },
   {
-   "company": "Schonfeld",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-04",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-04",
-   "days_until": -48,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171696",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-04"
-   }
-  },
-  {
    "company": "TJX",
    "last_cycle_posted": "",
    "posted_on": "2026-09-04",
@@ -1764,7 +1745,7 @@
    "expected": "2026-09-18",
    "days_until": -34,
    "status": "open",
-   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Business-Systems-Analyst-Internship-Summer-2027_R68572",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Brooklyn-NY/Presale-Systems-Engineer---Summer-2027-Internship_R69755",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2666,6 +2647,25 @@
    }
   },
   {
+   "company": "Pattern",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-16",
+   "days_until": -6,
+   "status": "open",
+   "url": "https://jobs.lever.co/pattern/5c0c1963-87c5-48d7-8da9-0c79121fe443",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-16"
+   }
+  },
+  {
    "company": "Arch Capital Group",
    "last_cycle_posted": "",
    "posted_on": "2026-10-19",
@@ -2988,6 +2988,25 @@
    }
   },
   {
+   "company": "Schonfeld",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-04",
+   "days_until": -48,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-04"
+   }
+  },
+  {
    "company": "Allen Control Systems",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -3235,5 +3254,5 @@
    }
   }
  ],
- "count": 170
+ "count": 171
 }

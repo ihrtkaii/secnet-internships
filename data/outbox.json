@@ -1,6 +1,24 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "amazon:amazon:10585775",
+      "amazon:amazon:10585774",
+      "lever:pattern:5c0c1963-87c5-48d7-8da9-0c79121fe443",
+      "smartrecruiters:LLNL:3743990016356816",
+      "workday:ngc:/job/United-States-Florida-Cape-Canaveral/XMLNAME-2027-Systems-Engineer-Intern---Cape-Canaveral-FL_R10251849",
+      "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423",
+      "workday:snc:/job/Lone-Tree-CO/Systems-Engineer-Intern--Summer-2027-_R0031176",
+      "workday:snc:/job/Hagerstown-MD/Systems-Security-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0030540"
+    ],
+    "telegram": [
+      "amazon:amazon:10585775",
+      "amazon:amazon:10585774",
+      "lever:pattern:5c0c1963-87c5-48d7-8da9-0c79121fe443",
+      "smartrecruiters:LLNL:3743990016356816",
+      "workday:ngc:/job/United-States-Florida-Cape-Canaveral/XMLNAME-2027-Systems-Engineer-Intern---Cape-Canaveral-FL_R10251849",
+      "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423",
+      "workday:snc:/job/Lone-Tree-CO/Systems-Engineer-Intern--Summer-2027-_R0031176",
+      "workday:snc:/job/Hagerstown-MD/Systems-Security-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0030540"
+    ]
   }
 }
