@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-23T05:32:30Z",
- "data_as_of": "2026-10-23T05:32:30Z",
- "rendered_at": "2026-10-23T05:32:30Z",
+ "generated_at": "2026-10-23T11:51:06Z",
+ "data_as_of": "2026-10-23T11:51:06Z",
+ "rendered_at": "2026-10-23T11:51:06Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/test-1",
  "companies": [
@@ -244,7 +244,7 @@
    "expected": "2026-08-17",
    "days_until": -67,
    "status": "open",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011878",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011893",
    "note": "",
    "provenance": {
     "type": "engine-observed",

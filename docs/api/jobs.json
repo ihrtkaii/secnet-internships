@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-23T05:32:30Z",
- "data_as_of": "2026-10-23T05:32:30Z",
- "rendered_at": "2026-10-23T05:32:30Z",
+ "generated_at": "2026-10-23T11:51:06Z",
+ "data_as_of": "2026-10-23T11:51:06Z",
+ "rendered_at": "2026-10-23T11:51:06Z",
  "source": "https://github.com/ihrtkaii/test-1",
  "h1b_window": "FY2022–2023",
- "count": 619,
+ "count": 614,
  "jobs": [
   {
    "id": "workday:archgroup:/job/Greensboro-NC-United-States-of-America/Loss-Management-IT-Intern_R26_1138",
@@ -6795,27 +6795,6 @@
    "remote": false
   },
   {
-   "id": "workday:greatamerica:/job/Cedar-Rapids-IA/Service-Desk-Analyst-Intern_JR1239",
-   "company": "GreatAmerica Financial Services",
-   "title": "Service Desk Analyst Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "IT Support / Ops",
-   "location": "Cedar Rapids, IA",
-   "url": "https://greatamerica.wd12.myworkdayjobs.com/greatamericacareers/job/Cedar-Rapids-IA/Service-Desk-Analyst-Intern_JR1239",
-   "posted_at": "2026-09-18T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-18T16:38:32Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:wattswater:/job/Andover-MA-Federal-Street/IT-Network-Intern--Summer-2027_10017567",
    "company": "Watts Water",
    "title": "End User & Infrastructure Support Intern, Summer 2027",
@@ -13119,30 +13098,6 @@
    "remote": false
   },
   {
-   "id": "oracle:egug.fa.us2.oraclecloud.com:26011878",
-   "company": "American Express",
-   "title": "Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Security (general)",
-   "location": "New York, NY, United States",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011878",
-   "posted_at": "2026-08-17",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-18T02:03:06Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Bash"
-   ],
-   "source": "oracle",
-   "h1b_approvals": 133,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "oracle:egug.fa.us2.oraclecloud.com:26011893",
    "company": "American Express",
    "title": "Campus Graduate Masters Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY",
@@ -13152,30 +13107,6 @@
    "category": "Security (general)",
    "location": "New York, NY, United States",
    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011893",
-   "posted_at": "2026-08-17",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-18T02:03:06Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Bash"
-   ],
-   "source": "oracle",
-   "h1b_approvals": 133,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "oracle:egug.fa.us2.oraclecloud.com:26011908",
-   "company": "American Express",
-   "title": "Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Atlanta, GA",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Security (general)",
-   "location": "Atlanta, GA, United States",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011908",
    "posted_at": "2026-08-17",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-08-18T02:03:06Z",
@@ -13215,30 +13146,6 @@
    "remote": false
   },
   {
-   "id": "oracle:egug.fa.us2.oraclecloud.com:26011914",
-   "company": "American Express",
-   "title": "Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Sunrise, FL",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Security (general)",
-   "location": "Sunrise, FL, United States",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011914",
-   "posted_at": "2026-08-17",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-18T02:03:06Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Bash"
-   ],
-   "source": "oracle",
-   "h1b_approvals": 133,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "oracle:egug.fa.us2.oraclecloud.com:26012444",
    "company": "American Express",
    "title": "Campus Graduate Masters Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Sunrise, FL",
@@ -13248,30 +13155,6 @@
    "category": "Security (general)",
    "location": "Sunrise, FL, United States",
    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012444",
-   "posted_at": "2026-08-17",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-18T02:03:06Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Bash"
-   ],
-   "source": "oracle",
-   "h1b_approvals": 133,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "oracle:egug.fa.us2.oraclecloud.com:26012460",
-   "company": "American Express",
-   "title": "Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Phoenix, AZ",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Security (general)",
-   "location": "Phoenix, AZ, United States",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012460",
    "posted_at": "2026-08-17",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-08-18T02:03:06Z",
