@@ -5,23 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-10-22T21:48:24Z</updated>
+  <updated>2026-10-23T00:28:08Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Huntsville-AL/Missile-Systems-Engineer-Intern_R-00195265</id>
-    <title>Leidos: Missile Systems Engineer Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Missile-Systems-Engineer-Intern_R-00195265"/>
-    <updated>2026-10-22T21:48:24Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Systems &amp; Cloud Infra · Huntsville, AL · sponsorship: citizens-only · status: closed · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10585775</id>
-    <title>Amazon: Associate Delivery Consultant Intern, National Security, AWS Professional Services</title>
-    <link href="https://www.amazon.jobs/en/jobs/10585775/associate-delivery-consultant-intern-national-security-aws-professional-services"/>
-    <updated>2026-10-22T21:48:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Arlington, Virginia, USA · AWS, Python, Java, C++, Go · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:workday:archgroup:/job/Greensboro-NC-United-States-of-America/Loss-Management-IT-Intern_R26_1138</id>
+    <title>Arch Capital Group: Loss Management IT Intern</title>
+    <link href="https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Loss-Management-IT-Intern_R26_1138"/>
+    <updated>2026-10-23T00:28:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · IT Support / Ops · Greensboro, NC United States of America · $26–$28/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10585774</id>
@@ -30,6 +22,14 @@
     <updated>2026-10-22T21:48:24Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Cloud Platform · Arlington, Virginia, USA · AWS, Python, Java, C++, Go · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10585775</id>
+    <title>Amazon: Associate Delivery Consultant Intern, National Security, AWS Professional Services</title>
+    <link href="https://www.amazon.jobs/en/jobs/10585775/associate-delivery-consultant-intern-national-security-aws-professional-services"/>
+    <updated>2026-10-22T21:48:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Arlington, Virginia, USA · AWS, Python, Java, C++, Go · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:pattern:5c0c1963-87c5-48d7-8da9-0c79121fe443</id>
@@ -48,6 +48,14 @@
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Livermore, CA, United States (Hybrid)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Huntsville-AL/Missile-Systems-Engineer-Intern_R-00195265</id>
+    <title>Leidos: Missile Systems Engineer Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Missile-Systems-Engineer-Intern_R-00195265"/>
+    <updated>2026-10-22T21:48:24Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Systems &amp; Cloud Infra · Huntsville, AL · sponsorship: citizens-only · status: closed · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Florida-Cape-Canaveral/XMLNAME-2027-Systems-Engineer-Intern---Cape-Canaveral-FL_R10251849</id>
     <title>Northrop Grumman: 2027 Systems Engineer Intern - Cape Canaveral FL 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Cape-Canaveral/XMLNAME-2027-Systems-Engineer-Intern---Cape-Canaveral-FL_R10251849"/>
@@ -64,20 +72,20 @@
     <summary>Summer 2027 · Systems &amp; Cloud Infra · United States-Virginia-Dulles · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:snc:/job/Lone-Tree-CO/Systems-Engineer-Intern--Summer-2027-_R0031176</id>
-    <title>Sierra Nevada Corporation: Systems Engineer Intern (Summer 2027)</title>
-    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Systems-Engineer-Intern--Summer-2027-_R0031176"/>
-    <updated>2026-10-22T21:48:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Lone Tree, CO · MATLAB</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:snc:/job/Hagerstown-MD/Systems-Security-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0030540</id>
     <title>Sierra Nevada Corporation: Systems Security Engineer Intern - Summer 2027 (For SNC Summer 2026 Interns Only) 🇺🇸</title>
     <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Systems-Security-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0030540"/>
     <updated>2026-10-22T21:48:24Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · Hagerstown, MD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:snc:/job/Lone-Tree-CO/Systems-Engineer-Intern--Summer-2027-_R0031176</id>
+    <title>Sierra Nevada Corporation: Systems Engineer Intern (Summer 2027)</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Systems-Engineer-Intern--Summer-2027-_R0031176"/>
+    <updated>2026-10-22T21:48:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Lone Tree, CO · MATLAB</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Cyber-Security-Intern---Summer-2027---Smyrna--TN_R00214879</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-11T19:49:58Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · Pittsburgh, PA · Python, PyTorch, TensorFlow, Computer Vision · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cmu:/job/Pittsburgh-PA/Malware-Analysis-Intern---Summer-2027_2025185-1</id>
-    <title>Cmu: Malware Analysis Intern - Summer 2027 🛂</title>
-    <link href="https://cmu.wd115.myworkdayjobs.com/sei/job/Pittsburgh-PA/Malware-Analysis-Intern---Summer-2027_2025185-1"/>
-    <updated>2026-10-11T19:49:58Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · SOC / Detection · Pittsburgh, PA · Python, C++ · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>
