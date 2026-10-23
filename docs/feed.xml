@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-10-23T11:51:06Z</updated>
+  <updated>2026-10-23T17:20:19Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:freight:/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Security_RC5747</id>
+    <title>FedEx Freight: Intern-Security</title>
+    <link href="https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Security_RC5747"/>
+    <updated>2026-10-23T17:20:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · FXF-US/USA/FXFMHQ/Memphis Headquarters · $25/hr · H-1B track record: ~22 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:freight:/job/FXF-USUSAFXFGOCorporate-Headquarters/Intern-Engineering--Network-_RC5483</id>
+    <title>FedEx Freight: Intern-Engineering (Network)</title>
+    <link href="https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFGOCorporate-Headquarters/Intern-Engineering--Network-_RC5483"/>
+    <updated>2026-10-23T17:20:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Network / Telecom · FXF-US/USA/FXFGO/Corporate Headquarters · $25/hr · H-1B track record: ~22 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:olsson:5462183008</id>
+    <title>Olsson: Student Internship - Network and Server Infrastructure</title>
+    <link href="https://job-boards.greenhouse.io/olsson/jobs/5462183008"/>
+    <updated>2026-10-23T17:20:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Network / Telecom · Lincoln, NE</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:archgroup:/job/Greensboro-NC-United-States-of-America/Loss-Management-IT-Intern_R26_1138</id>
     <title>Arch Capital Group: Loss Management IT Intern</title>
@@ -782,29 +806,5 @@
     <updated>2026-10-12T16:20:35Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Richmond, VA, United States · $30/hr · Python, SQL · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cmu:/job/Pittsburgh-PA/AI-Security-Research-Intern---Sept-2026---May-2027-_2025068-2</id>
-    <title>Cmu: AI Security Research Intern  (Sept 2026 - May 2027) 🛂</title>
-    <link href="https://cmu.wd115.myworkdayjobs.com/sei/job/Pittsburgh-PA/AI-Security-Research-Intern---Sept-2026---May-2027-_2025068-2"/>
-    <updated>2026-10-11T19:49:58Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Security (general) · Pittsburgh, PA · Python, PyTorch, TensorFlow, LLMs · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cmu:/job/Pittsburgh-PA/AI-Security-Research-Intern---Summer-2027_2025199-1</id>
-    <title>Cmu: AI Security Research Intern – Summer 2027 🛂</title>
-    <link href="https://cmu.wd115.myworkdayjobs.com/sei/job/Pittsburgh-PA/AI-Security-Research-Intern---Summer-2027_2025199-1"/>
-    <updated>2026-10-11T19:49:58Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Pittsburgh, PA · Python, PyTorch, TensorFlow, LLMs · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cmu:/job/Pittsburgh-PA/AI-Security-Software-Engineer-Intern---Summer-2027_2025200-1</id>
-    <title>Cmu: AI Security Software Engineer Intern – Summer 2027 🛂</title>
-    <link href="https://cmu.wd115.myworkdayjobs.com/sei/job/Pittsburgh-PA/AI-Security-Software-Engineer-Intern---Summer-2027_2025200-1"/>
-    <updated>2026-10-11T19:49:58Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Pittsburgh, PA · Python, PyTorch, TensorFlow, Computer Vision · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>
