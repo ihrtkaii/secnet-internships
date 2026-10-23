@@ -5,15 +5,39 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-10-23T17:20:19Z</updated>
+  <updated>2026-10-23T21:37:28Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:freight:/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Security_RC5747</id>
-    <title>FedEx Freight: Intern-Security</title>
-    <link href="https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Security_RC5747"/>
+    <id>urn:intern-engine:workday:amfam:/job/WI-Madison/Product-Data-Engineering-Intern--Hybrid-_R39462</id>
+    <title>American Family Insurance Group: AI Platform Engineering Intern (Hybrid)</title>
+    <link href="https://amfam.wd1.myworkdayjobs.com/Careers/job/WI-Madison/Product-Data-Engineering-Intern--Hybrid-_R39462"/>
+    <updated>2026-10-23T21:37:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · WI Madison</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hpe:/job/Spring-Texas-United-States-of-America/Cybersecurity-Engineering-Intern_1216080</id>
+    <title>Hewlett Packard Enterprise: Cybersecurity Engineering Intern</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Cybersecurity-Engineering-Intern_1216080"/>
+    <updated>2026-10-23T21:37:28Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Spring, Texas, United States of America · Python, Bash, HTML/CSS, AWS, GCP · H-1B track record: ~499 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011</id>
+    <title>The Aerospace Corporation: 2027 Defensive Cyber Operations Undergrad Intern 🇺🇸</title>
+    <link href="https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011"/>
+    <updated>2026-10-23T21:37:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · El Segundo, CA · Python, Rust, Kubernetes, Docker · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:olsson:5462183008</id>
+    <title>Olsson: Student Internship - Network and Server Infrastructure</title>
+    <link href="https://job-boards.greenhouse.io/olsson/jobs/5462183008"/>
     <updated>2026-10-23T17:20:19Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Security (general) · FXF-US/USA/FXFMHQ/Memphis Headquarters · $25/hr · H-1B track record: ~22 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Network / Telecom · Lincoln, NE</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:freight:/job/FXF-USUSAFXFGOCorporate-Headquarters/Intern-Engineering--Network-_RC5483</id>
@@ -24,12 +48,12 @@
     <summary>Not stated · Network / Telecom · FXF-US/USA/FXFGO/Corporate Headquarters · $25/hr · H-1B track record: ~22 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:olsson:5462183008</id>
-    <title>Olsson: Student Internship - Network and Server Infrastructure</title>
-    <link href="https://job-boards.greenhouse.io/olsson/jobs/5462183008"/>
+    <id>urn:intern-engine:workday:freight:/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Security_RC5747</id>
+    <title>FedEx Freight: Intern-Security</title>
+    <link href="https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Security_RC5747"/>
     <updated>2026-10-23T17:20:19Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Network / Telecom · Lincoln, NE</summary>
+    <summary>Not stated · Security (general) · FXF-US/USA/FXFMHQ/Memphis Headquarters · $25/hr · H-1B track record: ~22 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:archgroup:/job/Greensboro-NC-United-States-of-America/Loss-Management-IT-Intern_R26_1138</id>
@@ -59,9 +83,9 @@
     <id>urn:intern-engine:lever:pattern:5c0c1963-87c5-48d7-8da9-0c79121fe443</id>
     <title>Pattern: AI Infrastructure Engineer Intern</title>
     <link href="https://jobs.lever.co/pattern/5c0c1963-87c5-48d7-8da9-0c79121fe443"/>
-    <updated>2026-10-22T21:48:24Z</updated>
+    <updated>2026-10-23T21:37:28Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Lehi, UT, US · Python, Java, TypeScript, LLMs, AWS</summary>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Lehi, UT, US · Python, Java, TypeScript, LLMs, AWS · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:LLNL:3743990016356816</id>
@@ -782,29 +806,5 @@
     <updated>2026-10-15T11:39:30Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · USA VA Falls Church · sponsorship: citizens-only · status: closed · H-1B track record: ~28 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hpe:/job/All-Tennessee-United-States-of-America/HPC-AI-System-Admin-HW-SW-Service-Engineer-Intern_1213404</id>
-    <title>Hewlett Packard Enterprise: HPC/AI System Admin HW/SW Service Engineer Intern</title>
-    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Tennessee-United-States-of-America/HPC-AI-System-Admin-HW-SW-Service-Engineer-Intern_1213404"/>
-    <updated>2026-10-13T00:55:50Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · All, Tennessee, United States of America · HTML/CSS, Linux · H-1B track record: ~499 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Engineer-Intern---Chantilly-VA_R10255633</id>
-    <title>Northrop Grumman: 2027 Systems Engineer Intern - Chantilly VA 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Engineer-Intern---Chantilly-VA_R10255633"/>
-    <updated>2026-10-13T00:55:50Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · United States-Virginia-Chantilly · $21.5–$39/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:CapTechConsulting:744000155060459</id>
-    <title>CapTech Consulting: Consulting Internship: Business Systems Analyst (Summer 2027) 🛂</title>
-    <link href="https://jobs.smartrecruiters.com/CapTechConsulting/744000155060459"/>
-    <updated>2026-10-12T16:20:35Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Richmond, VA, United States · $30/hr · Python, SQL · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>

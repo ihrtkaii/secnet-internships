@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-23T17:20:19Z",
- "data_as_of": "2026-10-23T17:20:19Z",
- "rendered_at": "2026-10-23T17:20:19Z",
+ "generated_at": "2026-10-23T21:37:28Z",
+ "data_as_of": "2026-10-23T21:37:28Z",
+ "rendered_at": "2026-10-23T21:37:28Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/test-1",
  "companies": [
@@ -2239,7 +2239,7 @@
    "expected": "2026-10-02",
    "days_until": -21,
    "status": "open",
-   "url": "https://jobs.lever.co/ispace-inc/558fdfe2-4083-42ea-8eeb-0551c80cbc8a",
+   "url": "https://jobs.lever.co/ispace-inc/82a22878-8955-4626-a778-5c246faae222",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2647,25 +2647,6 @@
    }
   },
   {
-   "company": "Pattern",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-16",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-16",
-   "days_until": -7,
-   "status": "open",
-   "url": "https://jobs.lever.co/pattern/5c0c1963-87c5-48d7-8da9-0c79121fe443",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-10-16"
-   }
-  },
-  {
    "company": "Arch Capital Group",
    "last_cycle_posted": "",
    "posted_on": "2026-10-19",
@@ -2815,6 +2796,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-10-21"
+   }
+  },
+  {
+   "company": "American Family Insurance Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-23",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-23",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://amfam.wd1.myworkdayjobs.com/Careers/job/WI-Madison/Product-Data-Engineering-Intern--Hybrid-_R39462",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-23"
    }
   },
   {
@@ -3252,7 +3252,26 @@
     "cycle": "Summer 2027",
     "observed_on": "2026-09-28"
    }
+  },
+  {
+   "company": "Pattern",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-16",
+   "days_until": -7,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-16"
+   }
   }
  ],
- "count": 171
+ "count": 172
 }

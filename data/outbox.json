@@ -1,6 +1,14 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:amfam:/job/WI-Madison/Product-Data-Engineering-Intern--Hybrid-_R39462",
+      "workday:hpe:/job/Spring-Texas-United-States-of-America/Cybersecurity-Engineering-Intern_1216080",
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011"
+    ],
+    "telegram": [
+      "workday:amfam:/job/WI-Madison/Product-Data-Engineering-Intern--Hybrid-_R39462",
+      "workday:hpe:/job/Spring-Texas-United-States-of-America/Cybersecurity-Engineering-Intern_1216080",
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011"
+    ]
   }
 }

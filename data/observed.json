@@ -110,11 +110,12 @@
     "Summer 2027": {
      "first_posted": "2026-09-14",
      "role_ids": [
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Network-Systems-Grad-Intern_R016836",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Graduate-Intern_R016527",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Undergraduate-Intern_R016530"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -241,6 +242,18 @@
       "oracle:egug.fa.us2.oraclecloud.com:26012462"
      ],
      "count": 8
+    }
+   }
+  },
+  "american family insurance group": {
+   "name": "American Family Insurance Group",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-23",
+     "role_ids": [
+      "workday:amfam:/job/WI-Madison/Product-Data-Engineering-Intern--Hybrid-_R39462"
+     ],
+     "count": 1
     }
    }
   },
@@ -2550,5 +2563,5 @@
    }
   }
  },
- "updated_at": "2026-10-23T17:20:19Z"
+ "updated_at": "2026-10-23T21:37:28Z"
 }
