@@ -1,16 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:ejia.fa.us6.oraclecloud.com:107322",
-      "workday:freight:/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Security_RC5747",
-      "workday:freight:/job/FXF-USUSAFXFGOCorporate-Headquarters/Intern-Engineering--Network-_RC5483",
-      "greenhouse:olsson:5462183008"
-    ],
-    "telegram": [
-      "oracle:ejia.fa.us6.oraclecloud.com:107322",
-      "workday:freight:/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Security_RC5747",
-      "workday:freight:/job/FXF-USUSAFXFGOCorporate-Headquarters/Intern-Engineering--Network-_RC5483",
-      "greenhouse:olsson:5462183008"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
