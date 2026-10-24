@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-24T04:45:43Z",
- "data_as_of": "2026-10-24T04:45:43Z",
- "rendered_at": "2026-10-24T04:45:43Z",
+ "generated_at": "2026-10-24T11:09:40Z",
+ "data_as_of": "2026-10-24T11:09:40Z",
+ "rendered_at": "2026-10-24T11:09:40Z",
  "source": "https://github.com/ihrtkaii/test-1",
  "h1b_window": "FY2022–2023",
- "count": 617,
+ "count": 616,
  "jobs": [
   {
    "id": "workday:centene:/job/Remote-NC/Network-Operations-Process-Improvement-Undergraduate-Summer-Intern_1667787",
@@ -8142,30 +8142,6 @@
     "Azure"
    ],
    "source": "smartrecruiters",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:abglobal:/job/Nashville-Tennessee/Infrastructure-Engineering-Summer-Intern_R0019749",
-   "company": "AllianceBernstein",
-   "title": "Infrastructure Engineering Summer Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Systems & Cloud Infra",
-   "location": "Nashville, Tennessee",
-   "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Infrastructure-Engineering-Summer-Intern_R0019749",
-   "posted_at": "2026-09-10T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-11T16:40:09Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [
-    "SQL",
-    "Linux"
-   ],
-   "source": "workday",
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false
